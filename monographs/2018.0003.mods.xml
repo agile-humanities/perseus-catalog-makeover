@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:dcterms="http://purl.org/dc/terms"
+      xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods.xsd">
+   
+      <identifier type="oclc">715570859</identifier>
+      <titleInfo>
+         <title>Plutarchi Moralia</title>
+      </titleInfo>
+      <name type="personal">
+         <nameIdentifier type="viaf">32140876</nameIdentifier>
+         <displayForm>Plutarch</displayForm>
+         <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <nameIdentifier type="viaf">100178364</nameIdentifier>
+         <displayForm>Paton, William Roger</displayForm>
+         <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <nameIdentifier type="viaf">10435880</nameIdentifier>
+         <displayForm>Wegehaupt, Iohannes</displayForm>
+         <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+         </place>
+         <publisher>Teubner</publisher>
+         <dateIssued>1925</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language objectPart="text">
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xliii, 354 p.; 21 cm</extent>
+      </physicalDescription>
+   
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 1">
+      <part type="volume">
+         <detail type="volume">
+            <number>1</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De liberis educandis">
+         <part type="book">
+            <detail type="book">
+               <number>1</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De liberis educandis</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg067.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Quomodo adolescens poetas audire debeat">
+         <part type="book">
+            <detail type="book">
+               <number>2</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Quomodo adolescens poetas audire debeat</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg068.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De recta ratione audiendi">
+         <part type="book">
+            <detail type="book">
+               <number>3</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De recta ratione audiendi</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg069.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Quomodo adulator ab amico internoscatur">
+         <part type="book">
+            <detail type="book">
+               <number>4</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Quomodo adulator ab amico internoscatur</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg070.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Quomodo quis suos in virtute sentiat profectus">
+         <part type="book">
+            <detail type="book">
+               <number>5</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Quomodo quis suos in virtute sentiat profectus</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg071.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 2">
+      <part type="volume">
+         <detail type="volume">
+            <number>2</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De capienda ex inimicis utilitate">
+         <part type="book">
+            <detail type="book">
+               <number>6</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De capienda ex inimicis utilitate</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg072.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De amicorum multitudine">
+         <part type="book">
+            <detail type="book">
+               <number>7</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De amicorum multitudine</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg073.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De fortuna">
+         <part type="book">
+            <detail type="book">
+               <number>8</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De fortuna</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg074.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De virtute et vitio">
+         <part type="book">
+            <detail type="book">
+               <number>9</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De virtute et vitio</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg075.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Consolatio ad Apollonium">
+         <part type="book">
+            <detail type="book">
+               <number>10</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Consolatio ad Apollonium</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg076.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De tuenda sanitate praecepta">
+         <part type="book">
+            <detail type="book">
+               <number>11</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De tuenda sanitate praecepta</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg077.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Coniugalia praecepta">
+         <part type="book">
+            <detail type="book">
+               <number>12</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Coniugalia praecepta</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg078.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Septem sapientium convivium">
+         <part type="book">
+            <detail type="book">
+               <number>13</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Septem sapientium convivium</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg079.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De superstitione">
+         <part type="book">
+            <detail type="book">
+               <number>14</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De superstitione</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg080.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 3">
+      <part type="volume">
+         <detail type="volume">
+            <number>3</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="regum et imperatorum apophthegmata">
+         <part type="book">
+            <detail type="book">
+               <number>15</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>regum et imperatorum apophthegmata</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg081.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="apophthegmata Laconica">
+         <part type="book">
+            <detail type="book">
+               <number>16</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>apophthegmata Laconica</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="instituta Laconica">
+         <part type="book">
+            <detail type="book">
+               <number>17</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>instituta Laconica</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082a.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Lacaenarum apophthegmata">
+         <part type="book">
+            <detail type="book">
+               <number>18</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Lacaenarum apophthegmata</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082b.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Mulierum virtutes">
+         <part type="book">
+            <detail type="book">
+               <number>19</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Mulierum virtutes</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg083.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 4">
+      <part type="volume">
+         <detail type="volume">
+            <number>4</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Quaestiones Romanae">
+         <part type="book">
+            <detail type="book">
+               <number>20</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Quaestiones Romanae</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084a.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Quaestiones Graecae">
+         <part type="book">
+            <detail type="book">
+               <number>21</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Quaestiones Graecae</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084b.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Parallela minora">
+         <part type="book">
+            <detail type="book">
+               <number>22</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Parallela minora</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg085.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De fortuna Romanorum">
+         <part type="book">
+            <detail type="book">
+               <number>23</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De fortuna Romanorum</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg086.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De Alexandri magni fortuna aut virtute">
+         <part type="book">
+            <detail type="book">
+               <number>24</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De Alexandri magni fortuna aut virtute</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg087.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De gloria Atheniensium">
+         <part type="book">
+            <detail type="book">
+               <number>25</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De gloria Atheniensium</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg088.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 5">
+      <part type="volume">
+         <detail type="volume">
+            <number>5</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De Iside et Osiride">
+         <part type="book">
+            <detail type="book">
+               <number>26</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De Iside et Osiride</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg089.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De E apud Delphos">
+         <part type="book">
+            <detail type="book">
+               <number>27</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De E apud Delphos</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg090.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De Pythiae oraculis">
+         <part type="book">
+            <detail type="book">
+               <number>28</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De Pythiae oraculis</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg091.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De defectu oraculorum">
+         <part type="book">
+            <detail type="book">
+               <number>29</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De defectu oraculorum</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg092.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 6">
+      <part type="volume">
+         <detail type="volume">
+            <number>6</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="An virtus doceri possit">
+         <part type="book">
+            <detail type="book">
+               <number>30</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>An virtus doceri possit</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg093.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De virtute morali">
+         <part type="book">
+            <detail type="book">
+               <number>31</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De virtute morali</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg094.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De cohibenda ira">
+         <part type="book">
+            <detail type="book">
+               <number>32</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De cohibenda ira</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg095.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De tranquillitate animi">
+         <part type="book">
+            <detail type="book">
+               <number>33</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De tranquillitate animi</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg096.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De fraterno amore">
+         <part type="book">
+            <detail type="book">
+               <number>34</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De fraterno amore</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg097.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De amore prolis">
+         <part type="book">
+            <detail type="book">
+               <number>35</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De amore prolis</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg098.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="An vitiositas ad infelicitatem sufficiat">
+         <part type="book">
+            <detail type="book">
+               <number>36</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>An vitiositas ad infelicitatem sufficiat</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg099.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Animine an corporis affectiones sint peiores">
+         <part type="book">
+            <detail type="book">
+               <number>37</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Animine an corporis affectiones sint peiores</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg100.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De garrulitate">
+         <part type="book">
+            <detail type="book">
+               <number>38</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De garrulitate</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg101.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De curiositate">
+         <part type="book">
+            <detail type="book">
+               <number>39</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De curiositate</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg102.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 7">
+      <part type="volume">
+         <detail type="volume">
+            <number>7</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De cupiditate divitiarum">
+         <part type="book">
+            <detail type="book">
+               <number>40</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De cupiditate divitiarum</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg103.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De vitioso pudore">
+         <part type="book">
+            <detail type="book">
+               <number>41</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De vitioso pudore</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg104.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De invidia et odio">
+         <part type="book">
+            <detail type="book">
+               <number>42</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De invidia et odio</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg105.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De laude ipsius">
+         <part type="book">
+            <detail type="book">
+               <number>43</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De laude ipsius</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg106.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De sera numinis vindicta">
+         <part type="book">
+            <detail type="book">
+               <number>44</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De sera numinis vindicta</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg107.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="manifestation" displayLabel="De fato">
+         <part type="book">
+            <detail type="book">
+               <number>45</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De fato</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg108.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De genio Socratis">
+         <part type="book">
+            <detail type="book">
+               <number>46</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De genio Socratis</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg109.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De exilio">
+         <part type="book">
+            <detail type="book">
+               <number>47</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De exilio</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg110.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Consolatio ad uxorem">
+         <part type="book">
+            <detail type="book">
+               <number>48</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Consolatio ad uxorem</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg111.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 8">
+      <part type="volume">
+         <detail type="volume">
+            <number>8</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Quaestiones convivales">
+         <part type="book">
+            <detail type="book">
+               <number>49</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Quaestiones convivales</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg112.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 9">
+      <part type="volume">
+         <detail type="volume">
+            <number>9</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Amatorius">
+         <part type="book">
+            <detail type="book">
+               <number>50</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Amatorius</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg113.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 10">
+      <part type="volume">
+         <detail type="volume">
+            <number>10</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Amatoriae narrationes">
+         <part type="book">
+            <detail type="book">
+               <number>51</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Amatoriae narrationes</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg114.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Maxime cum principibus philosopho esse disserendum">
+         <part type="book">
+            <detail type="book">
+               <number>52</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Maxime cum principibus philosopho esse disserendum</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg115.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Ad principem ineruditum">
+         <part type="book">
+            <detail type="book">
+               <number>53</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Ad principem ineruditum</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg116.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="An seni respublica gerenda sit">
+         <part type="book">
+            <detail type="book">
+               <number>54</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>An seni respublica gerenda sit</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg117.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Praecepta gerendae reipublicae">
+         <part type="book">
+            <detail type="book">
+               <number>55</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Praecepta gerendae reipublicae</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg118.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De unius in republica dominatione, populari statu, et paucorum imperio">
+         <part type="book">
+            <detail type="book">
+               <number>56</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De unius in republica dominatione, populari statu, et paucorum imperio</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg119.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De vitando aere alieno">
+         <part type="book">
+            <detail type="book">
+               <number>57</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De vitando aere alieno</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg120.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Vitae decem oratorum">
+         <part type="book">
+            <detail type="book">
+               <number>58</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Vitae decem oratorum</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg121.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Comparationis Aristophanis et Menandri compendium">
+         <part type="book">
+            <detail type="book">
+               <number>59</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Comparationis Aristophanis et Menandri compendium</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg122.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 11">
+      <part type="volume">
+         <detail type="volume">
+            <number>11</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De malignitate Herodoti">
+         <part type="book">
+            <detail type="book">
+               <number>60</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De malignitate Herodoti</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg123.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De placitis philosophorum">
+         <part type="book">
+            <detail type="book">
+               <number>61</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De placitis philosophorum</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Quaestiones naturales">
+         <part type="book">
+            <detail type="book">
+               <number>62</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Quaestiones naturales</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg125.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 12">
+      <part type="volume">
+         <detail type="volume">
+            <number>12</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De facie in orbe lunae">
+         <part type="book">
+            <detail type="book">
+               <number>63</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De facie in orbe lunae</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg126.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De primo frigido">
+         <part type="book">
+            <detail type="book">
+               <number>64</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De primo frigido</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg127.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Aquane an ignis sit utilior">
+         <part type="book">
+            <detail type="book">
+               <number>65</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Aquane an ignis sit utilior</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg128.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De sollertia animalium">
+         <part type="book">
+            <detail type="book">
+               <number>66</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De sollertia animalium</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg129.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Bruta animalia ratione uti">
+         <part type="book">
+            <detail type="book">
+               <number>67</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Bruta animalia ratione uti</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg130.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De esu carnium">
+         <part type="book">
+            <detail type="book">
+               <number>68</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De esu carnium</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg131.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 13">
+      <part type="volume">
+         <detail type="volume">
+            <number>13</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Platonicae quaestiones">
+         <part type="book">
+            <detail type="book">
+               <number>69</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Platonicae quaestiones</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg133.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De animae procreatione in Timaeo">
+         <part type="book">
+            <detail type="book">
+               <number>70</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De animae procreatione in Timaeo</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg134.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Epitome libri de animae procreatione in Timaeo">
+         <part type="book">
+            <detail type="book">
+               <number>71</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Epitome libri de animae procreatione in Timaeo</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg135.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De Stoicorum repugnantiis">
+         <part type="book">
+            <detail type="book">
+               <number>72</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De Stoicorum repugnantiis</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg136.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Stoicos absurdiora poetis dicere">
+         <part type="book">
+            <detail type="book">
+               <number>73</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Stoicos absurdiora poetis dicere</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg137.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De communibus notitiis adversus Stoicos">
+         <part type="book">
+            <detail type="book">
+               <number>74</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De communibus notitiis adversus Stoicos</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg138.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 14">
+      <part type="volume">
+         <detail type="volume">
+            <number>14</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Non posse suaviter vivi secundum Epicurum">
+         <part type="book">
+            <detail type="book">
+               <number>75</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Non posse suaviter vivi secundum Epicurum</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg139.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="Adversus Colotem">
+         <part type="book">
+            <detail type="book">
+               <number>76</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>Adversus Colotem</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg140.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="An recte dictum sit latenter esse vivendum">
+         <part type="book">
+            <detail type="book">
+               <number>77</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>An recte dictum sit latenter esse vivendum</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg141.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="manifestation"
+                   displayLabel="De musica">
+         <part type="book">
+            <detail type="book">
+               <number>78</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="section">
+            <part type="section">
+               <detail type="section">
+                  <title>De musica</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:.teub2-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+</mods>

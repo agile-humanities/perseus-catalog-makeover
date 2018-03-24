@@ -1,0 +1,2375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dcterms="http://purl.org/dc/terms"
+         xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg067.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De liberis educandis</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg067"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg067.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De liberis educandis</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg067.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg067.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Education of Children</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg067"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg067.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Education of Children</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg067.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg068.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quomodo adolescens poetas audire debeat</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg068"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg068.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quomodo adolescens poetas audire debeat</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg068.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg068.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>How the Young Man Should Study Poetry</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg068"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg068.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>How the Young Man Should Study Poetry</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg068.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg069.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De recta ratione audiendi</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg069"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg069.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De recta ratione audiendi</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg069.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg069.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Hearing</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg069"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg069.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Hearing</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg069.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg070.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quomodo adulator ab amico internoscatur</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg070"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg070.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quomodo adulator ab amico internoscatur</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg070.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg070.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>How to Tell a Flatterer from a Friend</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg070"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg070.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>How to Tell a Flatterer from a Friend</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg070.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg071.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quomodo quis suos in virtute sentiat profectus</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg071"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg071.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quomodo quis suos in virtute sentiat profectus</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg071.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg071.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>How a Man May Become Aware of his Progress in Virtue</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg071"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg071.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>How a Man May Become Aware of his Progress in Virtue</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg071.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg072.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De capienda ex inimicis utilitate</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg072"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg072.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De capienda ex inimicis utilitate</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg072.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg072.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>How to Profit by One's Enemies</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg072"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg072.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>How to Profit by One's Enemies</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg072.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg073.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De amicorum multitudine</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg073"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg073.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De amicorum multitudine</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg073.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg073.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Having Many Friends</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg073"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg073.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Having Many Friends</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg073.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg074.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De fortuna</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg074"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg074.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De fortuna</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg074.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg074.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Chance</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg074"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg074.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Chance</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg074.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg075.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De virtute et vitio</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg075"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg075.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De virtute et vitio</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg075.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg075.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Virtue and Vice</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg075"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg075.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Virtue and Vice</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg075.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg076.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Consolatio ad Apollonium</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg076"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg076.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Consolatio ad Apollonium</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg076.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg076.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Letter of Condolence to Apollonius</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg076"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg076.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Letter of Condolence to Apollonius</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg076.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg077.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De tuenda sanitate praecepta</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg077"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg077.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De tuenda sanitate praecepta</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg077.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg077.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Advice about Keeping Well</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg077"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg077.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Advice about Keeping Well</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg077.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg078.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Coniugalia praecepta</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg078"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg078.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Coniugalia praecepta</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg078.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg078.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Advice to Bride and Groom</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg078"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg078.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Advice to Bride and Groom</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg078.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg079.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Septem sapientium convivium</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg079"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg079.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Septem sapientium convivium</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg079.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg079.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Dinner of the Seven Wise Men</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg079"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg079.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Dinner of the Seven Wise Men</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg079.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg080.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De superstitione</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg080"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg080.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De superstitione</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg080.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg080.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Superstition</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg080"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg080.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Superstition</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg080.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg081.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>regum et imperatorum apophthegmata</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg081"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg081.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>regum et imperatorum apophthegmata</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg081.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg081.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Sayings of Kings and Commanders</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg081"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg081.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Sayings of Kings and Commanders</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg081.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg082.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>apophthegmata Laconica</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg082.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>apophthegmata Laconica</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg082.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Sayings of the Spartans</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg082.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Sayings of the Spartans</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg082a.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>instituta Laconica</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082a"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg082a.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>instituta Laconica</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082a.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg082a.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Institutions of the Spartans</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082a"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg082a.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Institutions of the Spartans</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082a.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg082b.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Lacaenarum apophthegmata</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082b"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg082b.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Lacaenarum apophthegmata</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082b.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg082b.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Sayings of the Spartan Women</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082b"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg082b.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Sayings of the Spartan Women</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082b.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg083.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Mulierum virtutes</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg083"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg083.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Mulierum virtutes</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg083.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg083.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Virtues of Women</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg083"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg083.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Virtues of Women</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg083.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg084a.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quaestiones Romanae</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg084a"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg084a.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quaestiones Romanae</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg084a.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg084a.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Roman Questions</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg084a"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg084a.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Roman Questions</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg084a.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg084b.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quaestiones Graecae</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg084b"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg084b.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quaestiones Graecae</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg084b.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg084b.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Greek Questions</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg084b"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg084b.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Greek Questions</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg084b.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg085.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Parallela minora</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg085"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg085.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Parallela minora</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg085.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg085.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Greek and Roman Parallel Stories</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg085"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg085.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Greek and Roman Parallel Stories</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg085.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg086.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De fortuna Romanorum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg086"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg086.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De fortuna Romanorum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg086.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg086.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Fortune of the Romans</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg086"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg086.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Fortune of the Romans</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg086.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg087.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De Alexandri magni fortuna aut virtute</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg087"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg087.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De Alexandri magni fortuna aut virtute</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg087.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg087.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Fortune or Virtue of Alexander the Great</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg087"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg087.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Fortune or Virtue of Alexander the Great</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg087.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg088.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De gloria Atheniensium</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg088"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg088.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De gloria Atheniensium</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg088.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg088.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Glory of the Athenians</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg088"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg088.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Glory of the Athenians</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg088.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg089.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De Iside et Osiride</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg089"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg089.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De Iside et Osiride</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg089.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg089.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Isis and Osiris</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg089"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg089.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Isis and Osiris</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg089.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg090.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De E apud Delphos</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg090"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg090.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De E apud Delphos</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg090.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg090.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the EI at Delphi</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg090"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg090.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the EI at Delphi</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg090.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg091.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De Pythiae oraculis</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg091"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg091.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De Pythiae oraculis</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg091.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg091.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Oracles at Delphi no Longer Given in Verse</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg091"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg091.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Oracles at Delphi no Longer Given in Verse</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg091.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg092.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De defectu oraculorum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg092"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg092.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De defectu oraculorum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg092.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg092.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Obsolescence of Oracles</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg092"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg092.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Obsolescence of Oracles</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg092.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg093.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>An virtus doceri possit</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg093"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg093.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>An virtus doceri possit</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg093.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg093.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Can Virtue be Taught?</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg093"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg093.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Can Virtue be Taught?</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg093.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg094.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De virtute morali</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg094"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg094.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De virtute morali</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg094.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg094.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Moral Virtue</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg094"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg094.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Moral Virtue</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg094.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg095.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De cohibenda ira</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg095"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg095.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De cohibenda ira</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg095.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg095.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Control of Anger</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg095"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg095.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Control of Anger</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg095.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg096.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De tranquillitate animi</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg096"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg096.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De tranquillitate animi</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg096.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg096.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Tranquility of Mind</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg096"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg096.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Tranquility of Mind</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg096.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg097.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De fraterno amore</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg097"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg097.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De fraterno amore</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg097.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg097.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Brotherly Love</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg097"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg097.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Brotherly Love</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg097.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg098.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De amore prolis</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg098"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg098.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De amore prolis</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg098.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg098.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Affection for Offspring</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg098"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg098.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Affection for Offspring</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg098.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg099.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>An vitiositas ad infelicitatem sufficiat</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg099"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg099.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>An vitiositas ad infelicitatem sufficiat</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg099.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg099.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Whether Vice is Sufficient to Cause Unhappiness</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg099"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg099.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Whether Vice is Sufficient to Cause Unhappiness</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg099.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg100.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Animine an corporis affectiones sint peiores</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg100"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg100.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Animine an corporis affectiones sint peiores</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg100.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg100.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Whether Affections of the Soul are Worse than Those of the Body</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg100"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg100.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Whether Affections of the Soul are Worse than Those of the Body</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg100.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg101.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De garrulitate</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg101"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg101.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De garrulitate</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg101.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg101.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Talkativeness</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg101"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg101.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Talkativeness</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg101.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg102.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De curiositate</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg102"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg102.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De curiositate</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg102.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg102.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Being a Busybody</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg102"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg102.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Being a Busybody</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg102.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg103.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De cupiditate divitiarum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg103"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg103.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De cupiditate divitiarum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg103.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg103.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Love of Wealth</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg103"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg103.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Love of Wealth</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg103.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg104.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De vitioso pudore</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg104"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg104.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De vitioso pudore</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg104.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg104.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Compliancy</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg104"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg104.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Compliancy</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg104.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg105.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De invidia et odio</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg105"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg105.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De invidia et odio</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg105.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg105.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Envy and Hate</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg105"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg105.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Envy and Hate</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg105.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg106.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De laude ipsius</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg106"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg106.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De laude ipsius</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg106.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg106.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Praising Oneself Inoffensively</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg106"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg106.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Praising Oneself Inoffensively</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg106.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg107.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De sera numinis vindicta</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg107"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg107.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De sera numinis vindicta</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg107.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg107.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Delays of Divine Vengeance</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg107"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg107.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Delays of Divine Vengeance</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg107.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg108.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De fato</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg108"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg108.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De fato</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg108.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg108.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Fate</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg108"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg108.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Fate</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg108.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg109.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De genio Socratis</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg109"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg109.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De genio Socratis</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg109.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg109.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Sign of Socrates</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg109"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg109.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Sign of Socrates</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg109.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg110.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De exilio</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg110"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg110.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De exilio</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg110.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg110.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Exile</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg110"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg110.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Exile</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg110.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg111.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Consolatio ad uxorem</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg111"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg111.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Consolatio ad uxorem</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg111.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg111.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Consolation to his Wife</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg111"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg111.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Consolation to his Wife</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg111.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg112.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quaestiones convivales</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg112"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg112.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quaestiones convivales</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg112.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg112.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Table Talk</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg112"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg112.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Table Talk</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg112.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg113.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Amatorius</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg113"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg113.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Amatorius</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg113.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg113.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Dialogue on Love</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg113"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg113.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Dialogue on Love</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg113.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg114.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Amatoriae narrationes</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg114"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg114.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Amatoriae narrationes</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg114.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg114.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Love Stories</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg114"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg114.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Love Stories</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg114.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg115.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Maxime cum principibus philosopho esse disserendum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg115"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg115.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Maxime cum principibus philosopho esse disserendum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg115.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg115.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>A Philosopher Ought to Converse Especially with Men in Power</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg115"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg115.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>A Philosopher Ought to Converse Especially with Men in Power</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg115.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg116.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Ad principem ineruditum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg116"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg116.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Ad principem ineruditum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg116.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg116.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>To an Uneducated Ruler</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg116"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg116.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>To an Uneducated Ruler</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg116.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg117.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>An seni respublica gerenda sit</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg117"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg117.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>An seni respublica gerenda sit</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg117.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg117.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Whether an Old Man Should Engage in Public Affairs</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg117"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg117.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Whether an Old Man Should Engage in Public Affairs</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg117.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg118.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Praecepta gerendae reipublicae</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg118"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg118.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Praecepta gerendae reipublicae</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg118.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg118.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Precepts of Statecraft</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg118"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg118.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Precepts of Statecraft</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg118.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg119.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De unius in republica dominatione, populari statu, et paucorum imperio</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg119"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg119.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De unius in republica dominatione, populari statu, et paucorum imperio</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg119.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg119.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Monarchy, Democracy and Oligarchy</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg119"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg119.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Monarchy, Democracy and Oligarchy</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg119.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg120.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De vitando aere alieno</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg120"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg120.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De vitando aere alieno</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg120.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg120.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>That we Ought Not to Borrow</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg120"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg120.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>That we Ought Not to Borrow</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg120.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg121.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Vitae decem oratorum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg121"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg121.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Vitae decem oratorum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg121.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg121.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Lives of the Ten Orators</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg121"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg121.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Lives of the Ten Orators</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg121.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg122.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Comparationis Aristophanis et Menandri compendium</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg122"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg122.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Comparationis Aristophanis et Menandri compendium</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg122.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg122.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Comparison between Aristophanes and Menander</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg122"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg122.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Comparison between Aristophanes and Menander</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg122.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg123.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De malignitate Herodoti</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg123"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg123.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De malignitate Herodoti</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg123.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg123.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Malice of Herodotus</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg123"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg123.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Malice of Herodotus</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg123.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De placitis philosophorum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De placitis philosophorum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Opinions of the Philosophers</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Opinions of the Philosophers</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg125.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quaestiones naturales</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg125"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg125.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quaestiones naturales</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg125.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg125.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Causes of Natural Phenomena</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg125"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg125.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Causes of Natural Phenomena</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg125.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg126.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De facie in orbe lunae</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg126"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg126.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De facie in orbe lunae</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg126.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg126.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Face Which Appears in the Orb of the Moon</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg126"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg126.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Face Which Appears in the Orb of the Moon</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg126.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg127.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De primo frigido</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg127"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg127.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De primo frigido</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg127.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg127.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Principle of Cold</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg127"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg127.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Principle of Cold</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg127.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg128.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Aquane an ignis sit utilior</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg128"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg128.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Aquane an ignis sit utilior</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg128.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg128.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Whether Fire or Water is More Useful</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg128"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg128.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Whether Fire or Water is More Useful</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg128.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg129.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De sollertia animalium</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg129"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg129.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De sollertia animalium</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg129.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg129.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Whether Land or Sea Animals are Cleverer</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg129"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg129.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Whether Land or Sea Animals are Cleverer</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg129.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg130.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Bruta animalia ratione uti</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg130"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg130.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Bruta animalia ratione uti</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg130.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg130.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Beasts are Rational</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg130"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg130.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Beasts are Rational</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg130.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg131.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De esu carnium</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg131"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg131.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De esu carnium</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg131.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg131.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Eating of Flesh</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg131"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg131.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Eating of Flesh</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg131.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg133.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Platonicae quaestiones</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg133"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg133.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Platonicae quaestiones</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg133.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg133.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Platonic Questions</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg133"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg133.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Platonic Questions</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg133.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg134.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De animae procreatione in Timaeo</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg134"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg134.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De animae procreatione in Timaeo</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg134.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg134.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On the Birth of the Spirit in Timaeus</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg134"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg134.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On the Birth of the Spirit in Timaeus</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg134.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg135.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Epitome libri de animae procreatione in Timaeo</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg135"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg135.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Epitome libri de animae procreatione in Timaeo</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg135.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg135.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Summary of the Birth of the Spirit</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg135"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg135.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Summary of the Birth of the Spirit</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg135.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg136.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De Stoicorum repugnantiis</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg136"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg136.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De Stoicorum repugnantiis</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg136.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg136.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Stoic Self-Contradictions</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg136"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg136.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Stoic Self-Contradictions</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg136.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg137.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Stoicos absurdiora poetis dicere</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg137"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg137.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Stoicos absurdiora poetis dicere</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg137.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg137.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>The Stoics Speak More Paradoxically than the Poets</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg137"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg137.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>The Stoics Speak More Paradoxically than the Poets</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg137.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg138.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De communibus notitiis adversus Stoicos</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg138"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg138.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De communibus notitiis adversus Stoicos</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg138.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg138.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Common Conceptions against the Stoics</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg138"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg138.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Common Conceptions against the Stoics</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg138.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg139.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Non posse suaviter vivi secundum Epicurum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg139"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg139.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Non posse suaviter vivi secundum Epicurum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg139.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg139.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>It is Impossible to Live Pleasantly in the Manner of Epicurus</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg139"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg139.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>It is Impossible to Live Pleasantly in the Manner of Epicurus</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg139.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg140.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Adversus Colotem</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg140"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg140.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Adversus Colotem</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg140.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg140.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Against Colotes</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg140"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg140.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Against Colotes</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg140.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:tlg0007.tlg141.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>An recte dictum sit latenter esse vivendum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg141"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg141.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>An recte dictum sit latenter esse vivendum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg141.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg141.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Is the Saying "Live in Obscurity" Right?</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg141"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:tlg0007.tlg141.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Is the Saying "Live in Obscurity" Right?</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg141.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description about="urn:cts:greekLit:.loeb-grc-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De musica</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:.loeb-grc-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De musica</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:.loeb-eng-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>On Music</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:"/>
+   </rdf:Description>
+   <rdf:Description about="urn:cts:greekLit:.loeb-eng-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>On Music</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:.loeb-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+</rdf:RDF>
