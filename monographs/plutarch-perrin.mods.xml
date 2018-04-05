@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods.xsd">
+
+    <titleInfo>
+        <title>Plutarch's Lives</title>
+    </titleInfo>
+    <name type="personal">
+        <nameIdentifier type="viaf">32140876</nameIdentifier>
+        <displayForm>Plutarch</displayForm>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <nameIdentifier type="viaf">44369297</nameIdentifier>
+        <displayForm>Perrin, Bernadotte</displayForm>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">mau</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">London</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Cambridge</placeTerm>
+        </place>
+        <publisher>Harvard University Press</publisher>
+        <publisher>W. Heinemann</publisher>
+        <edition>Reprint</edition>
+        <dateModified>1986</dateModified>
+        <dateIssued>1916</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <note type="statement of responsibility">with an English translation by Bernadotte
+            Perrin.</note>
+    <note>Imprint varies.</note>
+    <note>Greek and English opposite pages.</note>
+    <subject authority="lcsh">
+        <geographic>Greece</geographic>
+        <topic>Biography</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <subject authority="lcsh">
+        <geographic>Rome</geographic>
+        <topic>Biography</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <classification authority="lcc">PA3612</classification>
+    <classification authority="ddc">920.038</classification>
+    <identifier type="oclc">40115288</identifier>
+    <identifier type="isbn">0674990973</identifier>
+    <identifier type="lccn">15002792</identifier>
+
+    <relatedItem type="constituent" otherType="volume" displayLabel="I">
+        <part type="volume">
+            <detail type="volume">
+                <number>1</number>
+            </detail>
+        </part>
+        <tableOfContents>I. Theseus and Romulus. Lycurgus and Numa. Solon and
+            Publicola.</tableOfContents>
+        <relatedItem type="constituent" otherType="work" displayLabel="Theseus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg001</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg001.opp-eng2</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg001.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Romulus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg002</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg002.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg002.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Theseus and Romulus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg003</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg003.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg003.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Lycurgus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg004</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg004.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg004.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Numa">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg005</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg005.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg005.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Lycurgus and Numa">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg006</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg006.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg006.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Solon">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg007</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg007.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg007.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Publicola">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg008</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg008.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg008.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Solon and Publicola">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg009</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg009.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg009.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+    </relatedItem>
+
+    <relatedItem type="constituent" otherType="volume" displayLabel="II">
+        <part type="volume">
+            <detail type="volume">
+                <number>2</number>
+            </detail>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Themistocles">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg010</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg010.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg010.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Camillus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg011</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg011.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg011.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Aristides">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg024</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg024.opp-grc1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg024.opp-eng1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Marcus Cato">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg025</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg025.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg025.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Aristides with Marcus Cato">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg026</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg026.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg026.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Cimon">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg035</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg035.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg035.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Lucullus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg036</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg036.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg036.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Lucullus and Cimon">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg037</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg037.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg037.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+    </relatedItem>
+
+    <relatedItem type="constituent" otherType="volume" displayLabel="III">
+        <part type="volume">
+            <detail type="volume">
+                <number>3</number>
+            </detail>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Pericles">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg012</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg012.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg012.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fabius Maximus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg013</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg013.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg013.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Pericles and Fabius Maximus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg014</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg014.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg014.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Nicias">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg038</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg038.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg038.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Crassus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg039</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg039.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg039.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Nicias and Crassus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg040</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg040.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg040.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+    </relatedItem>
+
+    <relatedItem type="constituent" otherType="volume" displayLabel="IV">
+        <part type="volume">
+            <detail type="volume">
+                <number>4</number>
+            </detail>
+        </part>
+        <tableOfContents>IV. Alcibiades and Coriolanus. Lysander and
+            Sulla</tableOfContents>
+        <identifier type="oca">plutarchslives04plut</identifier>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/15002792</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/40115288</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/plutarchslives04plut</url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"
+                >http://openlibrary.org/details/plutarchslives04plut</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=0SwMAAAAIAAJ</url>
+        </location>
+        <relatedItem type="constituent" otherType="work" displayLabel="Alcibiades">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg015</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg015.opp-grc1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg015.opp-eng1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Caius Marcius Coriolanus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg016</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg016.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg016.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Alcibiades and Coriolanus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg017</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg017.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg017.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Lysander">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg032</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg032.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg032.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Sulla">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg033</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg033.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg033.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Lysander and Sulla">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg034</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg034.opp-grc1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg034.opp-eng1</identifier>
+            </relatedItem>
+        </relatedItem>
+    </relatedItem>
+
+    <relatedItem type="constituent" otherType="volume" displayLabel="V">
+        <part type="volume">
+            <detail type="volume">
+                <number>5</number>
+            </detail>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Agesilaus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg044</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg044.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg044.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Pompey">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg045</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg045.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg045.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Agesilaus and Pompey">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg046</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg046.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg046.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Pelopidas">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg021</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg021.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg021.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Marcellus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg022</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg022.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg022.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Pelopidas and Marcellus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg023</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg023.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg023.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+    </relatedItem>
+
+    <relatedItem type="constituent" otherType="volume" displayLabel="VI">
+        <part type="volume">
+            <detail type="volume">
+                <number>6</number>
+            </detail>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Dion">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg060</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg060.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg060.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Brutus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg061</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg061.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg061.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Dion and Brutus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg062</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg062.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg062.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Timoleon">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg018</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg018.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg018.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Aemilius Paullus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg019</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg019.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg019.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Timoleon and Aemilius">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg020</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg020.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg020.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+    </relatedItem>
+
+    <relatedItem type="constituent" otherType="volume" displayLabel="VII">
+        <part type="volume">
+            <detail type="volume">
+                <number>7</number>
+            </detail>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Demosthenes">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg054</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg054.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg054.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Cicero">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg055</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg055.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg055.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Comparison of Demosthenes with Cicero">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg056</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg056.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg056.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Alexander">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg047</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg047.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg047.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Caesar">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg048</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg048.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg048.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+    </relatedItem>
+
+    <relatedItem type="constituent" otherType="volume" displayLabel="VIII">
+        <part type="volume">
+            <detail type="volume">
+                <number>8</number>
+            </detail>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Sertorius">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg042</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg042.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg042.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Eumenes">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg041</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg041.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg041.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Comparison of Sertorius and Eumenes">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg043</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg043.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg043.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Phocion">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg049</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg049.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg049.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Cato Minor">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg050</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg050.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg050.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        
+    </relatedItem>
+
+    <relatedItem type="constituent" otherType="volume" displayLabel="IX">
+        <part type="volume">
+            <detail type="volume">
+                <number>9</number>
+            </detail>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Demetrius">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg057</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg057.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg057.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Antonius">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg058</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg058.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg058.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Comparison of Demetrius and Antony">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg059</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg059.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg059.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Pyrrhus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg030</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg030.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg030.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Caius Marius">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg031</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg031.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg031.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+    </relatedItem>
+
+    <relatedItem type="constituent" otherType="volume" displayLabel="X">
+        <part type="volume">
+            <detail type="volume">
+                <number>10</number>
+            </detail>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Agis">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg051a</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg051a.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg051a.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Cleomenes">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg051b</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg051b.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg051b.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Tiberius Gracchus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg052a</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg052a.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg052a.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>  
+        <relatedItem type="constituent" otherType="work" displayLabel="Caius Gracchus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg052b</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg052b.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg052b.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Comparison of Agis and Cleomenes and the Gracchi">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg053</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg053.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg053.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Philopoemen">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg027</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg027.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg027.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Titus Flamininus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg028</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg028.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg028.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Comparison of Philopoemen and Titus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg029</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg029.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg029.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+    </relatedItem>
+
+    <relatedItem type="constituent" otherType="volume" displayLabel="XI">
+        <part type="volume">
+            <detail type="volume">
+                <number>11</number>
+            </detail>
+        </part>        
+        <relatedItem type="constituent" otherType="work" displayLabel="Aratus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg063</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg063.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg063.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Artaxerxes">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg064</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg064.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg064.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Galba">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg065</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg065.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg065.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Otho">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg066</identifier>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg066.opp-eng1</identifier>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="manifestation">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg066.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
+    </relatedItem>
+    
+</mods>
