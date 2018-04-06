@@ -4,13 +4,13 @@
          xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
          xmlns:owl="http://www.w3.org/2002/07/owl#">
-      <rdf:Description about="urn:cts:greekLit:plg0002.plg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:plg0002.plg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Testimonia</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:plg0002.plg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:plg0002.plg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:plg0002.plg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Testimonia</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -19,13 +19,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:plg0002.plg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:plg0002.plg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Testimonia</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:plg0002.plg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:plg0002.plg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:plg0002.plg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Testimonia</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -35,13 +35,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0009.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0009.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0009.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0009.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0009.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -50,13 +50,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0009.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0009.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0009.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0009.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0009.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -66,13 +66,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0291.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0291.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0291.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0291.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0291.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -81,13 +81,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0291.tlg001.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0291.tlg001.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0291.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0291.tlg001.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0291.tlg001.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -97,13 +97,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0297.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0297.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0297.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0297.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0297.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -112,13 +112,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0297.tlg001.opp-grc7-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0297.tlg001.opp-grc7-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0297.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0297.tlg001.opp-grc7-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0297.tlg001.opp-grc7-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -128,13 +128,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0298.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0298.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0298.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0298.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0298.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -143,13 +143,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0298.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0298.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0298.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0298.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0298.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -159,13 +159,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0299.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0299.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0299.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0299.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0299.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -174,13 +174,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0299.tlg001.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0299.tlg001.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0299.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0299.tlg001.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0299.tlg001.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -190,13 +190,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0383.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0383.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0383.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0383.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0383.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -205,13 +205,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0383.tlg001.opp-grc7-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0383.tlg001.opp-grc7-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0383.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0383.tlg001.opp-grc7-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0383.tlg001.opp-grc7-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -221,13 +221,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg2658.tlgX001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg2658.tlgX001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg2658.tlgX001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg2658.tlgX001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg2658.tlgX001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -236,13 +236,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg2658.tlgX001.opp-grc2-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg2658.tlgX001.opp-grc2-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg2658.tlgX001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg2658.tlgX001.opp-grc2-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg2658.tlgX001.opp-grc2-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -252,13 +252,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0237.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0237.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta (Elegiae)</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0237.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0237.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0237.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta (Elegiae)</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -267,13 +267,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0237.tlg001.opp-grc5-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0237.tlg001.opp-grc5-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta (Elegiae)</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0237.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0237.tlg001.opp-grc5-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0237.tlg001.opp-grc5-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta (Elegiae)</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -283,13 +283,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0237.tlg002.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0237.tlg002.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0237.tlg002"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0237.tlg002.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0237.tlg002.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -298,13 +298,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0237.tlg002.opp-grc5-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0237.tlg002.opp-grc5-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0237.tlg002"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0237.tlg002.opp-grc5-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0237.tlg002.opp-grc5-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -314,13 +314,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0249.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0249.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0249.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0249.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0249.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -329,13 +329,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0249.tlg001.opp-grc4-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0249.tlg001.opp-grc4-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0249.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0249.tlg001.opp-grc4-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0249.tlg001.opp-grc4-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -345,13 +345,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0261.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0261.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta (Epigrams &amp; Elegeiae)</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0261.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0261.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0261.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta (Epigrams &amp; Elegeiae)</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -360,13 +360,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0261.tlg001.opp-grc4-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0261.tlg001.opp-grc4-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta (Epigrams &amp; Elegeiae)</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0261.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0261.tlg001.opp-grc4-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0261.tlg001.opp-grc4-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta (Epigrams &amp; Elegeiae)</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -376,13 +376,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0261.tlg002.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0261.tlg002.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta (Encomium &amp; Lyrical)</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0261.tlg002"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0261.tlg002.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0261.tlg002.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta (Encomium &amp; Lyrical)</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -391,13 +391,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0261.tlg002.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0261.tlg002.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta (Encomium &amp; Lyrical)</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0261.tlg002"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0261.tlg002.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0261.tlg002.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta (Encomium &amp; Lyrical)</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -407,13 +407,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0265.tlg002.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0265.tlg002.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0265.tlg002"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0265.tlg002.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0265.tlg002.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -422,13 +422,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0265.tlg002.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0265.tlg002.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0265.tlg002"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0265.tlg002.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0265.tlg002.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -438,13 +438,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0265.tlg003.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0265.tlg003.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Epigrammata</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0265.tlg003"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0265.tlg003.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0265.tlg003.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Epigrammata</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -453,13 +453,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0265.tlg003.opp-grc4-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0265.tlg003.opp-grc4-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Epigrammata</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0265.tlg003"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0265.tlg003.opp-grc4-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0265.tlg003.opp-grc4-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Epigrammata</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -469,13 +469,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0292.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0292.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0292.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0292.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0292.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -484,13 +484,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0292.tlg001.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0292.tlg001.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0292.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0292.tlg001.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0292.tlg001.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -500,13 +500,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0293.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0293.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0293.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0293.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0293.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -515,13 +515,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0293.tlg001.opp-grc2-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0293.tlg001.opp-grc2-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0293.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0293.tlg001.opp-grc2-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0293.tlg001.opp-grc2-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -531,13 +531,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0365.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0365.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0365.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0365.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0365.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -546,13 +546,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0365.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0365.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0365.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0365.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0365.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -562,13 +562,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0366.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0366.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0366.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0366.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0366.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -577,13 +577,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0366.tlg001.opp-grc6-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0366.tlg001.opp-grc6-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0366.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0366.tlg001.opp-grc6-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0366.tlg001.opp-grc6-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -593,13 +593,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0367.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0367.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0367.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0367.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0367.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -608,13 +608,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0367.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0367.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0367.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0367.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0367.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -624,13 +624,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0369.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0369.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0369.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0369.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0369.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -639,13 +639,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0369.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0369.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0369.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0369.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0369.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -655,13 +655,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:plg0001.plg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:plg0001.plg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:plg0001.plg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:plg0001.plg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:plg0001.plg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -670,13 +670,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:plg0001.plg001.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:plg0001.plg001.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:plg0001.plg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:plg0001.plg001.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:plg0001.plg001.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -686,13 +686,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0006.tlg022.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0006.tlg022.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Epinicium in Alcibiadem</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0006.tlg022"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0006.tlg022.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0006.tlg022.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Epinicium in Alcibiadem</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -701,13 +701,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0006.tlg022.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0006.tlg022.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Epinicium in Alcibiadem</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0006.tlg022"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0006.tlg022.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0006.tlg022.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Epinicium in Alcibiadem</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -717,13 +717,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0011.tlg009.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0011.tlg009.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta (Elegiaca)</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0011.tlg009"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0011.tlg009.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0011.tlg009.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta (Elegiaca)</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -732,13 +732,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0011.tlg009.opp-grc5-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0011.tlg009.opp-grc5-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta (Elegiaca)</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0011.tlg009"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0011.tlg009.opp-grc5-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0011.tlg009.opp-grc5-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta (Elegiaca)</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -748,13 +748,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0054.tlg002.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0054.tlg002.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Testimonia</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0054.tlg002"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0054.tlg002.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0054.tlg002.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Testimonia</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -763,13 +763,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0054.tlg002.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0054.tlg002.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Testimonia</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0054.tlg002"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0054.tlg002.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0054.tlg002.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Testimonia</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -779,13 +779,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0086.tlg050.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0086.tlg050.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0086.tlg050"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0086.tlg050.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0086.tlg050.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -794,13 +794,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0086.tlg050.opp-grc6-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0086.tlg050.opp-grc6-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0086.tlg050"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0086.tlg050.opp-grc6-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0086.tlg050.opp-grc6-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -810,13 +810,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Epinicians</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Epinicians</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -825,13 +825,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg001.opp-grc4-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg001.opp-grc4-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Epinicians</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg001.opp-grc4-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg001.opp-grc4-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Epinicians</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -841,13 +841,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg002.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg002.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Dithyrambs</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg002"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg002.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg002.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Dithyrambs</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -856,13 +856,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg002.opp-grc2-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg002.opp-grc2-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Dithyrambs</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg002"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg002.opp-grc2-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg002.opp-grc2-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Dithyrambs</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -872,13 +872,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg014.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg014.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Hymnorum fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg014"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg014.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg014.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Hymnorum fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -887,13 +887,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg014.opp-grc2-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg014.opp-grc2-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Hymnorum fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg014"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg014.opp-grc2-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg014.opp-grc2-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Hymnorum fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -903,13 +903,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg015.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg015.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Paeanes</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg015"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg015.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg015.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Paeanes</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -918,13 +918,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg015.opp-grc2-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg015.opp-grc2-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Paeanes</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg015"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg015.opp-grc2-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg015.opp-grc2-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Paeanes</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -934,13 +934,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg016.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg016.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Prosodia Fragment</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg016"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg016.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg016.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Prosodia Fragment</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -949,13 +949,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg016.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg016.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Prosodia Fragment</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg016"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg016.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg016.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Prosodia Fragment</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -965,13 +965,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg017.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg017.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Partheneia Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg017"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg017.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg017.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Partheneia Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -980,13 +980,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg017.opp-grc2-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg017.opp-grc2-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Partheneia Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg017"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg017.opp-grc2-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg017.opp-grc2-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Partheneia Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -996,13 +996,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg018.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg018.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Hyporchemata (fragmenta)</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg018"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg018.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg018.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Hyporchemata (fragmenta)</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1011,13 +1011,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg018.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg018.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Hyporchemata (fragmenta)</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg018"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg018.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg018.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Hyporchemata (fragmenta)</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1027,13 +1027,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg019.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg019.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Erotica</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg019"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg019.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg019.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Erotica</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1042,13 +1042,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg019.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg019.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Erotica</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg019"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg019.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg019.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Erotica</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1058,13 +1058,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg020.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg020.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Encomia</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg020"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg020.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg020.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Encomia</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1073,13 +1073,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg020.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg020.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Encomia</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg020"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg020.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg020.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Encomia</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1089,13 +1089,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg023.opp-eng3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg023.opp-eng3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Epigrammata</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg023"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg023.opp-eng3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg023.opp-eng3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Epigrammata</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1104,13 +1104,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0199.tlg023.opp-grc5-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg023.opp-grc5-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Epigrammata</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0199.tlg023"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0199.tlg023.opp-grc5-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0199.tlg023.opp-grc5-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Epigrammata</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1120,13 +1120,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0230.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0230.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Adespota</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0230.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0230.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0230.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Adespota</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1135,13 +1135,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0230.tlg001.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0230.tlg001.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Adespota</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0230.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0230.tlg001.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0230.tlg001.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Adespota</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1151,13 +1151,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0240.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0240.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0240.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0240.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0240.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1166,13 +1166,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0240.tlg001.opp-grc2-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0240.tlg001.opp-grc2-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0240.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0240.tlg001.opp-grc2-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0240.tlg001.opp-grc2-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1182,13 +1182,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0263.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0263.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0263.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0263.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0263.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1197,13 +1197,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0263.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0263.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0263.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0263.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0263.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1213,13 +1213,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0294.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0294.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0294.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0294.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0294.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1228,13 +1228,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0294.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0294.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0294.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0294.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0294.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1244,13 +1244,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0296.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0296.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta (part of Carmina Convivalia)</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0296.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0296.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0296.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta (part of Carmina Convivalia)</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1259,13 +1259,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0296.tlg001.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0296.tlg001.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta (part of Carmina Convivalia)</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0296.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0296.tlg001.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0296.tlg001.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta (part of Carmina Convivalia)</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1275,13 +1275,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0308.tlg003.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0308.tlg003.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta Lyrica</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0308.tlg003"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0308.tlg003.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0308.tlg003.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta Lyrica</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1290,13 +1290,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0308.tlg003.opp-grc2-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0308.tlg003.opp-grc2-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta Lyrica</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0308.tlg003"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0308.tlg003.opp-grc2-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0308.tlg003.opp-grc2-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta Lyrica</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1306,13 +1306,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0368.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0368.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0368.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0368.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0368.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1321,13 +1321,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0368.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0368.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0368.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0368.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0368.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1337,13 +1337,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0370.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0370.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0370.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0370.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0370.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1352,13 +1352,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0370.tlg001.opp-grc7-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0370.tlg001.opp-grc7-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0370.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0370.tlg001.opp-grc7-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0370.tlg001.opp-grc7-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1368,13 +1368,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0371.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0371.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0371.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0371.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0371.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1383,13 +1383,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0371.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0371.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0371.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0371.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0371.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1399,13 +1399,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0372.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0372.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0372.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0372.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0372.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1414,13 +1414,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0372.tlg001.opp-grc6-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0372.tlg001.opp-grc6-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0372.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0372.tlg001.opp-grc6-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0372.tlg001.opp-grc6-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1430,13 +1430,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0373.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0373.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0373.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0373.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0373.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1445,13 +1445,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0373.tlg001.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0373.tlg001.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0373.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0373.tlg001.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0373.tlg001.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1461,13 +1461,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0374.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0374.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0374.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0374.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0374.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1476,13 +1476,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0374.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0374.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0374.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0374.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0374.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1492,13 +1492,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0375.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0375.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0375.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0375.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0375.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1507,13 +1507,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0375.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0375.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0375.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0375.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0375.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1523,13 +1523,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0376.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0376.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0376.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0376.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0376.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1538,13 +1538,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0376.tlg001.opp-grc4-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0376.tlg001.opp-grc4-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0376.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0376.tlg001.opp-grc4-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0376.tlg001.opp-grc4-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1554,13 +1554,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0377.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0377.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0377.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0377.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0377.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1569,13 +1569,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0377.tlg001.opp-grc2-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0377.tlg001.opp-grc2-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0377.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0377.tlg001.opp-grc2-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0377.tlg001.opp-grc2-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1585,13 +1585,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0378.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0378.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0378.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0378.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0378.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1600,13 +1600,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0378.tlg001.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0378.tlg001.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0378.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0378.tlg001.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0378.tlg001.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1616,13 +1616,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0379.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0379.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0379.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0379.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0379.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1631,13 +1631,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0379.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0379.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0379.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0379.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0379.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1647,13 +1647,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0380.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0380.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0380.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0380.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0380.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1662,13 +1662,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0380.tlg001.opp-grc5-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0380.tlg001.opp-grc5-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0380.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0380.tlg001.opp-grc5-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0380.tlg001.opp-grc5-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1678,13 +1678,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0381.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0381.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0381.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0381.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0381.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1693,13 +1693,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0381.tlg001.opp-grc6-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0381.tlg001.opp-grc6-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0381.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0381.tlg001.opp-grc6-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0381.tlg001.opp-grc6-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1709,13 +1709,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0397.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0397.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Titulus</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0397.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0397.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0397.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Titulus</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1724,13 +1724,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0397.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0397.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Titulus</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0397.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0397.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0397.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Titulus</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1740,13 +1740,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0631.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0631.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0631.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0631.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0631.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1755,13 +1755,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0631.tlg001.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0631.tlg001.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0631.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0631.tlg001.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0631.tlg001.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1771,13 +1771,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0900.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0900.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Titulus</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0900.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0900.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0900.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Titulus</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1786,13 +1786,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0900.tlg001.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0900.tlg001.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Titulus</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0900.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0900.tlg001.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0900.tlg001.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Titulus</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1802,13 +1802,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg0918.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0918.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Titulus</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0918.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0918.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0918.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Titulus</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1817,13 +1817,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg0918.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg0918.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Titulus</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0918.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg0918.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0918.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Titulus</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1833,13 +1833,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg1223.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1223.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1223.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1223.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1223.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1848,13 +1848,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg1223.tlg001.opp-grc2-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1223.tlg001.opp-grc2-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1223.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1223.tlg001.opp-grc2-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1223.tlg001.opp-grc2-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1864,13 +1864,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg1261.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1261.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1261.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1261.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1261.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1879,13 +1879,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg1261.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1261.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1261.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1261.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1261.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1895,13 +1895,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg1274.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1274.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1274.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1274.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1274.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1910,13 +1910,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg1274.tlg001.opp-grc2-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1274.tlg001.opp-grc2-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1274.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1274.tlg001.opp-grc2-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1274.tlg001.opp-grc2-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1926,13 +1926,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg1601.tlg001.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1601.tlg001.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Epigrammata</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1601.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1601.tlg001.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1601.tlg001.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Epigrammata</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1941,13 +1941,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg1601.tlg001.opp-grc1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1601.tlg001.opp-grc1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Epigrammata</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1601.tlg001"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1601.tlg001.opp-grc1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1601.tlg001.opp-grc1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Epigrammata</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1957,13 +1957,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg1667.tlg006.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1667.tlg006.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Scolia</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1667.tlg006"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1667.tlg006.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1667.tlg006.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Scolia</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1972,13 +1972,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg1667.tlg006.opp-grc3-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1667.tlg006.opp-grc3-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Scolia</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1667.tlg006"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1667.tlg006.opp-grc3-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1667.tlg006.opp-grc3-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Scolia</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -1988,13 +1988,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg1705.tlgX01.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1705.tlgX01.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum Lyricum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1705.tlgX01"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1705.tlgX01.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1705.tlgX01.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum Lyricum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -2003,13 +2003,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg1705.tlgX01.opp-grc2-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1705.tlgX01.opp-grc2-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmentum Lyricum</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1705.tlgX01"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1705.tlgX01.opp-grc2-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1705.tlgX01.opp-grc2-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmentum Lyricum</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -2019,13 +2019,13 @@
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
    
-      <rdf:Description about="urn:cts:greekLit:tlg1833.tlg002.opp-eng1-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1833.tlg002.opp-eng1-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1833.tlg002"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1833.tlg002.opp-eng1-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1833.tlg002.opp-eng1-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
@@ -2034,13 +2034,13 @@
          </efrbroo:F24_Publication_Expression>
       </efrbroo:CLR6_should_carry>
    </rdf:Description>
-      <rdf:Description about="urn:cts:greekLit:tlg1833.tlg002.opp-grc4-F22">
+      <rdf:Description rdf:about="urn:cts:greekLit:tlg1833.tlg002.opp-grc4-F22">
       <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
       <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg1833.tlg002"/>
    </rdf:Description>
-   <rdf:Description about="urn:cts:greekLit:tlg1833.tlg002.opp-grc4-F3">
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg1833.tlg002.opp-grc4-F3">
       <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
       <rdfs:label>Fragmenta</rdfs:label>
       <efrbroo:CLR6_should_carry>
