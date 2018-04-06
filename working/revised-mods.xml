@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods.xsd">
     <mods>
@@ -426,7 +427,62 @@
                 cum prolegomenis et incibus.</tableOfContents>
         </relatedItem>
     </mods>
-
+    <mods>
+        <titleInfo>
+            <title>Grammaticae Romanae fragmenta collegit</title>
+        </titleInfo>
+        <name>
+            <nameIdentifier type="viaf">113470092</nameIdentifier>
+            <namePart>Funaioli, Gino</namePart>
+            <namePart type="date">1878-1958</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">compiler</roleTerm>
+            </role>
+            <role>
+                <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>in aedibus B. G. Teubneri</publisher>
+            <dateIssued>1907</dateIssued>
+            <dateIssued point="start" encoding="marc">1907</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xxx, 610 p.</extent>
+        </physicalDescription>
+        <note type="statement of responsibility">recensuit Hyginus Funaioli.</note>
+        <classification authority="lcc">PA6103 .G7 1907</classification>
+        <subject authority="lcsh">
+            <topic>Latin language</topic>
+            <topic>Grammar</topic>
+            <topic>Early works to 1500</topic>
+        </subject>
+        <identifier type="lccn">08002169</identifier>
+        <identifier type="oclc">46348511</identifier>
+        
+        <location displayLabel="LC Permalink">
+            <url>http://www.worldcat.org/oclc/08002169</url>
+        </location>
+        <location displayLabel="WorldCat">
+            <url>http://www.worldcat.org/oclc/46348511</url>
+        </location>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=WZofAAAAMAAJ</url>
+        </location>
+        
+    </mods>
     <mods>
         <titleInfo>
             <title>Poetae lyrici graeci</title>

@@ -64,16 +64,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De liberis educandis">
          <part type="book">
             <detail type="book">
                <number>1</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De liberis educandis</title>
                </detail>
             </part>
@@ -81,16 +81,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Quomodo adolescens poetas audire debeat">
          <part type="book">
             <detail type="book">
                <number>2</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Quomodo adolescens poetas audire debeat</title>
                </detail>
             </part>
@@ -98,16 +98,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De recta ratione audiendi">
          <part type="book">
             <detail type="book">
                <number>3</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De recta ratione audiendi</title>
                </detail>
             </part>
@@ -115,16 +115,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Quomodo adulator ab amico internoscatur">
          <part type="book">
             <detail type="book">
                <number>4</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Quomodo adulator ab amico internoscatur</title>
                </detail>
             </part>
@@ -132,16 +132,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Quomodo quis suos in virtute sentiat profectus">
          <part type="book">
             <detail type="book">
                <number>5</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Quomodo quis suos in virtute sentiat profectus</title>
                </detail>
             </part>
@@ -156,16 +156,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De capienda ex inimicis utilitate">
          <part type="book">
             <detail type="book">
                <number>6</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De capienda ex inimicis utilitate</title>
                </detail>
             </part>
@@ -173,16 +173,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De amicorum multitudine">
          <part type="book">
             <detail type="book">
                <number>7</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De amicorum multitudine</title>
                </detail>
             </part>
@@ -190,16 +190,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De fortuna">
          <part type="book">
             <detail type="book">
                <number>8</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De fortuna</title>
                </detail>
             </part>
@@ -207,16 +207,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De virtute et vitio">
          <part type="book">
             <detail type="book">
                <number>9</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De virtute et vitio</title>
                </detail>
             </part>
@@ -224,16 +224,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Consolatio ad Apollonium">
          <part type="book">
             <detail type="book">
                <number>10</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Consolatio ad Apollonium</title>
                </detail>
             </part>
@@ -241,16 +241,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De tuenda sanitate praecepta">
          <part type="book">
             <detail type="book">
                <number>11</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De tuenda sanitate praecepta</title>
                </detail>
             </part>
@@ -258,16 +258,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Coniugalia praecepta">
          <part type="book">
             <detail type="book">
                <number>12</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Coniugalia praecepta</title>
                </detail>
             </part>
@@ -275,16 +275,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Septem sapientium convivium">
          <part type="book">
             <detail type="book">
                <number>13</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Septem sapientium convivium</title>
                </detail>
             </part>
@@ -292,16 +292,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De superstitione">
          <part type="book">
             <detail type="book">
                <number>14</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De superstitione</title>
                </detail>
             </part>
@@ -316,16 +316,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="regum et imperatorum apophthegmata">
          <part type="book">
             <detail type="book">
                <number>15</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>regum et imperatorum apophthegmata</title>
                </detail>
             </part>
@@ -333,16 +333,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="apophthegmata Laconica">
          <part type="book">
             <detail type="book">
                <number>16</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>apophthegmata Laconica</title>
                </detail>
             </part>
@@ -350,16 +350,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="instituta Laconica">
          <part type="book">
             <detail type="book">
                <number>17</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>instituta Laconica</title>
                </detail>
             </part>
@@ -367,16 +367,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Lacaenarum apophthegmata">
          <part type="book">
             <detail type="book">
                <number>18</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Lacaenarum apophthegmata</title>
                </detail>
             </part>
@@ -384,16 +384,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Mulierum virtutes">
          <part type="book">
             <detail type="book">
                <number>19</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Mulierum virtutes</title>
                </detail>
             </part>
@@ -408,16 +408,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Quaestiones Romanae">
          <part type="book">
             <detail type="book">
                <number>20</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Quaestiones Romanae</title>
                </detail>
             </part>
@@ -425,16 +425,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Quaestiones Graecae">
          <part type="book">
             <detail type="book">
                <number>21</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Quaestiones Graecae</title>
                </detail>
             </part>
@@ -442,16 +442,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Parallela minora">
          <part type="book">
             <detail type="book">
                <number>22</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Parallela minora</title>
                </detail>
             </part>
@@ -459,16 +459,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De fortuna Romanorum">
          <part type="book">
             <detail type="book">
                <number>23</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De fortuna Romanorum</title>
                </detail>
             </part>
@@ -476,16 +476,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De Alexandri magni fortuna aut virtute">
          <part type="book">
             <detail type="book">
                <number>24</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De Alexandri magni fortuna aut virtute</title>
                </detail>
             </part>
@@ -493,16 +493,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De gloria Atheniensium">
          <part type="book">
             <detail type="book">
                <number>25</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De gloria Atheniensium</title>
                </detail>
             </part>
@@ -517,16 +517,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De Iside et Osiride">
          <part type="book">
             <detail type="book">
                <number>26</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De Iside et Osiride</title>
                </detail>
             </part>
@@ -534,16 +534,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De E apud Delphos">
          <part type="book">
             <detail type="book">
                <number>27</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De E apud Delphos</title>
                </detail>
             </part>
@@ -551,16 +551,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De Pythiae oraculis">
          <part type="book">
             <detail type="book">
                <number>28</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De Pythiae oraculis</title>
                </detail>
             </part>
@@ -568,16 +568,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De defectu oraculorum">
          <part type="book">
             <detail type="book">
                <number>29</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De defectu oraculorum</title>
                </detail>
             </part>
@@ -592,16 +592,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="An virtus doceri possit">
          <part type="book">
             <detail type="book">
                <number>30</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>An virtus doceri possit</title>
                </detail>
             </part>
@@ -609,16 +609,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De virtute morali">
          <part type="book">
             <detail type="book">
                <number>31</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De virtute morali</title>
                </detail>
             </part>
@@ -626,16 +626,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De cohibenda ira">
          <part type="book">
             <detail type="book">
                <number>32</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De cohibenda ira</title>
                </detail>
             </part>
@@ -643,16 +643,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De tranquillitate animi">
          <part type="book">
             <detail type="book">
                <number>33</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De tranquillitate animi</title>
                </detail>
             </part>
@@ -660,16 +660,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De fraterno amore">
          <part type="book">
             <detail type="book">
                <number>34</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De fraterno amore</title>
                </detail>
             </part>
@@ -677,16 +677,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De amore prolis">
          <part type="book">
             <detail type="book">
                <number>35</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De amore prolis</title>
                </detail>
             </part>
@@ -694,16 +694,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="An vitiositas ad infelicitatem sufficiat">
          <part type="book">
             <detail type="book">
                <number>36</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>An vitiositas ad infelicitatem sufficiat</title>
                </detail>
             </part>
@@ -711,16 +711,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Animine an corporis affectiones sint peiores">
          <part type="book">
             <detail type="book">
                <number>37</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Animine an corporis affectiones sint peiores</title>
                </detail>
             </part>
@@ -728,16 +728,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De garrulitate">
          <part type="book">
             <detail type="book">
                <number>38</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De garrulitate</title>
                </detail>
             </part>
@@ -745,16 +745,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De curiositate">
          <part type="book">
             <detail type="book">
                <number>39</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De curiositate</title>
                </detail>
             </part>
@@ -769,16 +769,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De cupiditate divitiarum">
          <part type="book">
             <detail type="book">
                <number>40</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De cupiditate divitiarum</title>
                </detail>
             </part>
@@ -786,16 +786,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De vitioso pudore">
          <part type="book">
             <detail type="book">
                <number>41</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De vitioso pudore</title>
                </detail>
             </part>
@@ -803,16 +803,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De invidia et odio">
          <part type="book">
             <detail type="book">
                <number>42</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De invidia et odio</title>
                </detail>
             </part>
@@ -820,16 +820,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De laude ipsius">
          <part type="book">
             <detail type="book">
                <number>43</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De laude ipsius</title>
                </detail>
             </part>
@@ -837,31 +837,31 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De sera numinis vindicta">
          <part type="book">
             <detail type="book">
                <number>44</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De sera numinis vindicta</title>
                </detail>
             </part>
             <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg107.teub1-grc-F3</identifier>
          </relatedItem>
       </relatedItem>
-      <relatedItem type="constituent" otherType="manifestation" displayLabel="De fato">
+      <relatedItem type="constituent" otherType="section" displayLabel="De fato">
          <part type="book">
             <detail type="book">
                <number>45</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De fato</title>
                </detail>
             </part>
@@ -869,16 +869,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De genio Socratis">
          <part type="book">
             <detail type="book">
                <number>46</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De genio Socratis</title>
                </detail>
             </part>
@@ -886,16 +886,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De exilio">
          <part type="book">
             <detail type="book">
                <number>47</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De exilio</title>
                </detail>
             </part>
@@ -903,16 +903,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Consolatio ad uxorem">
          <part type="book">
             <detail type="book">
                <number>48</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Consolatio ad uxorem</title>
                </detail>
             </part>
@@ -927,16 +927,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Quaestiones convivales">
          <part type="book">
             <detail type="book">
                <number>49</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Quaestiones convivales</title>
                </detail>
             </part>
@@ -951,16 +951,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Amatorius">
          <part type="book">
             <detail type="book">
                <number>50</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Amatorius</title>
                </detail>
             </part>
@@ -975,16 +975,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Amatoriae narrationes">
          <part type="book">
             <detail type="book">
                <number>51</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Amatoriae narrationes</title>
                </detail>
             </part>
@@ -992,16 +992,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Maxime cum principibus philosopho esse disserendum">
          <part type="book">
             <detail type="book">
                <number>52</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Maxime cum principibus philosopho esse disserendum</title>
                </detail>
             </part>
@@ -1009,16 +1009,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Ad principem ineruditum">
          <part type="book">
             <detail type="book">
                <number>53</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Ad principem ineruditum</title>
                </detail>
             </part>
@@ -1026,16 +1026,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="An seni respublica gerenda sit">
          <part type="book">
             <detail type="book">
                <number>54</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>An seni respublica gerenda sit</title>
                </detail>
             </part>
@@ -1043,16 +1043,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Praecepta gerendae reipublicae">
          <part type="book">
             <detail type="book">
                <number>55</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Praecepta gerendae reipublicae</title>
                </detail>
             </part>
@@ -1060,16 +1060,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De unius in republica dominatione, populari statu, et paucorum imperio">
          <part type="book">
             <detail type="book">
                <number>56</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De unius in republica dominatione, populari statu, et paucorum imperio</title>
                </detail>
             </part>
@@ -1077,16 +1077,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De vitando aere alieno">
          <part type="book">
             <detail type="book">
                <number>57</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De vitando aere alieno</title>
                </detail>
             </part>
@@ -1094,16 +1094,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Vitae decem oratorum">
          <part type="book">
             <detail type="book">
                <number>58</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Vitae decem oratorum</title>
                </detail>
             </part>
@@ -1111,16 +1111,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Comparationis Aristophanis et Menandri compendium">
          <part type="book">
             <detail type="book">
                <number>59</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Comparationis Aristophanis et Menandri compendium</title>
                </detail>
             </part>
@@ -1135,16 +1135,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De malignitate Herodoti">
          <part type="book">
             <detail type="book">
                <number>60</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De malignitate Herodoti</title>
                </detail>
             </part>
@@ -1152,16 +1152,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De placitis philosophorum">
          <part type="book">
             <detail type="book">
                <number>61</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De placitis philosophorum</title>
                </detail>
             </part>
@@ -1169,16 +1169,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Quaestiones naturales">
          <part type="book">
             <detail type="book">
                <number>62</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Quaestiones naturales</title>
                </detail>
             </part>
@@ -1193,16 +1193,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De facie in orbe lunae">
          <part type="book">
             <detail type="book">
                <number>63</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De facie in orbe lunae</title>
                </detail>
             </part>
@@ -1210,16 +1210,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De primo frigido">
          <part type="book">
             <detail type="book">
                <number>64</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De primo frigido</title>
                </detail>
             </part>
@@ -1227,16 +1227,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Aquane an ignis sit utilior">
          <part type="book">
             <detail type="book">
                <number>65</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Aquane an ignis sit utilior</title>
                </detail>
             </part>
@@ -1244,16 +1244,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De sollertia animalium">
          <part type="book">
             <detail type="book">
                <number>66</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De sollertia animalium</title>
                </detail>
             </part>
@@ -1261,16 +1261,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Bruta animalia ratione uti">
          <part type="book">
             <detail type="book">
                <number>67</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Bruta animalia ratione uti</title>
                </detail>
             </part>
@@ -1278,16 +1278,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De esu carnium">
          <part type="book">
             <detail type="book">
                <number>68</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De esu carnium</title>
                </detail>
             </part>
@@ -1302,16 +1302,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Platonicae quaestiones">
          <part type="book">
             <detail type="book">
                <number>69</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Platonicae quaestiones</title>
                </detail>
             </part>
@@ -1319,16 +1319,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De animae procreatione in Timaeo">
          <part type="book">
             <detail type="book">
                <number>70</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De animae procreatione in Timaeo</title>
                </detail>
             </part>
@@ -1336,16 +1336,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Epitome libri de animae procreatione in Timaeo">
          <part type="book">
             <detail type="book">
                <number>71</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Epitome libri de animae procreatione in Timaeo</title>
                </detail>
             </part>
@@ -1353,16 +1353,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De Stoicorum repugnantiis">
          <part type="book">
             <detail type="book">
                <number>72</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De Stoicorum repugnantiis</title>
                </detail>
             </part>
@@ -1370,16 +1370,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Stoicos absurdiora poetis dicere">
          <part type="book">
             <detail type="book">
                <number>73</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Stoicos absurdiora poetis dicere</title>
                </detail>
             </part>
@@ -1387,16 +1387,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De communibus notitiis adversus Stoicos">
          <part type="book">
             <detail type="book">
                <number>74</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De communibus notitiis adversus Stoicos</title>
                </detail>
             </part>
@@ -1411,16 +1411,16 @@
          </detail>
       </part>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Non posse suaviter vivi secundum Epicurum">
          <part type="book">
             <detail type="book">
                <number>75</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Non posse suaviter vivi secundum Epicurum</title>
                </detail>
             </part>
@@ -1428,16 +1428,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="Adversus Colotem">
          <part type="book">
             <detail type="book">
                <number>76</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>Adversus Colotem</title>
                </detail>
             </part>
@@ -1445,16 +1445,16 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="An recte dictum sit latenter esse vivendum">
          <part type="book">
             <detail type="book">
                <number>77</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>An recte dictum sit latenter esse vivendum</title>
                </detail>
             </part>
@@ -1462,20 +1462,20 @@
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
-                   otherType="manifestation"
+                   otherType="section"
                    displayLabel="De musica">
          <part type="book">
             <detail type="book">
                <number>78</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="section">
-            <part type="section">
-               <detail type="section">
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
                   <title>De musica</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:.teub1-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0094.tlg002.teub1-grc-F3</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
