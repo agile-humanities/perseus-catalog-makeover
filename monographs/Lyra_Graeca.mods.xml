@@ -85,9 +85,9 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Olympus" />
         <relatedItem type="constituent" otherType="section" displayLabel="Eumelus">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
-            <relatedItem type="constituent" otherType="section" displayLabel="Fragment">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmentum">
-                    <relatedItem type="constituent" otherType="section">
+            
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmentum">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmentum</title>
@@ -95,7 +95,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0298.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmentum</title>
@@ -104,13 +104,13 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0298.tlg001.opp-grc1-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-            </relatedItem>
+            
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Terpander">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
-            <relatedItem type="constituent" otherType="section" displayLabel="Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+            
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -118,7 +118,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0299.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -127,11 +127,11 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0299.tlg001.opp-grc3-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-            </relatedItem>
+            
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Thaletas">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Testimonia">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Testimonia">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Testimonia</title>
@@ -139,7 +139,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:plg0002.plg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Testimonia</title>
@@ -153,8 +153,8 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Alcman">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Poems and Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -162,7 +162,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0291.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -187,8 +187,8 @@
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Arion">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -196,7 +196,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0297.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -205,8 +205,8 @@
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0297.tlg001.opp-grc7-F3</identifier>
                 </relatedItem>
             </relatedItem>
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmentum">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmentum">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmentum</title>
@@ -214,7 +214,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg2658.tlgX001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmentum</title>
@@ -227,8 +227,8 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Sappho">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Poems and Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -236,7 +236,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0009.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -268,8 +268,8 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Alcaeus">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Poems and Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -277,7 +277,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0383.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -314,8 +314,8 @@
             </detail>
         </part>
         <relatedItem type="constituent" otherType="section" displayLabel="Echembrotus">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmentum">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmentum">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmentum</title>
@@ -323,7 +323,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0249.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmentum</title>
@@ -335,9 +335,8 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Sacadas" />
         <relatedItem type="constituent" otherType="section" displayLabel="Xanthus">
-            <relatedItem type="constituent"
-                otherType="manifestation" displayLabel="Oresteia">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Oresteia">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Oresteia</title>
@@ -350,9 +349,9 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Stesichorus">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
-            <relatedItem type="constituent" otherType="section" displayLabel="Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+            
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -360,7 +359,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0292.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -369,13 +368,13 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0292.tlg001.opp-grc3-F3</identifier>
                     </relatedItem>
                 </relatedItem>         
-            </relatedItem>
+            
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Ibycus">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -383,7 +382,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0293.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -391,14 +390,14 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0293.tlg001.opp-grc2-F3</identifier>
                     </relatedItem>
-                </relatedItem>    
+                    
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Anacreon">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Poems and Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -406,7 +405,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0237.tlg002.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -449,8 +448,8 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Lasus">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmentum">
-                    <relatedItem type="constituent" otherType="section">
+                
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmentum</title>
@@ -458,7 +457,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0366.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmentum</title>
@@ -466,13 +465,13 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0366.tlg001.opp-grc6-F3</identifier>
                     </relatedItem>
-                </relatedItem>
+                
             </relatedItem>
 
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Apollodorus">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -480,7 +479,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0365.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -491,8 +490,8 @@
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Tynnichus">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -500,7 +499,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0367.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -513,8 +512,8 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Telesilla">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -522,7 +521,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0369.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -530,47 +529,46 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0369.tlg001.opp-grc1-F3</identifier>
                     </relatedItem>
-                </relatedItem>
+                
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Simonides">
-            <relatedItem type="constituent" otherType="section" displayLabel="Life">
-                <relatedItem type="constituent" otherType="section" displayLabel="Poems and Fragments" >
-                    <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta (Epigrams &amp; Elegeiae)">
-                        <relatedItem type="constituent" otherType="section">
-                            <part type="section">
-                                <detail type="section">
-                                    <title>Fragmenta (Epigrams &amp; Elegeiae)</title>
-                                </detail>
-                            </part>
-                            <identifier type="ctsurn">urn:cts:greekLit:tlg0261.tlg001.opp-eng1-F3</identifier>
-                        </relatedItem>
-                        <relatedItem type="constituent" otherType="section">
-                            <part type="section">
-                                <detail type="section">
-                                    <title>Fragmenta (Epigrams &amp; Elegeiae)</title>
-                                </detail>
-                            </part>
-                            <identifier type="ctsurn">urn:cts:greekLit:tlg0261.tlg001.opp-grc4-F3</identifier>
-                        </relatedItem>
+            <relatedItem type="constituent" otherType="section" displayLabel="Life" />
+            <relatedItem type="constituent" otherType="section" displayLabel="Poems and Fragments" >
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta (Epigrams &amp; Elegeiae)">
+                    <relatedItem type="constituent" otherType="manifestation">
+                        <part type="section">
+                            <detail type="section">
+                                <title>Fragmenta (Epigrams &amp; Elegeiae)</title>
+                            </detail>
+                        </part>
+                        <identifier type="ctsurn">urn:cts:greekLit:tlg0261.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta (Encomium &amp; Lyrical)">
-                        <relatedItem type="constituent" otherType="section">
-                            <part type="section">
-                                <detail type="section">
-                                    <title>Fragmenta (Encomium &amp; Lyrical)</title>
-                                </detail>
-                            </part>
-                            <identifier type="ctsurn">urn:cts:greekLit:tlg0261.tlg002.opp-eng1-F3</identifier>
-                        </relatedItem>
-                        <relatedItem type="constituent" otherType="section">
-                            <part type="section">
-                                <detail type="section">
-                                    <title>Fragmenta (Encomium &amp; Lyrical)</title>
-                                </detail>
-                            </part>
-                            <identifier type="ctsurn">urn:cts:greekLit:tlg0261.tlg002.opp-grc3-F3</identifier>
-                        </relatedItem>
+                    <relatedItem type="constituent" otherType="manifestation">
+                        <part type="section">
+                            <detail type="section">
+                                <title>Fragmenta (Epigrams &amp; Elegeiae)</title>
+                            </detail>
+                        </part>
+                        <identifier type="ctsurn">urn:cts:greekLit:tlg0261.tlg001.opp-grc4-F3</identifier>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta (Encomium &amp; Lyrical)">
+                    <relatedItem type="constituent" otherType="manifestation">
+                        <part type="section">
+                            <detail type="section">
+                                <title>Fragmenta (Encomium &amp; Lyrical)</title>
+                            </detail>
+                        </part>
+                        <identifier type="ctsurn">urn:cts:greekLit:tlg0261.tlg002.opp-eng1-F3</identifier>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="manifestation">
+                        <part type="section">
+                            <detail type="section">
+                                <title>Fragmenta (Encomium &amp; Lyrical)</title>
+                            </detail>
+                        </part>
+                        <identifier type="ctsurn">urn:cts:greekLit:tlg0261.tlg002.opp-grc3-F3</identifier>
                     </relatedItem>
                 </relatedItem>
                 <relatedItem type="constituent" otherType="section" displayLabel="Book I. Hymns" />
@@ -587,21 +585,18 @@
                     <relatedItem type="constituent" otherType="section" displayLabel="XI. For the Four-Horse Chariot-Race" />
                     <relatedItem type="constituent" otherType="section" displayLabel="XII. For the Mule-Car-Race" />
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section"
-                    displayLabel="Book XIII. Elegiacs" />
-                <relatedItem type="constituent" otherType="section"
-                    displayLabel="Book XIV. Inscriptions:">
+                <relatedItem type="constituent" otherType="section" displayLabel="Book XIII. Elegiacs" />
+                <relatedItem type="constituent" otherType="section" displayLabel="Book XIV. Inscriptions:">
                     <relatedItem type="constituent" otherType="section" displayLabel="i. Epitaphs" />
-                    <relatedItem type="constituent" otherType="section"
-                        displayLabel="ii. Dedications" />
+                    <relatedItem type="constituent" otherType="section" displayLabel="ii. Dedications" />
                 </relatedItem>
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Timocreon">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Poems and Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -609,7 +604,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0265.tlg002.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -618,8 +613,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0265.tlg002.opp-grc1-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Epigrammata">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Epigrammata">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Epigrammata</title>
@@ -627,7 +622,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0265.tlg003.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Epigrammata</title>
@@ -648,9 +643,8 @@
             </detail>
         </part>
         <relatedItem type="constituent" otherType="section" displayLabel="Myrtis">
-            <relatedItem type="constituent"
-                otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -658,7 +652,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:plg0001.plg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -671,8 +665,8 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Corinna">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -680,7 +674,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0294.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -688,12 +682,12 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0294.tlg001.opp-grc1-F3</identifier>
                     </relatedItem>
-                </relatedItem>
+                
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Lamprocles">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -701,7 +695,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0370.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -713,8 +707,8 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Charixena" />
         <relatedItem type="constituent" otherType="section" displayLabel="Dionysius, Lamprus, Pratinas">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -722,7 +716,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg1833.tlg002.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -733,8 +727,8 @@
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Diagoras">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -742,7 +736,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0371.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -753,8 +747,8 @@
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Cydias">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmentum">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmentum">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmentum</title>
@@ -762,7 +756,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0368.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmentum</title>
@@ -773,8 +767,8 @@
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Cedeides">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Testimonia">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Testimonia">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Testimonia</title>
@@ -785,8 +779,8 @@
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Praxilla">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -794,7 +788,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0372.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -807,8 +801,8 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Bacchylides">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Poems and Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Epinicians">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Epinicians">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Epinicians</title>
@@ -816,7 +810,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Epinicians</title>
@@ -825,8 +819,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg001.opp-grc4-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Prosodia Fragment">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Prosodia Fragment">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Prosodia Fragment</title>
@@ -834,7 +828,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg016.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Prosodia Fragment</title>
@@ -843,8 +837,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg016.opp-grc3-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Partheneia Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Partheneia Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Partheneia Fragmenta</title>
@@ -852,7 +846,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg017.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Partheneia Fragmenta</title>
@@ -861,8 +855,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg017.opp-grc2-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Hyporchemata (fragmenta)">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Hyporchemata (fragmenta)">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Hyporchemata (fragmenta)</title>
@@ -870,7 +864,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg018.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Hyporchemata (fragmenta)</title>
@@ -879,8 +873,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg018.opp-grc3-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Erotica">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Erotica">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Erotica</title>
@@ -888,7 +882,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg019.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Erotica</title>
@@ -897,8 +891,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg019.opp-grc3-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Encomia">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Encomia">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Encomia</title>
@@ -906,7 +900,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg020.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Encomia</title>
@@ -915,8 +909,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg020.opp-grc1-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Epigrammata">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Epigrammata">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Epigrammata</title>
@@ -924,7 +918,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg023.opp-eng3-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Epigrammata</title>
@@ -935,8 +929,8 @@
                 </relatedItem>
                 
                 <relatedItem type="constituent" otherType="section" displayLabel="Book I. Hymns">
-                    <relatedItem type="constituent" otherType="manifestation" displayLabel="Hymnorum fragmenta">
-                        <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="section" displayLabel="Hymnorum fragmenta">
+                        <relatedItem type="constituent" otherType="manifestation">
                             <part type="section">
                                 <detail type="section">
                                     <title>Hymnorum fragmenta</title>
@@ -944,7 +938,7 @@
                             </part>
                             <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg014.opp-eng1-F3</identifier>
                         </relatedItem>
-                        <relatedItem type="constituent" otherType="section">
+                        <relatedItem type="constituent" otherType="manifestation">
                             <part type="section">
                                 <detail type="section">
                                     <title>Hymnorum fragmenta</title>
@@ -955,8 +949,8 @@
                     </relatedItem>
                 </relatedItem>
                 <relatedItem type="constituent" otherType="section" displayLabel="Book II. Paeans">
-                    <relatedItem type="constituent" otherType="manifestation" displayLabel="Paeanes">
-                        <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="section" displayLabel="Paeanes">
+                        <relatedItem type="constituent" otherType="manifestation">
                             <part type="section">
                                 <detail type="section">
                                     <title>Paeanes</title>
@@ -964,7 +958,7 @@
                             </part>
                             <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg015.opp-eng1-F3</identifier>
                         </relatedItem>
-                        <relatedItem type="constituent" otherType="section">
+                        <relatedItem type="constituent" otherType="manifestation">
                             <part type="section">
                                 <detail type="section">
                                     <title>Paeanes</title>
@@ -975,8 +969,8 @@
                     </relatedItem>
                  </relatedItem>
                 <relatedItem type="constituent" otherType="section" displayLabel="Book III. Dithyrambs" >
-                    <relatedItem type="constituent" otherType="manifestation" displayLabel="Dithyrambs">
-                        <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="section" displayLabel="Dithyrambs">
+                        <relatedItem type="constituent" otherType="manifestation">
                             <part type="section">
                                 <detail type="section">
                                     <title>Dithyrambs</title>
@@ -984,7 +978,7 @@
                             </part>
                             <identifier type="ctsurn">urn:cts:greekLit:tlg0199.tlg002.opp-eng1-F3</identifier>
                         </relatedItem>
-                        <relatedItem type="constituent" otherType="section">
+                        <relatedItem type="constituent" otherType="manifestation">
                             <part type="section">
                                 <detail type="section">
                                     <title>Dithyrambs</title>
@@ -1004,8 +998,8 @@
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Sophocles: Paeans">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta (Elegiaca)">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta (Elegiaca)">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta (Elegiaca)</title>
@@ -1013,7 +1007,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0011.tlg009.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta (Elegiaca)</title>
@@ -1024,8 +1018,8 @@
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Ion of Chios: Lyric Fragments">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta Lyrica">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta Lyrica">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta Lyrica</title>
@@ -1033,7 +1027,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0308.tlg003.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta Lyrica</title>
@@ -1046,8 +1040,8 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Melanippides">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1055,7 +1049,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0373.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1063,12 +1057,12 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0373.tlg001.opp-grc3-F3</identifier>
                     </relatedItem>
-                </relatedItem>
+                
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Euripides: Victory-Song">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Epinicium in Alcibiadem">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Epinicium in Alcibiadem">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Epinicium in Alcibiadem</title>
@@ -1076,7 +1070,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0006.tlg022.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Epinicium in Alcibiadem</title>
@@ -1087,9 +1081,9 @@
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Hieronymus" />
-        <relatedItem type="constituent" otherType="section"  displayLabel="Cleomenes, Lamynthius, Gnesippus">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Titulus">
-                <relatedItem type="constituent" otherType="section">
+        <relatedItem type="constituent" otherType="section" displayLabel="Cleomenes, Lamynthius, Gnesippus">
+            <relatedItem type="constituent" otherType="section" displayLabel="Titulus">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Titulus</title>
@@ -1097,7 +1091,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0900.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Titulus</title>
@@ -1106,8 +1100,8 @@
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0900.tlg001.opp-grc3-F3</identifier>
                 </relatedItem>
             </relatedItem>
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Titulus">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Titulus">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Titulus</title>
@@ -1115,7 +1109,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0918.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Titulus</title>
@@ -1127,8 +1121,8 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Leotrophides" />
         <relatedItem type="constituent" otherType="section" displayLabel="Cinesias">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -1136,7 +1130,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0375.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -1148,8 +1142,8 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Phrynis" />
         <relatedItem type="constituent" otherType="section" displayLabel="Pronomus">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Titulus">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Titulus">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Titulus</title>
@@ -1157,7 +1151,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0397.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Titulus</title>
@@ -1168,8 +1162,8 @@
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Telestes">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -1177,7 +1171,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0377.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -1190,8 +1184,8 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Timotheus">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1199,7 +1193,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0376.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1207,15 +1201,15 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0376.tlg001.opp-grc4-F3</identifier>
                     </relatedItem>
-                </relatedItem>
+                
                 <relatedItem type="constituent" otherType="section" displayLabel="Book I. Hymns" />
                 <relatedItem type="constituent" otherType="section" displayLabel="Book: II. Dithyrambs" />
                 <relatedItem type="constituent" otherType="section" displayLabel="Books III-XXI. Nomes" />
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Licymnius">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -1223,7 +1217,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0374.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -1235,8 +1229,8 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Philoxenus Son of Eryxis" />
         <relatedItem type="constituent" otherType="section" displayLabel="Philoxenus of Leucas">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -1244,7 +1238,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0380.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -1257,8 +1251,8 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Philoxenus of Cythera">
             <relatedItem type="constituent" otherType="section" displayLabel="Life" />
             <relatedItem type="constituent" otherType="section" displayLabel="Fragments">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1266,7 +1260,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0379.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1274,7 +1268,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0379.tlg001.opp-grc1-F3</identifier>
                     </relatedItem>
-                </relatedItem>
+                
                 <relatedItem type="constituent" otherType="manifestation" displayLabel="Epigrammata">
                     <relatedItem type="constituent" otherType="section">
                         <part type="section">
@@ -1296,8 +1290,8 @@
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Ariphron">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmentum">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmentum">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmentum</title>
@@ -1305,7 +1299,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0378.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmentum</title>
@@ -1319,8 +1313,8 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Telles" />
         <relatedItem type="constituent" otherType="section" displayLabel="Lysimachus" />
         <relatedItem type="constituent" otherType="section" displayLabel="Aristotle: Ode to Hermeias">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmentum">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmentum">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmentum</title>
@@ -1328,7 +1322,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0086.tlg050.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmentum</title>
@@ -1339,8 +1333,8 @@
             </relatedItem>
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Hermolochus">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -1348,7 +1342,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0240.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -1359,8 +1353,8 @@
             </relatedItem>  
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Lycophronides">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -1368,7 +1362,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0381.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta</title>
@@ -1381,8 +1375,8 @@
         <relatedItem type="constituent" otherType="section" displayLabel="Xenocritus and Xenodamus" />
         <relatedItem type="constituent" otherType="section" displayLabel="Myia, Mynna, Theano" />
         <relatedItem type="constituent" otherType="section" displayLabel="Anonymous Fragments">
-            <relatedItem type="constituent" otherType="manifestation" displayLabel="Adespota">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Adespota">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Adespota</title>
@@ -1390,7 +1384,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0230.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Adespota</title>
@@ -1418,9 +1412,8 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="section" displayLabel="Scolia or Drinking-Songs">
             <relatedItem type="constituent" otherType="section" displayLabel="Introduction" />
-            <relatedItem type="constituent" otherType="manifestation"
-                displayLabel="Fragmenta (part of Carmina Convivalia)">
-                <relatedItem type="constituent" otherType="section">
+            <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta (part of Carmina Convivalia)">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta (part of Carmina Convivalia)</title>
@@ -1428,7 +1421,7 @@
                     </part>
                     <identifier type="ctsurn">urn:cts:greekLit:tlg0296.tlg001.opp-eng1-F3</identifier>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="manifestation">
                     <part type="section">
                         <detail type="section">
                             <title>Fragmenta (part of Carmina Convivalia)</title>
@@ -1439,8 +1432,8 @@
             </relatedItem>
             <relatedItem type="constituent" otherType="section" displayLabel="Book I. Attic Scolia" />
             <relatedItem type="constituent" otherType="section" displayLabel="Book II. Scolia of the Seven Sages">
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmentum Lyricum">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmentum Lyricum">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmentum Lyricum</title>
@@ -1448,7 +1441,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg1705.tlgX01.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmentum Lyricum</title>
@@ -1457,8 +1450,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg1705.tlgX01.opp-grc2-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1466,7 +1459,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg1261.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1475,8 +1468,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg1261.tlg001.opp-grc1-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1484,7 +1477,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0263.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1493,8 +1486,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0263.tlg001.opp-grc1-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1502,7 +1495,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0631.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1511,8 +1504,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg0631.tlg001.opp-grc3-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1520,7 +1513,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg1223.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1529,8 +1522,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg1223.tlg001.opp-grc2-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Fragmenta">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Fragmenta">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1538,7 +1531,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg1274.tlg001.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Fragmenta</title>
@@ -1547,8 +1540,8 @@
                         <identifier type="ctsurn">urn:cts:greekLit:tlg1274.tlg001.opp-grc2-F3</identifier>
                     </relatedItem>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="manifestation" displayLabel="Scolia">
-                    <relatedItem type="constituent" otherType="section">
+                <relatedItem type="constituent" otherType="section" displayLabel="Scolia">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Scolia</title>
@@ -1556,7 +1549,7 @@
                         </part>
                         <identifier type="ctsurn">urn:cts:greekLit:tlg1667.tlg006.opp-eng1-F3</identifier>
                     </relatedItem>
-                    <relatedItem type="constituent" otherType="section">
+                    <relatedItem type="constituent" otherType="manifestation">
                         <part type="section">
                             <detail type="section">
                                 <title>Scolia</title>
