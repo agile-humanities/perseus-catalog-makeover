@@ -16,10 +16,10 @@ declare function local:single-embedded-host-records()
 
 let $doublehosts := collection('/db/PerseusCatalogData/mods')/mods:mods/mods:relatedItem[@type='host' and not(mods:relatedItem[@type='host'])]
 for $hosts in $doublehosts
-let $titles := $hosts/mods:titleInfo[1]/mods:title
+let $titles := normalize-space($hosts/mods:titleInfo[1]/mods:title)
 group by $titles
 return
-    <mods xmlns="http://www.loc.gov/mods/v3">
+    <mods xmlns="http://www.loc.gov/mods/v3" displayLabel="{normalize-space($titles[1])}">
         <titleInfo>
                 { $hosts[1]/mods:titleInfo/mods:title }
         </titleInfo>
@@ -33,8 +33,8 @@ return
 
     {
         for $h in $hosts
-        group by $part := $h/mods:titleInfo[1]/mods:partNumber[1]
-        return 
+        group by $part := normalize-space($h/mods:titleInfo[1]/mods:partNumber[1])
+        return
             if ($part) then
             <relatedItem xmlns="http://www.loc.gov/mods/v3" type='constituent' otherType='volume' displayLabel="{normalize-space($part[1])}">
                 <part type='volume'>
@@ -93,10 +93,10 @@ declare function local:double-embedded-host-records()
 
 let $doublehosts := collection('/db/PerseusCatalogData/mods')/mods:mods/mods:relatedItem[@type='host']/mods:relatedItem[@type='host' and not(mods:relatedItem[@type='host'])]
 for $hosts in $doublehosts
-let $titles := $hosts/mods:titleInfo[1]/mods:title
+let $titles := normalize-space($hosts/mods:titleInfo[1]/mods:title)
 group by $titles
 return
-    <mods xmlns="http://www.loc.gov/mods/v3">
+    <mods xmlns="http://www.loc.gov/mods/v3" displayLabel="{normalize-space($titles[1])}">
         <titleInfo>
                 { $hosts[1]/mods:titleInfo/mods:title }
         </titleInfo>
@@ -109,8 +109,8 @@ return
 
     {
         for $h in $hosts
-        group by $part := $h/mods:titleInfo[1]/mods:partNumber[1]
-        return           
+        group by $part := normalize-space($h/mods:titleInfo[1]/mods:partNumber[1])
+        return
             if ($part) then
             <relatedItem xmlns="http://www.loc.gov/mods/v3" type='constituent' otherType='volume' displayLabel="{normalize-space($part[1])}">
                 <part type='volume'>
@@ -172,10 +172,10 @@ declare function local:triple-embedded-host-records()
 
 let $doublehosts := collection('/db/PerseusCatalogData/mods')/mods:mods/mods:relatedItem[@type='host']/mods:relatedItem[@type='host']/mods:relatedItem[@type='host']
 for $hosts in $doublehosts
-let $titles := $hosts/mods:titleInfo[1]/mods:title
+let $titles := normalize-space($hosts/mods:titleInfo[1]/mods:title)
 group by $titles
 return
-    <mods xmlns="http://www.loc.gov/mods/v3">
+    <mods xmlns="http://www.loc.gov/mods/v3" displayLabel="{normalize-space($titles[1])}">
         <titleInfo>
                 { $hosts[1]/mods:titleInfo/mods:title }
         </titleInfo>
@@ -188,7 +188,7 @@ return
 
     {
         for $h in $hosts
-        group by $part := $h/mods:titleInfo[1]/mods:partNumber[1]
+        group by $part := normalize-space($h/mods:titleInfo[1]/mods:partNumber[1])
         return 
             if ($part) then
 
@@ -247,11 +247,17 @@ return
 };
 
 declare function local:invert-mods() {
-<modsCollection xmlns="http://www.loc.gov/mods/v3"  xmlns:xlink="http://www.w3.org/1999/xlink">
-{ local:triple-embedded-host-records() }
-{ local:double-embedded-host-records() }
-{ local:single-embedded-host-records() }
-</modsCollection>
+    let $triples := local:triple-embedded-host-records()
+    let $doubles := local:double-embedded-host-records()
+    let $singles := local:single-embedded-host-records() 
+    return
+    <modsCollection xmlns="http://www.loc.gov/mods/v3"  xmlns:xlink="http://www.w3.org/1999/xlink">
+    {
+        for $item in $triples union $doubles union $singles
+        order by $item/@displayLabel
+        return $item
+    }
+    </modsCollection>
 };
 
 local:invert-mods()

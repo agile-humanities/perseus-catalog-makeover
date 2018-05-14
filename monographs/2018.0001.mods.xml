@@ -51,23 +51,24 @@
                <number>1</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Education of Children</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg067.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg067.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ παίδων ἀγωγῆς</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg067.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg067.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
+
       <relatedItem type="constituent"
                    otherType="section"
                    displayLabel="How the Young Man Should Study Poetry">
@@ -76,21 +77,21 @@
                <number>2</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>How the Young Man Should Study Poetry</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg068.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg068.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Πῶς δεῖ τὸν νέον ποιημάτων ἀκούειν </title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg068.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg068.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -101,21 +102,21 @@
                <number>3</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Hearing</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg069.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg069.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τοῦ ἀκούειν</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg069.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg069.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -126,21 +127,21 @@
                <number>4</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>How to Tell a Flatterer from a Friend</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg070.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg070.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Πῶς ἄν τις διακρίνοιε τὸν κόλακα τοῦ φίλου</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg070.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg070.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -151,21 +152,21 @@
                <number>5</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>How a Man May Become Aware of his Progress in Virtue</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg071.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg071.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Πῶς ἄν τις αἴσθοιτο ἑαυτοῦ προκόπτοντος ἐπ᾿ ἀρετῇ</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg071.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg071.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -183,21 +184,21 @@
                <number>6</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>How to Profit by One's Enemies</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg072.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg072.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Πῶς ἄν τις ὑπ᾿ ἐχθρῶν ὠφελοῖτο</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg072.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg072.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -208,21 +209,21 @@
                <number>7</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Having Many Friends</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg073.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg073.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ πολυφιλίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg073.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg073.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -233,21 +234,21 @@
                <number>8</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Chance</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg074.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg074.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τύχης</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg074.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg074.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -258,21 +259,21 @@
                <number>9</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Virtue and Vice</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg075.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg075.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ ἀρετῆς καὶ κακίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg075.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg075.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -283,21 +284,21 @@
                <number>10</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Letter of Condolence to Apollonius</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg076.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg076.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Παραμυθητικὸς πρὸς Ἀπολλώνιον</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg076.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg076.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -308,21 +309,21 @@
                <number>11</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Advice about Keeping Well</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg077.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg077.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Ὑγιεινὰ παραγγέλματα</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg077.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg077.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -333,21 +334,21 @@
                <number>12</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Advice to Bride and Groom</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg078.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg078.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Γαμικὰ παραγγέλματα</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg078.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg078.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -358,21 +359,21 @@
                <number>13</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Dinner of the Seven Wise Men</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg079.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg079.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Ἑπτά σοφῶν συμπόσιον</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg079.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg079.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -383,21 +384,21 @@
                <number>14</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Superstition</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg080.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg080.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ δεισιδαιμονίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg080.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg080.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -415,21 +416,21 @@
                <number>15</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Sayings of Kings and Commanders</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg081.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg081.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Βασιλέων ἀποφθέγματα καὶ στρατηγών</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg081.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg081.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -440,21 +441,21 @@
                <number>16</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Sayings of the Spartans</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Ἀποφθέγματα Λακωνικά</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -465,21 +466,21 @@
                <number>17</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Institutions of the Spartans</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082a.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082a.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Τὰ παλαιὰ τῶν Λακεδαιμονίων ἐπιτηδεύματα</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082a.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082a.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -490,21 +491,21 @@
                <number>18</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Sayings of the Spartan Women</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082b.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082b.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Λακαινῶν αποφθέγματα</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082b.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082b.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -515,21 +516,21 @@
                <number>19</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Virtues of Women</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg083.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg083.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Γυναικῶν ἀρεταί</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg083.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg083.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -547,21 +548,21 @@
                <number>20</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Roman Questions</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084a.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084a.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Αἴτια Ῥωμαϊκά</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084a.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084a.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -572,21 +573,21 @@
                <number>21</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Greek Questions</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084b.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084b.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Αἴτια Ἑλληνικά</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084b.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084b.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -597,21 +598,21 @@
                <number>22</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Greek and Roman Parallel Stories</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg085.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg085.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Συναγωγὴ ἱστοριῶν παραλλήλων Ἑλληνικῶν καὶ Ρωμαϊκῶν</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg085.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg085.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -622,21 +623,21 @@
                <number>23</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Fortune of the Romans</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg086.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg086.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τῆς Ῥωμαίων τύχης</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg086.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg086.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -647,21 +648,21 @@
                <number>24</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Fortune or Virtue of Alexander the Great</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg087.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg087.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τῆς Ἀλεξάνδρου τύχης ἢ ἀρετῆς</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg087.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg087.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -672,21 +673,21 @@
                <number>25</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Glory of the Athenians</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg088.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg088.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Πότερον Ἀθηναῖοι κατὰ πόλεμον ἢ κατὰ σοφίαν ἐνδοξότεροι</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg088.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg088.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -704,21 +705,21 @@
                <number>26</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Isis and Osiris</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg089.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg089.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ Ἴσιδος καὶ Ὀσίριδος</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg089.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg089.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -729,21 +730,21 @@
                <number>27</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the EI at Delphi</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg090.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg090.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τοῦ εἶ τοῦ έν Δελφοῖς</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg090.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg090.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -754,21 +755,21 @@
                <number>28</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Oracles at Delphi no Longer Given in Verse</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg091.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg091.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τοῦ μὴ χρᾶν ἔμμετρα νῦν τὴν Πυθίαν</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg091.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg091.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -779,21 +780,21 @@
                <number>29</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Obsolescence of Oracles</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg092.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg092.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τῶν ἐκλελοιπότων χρηστηρίων</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg092.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg092.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -811,21 +812,21 @@
                <number>30</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Can Virtue be Taught?</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg093.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg093.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Εἰ διδακτὸν ἡ ἀρετή</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg093.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg093.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -836,21 +837,21 @@
                <number>31</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Moral Virtue</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg094.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg094.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ ἠθικῆς ἀρετῆς</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg094.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg094.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -861,21 +862,21 @@
                <number>32</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Control of Anger</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg095.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg095.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ ἀοργησίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg095.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg095.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -886,21 +887,21 @@
                <number>33</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Tranquility of Mind</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg096.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg096.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ εὐθυμίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg096.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg096.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -911,21 +912,21 @@
                <number>34</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Brotherly Love</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg097.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg097.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ φιλαδελφίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg097.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg097.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -936,21 +937,21 @@
                <number>35</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Affection for Offspring</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg098.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg098.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τῆς εἰς τὰ ἔγγονα φιλοστοργίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg098.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg098.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -961,21 +962,21 @@
                <number>36</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Whether Vice is Sufficient to Cause Unhappiness</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg099.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg099.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Εἰ αὐτάρκης ἡ κακία πρὸς κακοδαιμονίαν</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg099.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg099.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -986,21 +987,21 @@
                <number>37</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Whether Affections of the Soul are Worse than Those of the Body</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg100.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg100.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τοῦ πότερον τὰ ψυχῆς ἢ τὰ σώματος πάθη χείρονα</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg100.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg100.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1011,21 +1012,21 @@
                <number>38</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Talkativeness</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg101.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg101.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ ἀδολεσχίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg101.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg101.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1036,21 +1037,21 @@
                <number>39</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Being a Busybody</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg102.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg102.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ πολυπραγμοσύνης</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg102.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg102.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -1068,21 +1069,21 @@
                <number>40</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Love of Wealth</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg103.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg103.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ φιλοπλουτίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg103.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg103.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1093,21 +1094,21 @@
                <number>41</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Compliancy</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg104.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg104.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ δυσωπίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg104.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg104.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1118,21 +1119,21 @@
                <number>42</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Envy and Hate</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg105.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg105.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ φθόνου καὶ μίσους</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg105.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg105.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1143,21 +1144,21 @@
                <number>43</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Praising Oneself Inoffensively</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg106.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg106.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τοῦ ἑαυτὸν ἐπαινεῖν ἀνεπιφθόνως</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg106.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg106.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1168,21 +1169,21 @@
                <number>44</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Delays of Divine Vengeance</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg107.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg107.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τῶν ὑπὸ τοῦ θείου βραδέως τιμωρουμένων</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg107.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg107.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent" otherType="section" displayLabel="On Fate">
@@ -1191,21 +1192,21 @@
                <number>45</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Fate</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg108.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg108.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ εἰμαρμένης</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg108.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg108.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1216,21 +1217,21 @@
                <number>46</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Sign of Socrates</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg109.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg109.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τοῦ Σωκράτους δαιμονίου</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg109.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg109.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1241,21 +1242,21 @@
                <number>47</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Exile</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg110.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg110.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ φυγῆς</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg110.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg110.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1266,21 +1267,21 @@
                <number>48</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Consolation to his Wife</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg111.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg111.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Παραμυθητικὸς πρὸς τὴν γυναῖκα</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg111.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg111.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -1298,21 +1299,21 @@
                <number>49</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Table Talk</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg112.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg112.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Συμποσιακά</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg112.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg112.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -1330,21 +1331,21 @@
                <number>50</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Dialogue on Love</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg113.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg113.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Ἐρωτικός</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg113.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg113.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -1362,21 +1363,21 @@
                <number>51</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Love Stories</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg114.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg114.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Ἐρωτικαὶ διηγήσεις</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg114.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg114.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1387,21 +1388,21 @@
                <number>52</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>A Philosopher Ought to Converse Especially with Men in Power</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg115.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg115.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τοῦ ὅτι μάλιστα τοὶς ἡγεμόσιν δεῖ τὸν φιλόσοφον διαλέγεσθαι</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg115.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg115.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1412,21 +1413,21 @@
                <number>53</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>To an Uneducated Ruler</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg116.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg116.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Πρὸς ἡγεμόνα ἀπαίδευτον</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg116.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg116.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1437,21 +1438,21 @@
                <number>54</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Whether an Old Man Should Engage in Public Affairs</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg117.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg117.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Εἰ πρεσβυτέρῳ πολιτευτέον</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg117.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg117.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1462,21 +1463,21 @@
                <number>55</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Precepts of Statecraft</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg118.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg118.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Πολιτικὰ παραγγέλματα</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg118.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg118.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1487,21 +1488,21 @@
                <number>56</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Monarchy, Democracy and Oligarchy</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg119.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg119.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ μοναρχίας καὶ δημοκρατίας καὶ ὀλιγαρχίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg119.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg119.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1512,21 +1513,21 @@
                <number>57</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>That we Ought Not to Borrow</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg120.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg120.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τοῦ μὴ δεῖν δανείζεσθαι</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg120.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg120.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1537,21 +1538,21 @@
                <number>58</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Lives of the Ten Orators</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg121.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg121.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Βίοι τῶν δέκα ῥητόρων</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg121.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg121.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1562,21 +1563,21 @@
                <number>59</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Comparison between Aristophanes and Menander</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg122.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg122.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Συγκρίσεως Ἀριστοφάνους καὶ Μενάνδρου ἐπιτομή</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg122.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg122.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -1594,21 +1595,21 @@
                <number>60</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Malice of Herodotus</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg123.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg123.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τῆς Ἡροδότου κακοηθείας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg123.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg123.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1619,21 +1620,21 @@
                <number>61</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Opinions of the Philosophers</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τῶν ἀρεσκόντων φιλοσόφοις φυσικῶν δογμάτων</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1644,21 +1645,21 @@
                <number>62</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Causes of Natural Phenomena</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg125.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg125.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Αἴτια φυσικά</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg125.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg125.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -1676,21 +1677,21 @@
                <number>63</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Face Which Appears in the Orb of the Moon</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg126.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg126.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τοῦ ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς σελήνης</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg126.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg126.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1701,21 +1702,21 @@
                <number>64</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Principle of Cold</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg127.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg127.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τοῦ πρώτως ψυχροῦ</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg127.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg127.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1726,21 +1727,21 @@
                <number>65</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Whether Fire or Water is More Useful</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg128.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg128.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Πότερον ὕδωρ ὴ πῦρ χρησιμότερον</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg128.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg128.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1751,21 +1752,21 @@
                <number>66</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Whether Land or Sea Animals are Cleverer</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg129.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg129.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Πότερα τῶν ζῴων φρονιμώτερα τὰ χερσαία ἢ τὰ ἔνυδρα</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg129.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg129.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1776,21 +1777,21 @@
                <number>67</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Beasts are Rational</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg130.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg130.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τοῦ τὰ ἄλογα λόγῳ χρῆσθαι</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg130.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg130.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1801,21 +1802,21 @@
                <number>68</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Eating of Flesh</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg131.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg131.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ σαρκοφαγίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg131.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg131.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -1833,21 +1834,21 @@
                <number>69</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Platonic Questions</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg133.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg133.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Πλατωνικὰ ζητήματα</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg133.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg133.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1858,21 +1859,21 @@
                <number>70</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On the Birth of the Spirit in Timaeus</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg134.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg134.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τῆς ἐν Τιμαίῳ ψυχογονίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg134.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg134.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1883,21 +1884,21 @@
                <number>71</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Summary of the Birth of the Spirit</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg135.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg135.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Ἐπιτομή τοῦ Περὶ τῆς ἐν τῷ Τιμαίῳ ψυχογονίας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg135.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg135.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1908,21 +1909,21 @@
                <number>72</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Stoic Self-Contradictions</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg136.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg136.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ Στωϊκῶν ἐναντιωμάτων</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg136.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg136.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1933,21 +1934,21 @@
                <number>73</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>The Stoics Speak More Paradoxically than the Poets</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg137.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg137.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Ὅτι παραδοξότερα οἱ Στωϊκοὶ τῶν ποιητῶν λέγουσιν</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg137.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg137.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -1958,21 +1959,21 @@
                <number>74</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Common Conceptions against the Stoics</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg138.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg138.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ τῶν κοινῶν ἐννοιῶν πρὸς τοὺς Στωϊκούς</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg138.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg138.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
@@ -1990,21 +1991,21 @@
                <number>75</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>It is Impossible to Live Pleasantly in the Manner of Epicurus</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg139.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg139.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Ὅτι οὐδὲ ἡδέως ζῆν ἔστιν κατ’ Ἐπίκουρον</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg139.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg139.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -2015,21 +2016,21 @@
                <number>76</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Against Colotes</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg140.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg140.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Πρὸς Κωλώτην</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg140.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg140.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -2040,21 +2041,21 @@
                <number>77</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Is the Saying "Live in Obscurity" Right?</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg141.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg141.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Εἰ καλῶς εἴρηται τὸ λάθε βιώσας</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg141.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg141.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
       <relatedItem type="constituent"
@@ -2065,21 +2066,21 @@
                <number>78</number>
             </detail>
          </part>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>On Music</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0094.tlg002.loeb-en-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0094.tlg002.loeb-en</identifier>
          </relatedItem>
-         <relatedItem type="constituent" otherType="manifestation">
-            <part type="manifestation">
-               <detail type="manifestation">
+         <relatedItem type="constituent" otherType="expression">
+            <part type="expression">
+               <detail type="expression">
                   <title>Περὶ μουσικῆς</title>
                </detail>
             </part>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0094.tlg002.loeb-grc-F3</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0094.tlg002.loeb-grc</identifier>
          </relatedItem>
       </relatedItem>
   </relatedItem>
