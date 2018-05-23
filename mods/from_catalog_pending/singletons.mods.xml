@@ -5262,7 +5262,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Anicii Manlii Severini Boetii Commentarii in librum Aristotelis Pars Posterior">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Anicii Manlii Severini Boetii Commentarii in librum Aristotelis Pars Posterior">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022.opp-lat1</identifier>
             </relatedItem>
@@ -5354,7 +5354,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Commentarii in librum Aristotelis de interpretatione">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Commentarii in librum Aristotelis de interpretatione">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022.opp-lat1</identifier>
             </relatedItem>
@@ -5451,7 +5451,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Commentum Terenti">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0110.stoa009</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Commentum Terenti">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Commentum Terenti">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0110.stoa009.opp-lat2</identifier>
             </relatedItem>
         </relatedItem>
@@ -5545,7 +5545,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Commentum Terenti">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0110.stoa009</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Commentum Terenti">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Commentum Terenti">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0110.stoa009.opp-lat2</identifier>
             </relatedItem>
         </relatedItem>
@@ -5638,7 +5638,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Corpus Iuris Civilis">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0168.stoa001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Corpus Iuris Civilis">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0168.stoa001.opp-lat2</identifier>
             </relatedItem>
@@ -5727,7 +5727,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Corpus Iuris Civilis">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0168.stoa001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Corpus Iuris Civilis">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0168.stoa001.opp-lat2</identifier>
             </relatedItem>
@@ -5817,7 +5817,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="De civitate dei">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa003</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="De civitate dei">
+            <relatedItem type="constituent" otherType="expression" displayLabel="De civitate dei">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa003.opp-lat2</identifier>
             </relatedItem>
         </relatedItem>
@@ -5906,7 +5906,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="De civitate dei">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa003</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="De civitate dei">
+            <relatedItem type="constituent" otherType="expression" displayLabel="De civitate dei">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa003.opp-lat2</identifier>
             </relatedItem>
         </relatedItem>
@@ -6004,7 +6004,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="De civitate dei">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa003</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="De civitate dei">
+            <relatedItem type="constituent" otherType="expression" displayLabel="De civitate dei">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa003.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -6102,7 +6102,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="De civitate dei">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa003</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="De civitate dei">
+            <relatedItem type="constituent" otherType="expression" displayLabel="De civitate dei">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa003.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -6183,7 +6183,7 @@
         </name>
         <relatedItem type="constituent" otherType="work" displayLabel="De compendiosa doctrina">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0213a.stoa001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="De compendiosa doctrina">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0213a.stoa001.opp-lat1</identifier>
             </relatedItem>
@@ -6269,7 +6269,7 @@
         </name>
         <relatedItem type="constituent" otherType="work" displayLabel="De compendiosa doctrina">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0213a.stoa001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="De compendiosa doctrina">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0213a.stoa001.opp-lat1</identifier>
             </relatedItem>
@@ -6356,7 +6356,7 @@
         </name>
         <relatedItem type="constituent" otherType="work" displayLabel="De compendiosa doctrina">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0213a.stoa001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="De compendiosa doctrina">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0213a.stoa001.opp-lat1</identifier>
             </relatedItem>
@@ -6440,7 +6440,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="De materia medica">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression" displayLabel="De materia medica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="De materia medica">
                 <identifier type="ctsurn"/>
             </relatedItem>
         </relatedItem>
@@ -6521,7 +6521,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Digest of Justinian">
             <identifier type="ctsurn">urn:cts:latinLit:phi2806.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Digest of Justinian">
                 <identifier type="ctsurn">urn:cts:latinLit:phi2806.phi002.opp-eng2</identifier>
             </relatedItem>
@@ -6612,7 +6612,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Digest of Justinian">
             <identifier type="ctsurn">urn:cts:latinLit:phi2806.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Digest of Justinian">
                 <identifier type="ctsurn">urn:cts:latinLit:phi2806.phi002.opp-eng2</identifier>
             </relatedItem>
@@ -6710,7 +6710,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Epistulae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
             </relatedItem>
         </relatedItem>
@@ -6808,7 +6808,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Epistulae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
             </relatedItem>
         </relatedItem>
@@ -6909,7 +6909,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Epistulae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
             </relatedItem>
         </relatedItem>
@@ -7011,7 +7011,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Epistulae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
             </relatedItem>
         </relatedItem>
@@ -7112,7 +7112,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Epistulae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
             </relatedItem>
         </relatedItem>
@@ -7234,7 +7234,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Epistulae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-eng2</identifier>
             </relatedItem>
         </relatedItem>
@@ -7353,7 +7353,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Epistulae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-eng2</identifier>
             </relatedItem>
         </relatedItem>
@@ -7469,7 +7469,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Epistulae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-lat4</identifier>
             </relatedItem>
         </relatedItem>
@@ -7582,7 +7582,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Epistulae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-lat4</identifier>
             </relatedItem>
         </relatedItem>
@@ -7688,7 +7688,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Epistulae Morales ad Lucilium">
             <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Epistulae Morales ad Lucilium">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015.opp-eng2</identifier>
             </relatedItem>
@@ -7792,7 +7792,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Epistulae Morales ad Lucilium">
             <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Epistulae Morales ad Lucilium">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015.opp-eng2</identifier>
             </relatedItem>
@@ -7892,7 +7892,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Epistulae Morales ad Lucilium">
             <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Epistulae Morales ad Lucilium">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015.opp-eng2</identifier>
             </relatedItem>
@@ -7996,7 +7996,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Epistulae Morales ad Lucilium">
             <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Epistulae Morales ad Lucilium">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015.opp-lat2</identifier>
             </relatedItem>
@@ -8099,7 +8099,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Epistulae Morales ad Lucilium">
             <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Epistulae Morales ad Lucilium">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015.opp-lat2</identifier>
             </relatedItem>
@@ -8200,7 +8200,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Epistulae Morales ad Lucilium">
             <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Epistulae Morales ad Lucilium">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015.opp-lat2</identifier>
             </relatedItem>
@@ -8283,7 +8283,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Fabulae Pars Altera">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0096.tlg002</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Fabulae Pars Altera">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg0096.tlg002.opp-grc3</identifier>
             </relatedItem>
@@ -8366,7 +8366,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Fabulae Pars Prior">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0096.tlg002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Fabulae Pars Prior">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Fabulae Pars Prior">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg0096.tlg002.opp-grc3</identifier>
             </relatedItem>
         </relatedItem>
@@ -8470,7 +8470,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Institutio oratoria">
             <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Institutio oratoria">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001.opp-eng3</identifier>
             </relatedItem>
@@ -8575,7 +8575,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Institutio oratoria">
             <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Institutio oratoria">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001.opp-eng3</identifier>
             </relatedItem>
@@ -8675,7 +8675,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Institutio oratoria">
             <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Institutio oratoria">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001.opp-eng3</identifier>
             </relatedItem>
@@ -8776,7 +8776,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Institutio oratoria">
             <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Institutio oratoria">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001.opp-eng3</identifier>
             </relatedItem>
@@ -8866,7 +8866,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Institutio oratoria">
             <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Institutio oratoria">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001.opp-eng5</identifier>
             </relatedItem>
@@ -8956,7 +8956,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Institutio oratoria">
             <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Institutio oratoria">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001.opp-eng5</identifier>
             </relatedItem>
@@ -9078,7 +9078,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Isidori Hispalensis Episcopi Etymologiarvm sive originvm libri XX Tomus I Libros I-X">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0159.stoa004</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Isidori Hispalensis Episcopi Etymologiarvm sive originvm libri XX Tomus I Libros I-X">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0159.stoa004.opp-lat4</identifier>
             </relatedItem>
@@ -9192,7 +9192,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Isidori Hispalensis Episcopi Etymologiarvm sive originvm libri XX Tomus II Part XI-XX">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0159.stoa004</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Isidori Hispalensis Episcopi Etymologiarvm sive originvm libri XX Tomus II Part XI-XX">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0159.stoa004.opp-lat4</identifier>
             </relatedItem>
@@ -9291,7 +9291,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Noctes Atticae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Noctes Atticae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Noctes Atticae">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001.opp-eng2</identifier>
             </relatedItem>
         </relatedItem>
@@ -9392,7 +9392,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Noctes Atticae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Noctes Atticae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Noctes Atticae">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001.opp-eng2</identifier>
             </relatedItem>
         </relatedItem>
@@ -9490,7 +9490,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Noctes Atticae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Noctes Atticae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Noctes Atticae">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001.opp-eng2</identifier>
             </relatedItem>
         </relatedItem>
@@ -9590,7 +9590,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Noctes Atticae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Noctes Atticae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Noctes Atticae">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001.opp-lat1</identifier>
             </relatedItem>
         </relatedItem>
@@ -9689,7 +9689,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Noctes Atticae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Noctes Atticae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Noctes Atticae">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001.opp-lat1</identifier>
             </relatedItem>
         </relatedItem>
@@ -9787,7 +9787,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Noctes Atticae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Noctes Atticae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Noctes Atticae">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -9888,7 +9888,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Noctes Atticae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Noctes Atticae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Noctes Atticae">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -9986,7 +9986,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Noctes Atticae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Noctes Atticae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Noctes Atticae">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -10082,7 +10082,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Punica">
             <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Punica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Punica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-eng2</identifier>
             </relatedItem>
         </relatedItem>
@@ -10178,7 +10178,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Punica">
             <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Punica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Punica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -10274,7 +10274,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Punica">
             <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Punica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Punica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -10361,7 +10361,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Punica">
             <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Punica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Punica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-lat4</identifier>
             </relatedItem>
         </relatedItem>
@@ -10448,7 +10448,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Punica">
             <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Punica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Punica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-lat4</identifier>
             </relatedItem>
         </relatedItem>
@@ -10544,7 +10544,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-eng3</identifier>
             </relatedItem>
         </relatedItem>
@@ -10645,7 +10645,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-eng3</identifier>
             </relatedItem>
         </relatedItem>
@@ -10734,7 +10734,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-eng3</identifier>
             </relatedItem>
         </relatedItem>
@@ -10823,7 +10823,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat11</identifier>
             </relatedItem>
         </relatedItem>
@@ -10919,7 +10919,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat11</identifier>
             </relatedItem>
         </relatedItem>
@@ -11002,7 +11002,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat11</identifier>
             </relatedItem>
         </relatedItem>
@@ -11095,7 +11095,7 @@
         </name>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -11185,7 +11185,7 @@
         </name>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -11276,7 +11276,7 @@
         </name>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -11366,7 +11366,7 @@
         </name>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -11457,7 +11457,7 @@
         </name>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -11549,7 +11549,7 @@
         </name>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -11639,7 +11639,7 @@
         </name>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Res Rustica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
             </relatedItem>
         </relatedItem>
@@ -11757,7 +11757,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="In Aristotelis physicorum libros commentaria">
             <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg004</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="In Aristotelis physicorum libros commentaria">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg004.opp-grc1</identifier>
             </relatedItem>
@@ -11876,7 +11876,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="In Aristotelis physicorum libros commentaria">
             <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg004</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="In Aristotelis physicorum libros commentaria">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg004.opp-grc1</identifier>
             </relatedItem>
@@ -12005,7 +12005,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="(Sophoniae) in parva naturalia commentarium">
             <identifier type="ctsurn">urn:cts:greekLit:tlg2001.tlg041</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="(Sophoniae) in parva naturalia commentarium">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg2001.tlg041.opp-grc1</identifier>
             </relatedItem>
@@ -12093,7 +12093,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Ab excessu divi Marci libri octo">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Ab excessu divi Marci libri octo">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -12267,7 +12267,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Acta Philippi et Acta Thomae accedunt Acta Barnabae">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Acta Philippi et Acta Thomae accedunt Acta Barnabae">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -12432,7 +12432,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Acta apostolorum apocrypha Vol. 1">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Acta apostolorum apocrypha Vol. 1">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -12560,7 +12560,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Acta apostolorum apocrypha Vol. 2.1">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Acta apostolorum apocrypha Vol. 2.1">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -12615,7 +12615,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Agathemeri Orthonis Geographiae Hypotyposis">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Agathemeri Orthonis Geographiae Hypotyposis">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001.opp-lat7</identifier>
             </relatedItem>
@@ -12669,7 +12669,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Agathemeris Orthonis filii Geographiae repraesentatio compendiaria">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Agathemeris Orthonis filii Geographiae repraesentatio compendiaria">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001.opp-lat8</identifier>
             </relatedItem>
@@ -12750,7 +12750,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Agathemeris Orthonis filii compendiariae geographiae expositionum libri duo">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Agathemeris Orthonis filii compendiariae geographiae expositionum libri duo">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001.opp-grc9</identifier>
             </relatedItem>
@@ -12841,7 +12841,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -12933,7 +12933,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Alexandri in Aristotelis analyticorum priorum librum i commentarium">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Alexandri in Aristotelis analyticorum priorum librum i commentarium">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -13028,7 +13028,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Anatolius sur les dix premiers nombres">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Anatolius sur les dix premiers nombres">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -13145,7 +13145,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Andronici Rhodii qui fertur libelli Peri pathōn. Pars altera, De virtutibus et vitiis">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Andronici Rhodii qui fertur libelli Peri pathōn. Pars altera, De virtutibus et vitiis">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -13248,7 +13248,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Andronici qui fertur libelli Peri pathōn, pars prior">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Andronici qui fertur libelli Peri pathōn, pars prior">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -13351,7 +13351,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Apocrypha Anecdota II (Texts and Studies 5.1)">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Apocrypha Anecdota II (Texts and Studies 5.1)">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -13447,7 +13447,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Apocrypha anecdota [Texts and Studies 2.3]">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Apocrypha anecdota [Texts and Studies 2.3]">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -13565,7 +13565,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Apollonii Dyscoli quae supersunt Volumen alterum Apollonii Dyscoli De constructione libri quattuor">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Apollonii Dyscoli quae supersunt Volumen alterum Apollonii Dyscoli De constructione libri quattuor">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -13783,7 +13783,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Apollonii Dyscoli quae svpersunt Volumen Primus, Fasc I">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Apollonii Dyscoli quae svpersunt Volumen Primus, Fasc I">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -13862,7 +13862,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Aristotelis Ars rhetorica">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Aristotelis Ars rhetorica">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -14108,7 +14108,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Athenagorae philosophi Atheniensis Opera">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Athenagorae philosophi Atheniensis Opera">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -14218,7 +14218,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Belopoeica">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0559.tlg012</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Belopoeica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Belopoeica">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg0559.tlg012.opp-grc1</identifier>
             </relatedItem>
         </relatedItem>
@@ -14291,7 +14291,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="C. Ateio Capitonis Fragmenta">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="C. Ateio Capitonis Fragmenta">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -14363,7 +14363,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Choricius Gazaeus Opera">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Choricius Gazaeus Opera">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -14437,7 +14437,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Choricius Gazaeus Opera">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Choricius Gazaeus Opera">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -14594,7 +14594,7 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="work" displayLabel="Chronographia">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Chronographia">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Chronographia">
                 <identifier type="ctsurn"/>
             </relatedItem>
         </relatedItem>
@@ -15676,7 +15676,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Cornelii Nepotis Vitae cum fragmentis">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Cornelii Nepotis Vitae cum fragmentis">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -15829,7 +15829,7 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="work" displayLabel="De Bospori navigatione">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="De Bospori navigatione">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -15914,7 +15914,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="De Victu Attenuante">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="De Victu Attenuante">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -15997,7 +15997,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="De chorographia libri tres">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="De chorographia libri tres">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -16081,7 +16081,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="De materia medica">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression" displayLabel="De materia medica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="De materia medica">
                 <identifier type="ctsurn"/>
             </relatedItem>
         </relatedItem>
@@ -16177,7 +16177,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="De venenatis animalibus eorumque remediis">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="De venenatis animalibus eorumque remediis">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -16346,7 +16346,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Die Briefe des Sextus Julius Africanus an Aristides und Origenes">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Die Briefe des Sextus Julius Africanus an Aristides und Origenes">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -16452,7 +16452,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Epiphanius Band I Ancoratus und Panarion: (Ancoratus und Panarion Haer. 1-33)">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Epiphanius Band I Ancoratus und Panarion: (Ancoratus und Panarion Haer. 1-33)">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -16605,7 +16605,7 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="work" displayLabel="Epistula ad Mechemet II">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Epistula ad Mechemet II">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -16761,7 +16761,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Fragmenta ex Historica Chronica">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Fragmenta ex Historica Chronica">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -16869,7 +16869,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Griechische Poliorketiker">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Griechische Poliorketiker">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -17118,7 +17118,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Gynaeciorvm libri IV, De signis fractvrarvm">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Gynaeciorvm libri IV, De signis fractvrarvm">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -17387,7 +17387,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Hermogenis opera">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Hermogenis opera">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Hermogenis opera">
                 <identifier type="ctsurn"/>
             </relatedItem>
         </relatedItem>
@@ -17478,7 +17478,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Herodiani ab excessu divi Marci libri octo">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Herodiani ab excessu divi Marci libri octo">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001.opp-grc1</identifier>
             </relatedItem>
@@ -17623,7 +17623,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Herodiani technici Reliquiae Praefationem et Heroodiani Prosodiam Catholicam Volume I">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Herodiani technici Reliquiae Praefationem et Heroodiani Prosodiam Catholicam Volume I">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -18840,7 +18840,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Herodiani technici Reliquiae Reliqua Scripta Prosodiaca Pathologiam Orthographica Volume II">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Herodiani technici Reliquiae Reliqua Scripta Prosodiaca Pathologiam Orthographica Volume II">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -19017,7 +19017,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Heronis Alexandrini Opera quae supersunt omnia Vol 4 Heronis Definitiones cum Variis Collectionibus, Heronis Quae Feruntur Geometrica">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Heronis Alexandrini Opera quae supersunt omnia Vol 4 Heronis Definitiones cum Variis Collectionibus, Heronis Quae Feruntur Geometrica">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -19240,7 +19240,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Heronis Alexandrini Opera quae supersunt omnia Vol 5 Heronis quae feruntur sterometrica et de mensuris">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Heronis Alexandrini Opera quae supersunt omnia Vol 5 Heronis quae feruntur sterometrica et de mensuris">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -19334,7 +19334,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Historia ecclesiastica">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Historia ecclesiastica">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -19489,7 +19489,7 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="work" displayLabel="Historiae">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Historiae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Historiae">
                 <identifier type="ctsurn"/>
             </relatedItem>
         </relatedItem>
@@ -19579,7 +19579,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Historiae Animalium Epitome subiunctis Aeliani Timothei aliorumque eclogis">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0644.tlg001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Historiae Animalium Epitome subiunctis Aeliani Timothei aliorumque eclogis">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg0644.tlg001.1st1K-grc1</identifier>
             </relatedItem>
@@ -19736,7 +19736,7 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="work" displayLabel="Homiliae">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Homiliae">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Homiliae">
                 <identifier type="ctsurn"/>
             </relatedItem>
         </relatedItem>
@@ -20050,7 +20050,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Hyperidis Orationes sex cum ceterarum fragmentis">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Hyperidis Orationes sex cum ceterarum fragmentis">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -20154,7 +20154,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="In Platonis Phaedrum scholia">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="In Platonis Phaedrum scholia">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -20241,7 +20241,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Institutio Logica">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Institutio Logica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Institutio Logica">
                 <identifier type="ctsurn"/>
             </relatedItem>
         </relatedItem>
@@ -20342,7 +20342,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Les actes de Pierre">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Les actes de Pierre">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -20873,7 +20873,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="M. Cornelii Frontonis Epistulae adnotatione critica instructae">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="M. Cornelii Frontonis Epistulae adnotatione critica instructae">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -20972,7 +20972,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Myriobiblion sive Bibliotheca">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Myriobiblion sive Bibliotheca">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -21061,7 +21061,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Patrologia Syriaca 2, Appendix">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Patrologia Syriaca 2, Appendix">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -21146,7 +21146,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Peri aneimenou libellus">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Peri aneimenou libellus">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -21244,7 +21244,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Pseudo-Augustini Quaestiones Veteris et Novi Testamenti CXXVII">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0022a.stoa001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Pseudo-Augustini Quaestiones Veteris et Novi Testamenti CXXVII">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0022a.stoa001.opp-lat1</identifier>
             </relatedItem>
@@ -21341,7 +21341,7 @@
         </subject>
         <relatedItem type="constituent" otherType="work" displayLabel="Punica">
             <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001</identifier>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Punica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Punica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-eng2</identifier>
             </relatedItem>
         </relatedItem>
@@ -21471,7 +21471,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Quae Fertur In Aristotelis Analyticorum Priorum Librum I">
             <identifier type="ctsurn">urn:cts:greekLit:tlg2001.tlg042</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Quae Fertur In Aristotelis Analyticorum Priorum Librum I">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg2001.tlg042.opp-grc1</identifier>
             </relatedItem>
@@ -21565,7 +21565,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -21656,7 +21656,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Vita Porphyrii episcopi gazensis">
             <identifier type="ctsurn">urn:cts:greekLit:tlg2806.tlg001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Vita Porphyrii episcopi gazensis">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg2806.tlg001.1st1K-grc1</identifier>
             </relatedItem>
@@ -21791,7 +21791,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="in Aristotelis Analytica Posteriora commentaria">
             <identifier type="ctsurn">urn:cts:greekLit:tlg4015.tlg004</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="in Aristotelis Analytica Posteriora commentaria">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg4015.tlg004.opp-grc1</identifier>
             </relatedItem>
@@ -21988,7 +21988,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Davidis prolegomena et in Porphyrii isagogen commentarium">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Davidis prolegomena et in Porphyrii isagogen commentarium">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -22221,7 +22221,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Eliae in Porphyrii isagogen et Aristotelis categorias commentaria">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Eliae in Porphyrii isagogen et Aristotelis categorias commentaria">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -22318,7 +22318,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Eudociae Augustae Violarium">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="Eudociae Augustae Violarium">
                 <identifier type="ctsurn"/>
             </relatedItem>
@@ -22439,7 +22439,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="In Aristotelis Categorias Commentarium">
             <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg003</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="In Aristotelis Categorias Commentarium">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg003.opp-grc1</identifier>
             </relatedItem>
@@ -22561,7 +22561,7 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="In Aristotelis quattuor libros de caelo commentaria">
             <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg001</identifier>
-            <relatedItem type="constituent" othertype="expression"
+            <relatedItem type="constituent" otherType="expression"
                 displayLabel="In Aristotelis quattuor libros de caelo commentaria">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg001.opp-grc1</identifier>
             </relatedItem>
@@ -22649,7 +22649,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Astronomica">
             <identifier type="ctsurn"/>
-            <relatedItem type="constituent" othertype="expression" displayLabel="Astronomica">
+            <relatedItem type="constituent" otherType="expression" displayLabel="Astronomica">
                 <identifier type="ctsurn"/>
             </relatedItem>
         </relatedItem>
