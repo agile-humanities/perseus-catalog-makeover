@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<relatedItems>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <!-- Theano not found in MODS -->
+   <relatedItem type="constituent" otherType="manifestation" displayLabel="Testimonia">
+      <relatedItem type="constituent" otherType="section">
+         <part type="section">
+            <detail type="section">
+               <title>Testimonia</title>
+            </detail>
+         </part>
+         <identifier type="ctsurn">urn:cts:greekLit:tlg0054.tlg002.opp-eng1-F3</identifier>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section">
+         <part type="section">
+            <detail type="section">
+               <title>Testimonia</title>
+            </detail>
+         </part>
+         <identifier type="ctsurn">urn:cts:greekLit:tlg0054.tlg002.opp-grc1-F3</identifier>
+      </relatedItem>
+   </relatedItem>
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+</relatedItems>

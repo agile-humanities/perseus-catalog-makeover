@@ -4938,7 +4938,6 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="Epistulae">
         <titleInfo type="uniform">
             <title>Epistulae</title>
@@ -5040,6 +5039,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
+    
     <mods displayLabel="Epistulae">
         <titleInfo xml:lang="en" type="uniform">
             <title>Epistulae</title>

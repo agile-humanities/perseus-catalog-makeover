@@ -1,0 +1,14 @@
+prefix :  <http://erlangen-crm.org/efrbroo/> 
+prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> 
+prefix schema: <http://schema.org/> 
+prefix pcat: <http://catalog.perseus.org/> 
+prefix tlg: <http://catalog.perseus.org/works/tlg/> 
+prefix author: <http://catalog.perseus.org/authors/>
+prefix work: <http://catalog.perseus.org/works/> 
+prefix expression: <http://catalog.perseus.org/expressions/> 
+
+select ?s ?l
+where {
+  ?s a :F22_Self_Contained_Expression ;
+     rdfs:label ?l .
+  }

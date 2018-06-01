@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data n="19">
+    <item title="Plato in twelve volumes: with an English translation" count="13">
+        <mods:relatedItem xmlns:mods="http://www.loc.gov/mods/v3" type="host">
+            <mods:titleInfo>
+                <mods:title>Plato in twelve volumes: with an English translation</mods:title>
+                <mods:partName>Cratylus, Parmenides, Greater Hippias, Lesser Hippias</mods:partName>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                <mods:namePart>Plato</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n89-623884.html">
+                <mods:namePart>Fowler, Harold North</mods:namePart>
+                <mods:namePart type="date">1859-1955</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">mau</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Cambridge, Mass</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Harvard university press</mods:publisher>
+                <mods:publisher>W. Heinemann, ltd.</mods:publisher>
+                <mods:dateIssued>1926</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>viii, 479 pages ; 17 cm.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note>Greek and English on opposite pages.</mods:note>
+            <mods:relatedItem type="series">
+                <mods:titleInfo>
+                    <mods:title>The Loeb classical library</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+            <mods:identifier type="oclc">8354792</mods:identifier>
+            <mods:identifier type="isbn">0674991850</mods:identifier>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/8354792</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">OCoLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc"/>
+                <mods:recordChangeDate encoding="iso8601"/>
+                <mods:recordIdentifier/>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg029.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Cleitophon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg032.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Critias</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg009.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Parmenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg012.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Phaedrus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg031.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Timaeus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Apology</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Crito</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Euthyphro</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg034.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Laws</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg036.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Letters</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg028.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Menexenus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Phaedo</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg030.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Republic</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Plato in twelve volumes: with an English translation" count="13">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Plato in twelve volumes: with an English translation</title>
+                <partName>Timaeus, Critias, Cleitophon, Menexenus [and] Epistles.</partName>
+                <partNumber>Vol 9</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                <namePart>Plato</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr87-721.html">
+                <namePart>Bury, Robert Gregg</namePart>
+                <namePart type="date">b. 1869</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge, Mass</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>Harvard university press</publisher>
+                <publisher>W. Heinemann, ltd.</publisher>
+                <edition>Reprint</edition>
+                <dateIssued>1929</dateIssued>
+                <dateModified>1966</dateModified>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>1 v.</extent>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <classification authority="lcc">PA3612 .P67</classification>
+            <relatedItem type="series">
+                <titleInfo>
+                    <title>The Loeb classical library</title>
+                </titleInfo>
+            </relatedItem>
+            <identifier type="oclc">154198067</identifier>
+
+
+            <location>
+                <url displayLabel="WorldCat">http://worldcat.org/oclc/154198067</url>
+            </location>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg029.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Cleitophon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg032.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Critias</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg009.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Parmenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg012.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Phaedrus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg031.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Timaeus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Apology</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Crito</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Euthyphro</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg034.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Laws</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg036.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Letters</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg028.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Menexenus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Phaedo</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg030.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Republic</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Plato in twelve volumes: with an English translation" count="13">
+        <mods:relatedItem xmlns:mods="http://www.loc.gov/mods/v3" type="host">
+            <mods:titleInfo>
+                <mods:title>Plato in twelve volumes: with an English translation</mods:title>
+                <mods:partNumber>Vol 1</mods:partNumber>
+                <mods:partName>Euthyphro, Apology, Crito, Phaedo, Phaedrus</mods:partName>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                <mods:namePart>Plato</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n89-623884.html">
+                <mods:namePart>Fowler, Harold North</mods:namePart>
+                <mods:namePart type="date">1859-1955</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">mau</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Cambridge, Mass</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Harvard university press</mods:publisher>
+                <mods:publisher>W. Heinemann, ltd.</mods:publisher>
+                <mods:edition>Reprint</mods:edition>
+                <mods:dateIssued>1966</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>1 v.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note>Greek and English on opposite pages.</mods:note>
+            <mods:classification authority="lcc">PA3612 .P67 1935</mods:classification>
+            <mods:relatedItem type="series">
+                <mods:titleInfo>
+                    <mods:title>The Loeb classical library</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+            <mods:identifier type="oclc">154198067</mods:identifier>
+            <mods:identifier type="isbn">0674990404</mods:identifier>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/154198067</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">OCoLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc"/>
+                <mods:recordChangeDate encoding="iso8601"/>
+                <mods:recordIdentifier/>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg029.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Cleitophon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg032.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Critias</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg009.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Parmenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg012.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Phaedrus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg031.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Timaeus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Apology</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Crito</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Euthyphro</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg034.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Laws</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg036.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Letters</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg028.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Menexenus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Phaedo</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg030.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Republic</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+
+    <item title="Plato in twelve volumes: with an English translation" count="13">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Plato in twelve volumes: with an English translation</title>
+                <partName>Laws</partName>
+                <partNumber>Vols 10-11</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                <namePart>Plato</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr87-721.html">
+                <namePart>Bury, Robert Gregg</namePart>
+                <namePart type="date">b. 1869</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="marc">biography</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge</placeTerm>
+                </place>
+                <publisher>Harvard University Press</publisher>
+                <dateIssued>1967-1968</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>v. fronts. (v. 1: port.) plans. 17 cm.</extent>
+            </physicalDescription>
+            <classification authority="lcc">PA3612 .P6 1917</classification>
+            <identifier type="oclc">19445554</identifier>
+            <location>
+                <url displayLabel="WorldCat">http://worldcat.org/oclc/19445554</url>
+            </location>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg029.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Cleitophon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg032.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Critias</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg009.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Parmenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg012.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Phaedrus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg031.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Timaeus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Apology</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Crito</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Euthyphro</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg034.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Laws</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg036.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Letters</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg028.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Menexenus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Phaedo</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg030.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Republic</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Plato in twelve volumes: with an English translation" count="13">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Plato in twelve volumes: with an English translation</title>
+                <partName>Plato: Timaeus, Critias, Cleitophon, Menexenus [and] Epistles.</partName>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                <namePart>Plato</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr87-721.html">
+                <namePart>Bury, Robert Gregg</namePart>
+                <namePart type="date">b. 1869</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="marc">biography</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge</placeTerm>
+                </place>
+                <publisher>Harvard University Press</publisher>
+                <dateModified>1966</dateModified>
+                <dateIssued>1929</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>v. fronts. (v. 1: port.) plans. 17 cm.</extent>
+            </physicalDescription>
+            <classification authority="lcc">PA3612 .P6 1917</classification>
+            <identifier type="oclc">377293</identifier>
+            <location>
+                <url displayLabel="WorldCat">http://worldcat.org/oclc/377293</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">830126</recordCreationDate>
+                <recordChangeDate encoding="iso8601">00000000000000.0 </recordChangeDate>
+                <recordIdentifier>9186317 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg029.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Cleitophon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg032.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Critias</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg009.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Parmenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg012.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Phaedrus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg031.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Timaeus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Apology</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Crito</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Euthyphro</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg034.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Laws</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg036.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Letters</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg028.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Menexenus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Phaedo</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg030.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Republic</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Plato in twelve volumes: with an English translation" count="13">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Plato in twelve volumes: with an English translation</title>
+                <partName>Republic</partName>
+                <partNumber>Vols 5-6</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                <namePart>Plato</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n80-80289.html">
+                <namePart>Shorey, Paul</namePart>
+                <namePart type="date">1857-1934</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge, Mass</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>Harvard university press</publisher>
+                <publisher>W. Heinemann, ltd.</publisher>
+                <edition>Reprint</edition>
+                <dateModified>1969-1970</dateModified>
+                <dateIssued>1935</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>2 v. 17 cm.</extent>
+            </physicalDescription>
+            <note type="statement of responsibility">with an English translation by Paul Shorey
+                ...</note>
+            <note>Greek and English on opposite pages.</note>
+            <classification authority="lcc">PA3612 .P67 1935</classification>
+            <relatedItem type="series">
+                <titleInfo>
+                    <title>The Loeb classical library ... [Greek authors] [from old catalog]</title>
+                </titleInfo>
+            </relatedItem>
+            <identifier type="oclc">1886340</identifier>
+            <location>
+                <url displayLabel="WorldCat">http://worldcat.org/oclc/1886340</url>
+            </location>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg029.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Cleitophon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg032.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Critias</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg009.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Parmenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg012.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Phaedrus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg031.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Timaeus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Apology</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Crito</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Euthyphro</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg034.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Laws</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg036.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Letters</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg028.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Menexenus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Phaedo</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg030.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Republic</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Plato in twelve volumes: with an English translation" count="13">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Plato in twelve volumes: with an English translation</title>
+                <partName>Timaeus, Critias, Cleitophon, Menexenus [and] Epistles.</partName>
+                <partNumber>Vol 9</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                <namePart>Plato</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr87-721.html">
+                <namePart>Bury, Robert Gregg</namePart>
+                <namePart type="date">b. 1869</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge, Mass</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>Harvard university press</publisher>
+                <publisher>W. Heinemann, ltd.</publisher>
+                <edition>Reprint</edition>
+                <dateIssued>1929</dateIssued>
+                <dateModified>1966</dateModified>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>1 v.</extent>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <classification authority="lcc">PA3612 .P67</classification>
+            <relatedItem type="series">
+                <titleInfo>
+                    <title>The Loeb classical library</title>
+                </titleInfo>
+            </relatedItem>
+            <identifier type="oclc">154198067</identifier>
+
+
+            <location>
+                <url displayLabel="WorldCat">http://worldcat.org/oclc/154198067</url>
+            </location>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg029.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Cleitophon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg032.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Critias</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg009.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Parmenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg012.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Phaedrus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg031.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Timaeus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Apology</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Crito</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Euthyphro</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg034.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Laws</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg036.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Letters</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg028.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Menexenus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Phaedo</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg030.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Republic</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Plato in twelve volumes: with an English translation" count="13">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Plato in twelve volumes: with an English translation</title>
+                <partNumber>Vol 1</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                <namePart>Plato</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n89-623884.html">
+                <namePart>Fowler, Harold North</namePart>
+                <namePart type="date">1859-1955</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge, Mass</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>Harvard university press</publisher>
+                <publisher>W. Heinemann, ltd.</publisher>
+                <edition>Reprint</edition>
+                <dateIssued>1966</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>1 v.</extent>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <classification authority="lcc">PA3612 .P67 1935</classification>
+            <relatedItem type="series">
+                <titleInfo>
+                    <title>The Loeb classical library</title>
+                </titleInfo>
+            </relatedItem>
+            <identifier type="oclc">154198067</identifier>
+            <identifier type="isbn">0674990404</identifier>
+            <identifier>1999.01.0170</identifier>
+            <location>
+                <url displayLabel="WorldCat">http://worldcat.org/oclc/154198067</url>
+            </location>
+            <location>
+                <url displayLabel="Perseus" note="English"
+                    >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.01.0170</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+                <recordCreationDate encoding="marc"/>
+                <recordChangeDate encoding="iso8601"/>
+                <recordIdentifier/>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg029.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Cleitophon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg032.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Critias</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg009.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Parmenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg012.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Phaedrus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg031.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Timaeus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Apology</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Crito</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Euthyphro</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg034.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Laws</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg036.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Letters</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg028.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Menexenus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Phaedo</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg030.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Republic</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Plato in twelve volumes: with an English translation" count="13">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Plato in twelve volumes: with an English translation</title>
+                <partNumber>Vol 1</partNumber>
+                <partName>Euthyphro, Apology, Crito, Phaedo, Phaedrus</partName>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                <namePart>Plato</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n89-623884.html">
+                <namePart>Fowler, Harold North</namePart>
+                <namePart type="date">1859-1955</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge, Mass</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>Harvard university press</publisher>
+                <publisher>W. Heinemann, ltd.</publisher>
+                <edition>Reprint</edition>
+                <dateIssued>1966</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>1 v.</extent>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <classification authority="lcc">PA3612 .P67 1935</classification>
+            <relatedItem type="series">
+                <titleInfo>
+                    <title>The Loeb classical library</title>
+                </titleInfo>
+            </relatedItem>
+            <identifier type="oclc">154198067</identifier>
+            <identifier type="isbn">0674990404</identifier>
+            <location>
+                <url displayLabel="WorldCat">http://worldcat.org/oclc/154198067</url>
+            </location>
+            <location>
+                <url displayLabel="Perseus" note="English"
+                    >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.01.0170</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+                <recordCreationDate encoding="marc"/>
+                <recordChangeDate encoding="iso8601"/>
+                <recordIdentifier/>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg029.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Cleitophon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg032.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Critias</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg009.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Parmenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg012.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Phaedrus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg031.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Timaeus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Apology</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Crito</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Euthyphro</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg034.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Laws</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg036.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Letters</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg028.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Menexenus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Phaedo</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg030.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Republic</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Plato in twelve volumes: with an English translation" count="13">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Plato in twelve volumes: with an English translation</title>
+                <partNumber>Vol 1</partNumber>
+                <partName>Euthyphro, Apology, Crito, Phaedo, Phaedrus</partName>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                <namePart>Plato</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n89-623884.html">
+                <namePart>Fowler, Harold North</namePart>
+                <namePart type="date">1859-1955</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge, Mass</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>Harvard university press</publisher>
+                <publisher>W. Heinemann, ltd.</publisher>
+                <edition>Reprint</edition>
+                <dateIssued>1966</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>1 v.</extent>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <classification authority="lcc">PA3612 .P67 1935</classification>
+            <relatedItem type="series">
+                <titleInfo>
+                    <title>The Loeb classical library</title>
+                </titleInfo>
+            </relatedItem>
+            <identifier type="oclc">154198067</identifier>
+            <identifier type="isbn">0674990404</identifier>
+            <identifier>1999.01.0170</identifier>
+            <location>
+                <url displayLabel="WorldCat">http://worldcat.org/oclc/154198067</url>
+            </location>
+            <location>
+                <url displayLabel="Perseus" note="English"
+                    >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.01.0170</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+                <recordCreationDate encoding="marc"/>
+                <recordChangeDate encoding="iso8601"/>
+                <recordIdentifier/>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg029.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Cleitophon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg032.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Critias</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg009.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Parmenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg012.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Phaedrus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg031.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Timaeus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Apology</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Crito</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Euthyphro</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg034.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Laws</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg036.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Letters</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg028.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Menexenus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Phaedo</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0059.tlg030.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Republic</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+
+</data>

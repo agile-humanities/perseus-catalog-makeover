@@ -1,0 +1,17 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms" xmlns:efrbroo="http://erlangen-crm.org/efrbroo/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:local="http://www.perseus.tufts.edu/">
+   <mads:authority>
+      <mads:titleInfo>
+         <mads:title>Tiberius Illustrius</mads:title>
+      </mads:titleInfo>
+   </mads:authority>
+   <mads:identifier type="ctsurn">urn:cts:greekLit:tlg2126</mads:identifier>
+   <mads:extension>
+      <rdf:RDF>
+         <rdf:Description about="urn:cts:greekLit:tlg2126">
+            <rdfs:label>Tiberius Illustrius</rdfs:label>
+            <rdf:type rdf:resource="efrbroo:F15_Complex_Work"/>
+            <efrbroo:P48_has_preferred_identifier>urn:cts:greekLit:tlg2126</efrbroo:P48_has_preferred_identifier>
+         </rdf:Description>
+      </rdf:RDF>
+   </mads:extension>
+</mads:mads>

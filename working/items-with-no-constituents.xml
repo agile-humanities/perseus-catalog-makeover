@@ -1,0 +1,1619 @@
+<data n="01">
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host" displayLabel="Tetralogia III">
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Platonis Opera</mods:title>
+                    <mods:partNumber>Tomus II</mods:partNumber>
+                    <mods:partName>Tetralogia III-IV</mods:partName>
+                </mods:titleInfo>
+                <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                    ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                    <mods:namePart>Plato</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                    ns2:href="http://errol.oclc.org/laf/n50-32347.html">
+                    <mods:namePart>Burnet, John</mods:namePart>
+                    <mods:namePart type="date">1863- 1928</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:typeOfResource>text</mods:typeOfResource>
+                <mods:originInfo>
+                    <mods:place>
+                        <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                    </mods:place>
+                    <mods:place>
+                        <mods:placeTerm type="text">Oxonii</mods:placeTerm>
+                    </mods:place>
+                    <mods:publisher>e typographeo Clarendoniano</mods:publisher>
+                    <mods:dateModified>1964</mods:dateModified>
+                    <mods:edition>Reprint</mods:edition>
+                    <mods:dateIssued>1901</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                </mods:originInfo>
+                <mods:language objectPart="preface">
+                    <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                </mods:language>
+                <mods:language objectPart="text">
+                    <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                </mods:language>
+                <mods:physicalDescription>
+                    <mods:form authority="marcform">print</mods:form>
+                    <mods:extent/>
+                    <mods:note>Page numbers taken from Stephanus edition</mods:note>
+                </mods:physicalDescription>
+                <mods:note type="statement of responsibility">recognovit breviqve adnotatione
+                    critica instrvxit Ioannes Burnet</mods:note>
+                <mods:note>Signed introduction of vol. 1 dated November, 1899</mods:note>
+                <mods:note>Originally planned in 6 volumes</mods:note>
+                <mods:tableOfContents>t. 2. (Tetralogia III-IV). Parmenides ; Philebus ; Symposium ; Phaedrus ;
+                Alcibiades I-II ; Hipparchus ; Amatores</mods:tableOfContents>
+                <mods:classification authority="lcc">PA3405.S8</mods:classification>
+                <mods:classification authority="lcc">PA4279</mods:classification>
+                <mods:classification authority="ddc">184</mods:classification>
+                <mods:identifier type="lccn">05029044</mods:identifier>
+                <mods:identifier type="oclc">4124457</mods:identifier>
+                <mods:location>
+                    <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="GoogleBooks" note="Snippet View"/>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/MN40030ucmf_0 </mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/operarecognovitb02platuoft</mods:url>
+                </mods:location>
+                <mods:recordInfo>
+                    <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                    <mods:recordCreationDate encoding="marc">840302</mods:recordCreationDate>
+                    <mods:recordChangeDate encoding="iso8601">00000000000000.0</mods:recordChangeDate>
+                    <mods:recordIdentifier>6799875</mods:recordIdentifier>
+                </mods:recordInfo>
+            </mods:relatedItem>
+        </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host" displayLabel="Tetralogia V">
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Platonis Opera</mods:title>
+                    <mods:partNumber>Tomus III</mods:partNumber>
+                    <mods:partName>Tetralogia V-VII</mods:partName>
+                </mods:titleInfo>
+                <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                    ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                    <mods:namePart>Plato</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                    ns2:href="http://errol.oclc.org/laf/n50-32347.html">
+                    <mods:namePart>Burnet, John</mods:namePart>
+                    <mods:namePart type="date">1863- 1928</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:typeOfResource>text</mods:typeOfResource>
+                <mods:originInfo>
+                    <mods:place>
+                        <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                    </mods:place>
+                    <mods:place>
+                        <mods:placeTerm type="text">Oxonii</mods:placeTerm>
+                    </mods:place>
+                    <mods:publisher>e typographeo Clarendoniano</mods:publisher>
+                    <mods:dateModified>1961</mods:dateModified>
+                    <mods:edition>Reprint</mods:edition>
+                    <mods:dateIssued>1903</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                </mods:originInfo>
+                <mods:language objectPart="preface">
+                    <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                </mods:language>
+                <mods:language objectPart="text">
+                    <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                </mods:language>
+                <mods:physicalDescription>
+                    <mods:form authority="marcform">print</mods:form>
+                    <mods:extent/>
+                    <mods:note>Page numbers from Stephanus edition</mods:note>
+                </mods:physicalDescription>
+                <mods:note type="statement of responsibility">recognovit breviqve adnotatione
+                    critica instrvxit Ioannes Burnet</mods:note>
+                <mods:note>Signed introduction of vol. 1 dated November, 1899</mods:note>
+                <mods:note>Originally planned in 6 volumes</mods:note>
+                <mods:tableOfContents>t. 3. (Tetralogia V-VII) Theages ; Charmides ; Laches ; Lysis ; Euthydemus ;
+                Protagoras ; Gorgias ; Meno ; Hippias Maior ; Hippias Minor ; Io ; Menexenus</mods:tableOfContents>
+                <mods:classification authority="lcc">PA3405.S8</mods:classification>
+                <mods:classification authority="lcc">PA4279</mods:classification>
+                <mods:classification authority="ddc">184</mods:classification>
+                <mods:identifier type="lccn">05029044</mods:identifier>
+                <mods:identifier type="oclc">4124457</mods:identifier>
+                <mods:location>
+                    <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="GoogleBooks" note="Snippet View"/>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/MN40030ucmf_0 </mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/operarecognovitb03platuoft</mods:url>
+                </mods:location>
+                <mods:recordInfo>
+                    <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                    <mods:recordCreationDate encoding="marc">840302</mods:recordCreationDate>
+                    <mods:recordChangeDate encoding="iso8601">00000000000000.0</mods:recordChangeDate>
+                    <mods:recordIdentifier>6799875</mods:recordIdentifier>
+                </mods:recordInfo>
+            </mods:relatedItem>
+        </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host" displayLabel="Tetralogia VIII">
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Platonis Opera</mods:title>
+                    <mods:partNumber>Tomus IV</mods:partNumber>
+                    <mods:partName>Tetralogia VIII</mods:partName>
+                </mods:titleInfo>
+                <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                    ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                    <mods:namePart>Plato</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                    ns2:href="http://errol.oclc.org/laf/n50-32347.html">
+                    <mods:namePart>Burnet, John</mods:namePart>
+                    <mods:namePart type="date">1863- 1928</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:typeOfResource>text</mods:typeOfResource>
+                <mods:originInfo>
+                    <mods:place>
+                        <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                    </mods:place>
+                    <mods:place>
+                        <mods:placeTerm type="text">Oxonii</mods:placeTerm>
+                    </mods:place>
+                    <mods:publisher>e typographeo Clarendoniano</mods:publisher>
+                    <mods:edition>Reprint</mods:edition>
+                    <mods:dateModified>1962</mods:dateModified>
+                    <mods:dateIssued>1902</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                </mods:originInfo>
+                <mods:language objectPart="preface">
+                    <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                </mods:language>
+                <mods:language objectPart="text">
+                    <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                </mods:language>
+                <mods:physicalDescription>
+                    <mods:form authority="marcform">print</mods:form>
+                    <mods:extent/>
+                    <mods:note>Page numbers from Stephanus edition</mods:note>
+                </mods:physicalDescription>
+                <mods:note type="statement of responsibility">recognovit breviqve adnotatione
+                    critica instrvxit Ioannes Burnet</mods:note>
+                <mods:note>Signed introduction of vol. 1 dated November, 1899</mods:note>
+                <mods:note>Originally planned in 6 volumes</mods:note>
+                <mods:tableOfContents>t. 4. (Tetralogia VIII) Clitopho ; Respublica ; Timaeus ; Critias</mods:tableOfContents>
+                <mods:classification authority="lcc">PA3405.S8</mods:classification>
+                <mods:classification authority="lcc">PA4279</mods:classification>
+                <mods:classification authority="ddc">184</mods:classification>
+                <mods:identifier type="lccn">05029044</mods:identifier>
+                <mods:identifier type="oclc">4124457</mods:identifier>
+                <mods:location>
+                    <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="GoogleBooks" note="Snippet View"
+                        >http://books.google.com/books?id=ZiKsj7GXrrEC</mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/MN40030ucmf_0 </mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/operarecognovitb04platuoft</mods:url>
+                </mods:location>
+                <mods:recordInfo>
+                    <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                    <mods:recordCreationDate encoding="marc">840302</mods:recordCreationDate>
+                    <mods:recordChangeDate encoding="iso8601">00000000000000.0</mods:recordChangeDate>
+                    <mods:recordIdentifier>6799875</mods:recordIdentifier>
+                </mods:recordInfo>
+            </mods:relatedItem>
+        </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host" displayLabel="Tetralogia VIII">
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Platonis Opera</mods:title>
+                    <mods:partNumber>Tomus IV</mods:partNumber>
+                    <mods:partName>Tetralogia VIII</mods:partName>
+                </mods:titleInfo>
+                <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                    ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                    <mods:namePart>Plato</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                    ns2:href="http://errol.oclc.org/laf/n50-32347.html">
+                    <mods:namePart>Burnet, John</mods:namePart>
+                    <mods:namePart type="date">1863- 1928</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:typeOfResource>text</mods:typeOfResource>
+                <mods:originInfo>
+                    <mods:place>
+                        <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                    </mods:place>
+                    <mods:place>
+                        <mods:placeTerm type="text">Oxonii</mods:placeTerm>
+                    </mods:place>
+                    <mods:publisher>e typographeo Clarendoniano</mods:publisher>
+                    <mods:edition>Reprint</mods:edition>
+                    <mods:dateModified>1962</mods:dateModified>
+                    <mods:dateIssued>1902</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                </mods:originInfo>
+                <mods:language objectPart="preface">
+                    <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                </mods:language>
+                <mods:language objectPart="text">
+                    <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                </mods:language>
+                <mods:physicalDescription>
+                    <mods:form authority="marcform">print</mods:form>
+                    <mods:extent/>
+                    <mods:note>Page numbers from Stephanus edition</mods:note>
+                </mods:physicalDescription>
+                <mods:note type="statement of responsibility">recognovit breviqve adnotatione
+                    critica instrvxit Ioannes Burnet</mods:note>
+                <mods:note>Signed introduction of vol. 1 dated November, 1899</mods:note>
+                <mods:note>Originally planned in 6 volumes</mods:note>
+                <mods:tableOfContents>t. 4. (Tetralogia VIII) Clitopho ; Respublica ; Timaeus ; Critias</mods:tableOfContents>
+                <mods:classification authority="lcc">PA3405.S8</mods:classification>
+                <mods:classification authority="lcc">PA4279</mods:classification>
+                <mods:classification authority="ddc">184</mods:classification>
+                <mods:identifier type="lccn">05029044</mods:identifier>
+                <mods:identifier type="oclc">4124457</mods:identifier>
+                <mods:location>
+                    <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="GoogleBooks" note="Snippet View"
+                        >http://books.google.com/books?id=ZiKsj7GXrrEC </mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/MN40030ucmf_0 </mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/operarecognovitb04platuoft</mods:url>
+                </mods:location>
+                <mods:recordInfo>
+                    <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                    <mods:recordCreationDate encoding="marc">840302</mods:recordCreationDate>
+                    <mods:recordChangeDate encoding="iso8601">00000000000000.0</mods:recordChangeDate>
+                    <mods:recordIdentifier>6799875</mods:recordIdentifier>
+                </mods:recordInfo>
+            </mods:relatedItem>
+        </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host" displayLabel="Tetralogia IX">
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Platonis Opera</mods:title>
+                    <mods:partNumber>Tomus V</mods:partNumber>
+                    <mods:partName>Tetralogia IX, Definitiones, et Spuria</mods:partName>
+                </mods:titleInfo>
+                <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                    ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                    <mods:namePart>Plato</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                    ns2:href="http://errol.oclc.org/laf/n50-32347.html">
+                    <mods:namePart>Burnet, John</mods:namePart>
+                    <mods:namePart type="date">1863- 1928</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:typeOfResource>text</mods:typeOfResource>
+                <mods:originInfo>
+                    <mods:place>
+                        <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                    </mods:place>
+                    <mods:place>
+                        <mods:placeTerm type="text">Oxonii</mods:placeTerm>
+                    </mods:place>
+                    <mods:publisher>e typographeo Clarendoniano</mods:publisher>
+                    <mods:edition>Reprint</mods:edition>
+                    <mods:dateModified>1959</mods:dateModified>
+                    <mods:dateIssued>1907</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                </mods:originInfo>
+                <mods:language objectPart="preface">
+                    <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                </mods:language>
+                <mods:language objectPart="text">
+                    <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                </mods:language>
+                <mods:physicalDescription>
+                    <mods:form authority="marcform">print</mods:form>
+                    <mods:extent/>
+                    <mods:note>Pages taken from Stephanus edition</mods:note>
+                </mods:physicalDescription>
+                <mods:note type="statement of responsibility">recognovit breviqve adnotatione
+                    critica instrvxit Ioannes Burnet</mods:note>
+                <mods:note>Signed introduction of vol. 1 dated November, 1899</mods:note>
+                <mods:note>Originally planned in 6 volumes</mods:note>
+                <mods:tableOfContents>t. 5. (Tetralogia IX, Definitiones, et spuria). Minos ; Leges ; Epinomis ;
+                Epistulae ; Definitiones ; De iusto ; De virtute ; Demodocus ; Sisyphus ; Eryxias ; Axiochus</mods:tableOfContents>
+                <mods:classification authority="lcc">PA3405.S8</mods:classification>
+                <mods:classification authority="lcc">PA4279</mods:classification>
+                <mods:classification authority="ddc">184</mods:classification>
+                <mods:identifier type="lccn">05029044</mods:identifier>
+                <mods:identifier type="oclc">4124457</mods:identifier>
+                <mods:location>
+                    <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="GoogleBooks" note="Snippet View"/>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/MN40030ucmf_0 </mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="Open Content Alliance" note="Vol 5-Part 1"
+                        >http://www.archive.org/details/p1platonisopera05platuoft</mods:url>
+                </mods:location>
+                <mods:location>
+                    <mods:url displayLabel="Open Content Alliance" note="Vol 5-Part 2"
+                        >http://www.archive.org/stream/p2operarecognovitb05platuoft#page/n9/mode/2up</mods:url>
+                </mods:location>
+                <mods:recordInfo>
+                    <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                    <mods:recordCreationDate encoding="marc">840302</mods:recordCreationDate>
+                    <mods:recordChangeDate encoding="iso8601">00000000000000.0</mods:recordChangeDate>
+                    <mods:recordIdentifier>6799875</mods:recordIdentifier>
+                </mods:recordInfo>
+            </mods:relatedItem>
+        </mods:relatedItem>
+        <constituents/>
+    </item>
+
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Poetae Melici">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Anthologia lyrica</mods:title>
+                            <mods:subTitle>sive Lyricorum graecorum veterum praeter Pindarum reliquiae potiores</mods:subTitle>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n86-55744.html">
+                            <mods:namePart>Hiller, Eduard</mods:namePart>
+                            <mods:namePart type="date">1844-1891</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n88-115329.html">
+                            <mods:namePart>Bergk, Theodor</mods:namePart>
+                            <mods:namePart type="date">1812-1881</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/nr96-9519.html">
+                            <mods:namePart>Crusius, Otto</mods:namePart>
+                            <mods:namePart type="date">1857-1918</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                            <mods:dateIssued>1897</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language objectPart="preface">
+                            <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                        </mods:language>
+                        <mods:language objectPart="text">
+                            <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent>lxxvi, 387 p. ; 18 cm.</mods:extent>
+                        </mods:physicalDescription>
+                        <mods:note> Introductory material and notes in Latin, text in Greek.</mods:note>
+                        <mods:note type="statement of responsibility">post Theodorum Bergkium quartum edidit Eduardus Hiller
+        ; exemplar emendavit atque novis Solonis aliorumque fragmentis auxit O. Crusius.</mods:note>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Greek poetry</mods:topic>
+                        </mods:subject>
+                        <mods:classification authority="lcc">PA3431</mods:classification>
+                        <mods:classification authority="ddc">884.9</mods:classification>
+                        <mods:identifier type="oclc">2208099</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/2208099</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance" note="1905 edition">http://www.archive.org/details/anthologialyrica037595mbp</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Google Books">http://books.google.com/books?id=ISEOAAAAYAAJ</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">OCoLC</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc"/>
+                            <mods:recordChangeDate encoding="iso8601"/>
+                            <mods:recordIdentifier/>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Supplementa">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Comicorum atticorum fragmenta</mods:title>
+                            <mods:partNumber>Volumen III</mods:partNumber>
+                            <mods:partName>Novae Comoediae Fragmenta,</mods:partName>
+                            <mods:partNumber>Pars II</mods:partNumber>
+                            <mods:partName>Comicorum Incertae Aetatis Fragmenta, Fragmenta Incertorum Poetarum, Indices,
+            Supplementa</mods:partName>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/no97-26378.html">
+                            <mods:namePart>Kock, Theodor</mods:namePart>
+                            <mods:namePart type="date">1820-1901</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Lipsae</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>B. G. Teubner</mods:publisher>
+                            <mods:dateIssued>1887</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language objectPart="text">
+                            <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                        </mods:language>
+                        <mods:language objectPart="preface">
+                            <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent>ix, 756 p.</mods:extent>
+                        </mods:physicalDescription>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Greek drama (Comedy)</mods:topic>
+                        </mods:subject>
+                        <mods:classification authority="lcc">PA3465 .A2 1887</mods:classification>
+                        <mods:identifier type="lccn">04007641</mods:identifier>
+                        <mods:identifier type="oclc">7486943 </mods:identifier>
+                        <mods:identifier type="oca">comicorumatticor03kockuoft</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/04007641</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/7486943 </mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">
+            http://www.archive.org/details/comicorumatticor03kockuoft </mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Library">http://www.openlibrary.org/details/comicorumatticor03kockuoft</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="GoogleBooks">http://books.google.com/books?id=YqUNAAAAIAAJ</mods:url>
+                        </mods:location>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Epistulae">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Decimi Magni Ausonii Burdigalensis opuscula</mods:title>
+                        </mods:titleInfo>
+                        <mods:titleInfo type="uniform">
+                            <mods:title>Ausonius, Decimus Magnus. Works</mods:title>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n80-128611.html">
+                            <mods:namePart>Ausonius, Decimus Magnus.</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/no94-28112.html">
+                            <mods:namePart>Peiper, Rudolf</mods:namePart>
+                            <mods:namePart type="date">1834-1898</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Leipzig</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>Teubner</mods:publisher>
+                            <mods:dateIssued>1886</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language>
+                            <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent>cxxviii, 556 p., fold. plate : facs. ; 18 cm.</mods:extent>
+                        </mods:physicalDescription>
+                        <mods:note type="statement of responsibility">recensuit Rudolfus Peiper.</mods:note>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Romans</mods:topic>
+                            <mods:geographic>France</mods:geographic>
+                            <mods:topic>Poetry</mods:topic>
+                        </mods:subject>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Didactic poetry, Latin</mods:topic>
+                        </mods:subject>
+                        <mods:subject authority="lcsh">
+                            <mods:geographic>Rome</mods:geographic>
+                            <mods:topic>Poetry</mods:topic>
+                        </mods:subject>
+                        <mods:classification authority="lcc">PA6221</mods:classification>
+                        <mods:identifier type="oclc">43129189</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/43129189</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="GoogleBooks">http://books.google.com/books?id=4qINAAAAIAAJ</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/opuscula00ausouoft</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">OCoLC</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc"/>
+                            <mods:recordChangeDate encoding="iso8601"/>
+                            <mods:recordIdentifier/>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Diophantus Pseudepigraphus">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Diophanti Alexandrini Opera omnia</mods:title>
+                            <mods:subTitle>cum graecis commentariis</mods:subTitle>
+                            <mods:partNumber>Volume II</mods:partNumber>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n82-149799.html">
+                            <mods:namePart>Diophantus</mods:namePart>
+                            <mods:namePart type="termsOfAddress">of Alexandria</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-150235.html">
+                            <mods:namePart>Tannery, Paul</mods:namePart>
+                            <mods:namePart type="date">1843-1904</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm type="text" authority="marcrelator">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                            <mods:dateIssued>1895</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language objectPart="text">
+                            <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+                        </mods:language>
+                        <mods:language objectPart="preface">
+                            <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent>xlvii, 297 pg.</mods:extent>
+                        </mods:physicalDescription>
+                        <mods:tableOfContents>-II. Continens Pseudepigrapha, testimonia veterum, Pachymerae Paraphrasin,
+        Planudis Commentarium, scholia vetera, omnia fere adhuc inedita, cum prolegomenis et
+        incibus.</mods:tableOfContents>
+                        <mods:note type="statement of responsibility">Editit et latine interpretatus est Paulus Tannery.</mods:note>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Mathematics, Greek</mods:topic>
+                        </mods:subject>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Arithmetic</mods:topic>
+                            <mods:topic>Early works to 1900</mods:topic>
+                        </mods:subject>
+                        <mods:classification authority="lcc">PA3404 .D77 1893</mods:classification>
+                        <mods:identifier type="lccn">34018613</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/34018613</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/2692977</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance"/>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Library"/>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="GoogleBooks">http://books.google.com/books?id=7K82AAAAMAAJ </mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc">770121</mods:recordCreationDate>
+                            <mods:recordChangeDate encoding="iso8601">20050516181916.0</mods:recordChangeDate>
+                            <mods:recordIdentifier>9698190</mods:recordIdentifier>
+                            <mods:recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+            (Revision 1.54)</mods:recordOrigin>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Epicorum graecorum fragmenta</mods:title>
+                        </mods:titleInfo>
+                        <mods:name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal" usage="primary" valueURI="http://id.loc.gov/authorities/names/n83135731">
+                            <mods:namePart>Kinkel, Gottfried</mods:namePart>
+                            <mods:namePart type="date">1844-1891</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>in aedibus B.G. Teubneri</mods:publisher>
+                            <mods:dateIssued>1877</mods:dateIssued>
+                            <mods:dateIssued encoding="marc">1877</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language objectPart="text">
+                            <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+                        </mods:language>
+                        <mods:language objectPart="preface">
+                            <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent>vi, 322 p. 18 cm.</mods:extent>
+                        </mods:physicalDescription>
+                        <mods:note>No more published.</mods:note>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Greek poetry</mods:topic>
+                        </mods:subject>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Epic poetry, Greek</mods:topic>
+                        </mods:subject>
+                        <mods:classification authority="lcc">PA3402 .E7 1877</mods:classification>
+                        <mods:identifier type="lccn">34014794</mods:identifier>
+                        <mods:identifier type="oclc">6807807</mods:identifier>
+                        <mods:identifier type="oca">epicorumgraecoru00kinkuoft</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/34014794</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/6807807</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="GoogleBooks">http://books.google.com/books?id=HpMOAAAAQAAJ</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/epicorumgraecoru00kinkuoft</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Library">http://openlibrary.org/epicorumgraecoru00kinkuoft</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015008687785</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc">801009</mods:recordCreationDate>
+                            <mods:recordChangeDate encoding="iso8601">20050819211816.0</mods:recordChangeDate>
+                            <mods:recordIdentifier>6887620</mods:recordIdentifier>
+                            <mods:recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.78 2012/05/07)</mods:recordOrigin>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Grammaticae Aetatis Augusteae Fragmenta">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Grammaticae Romanae fragmenta collegit</mods:title>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/nr97-15146.html">
+                            <mods:namePart>Funaioli, Gino</mods:namePart>
+                            <mods:namePart type="date">1878-1958</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm type="text" authority="marcrelator">compilerr</mods:roleTerm>
+                            </mods:role>
+                            <mods:role>
+                                <mods:roleTerm type="text" authority="marcrelator">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                            <mods:dateIssued>1907</mods:dateIssued>
+                            <mods:dateIssued point="start" encoding="marc">1907</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language>
+                            <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent>xxx, 610 p.</mods:extent>
+                        </mods:physicalDescription>
+                        <mods:note type="statement of responsibility">recensuit Hyginus Funaioli.</mods:note>
+                        <mods:classification authority="lcc">PA6103 .G7 1907</mods:classification>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Latin language</mods:topic>
+                            <mods:topic>Grammar</mods:topic>
+                            <mods:topic>Early works to 1500</mods:topic>
+                        </mods:subject>
+                        <mods:identifier type="lccn">08002169</mods:identifier>
+                        <mods:identifier type="oclc">46348511</mods:identifier>
+                        
+                        <mods:location>
+                            <mods:url displayLabel="LC Permalink">http://www.worldcat.org/oclc/08002169</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/46348511</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance"/>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Library"/>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="GoogleBooks">http://books.google.com/books?id=WZofAAAAMAAJ</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc">760217</mods:recordCreationDate>
+                            <mods:recordChangeDate encoding="iso8601">20050812124556.0</mods:recordChangeDate>
+                            <mods:recordIdentifier>7278253</mods:recordIdentifier>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Organon">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>L'Organon, la Rhétorique et la Poétique d'Aristote, et l' Isagoge de Porphyre</mods:title>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-4182.html">
+                            <mods:namePart>Aristotle</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n81-124456.html">
+                            <mods:namePart>Porphyry</mods:namePart>
+                            <mods:namePart type="date">ca. 234-ca. 305</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="viaf" type="personal" ns2:href="http://viaf.org/viaf/3706014/">
+                            <mods:namePart>Ibn al-Khammār, Abū al-Khayr al-Ḥasan ibn Suwār</mods:namePart>
+                            <mods:namePart type="date">b. 942</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry"/>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text"/>
+                            </mods:place>
+                            <mods:publisher>Bibliothèque nationale de France</mods:publisher>
+                            <mods:dateCreated>1027</mods:dateCreated>
+                            <mods:dateCaptured>?</mods:dateCaptured>
+                        </mods:originInfo>
+                        <mods:language>
+                            <mods:languageTerm authority="iso639-2b" type="code">ara</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent>Papier. - 380 feuillets. - Hauteur, 43 centimètres ; largeur, 30 centimètres. 21 à 25 lignes par page</mods:extent>
+                            <mods:digitalOrigin>digitized other analog</mods:digitalOrigin>
+                            <mods:internetMediaType/>
+                        </mods:physicalDescription>
+                        <mods:tableOfContents> Isagoge -- Rhetoric? () -- The Poetics-131-140 --The Organon: Categories-157-178 --On Interpretation-179-191 --Prior analytics-191-223 --Posterior analytics-224-242b --The topics-241-327 --
+        Sophistical Refutations-327-380, folio page numbers based on an anlysis of the manuscript by Abd al-Raḥmān Badawī and published in La transmission de la philosophie grecque au monde arabe
+    </mods:tableOfContents>
+                        <mods:note type="statement of responsibility">Digitized copy of Arabic manuscript owned by the Bibliothèque nationale de France, Département des manuscrits, manuscript number Arabe 2346</mods:note>
+                        <mods:note/>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Logic</mods:topic>
+                            <mods:temporal>Early works to 1800</mods:temporal>
+                        </mods:subject>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Aristotle</mods:topic>
+                            <mods:topic>Organon</mods:topic>
+                        </mods:subject>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Aristotle</mods:topic>
+                            <mods:topic>Rhetoric</mods:topic>
+                        </mods:subject>
+                        <mods:classification authority="lcc">PA3893</mods:classification>
+                        
+                        
+                        <mods:identifier type="ark">ark:/12148/btv1b8422956q</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="Gallica">http://gallica.bnf.fr/ark:/12148/btv1b8422956q</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">Gallica</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc"/>
+                            <mods:recordChangeDate encoding="iso8601"/>
+                            <mods:recordIdentifier/>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Progymnasmata">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Libanii Opera</mods:title>
+                            <mods:partNumber>Vol VIII</mods:partNumber>
+                            <mods:partName>Progymnasmata</mods:partName>
+                            <mods:subTitle>Accedit Gregorii Cyprii Adversus Avari Declamationem Libanianam
+        Antilogia</mods:subTitle>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n50-52091.html">
+                            <mods:namePart>Libanius</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/nr96-35212.html">
+                            <mods:namePart>Foerster, Richard</mods:namePart>
+                            <mods:namePart type="date">1843-1922</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                            <mods:dateIssued>1915</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language objectPart="preface">
+                            <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                        </mods:language>
+                        <mods:language objectPart="text">
+                            <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent>683 pg.</mods:extent>
+                        </mods:physicalDescription>
+                        <mods:tableOfContents/>
+                        <mods:note type="statement of responsibility">recensuit Richardus Foerster.</mods:note>
+                        <mods:classification authority="lcc">PA3404 .L4</mods:classification>
+                        <mods:identifier type="lccn">04031902</mods:identifier>
+                        <mods:identifier type="oclc"> 64046389</mods:identifier>
+                        
+                        
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/64046389 </mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance"/>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="OpenLibrary"/>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="GoogleBooks"/>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="UMich Digital General Collection">http://quod.lib.umich.edu/g/genpub/afe7993.0008.001/</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc">760210</mods:recordCreationDate>
+                            <mods:recordChangeDate encoding="iso8601">20050430152449.0</mods:recordChangeDate>
+                            <mods:recordIdentifier>10075222</mods:recordIdentifier>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Tetralogia I">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Platonis Opera</mods:title>
+                            <mods:partNumber>Tomus I</mods:partNumber>
+                            <mods:partName>Tetralogia I-II</mods:partName>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                            <mods:namePart>Plato</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n50-32347.html">
+                            <mods:namePart>Burnet, John</mods:namePart>
+                            <mods:namePart type="date">1863- 1928</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Oxonii</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>e typographeo Clarendoniano</mods:publisher>
+                            <mods:edition>Reprint</mods:edition>
+                            <mods:dateModified>1958</mods:dateModified>
+                            <mods:dateIssued>1900</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language objectPart="preface">
+                            <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                        </mods:language>
+                        <mods:language objectPart="text">
+                            <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent>xiv, 311 pg.</mods:extent>
+                            <mods:note>Pages numbers are after Stephanus edition</mods:note>
+                        </mods:physicalDescription>
+                        <mods:note type="statement of responsibility">recognovit breviqve adnotatione critica instrvxit
+        Ioannes Burnet</mods:note>
+                        <mods:note>Signed introduction of vol. 1 dated November, 1899</mods:note>
+                        <mods:note>Originally planned in 6 volumes</mods:note>
+                        <mods:tableOfContents>t. 1. (Tetralogia I-II). Euthyphro ; Apologia Socratis ; Crito ; Phaedo ;
+        Cratylus ; Theaetetus ; Sophista ; Politicus </mods:tableOfContents>
+                        <mods:classification authority="lcc">PA3405.S8</mods:classification>
+                        <mods:classification authority="lcc">PA4279</mods:classification>
+                        <mods:classification authority="ddc">184</mods:classification>
+                        <mods:identifier type="lccn">05029044</mods:identifier>
+                        <mods:identifier type="oclc">4124457</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="GoogleBooks" note="Snippet View">http://books.google.com/books?id=Id0vAAAAMAAJ </mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/MN40030ucmf_0
+        </mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/operarecognovitb01platuoft</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc">840302</mods:recordCreationDate>
+                            <mods:recordChangeDate encoding="iso8601">00000000000000.0</mods:recordChangeDate>
+                            <mods:recordIdentifier>6799875</mods:recordIdentifier>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Tetralogia III">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Platonis Opera</mods:title>
+                            <mods:partNumber>Tomus II</mods:partNumber>
+                            <mods:partName>Tetralogia III-IV</mods:partName>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                            <mods:namePart>Plato</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n50-32347.html">
+                            <mods:namePart>Burnet, John</mods:namePart>
+                            <mods:namePart type="date">1863- 1928</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Oxonii</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>e typographeo Clarendoniano</mods:publisher>
+                            <mods:dateModified>1964</mods:dateModified>
+                            <mods:edition>Reprint</mods:edition>
+                            <mods:dateIssued>1901</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language objectPart="preface">
+                            <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                        </mods:language>
+                        <mods:language objectPart="text">
+                            <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent/>
+                            <mods:note>Page numbers taken from Stephanus edition</mods:note>
+                        </mods:physicalDescription>
+                        <mods:note type="statement of responsibility">recognovit breviqve adnotatione critica instrvxit
+        Ioannes Burnet</mods:note>
+                        <mods:note>Signed introduction of vol. 1 dated November, 1899</mods:note>
+                        <mods:note>Originally planned in 6 volumes</mods:note>
+                        <mods:tableOfContents>t. 2. (Tetralogia III-IV). Parmenides ; Philebus ; Symposium ; Phaedrus ;
+        Alcibiades I-II ; Hipparchus ; Amatores</mods:tableOfContents>
+                        <mods:classification authority="lcc">PA3405.S8</mods:classification>
+                        <mods:classification authority="lcc">PA4279</mods:classification>
+                        <mods:classification authority="ddc">184</mods:classification>
+                        <mods:identifier type="lccn">05029044</mods:identifier>
+                        <mods:identifier type="oclc">4124457</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="GoogleBooks" note="Snippet View"/>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/MN40030ucmf_0
+        </mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/operarecognovitb02platuoft</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc">840302</mods:recordCreationDate>
+                            <mods:recordChangeDate encoding="iso8601">00000000000000.0</mods:recordChangeDate>
+                            <mods:recordIdentifier>6799875</mods:recordIdentifier>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Tetralogia V">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Platonis Opera</mods:title>
+                            <mods:partNumber>Tomus III</mods:partNumber>
+                            <mods:partName>Tetralogia V-VII</mods:partName>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                            <mods:namePart>Plato</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n50-32347.html">
+                            <mods:namePart>Burnet, John</mods:namePart>
+                            <mods:namePart type="date">1863- 1928</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Oxonii</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>e typographeo Clarendoniano</mods:publisher>
+                            <mods:dateModified>1961</mods:dateModified>
+                            <mods:edition>Reprint</mods:edition>
+                            <mods:dateIssued>1903</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language objectPart="preface">
+                            <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                        </mods:language>
+                        <mods:language objectPart="text">
+                            <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent/>
+                            <mods:note>Page numbers from Stephanus edition</mods:note>
+                        </mods:physicalDescription>
+                        <mods:note type="statement of responsibility">recognovit breviqve adnotatione critica instrvxit
+        Ioannes Burnet</mods:note>
+                        <mods:note>Signed introduction of vol. 1 dated November, 1899</mods:note>
+                        <mods:note>Originally planned in 6 volumes</mods:note>
+                        <mods:tableOfContents>t. 3. (Tetralogia V-VII) Theages ; Charmides ; Laches ; Lysis ; Euthydemus ;
+        Protagoras ; Gorgias ; Meno ; Hippias Maior ; Hippias Minor ; Io ; Menexenus</mods:tableOfContents>
+                        <mods:classification authority="lcc">PA3405.S8</mods:classification>
+                        <mods:classification authority="lcc">PA4279</mods:classification>
+                        <mods:classification authority="ddc">184</mods:classification>
+                        <mods:identifier type="lccn">05029044</mods:identifier>
+                        <mods:identifier type="oclc">4124457</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="GoogleBooks" note="Snippet View"/>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/MN40030ucmf_0
+        </mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/operarecognovitb03platuoft</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc">840302</mods:recordCreationDate>
+                            <mods:recordChangeDate encoding="iso8601">00000000000000.0</mods:recordChangeDate>
+                            <mods:recordIdentifier>6799875</mods:recordIdentifier>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Tetralogia VIII">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Platonis Opera</mods:title>
+                            <mods:partNumber>Tomus IV</mods:partNumber>
+                            <mods:partName>Tetralogia VIII</mods:partName>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                            <mods:namePart>Plato</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n50-32347.html">
+                            <mods:namePart>Burnet, John</mods:namePart>
+                            <mods:namePart type="date">1863- 1928</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Oxonii</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>e typographeo Clarendoniano</mods:publisher>
+                            <mods:edition>Reprint</mods:edition>
+                            <mods:dateModified>1962</mods:dateModified>
+                            <mods:dateIssued>1902</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language objectPart="preface">
+                            <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                        </mods:language>
+                        <mods:language objectPart="text">
+                            <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent/>
+                            <mods:note>Page numbers from Stephanus edition</mods:note>
+                        </mods:physicalDescription>
+                        <mods:note type="statement of responsibility">recognovit breviqve adnotatione critica instrvxit
+        Ioannes Burnet</mods:note>
+                        <mods:note>Signed introduction of vol. 1 dated November, 1899</mods:note>
+                        <mods:note>Originally planned in 6 volumes</mods:note>
+                        <mods:tableOfContents>t. 4. (Tetralogia VIII) Clitopho ; Respublica ; Timaeus ; Critias</mods:tableOfContents>
+                        <mods:classification authority="lcc">PA3405.S8</mods:classification>
+                        <mods:classification authority="lcc">PA4279</mods:classification>
+                        <mods:classification authority="ddc">184</mods:classification>
+                        <mods:identifier type="lccn">05029044</mods:identifier>
+                        <mods:identifier type="oclc">4124457</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="GoogleBooks" note="Snippet View">http://books.google.com/books?id=ZiKsj7GXrrEC </mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/MN40030ucmf_0
+        </mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/operarecognovitb04platuoft</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc">840302</mods:recordCreationDate>
+                            <mods:recordChangeDate encoding="iso8601">00000000000000.0</mods:recordChangeDate>
+                            <mods:recordIdentifier>6799875</mods:recordIdentifier>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Tetralogia IX">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Platonis Opera</mods:title>
+                            <mods:partNumber>Tomus V</mods:partNumber>
+                            <mods:partName>Tetralogia IX, Definitiones, et Spuria</mods:partName>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+                            <mods:namePart>Plato</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n50-32347.html">
+                            <mods:namePart>Burnet, John</mods:namePart>
+                            <mods:namePart type="date">1863- 1928</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Oxonii</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>e typographeo Clarendoniano</mods:publisher>
+                            <mods:edition>Reprint</mods:edition>
+                            <mods:dateModified>1959</mods:dateModified>
+                            <mods:dateIssued>1907</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language objectPart="preface">
+                            <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                        </mods:language>
+                        <mods:language objectPart="text">
+                            <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent/>
+                            <mods:note>Pages taken from Stephanus edition</mods:note>
+                        </mods:physicalDescription>
+                        <mods:note type="statement of responsibility">recognovit breviqve adnotatione critica instrvxit
+        Ioannes Burnet</mods:note>
+                        <mods:note>Signed introduction of vol. 1 dated November, 1899</mods:note>
+                        <mods:note>Originally planned in 6 volumes</mods:note>
+                        <mods:tableOfContents>t. 5. (Tetralogia IX, Definitiones, et spuria). Minos ; Leges ; Epinomis ;
+        Epistulae ; Definitiones ; De iusto ; De virtute ; Demodocus ; Sisyphus ; Eryxias ; Axiochus</mods:tableOfContents>
+                        <mods:classification authority="lcc">PA3405.S8</mods:classification>
+                        <mods:classification authority="lcc">PA4279</mods:classification>
+                        <mods:classification authority="ddc">184</mods:classification>
+                        <mods:identifier type="lccn">05029044</mods:identifier>
+                        <mods:identifier type="oclc">4124457</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="GoogleBooks" note="Snippet View"/>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/MN40030ucmf_0
+        </mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance" note="Vol 5-Part 1">http://www.archive.org/details/p1platonisopera05platuoft</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance" note="Vol 5-Part 2">http://www.archive.org/stream/p2operarecognovitb05platuoft#page/n9/mode/2up</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc">840302</mods:recordCreationDate>
+                            <mods:recordChangeDate encoding="iso8601">00000000000000.0</mods:recordChangeDate>
+                            <mods:recordIdentifier>6799875</mods:recordIdentifier>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Tyrwhitt's Fragments">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Plutarch's Moralia</mods:title>
+                            <mods:partNumber>Vol XV</mods:partNumber>
+                            <mods:partName>Fragments</mods:partName>
+                        </mods:titleInfo>
+                        <mods:titleInfo type="uniform">
+                            <mods:title>Moralia. English &amp; Greek.</mods:title>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-26763.html">
+                            <mods:namePart>Plutarch.</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n50-15803.html">
+                            <mods:namePart>Sandbach, F.H.</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="code" authority="marccountry">mau</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">Cambridge</mods:placeTerm>
+                            </mods:place>
+                            <mods:place>
+                                <mods:placeTerm type="text">London</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>Harvard University</mods:publisher>
+                            <mods:edition>Reprint</mods:edition>
+                            <mods:dateModified>1987</mods:dateModified>
+                            <mods:dateIssued>1969</mods:dateIssued>
+                            <mods:copyrightDate>1969</mods:copyrightDate>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:tableOfContents>v. 15. Works by Plutarch: ancient lists ; Tyrwhitt's fragments ; Fragments from
+        lost lives ; Fragments from other named works ; Other fragments</mods:tableOfContents>
+                        <mods:note>Greek and English on opposite pages</mods:note>
+                        <mods:note>Translators vary</mods:note>
+                        <mods:note>Originally published 1927-1969</mods:note>
+                        <mods:note>Includes bibliographical references (v. 1, p. xviii-xxxiii) and indexes.</mods:note>
+                        <mods:language>
+                            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+                        </mods:language>
+                        <mods:language>
+                            <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent>xv, 418 pg.</mods:extent>
+                        </mods:physicalDescription>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Ethics</mods:topic>
+                            <mods:topic>Early works to 1800</mods:topic>
+                        </mods:subject>
+                        <mods:classification authority="lcc">PA4368</mods:classification>
+                        <mods:classification authority="lcc">PA3611</mods:classification>
+                        <mods:classification authority="ddc">880.8</mods:classification>
+                        <mods:identifier type="isbn">0674994736</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/27026689</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Worldcat">http://www.worldcat.org/oclc/37351027</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">OCoLC</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc"/>
+                            <mods:recordChangeDate encoding="iso8601"/>
+                            <mods:recordIdentifier/>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+    <item title="" count="0">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" type="host" displayLabel="Dithyramborum reliquiae">
+                    <mods:relatedItem type="host">
+                        <mods:titleInfo>
+                            <mods:title>Poetae lyrici graeci</mods:title>
+                        </mods:titleInfo>
+                        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n88-115329.html">
+                            <mods:namePart>Bergk, Theodor</mods:namePart>
+                            <mods:namePart type="date">1812-1881</mods:namePart>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                            </mods:role>
+                            <mods:role>
+                                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                            </mods:role>
+                        </mods:name>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:originInfo>
+                            <mods:place>
+                                <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                            </mods:place>
+                            <mods:publisher>Sumtu Reichenbachiorum fratrum</mods:publisher>
+                            <mods:dateIssued>1843</mods:dateIssued>
+                            <mods:issuance>monographic</mods:issuance>
+                        </mods:originInfo>
+                        <mods:language>
+                            <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+                        </mods:language>
+                        <mods:physicalDescription>
+                            <mods:form authority="marcform">print</mods:form>
+                            <mods:extent>887p.</mods:extent>
+                        </mods:physicalDescription>
+                        <mods:subject authority="lcsh">
+                            <mods:topic>Greek poetry (Collections)</mods:topic>
+                        </mods:subject>
+                        <mods:classification authority="lcc">PA3443 B47 1843</mods:classification>
+                        <mods:note type="statement of responsibility">Edidit Theodorus Bergk</mods:note>
+                        <mods:identifier type="lccn">none</mods:identifier>
+                        <mods:identifier type="oclc">8293178 </mods:identifier>
+                        <mods:identifier type="oca">poetaelyricigrae00berguoft</mods:identifier>
+                        <mods:location>
+                            <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/8293178 </mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/poetaelyricigrae00berguoft </mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="Open Library">http://www.openlibrary.org/stream/poetaelyricigrae00berguoft</mods:url>
+                        </mods:location>
+                        <mods:location>
+                            <mods:url displayLabel="GoogleBooks">http://books.google.com/books?id=VYIEAAAAQAAJ</mods:url>
+                        </mods:location>
+                        <mods:recordInfo>
+                            <mods:recordContentSource authority="marcorg">OTU</mods:recordContentSource>
+                            <mods:recordCreationDate encoding="marc">720101</mods:recordCreationDate>
+                            <mods:languageOfCataloging>
+                                <mods:languageTerm authority="iso639-2b" type="code">ENG</mods:languageTerm>
+                            </mods:languageOfCataloging>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:relatedItem>
+        <constituents/>
+    </item>
+
+
+
+</data>

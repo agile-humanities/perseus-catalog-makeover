@@ -1,0 +1,113 @@
+@prefix :  <http://erlangen-crm.org/efrbroo/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix pcat: <http://catalog.perseus.org/> .
+@prefix tlg: <http://catalog.perseus.org/works/tlg/> .
+@prefix author: <http://catalog.perseus.org/authors/> .
+@prefix work: <http://catalog.perseus.org/works/> .
+@prefix expression: <http://catalog.perseus.org/expressions/> .
+@prefix viaf: <http://viaf.org/viaf/> .
+
+ viaf:20962036 a :F10_Person ;
+ 	       rdfs:label "Aristophanes"@en ;
+	       schema:sameAs author:202.1 .
+
+# The notional text group comprising the works of Aristophanes.
+tlg:0019 a :F15_Complex_Work ;
+	 rdfs:label "Text Group: Aristophanes"@en .
+
+# Wasps is a Work that is part of the Works of Aristophanes. We
+# relate Aristophanes to the work via a Work Conception, which
+# seems more general than via a self-contained expression,
+# especially for an ancient author.
+tlg:0019.004 a :F1_Work ;
+	     rdfs:label "Vespae - the Work"@en ;
+	     :R10i_is_member_of tlg:0019 ;
+	     :R16i_initiated_by [
+				a :F27_Work_Conception ;
+				:P14_carried_out_by viaf:20962036
+				] .
+
+# Likewise, Birds is a Work that is part of the Works of Aristophanes.
+tlg:0019.006 a :F1_Work ;
+	     rdfs:label "Aves - the Work"@en ;
+	     :R10i_is_member_of tlg:0019 ;
+	     :R16i_initiated_by [
+				a :F27_Work_Conception ;
+				:P14_carried_out_by viaf:20962036
+				] .	     			
+
+
+# Benjamin Bickley Rogers created editions of these works.
+viaf:22214304 a :F10_Person;
+	      rdfs:label "Benjamin Bickley Rogers"@en .
+
+
+expression:tlg0019.004.opp-grc2
+	a :F22_Self_Contained_Expression ;
+	rdfs:label "text of Rogers edition of Vespae"@en ;
+	:R9i_realises tlg:0019.004 ;
+	:P72_has_language <http://id.loc.gov/vocabulary/languages/grc> ;
+	:R17i_was_created_by [
+			     a :F28_Expression_Creation ;
+			     :P14_carried_out_by viaf:22214304 ;
+			     ] .
+
+expression:tlg0019.006.opp-grc1 a :F22_Self_Contained_Expression ;
+			  rdfs:label "text of Rogers edition of Aves"@en ;
+			  :R9i_realises tlg:0019.006 ;
+			  :P72_has_language <http://id.loc.gov/vocabulary/languages/grc> ;
+			  :R17i_was_created_by [
+					       a :F28_Expression_Creation ;
+					       :P14_carried_out_by viaf:22214304 ;
+					       ] .
+
+# Rogers also wrote English translations. These are separate, derivative works.
+work:tlg0019.004.F1-1 a :F1_Work ;
+		      rdfs:label "Rogers translation of Wasps"@en ;
+		      :R2_is_derivative_of tlg:0019.004 ;
+		      :R16i_initiated_by [
+					 a :F27_Work_Conception ;
+					 :P14_carried_out_by viaf:20962036
+					 ] .
+
+expression:tlg0019.004.opp-eng1 a :F22_Self_Contained_Expression ;
+			  rdfs:label "text of Rogers translation of Wasps"@en ;
+			  :R91_realises work:tlg0019.004.F1-1 ;
+			  :P72_has_language <http://id.loc.gov/vocabulary/languages/eng> ;
+			  :R17i_was_created_by [
+					       a :F28_Expression_Creation ;
+					       :P14_carried_out_by viaf:22214304
+					       ] .
+
+work:tlg0019.006.F1-1 a :F1_Work ;
+		      rdfs:label "Rogers translation of Birds"@en ;
+		      :R2_is_derivative_of tlg:0019.006 ;
+		      :R16i_initiated_by [
+					 a :F27_Work_Conception ;
+					 :P14_carried_out_by viaf:20962036
+					 ] .
+
+expression:tlg0019.006.opp-eng1 a :F22_Self_Contained_Expression ;
+			  rdfs:label "text of Rogers translation of Birds"@en ;
+			  :R91_realises work:tlg0019.006F1-1 ;
+			  :P72_has_language <http://id.loc.gov/vocabulary/languages/eng> ;
+			  :R17i_was_created_by [
+					       a :F28_Expression_Creation ;
+					       :P14_carried_out_by viaf:22214304
+					       ] .
+
+
+
+# On the publication side, there is a publication expression of the Rogers edition.
+expression:rogers_F24-1 a :F24_Publication_Expression ;
+		:P165_incorporates expression:tlg0019.004.opp-grc2 ,
+				   expression:tlg0019.006.opp-grc1 ,
+				   expression:tlg0019.004.opp-eng1 ,
+				   expression:tlg0019.006.opp-eng1 .
+
+
+<http://www.worldcat.org/oclc/688794> a :F3_Manifestation_Product_Type ;
+				      :CLR6_should_Carry expression:rogers_F24-1 .
+
+# The Perseus encoding also carries the same expression?

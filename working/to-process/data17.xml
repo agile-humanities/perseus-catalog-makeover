@@ -1,0 +1,1764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data n="17">
+    <item title="Greek Melic Poets" count="41">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Greek Melic Poets</mods:title>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <mods:namePart>Smyth, Herbert Weir</mods:namePart>
+                <mods:namePart type="date">1857-1937</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">New York</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Macmillan and Co., limited</mods:publisher>
+                <mods:publisher>The Macmillan Company</mods:publisher>
+                <mods:dateIssued>1900</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="introduction">
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>cxliii, 564 p. 17 cm.</mods:extent>
+            </mods:physicalDescription>
+            <mods:identifier type="oclc">1968626</mods:identifier>
+            <mods:note type="statement of                 responsibility">by Herbert Weir Smyth
+                ...</mods:note>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=07pLAAAAMAAJ</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/1968626</mods:url>
+            </mods:location>
+            <mods:subject authority="lcsh">
+                <mods:topic>Greek poetry</mods:topic>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3412.M3 </mods:classification>
+            <mods:classification authority="ddc">880.81 </mods:classification>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg002.opp-grc6">
+                <mods:titleInfo xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Dithyrambs</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg001.opp-grc7">
+                <mods:titleInfo xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Epinicia</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg4150.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Anacreontia/Anacreontea</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0009.tlg002.opp-grc7">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Epigrammata</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0006.tlg022.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Epinicium in
+                        Alcibiadem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0376.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0373.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0377.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1833.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0237.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0265.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0369.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0294.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0370.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0371.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0297.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0374.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0381.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0201.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0295.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1355.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0009.tlg001.opp-grc7">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0372.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0293.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0292.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0033.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0383.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0379.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0261.tlg002.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (Encomium &amp; Lyrical)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc9">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (part of Carmina Convivalia)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (part of Carmina Convivalia)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0308.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta Lyrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0366.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0378.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0368.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0086.tlg050.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1203.tlg005.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean Delphicus i in Apollinem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0204.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean in Apollinem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0205.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean in Dionysum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1667.tlg006.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Scolia </mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Skolia</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Greek Melic Poets" count="41">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Greek Melic Poets</mods:title>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <mods:namePart>Smyth, Herbert Weir</mods:namePart>
+                <mods:namePart type="date">1857-1937</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">New York</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Macmillan and Co., limited</mods:publisher>
+                <mods:publisher>The Macmillan Company</mods:publisher>
+                <mods:dateIssued>1900</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="introduction">
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>cxliii, 564 p. 17 cm.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note type="statement of responsibility">by Herbert Weir Smyth ...</mods:note>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=07pLAAAAMAAJ</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/1968626</mods:url>
+            </mods:location>
+            <mods:subject authority="lcsh">
+                <mods:topic>Greek poetry</mods:topic>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3412.M3 </mods:classification>
+            <mods:classification authority="ddc">880.81 </mods:classification>
+            <mods:identifier type="oclc">1968626</mods:identifier>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg002.opp-grc6">
+                <mods:titleInfo xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Dithyrambs</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg001.opp-grc7">
+                <mods:titleInfo xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Epinicia</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg4150.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Anacreontia/Anacreontea</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0009.tlg002.opp-grc7">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Epigrammata</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0006.tlg022.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Epinicium in
+                        Alcibiadem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0376.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0373.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0377.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1833.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0237.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0265.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0369.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0294.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0370.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0371.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0297.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0374.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0381.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0201.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0295.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1355.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0009.tlg001.opp-grc7">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0372.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0293.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0292.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0033.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0383.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0379.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0261.tlg002.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (Encomium &amp; Lyrical)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc9">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (part of Carmina Convivalia)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (part of Carmina Convivalia)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0308.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta Lyrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0366.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0378.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0368.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0086.tlg050.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1203.tlg005.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean Delphicus i in Apollinem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0204.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean in Apollinem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0205.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean in Dionysum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1667.tlg006.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Scolia </mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Skolia</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+
+    <item title="Greek Melic Poets" count="41">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Greek Melic Poets</mods:title>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <mods:namePart>Smyth, Herbert Weir</mods:namePart>
+                <mods:namePart type="date">1857-1937</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">New York</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Macmillan and Co., limited</mods:publisher>
+                <mods:publisher>The Macmillan Company</mods:publisher>
+                <mods:dateIssued>1900</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="introduction">
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>cxliii, 564 p. 17 cm.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note type="statement of                 responsibility">by Herbert Weir Smyth
+                ...</mods:note>
+            <mods:subject authority="lcsh">
+                <mods:topic>Greek poetry</mods:topic>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3412.M3 </mods:classification>
+            <mods:classification authority="ddc">880.81 </mods:classification>
+            <mods:identifier type="oclc">1968626</mods:identifier>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg002.opp-grc6">
+                <mods:titleInfo xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Dithyrambs</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg001.opp-grc7">
+                <mods:titleInfo xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Epinicia</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg4150.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Anacreontia/Anacreontea</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0009.tlg002.opp-grc7">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Epigrammata</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0006.tlg022.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Epinicium in
+                        Alcibiadem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0376.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0373.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0377.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1833.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0237.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0265.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0369.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0294.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0370.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0371.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0297.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0374.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0381.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0201.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0295.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1355.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0009.tlg001.opp-grc7">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0372.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0293.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0292.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0033.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0383.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0379.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0261.tlg002.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (Encomium &amp; Lyrical)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc9">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (part of Carmina Convivalia)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (part of Carmina Convivalia)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0308.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta Lyrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0366.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0378.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0368.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0086.tlg050.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1203.tlg005.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean Delphicus i in Apollinem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0204.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean in Apollinem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0205.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean in Dionysum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1667.tlg006.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Scolia </mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Skolia</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Greek Melic Poets" count="41">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Greek Melic Poets</mods:title>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <mods:namePart>Smyth, Herbert Weir</mods:namePart>
+                <mods:namePart type="date">1857-1937</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">New York</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Macmillan and Co., limited</mods:publisher>
+                <mods:publisher>The Macmillan Company</mods:publisher>
+                <mods:dateIssued>1900</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="introduction">
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>cxliii, 564 p. 17 cm.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note type="statement of                 responsibility">by Herbert Weir Smyth
+                ...</mods:note>
+            <mods:subject authority="lcsh">
+                <mods:topic>Greek poetry</mods:topic>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3412.M3 </mods:classification>
+            <mods:classification authority="ddc">880.81 </mods:classification>
+            <mods:identifier type="oclc">1968626</mods:identifier>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=07pLAAAAMAAJ</mods:url>
+            </mods:location>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg002.opp-grc6">
+                <mods:titleInfo xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Dithyrambs</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg001.opp-grc7">
+                <mods:titleInfo xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Epinicia</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg4150.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Anacreontia/Anacreontea</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0009.tlg002.opp-grc7">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Epigrammata</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0006.tlg022.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Epinicium in
+                        Alcibiadem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0376.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0373.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0377.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1833.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0237.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0265.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0369.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0294.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0370.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0371.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0297.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0374.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0381.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0201.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0295.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1355.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0009.tlg001.opp-grc7">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0372.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0293.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0292.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0033.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0383.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0379.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0261.tlg002.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (Encomium &amp; Lyrical)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc9">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (part of Carmina Convivalia)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (part of Carmina Convivalia)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0308.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta Lyrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0366.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0378.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0368.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0086.tlg050.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1203.tlg005.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean Delphicus i in Apollinem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0204.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean in Apollinem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0205.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean in Dionysum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1667.tlg006.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Scolia </mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Skolia</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Greek Melic Poets" count="41">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Greek Melic Poets</mods:title>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html             ">
+                <mods:namePart>Smyth, Herbert Weir</mods:namePart>
+                <mods:namePart type="date">1857-1937</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">New York</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Macmillan and Co., limited</mods:publisher>
+                <mods:publisher>The Macmillan Company</mods:publisher>
+                <mods:dateIssued>1900</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="introduction">
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>cxliii, 564 p. 17 cm.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note type="statement of  responsibility">by Herbert Weir Smyth ...</mods:note>
+            <mods:subject authority="lcsh">
+                <mods:topic>Greek poetry</mods:topic>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3412.M3 </mods:classification>
+            <mods:classification authority="ddc">880.81 </mods:classification>
+            <mods:identifier type="oclc">1968626</mods:identifier>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=07pLAAAAMAAJ</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/1968626</mods:url>
+            </mods:location>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg002.opp-grc6">
+                <mods:titleInfo xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Dithyrambs</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg001.opp-grc7">
+                <mods:titleInfo xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Epinicia</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg4150.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Anacreontia/Anacreontea</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0009.tlg002.opp-grc7">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Epigrammata</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0006.tlg022.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Epinicium in
+                        Alcibiadem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0376.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0373.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0377.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1833.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0237.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0265.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0369.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0294.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0370.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0371.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0297.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0374.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0381.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0201.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0295.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1355.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0009.tlg001.opp-grc7">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0372.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0293.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0292.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0033.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0383.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0379.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0261.tlg002.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (Encomium &amp; Lyrical)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc9">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (part of Carmina Convivalia)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (part of Carmina Convivalia)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0308.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta Lyrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0366.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0378.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0368.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0086.tlg050.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1203.tlg005.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean Delphicus i in Apollinem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0204.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean in Apollinem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0205.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean in Dionysum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1667.tlg006.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Scolia </mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Skolia</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Greek Melic Poets" count="41">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Greek Melic Poets</mods:title>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <mods:namePart>Smyth, Herbert Weir</mods:namePart>
+                <mods:namePart type="date">1857-1937</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">New York</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Macmillan and Co., limited</mods:publisher>
+                <mods:publisher>The Macmillan Company</mods:publisher>
+                <mods:dateIssued>1900</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="introduction">
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>cxliii, 564 p. 17 cm.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note type="statement of                 responsibility">by Herbert Weir Smyth
+                ...</mods:note>
+            <mods:subject authority="lcsh">
+                <mods:topic>Greek poetry</mods:topic>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3412.M3 </mods:classification>
+            <mods:classification authority="ddc">880.81 </mods:classification>
+            <mods:identifier type="oclc">1968626</mods:identifier>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=gjSXTL8g8W8C</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/1968626</mods:url>
+            </mods:location>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg002.opp-grc6">
+                <mods:titleInfo xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Dithyrambs</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg001.opp-grc7">
+                <mods:titleInfo xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Epinicia</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg4150.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Anacreontia/Anacreontea</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0009.tlg002.opp-grc7">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Epigrammata</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0006.tlg022.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Epinicium in
+                        Alcibiadem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0376.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0373.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0377.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1833.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0237.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0265.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0369.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0294.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0370.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0371.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0297.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0374.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0381.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0201.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0295.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1355.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0009.tlg001.opp-grc7">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0372.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0293.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0292.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0033.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0383.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0379.tlg001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0261.tlg002.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (Encomium &amp; Lyrical)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc9">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (part of Carmina Convivalia)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (part of Carmina Convivalia)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0308.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta Lyrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0366.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0378.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0368.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0086.tlg050.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1203.tlg005.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean Delphicus i in Apollinem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0204.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean in Apollinem</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0205.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Paean in Dionysum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg1667.tlg006.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Scolia </mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0199.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Skolia</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+
+    <item title="Greek melic poets" count="5">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Greek melic poets</mods:title>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <mods:namePart>Smyth, Herbert Weir</mods:namePart>
+                <mods:namePart type="date">1857-1937</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">New York</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Macmillan and Co., limited</mods:publisher>
+                <mods:publisher>The Macmillan Company</mods:publisher>
+                <mods:dateIssued>1900</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="introduction">
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>cxliii, 564 p. 17 cm.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note type="statement of                 responsibility">by Herbert Weir Smyth
+                ...</mods:note>
+            <mods:subject authority="lcsh">
+                <mods:topic>Greek poetry</mods:topic>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3412.M3 </mods:classification>
+            <mods:classification authority="ddc">880.81 </mods:classification>
+            <mods:identifier type="oclc">1968626</mods:identifier>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=07pLAAAAMAAJ</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/1968626</mods:url>
+            </mods:location>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0299.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0297.tlg001.opp-grc10">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0291.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0298.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg2658.tlgX001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Greek melic poets" count="5">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Greek melic poets</mods:title>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html                 ">
+                <mods:namePart>Smyth, Herbert Weir</mods:namePart>
+                <mods:namePart type="date">1857-1937</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">New York</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Macmillan and Co., limited</mods:publisher>
+                <mods:publisher>The Macmillan Company</mods:publisher>
+                <mods:dateIssued>1900</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="introduction">
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>cxliii, 564 p. 17 cm.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note type="statement of                 responsibility">by Herbert Weir Smyth
+                ...</mods:note>
+            <mods:subject authority="lcsh">
+                <mods:topic>Greek poetry</mods:topic>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3412.M3 </mods:classification>
+            <mods:classification authority="ddc">880.81 </mods:classification>
+            <mods:identifier type="oclc">1968626</mods:identifier>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=gjSXTL8g8W8C</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/1968626</mods:url>
+            </mods:location>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0299.tlg001.opp-grc6">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0297.tlg001.opp-grc10">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0291.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0298.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg2658.tlgX001.opp-grc5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmentum</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    
+</data>

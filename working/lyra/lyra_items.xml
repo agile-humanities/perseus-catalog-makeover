@@ -1,0 +1,674 @@
+<items>
+    <item ctsurn="urn:cts:greekLit:plg0002.plg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1367.1">Thaletas Musicus um 665 v. Chr</author>
+        <title>Testimonia</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:plg0002.plg001.opp-grc1">
+        <author id="urn:cite:perseus:author.1367.1">Thaletas Musicus um 665 v. Chr</author>
+        <title>Testimonia</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0009.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1245.1">Sappho</author>
+        <title>Fragmenta</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0009.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.1245.1">Sappho</author>
+        <title>Fragmenta</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0291.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.57.1">Alcman</author>
+        <title>Fragmenta</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0291.tlg001.opp-grc3">
+        <author id="urn:cite:perseus:author.57.1">Alcman</author>
+        <title>Fragmenta</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0297.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.182.1">Arion fl. 628-625 B.C</author>
+        <title>Fragmenta</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0297.tlg001.opp-grc7">
+        <author id="urn:cite:perseus:author.182.1">Arion fl. 628-625 B.C</author>
+        <title>Fragmenta</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0298.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.591.1">Eumelus Corinthius 8./7. Jh. v. Chr</author>
+        <title>Fragmentum</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0298.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.591.1">Eumelus Corinthius 8./7. Jh. v. Chr</author>
+        <title>Fragmentum</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0299.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1364.1">Terpander</author>
+        <title>Fragmenta</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0299.tlg001.opp-grc3">
+        <author id="urn:cite:perseus:author.1364.1">Terpander</author>
+        <title>Fragmenta</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0383.tlg001.opp-eng1">
+        <title>Fragmenta</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0383.tlg001.opp-grc7">
+        <title>Fragmenta</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg2658.tlgX001.opp-eng1">
+        <author id="urn:cite:perseus:author.182.1">Arion fl. 628-625 B.C</author>
+        <title>Fragmentum</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg2658.tlgX001.opp-grc2">
+        <author id="urn:cite:perseus:author.182.1">Arion fl. 628-625 B.C</author>
+        <title>Fragmentum</title>
+        <volume>Volume 1</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:plg0204.plg001.opp-grc1">
+        <author id="urn:cite:perseus:author.1489.1">Xanthus Lyricus 7. Jh. v. Chr</author>
+        <title>Oresteia</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0237.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.84.1">Anacreon</author>
+        <title>Fragmenta (Elegiae)</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0237.tlg001.opp-grc5">
+        <author id="urn:cite:perseus:author.84.1">Anacreon</author>
+        <title>Fragmenta (Elegiae)</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0237.tlg002.opp-eng1">
+        <author id="urn:cite:perseus:author.84.1">Anacreon</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0237.tlg002.opp-grc5">
+        <author id="urn:cite:perseus:author.84.1">Anacreon</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0249.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.542.1">Echembrotus Lyricus 6. Jh. v. Chr</author>
+        <title>Fragmentum</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0249.tlg001.opp-grc4">
+        <author id="urn:cite:perseus:author.542.1">Echembrotus Lyricus 6. Jh. v. Chr</author>
+        <title>Fragmentum</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0261.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1292.1">Simonides ca. 556-467 B.C</author>
+        <title>Fragmenta (Epigrams &amp; Elegeiae)</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0261.tlg001.opp-grc4">
+        <author id="urn:cite:perseus:author.1292.1">Simonides ca. 556-467 B.C</author>
+        <title>Fragmenta (Epigrams &amp; Elegeiae)</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0261.tlg002.opp-eng1">
+        <author id="urn:cite:perseus:author.1292.1">Simonides ca. 556-467 B.C</author>
+        <title>Fragmenta (Encomium &amp; Lyrical)</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0261.tlg002.opp-grc3">
+        <author id="urn:cite:perseus:author.1292.1">Simonides ca. 556-467 B.C</author>
+        <title>Fragmenta (Encomium &amp; Lyrical)</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0265.tlg002.opp-eng1">
+        <author id="urn:cite:perseus:author.1413.1">Timocreon Ialysius 5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0265.tlg002.opp-grc1">
+        <author id="urn:cite:perseus:author.1413.1">Timocreon Ialysius 5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0265.tlg003.opp-eng1">
+        <author id="urn:cite:perseus:author.1413.1">Timocreon Ialysius 5. Jh. v. Chr</author>
+        <title>Epigrammata</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0265.tlg003.opp-grc4">
+        <author id="urn:cite:perseus:author.1413.1">Timocreon Ialysius 5. Jh. v. Chr</author>
+        <title>Epigrammata</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0292.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1328.1">Stesichorus</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0292.tlg001.opp-grc3">
+        <author id="urn:cite:perseus:author.1328.1">Stesichorus</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0293.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.760.1">Ibycus 6th cent. B.C</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0293.tlg001.opp-grc2">
+        <author id="urn:cite:perseus:author.760.1">Ibycus 6th cent. B.C</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0365.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.144.1">Apollodorus Lyricus ca. 6. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0365.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.144.1">Apollodorus Lyricus ca. 6. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0366.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.815.1">Lasus b. 548 B.C</author>
+        <title>Fragmentum</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0366.tlg001.opp-grc6">
+        <author id="urn:cite:perseus:author.815.1">Lasus b. 548 B.C</author>
+        <title>Fragmentum</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0367.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1441.1">Tynnichus Chalcidensis 6./4. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0367.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.1441.1">Tynnichus Chalcidensis 6./4. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0369.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1360.1">Telesilla Argiva 5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0369.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.1360.1">Telesilla Argiva 5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 2</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:lyg0001.lyg001.opp-grc1">
+        <author id="urn:cite:perseus:author.339.1">Ceceides of Hermione</author>
+        <title>Testimonia</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:plg0001.plg001.opp-eng1">
+        <author id="urn:cite:perseus:author.959.1">Myrtis Lyrica 5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:plg0001.plg001.opp-grc3">
+        <author id="urn:cite:perseus:author.959.1">Myrtis Lyrica 5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0006.tlg022.opp-eng1">
+        <author id="urn:cite:perseus:author.601.1">Euripides</author>
+        <title>Epinicium in Alcibiadem</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0006.tlg022.opp-grc3">
+        <author id="urn:cite:perseus:author.601.1">Euripides</author>
+        <title>Epinicium in Alcibiadem</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0011.tlg009.opp-eng1">
+        <author id="urn:cite:perseus:author.1307.1">Sophocles</author>
+        <title>Fragmenta (Elegiaca)</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0011.tlg009.opp-grc5">
+        <author id="urn:cite:perseus:author.1307.1">Sophocles</author>
+        <title>Fragmenta (Elegiaca)</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0054.tlg002.opp-eng1">
+        <author id="urn:cite:perseus:author.1371.1">Theano</author>
+        <title>Testimonia</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0054.tlg002.opp-grc1">
+        <author id="urn:cite:perseus:author.1371.1">Theano</author>
+        <title>Testimonia</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0086.tlg050.opp-eng1">
+        <author id="urn:cite:perseus:author.204.1">Aristotle</author>
+        <title>Fragmentum</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0086.tlg050.opp-grc6">
+        <author id="urn:cite:perseus:author.204.1">Aristotle</author>
+        <title>Fragmentum</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Epinicians</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg001.opp-grc4">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Epinicians</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg002.opp-eng1">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Dithyrambs</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg002.opp-grc2">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Dithyrambs</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg014.opp-eng1">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Hymnorum fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg014.opp-grc2">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Hymnorum fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg015.opp-eng1">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Paeanes</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg015.opp-grc2">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Paeanes</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg016.opp-eng1">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Prosodia Fragment</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg016.opp-grc3">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Prosodia Fragment</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg017.opp-eng1">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Partheneia Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg017.opp-grc2">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Partheneia Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg018.opp-eng1">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Hyporchemata (fragmenta)</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg018.opp-grc3">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Hyporchemata (fragmenta)</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg019.opp-eng1">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Erotica</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg019.opp-grc3">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Erotica</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg020.opp-eng1">
+        <title>Encomia</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg020.opp-grc1">
+        <title>Encomia</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg023.opp-eng3">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Epigrammata</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0199.tlg023.opp-grc5">
+        <author id="urn:cite:perseus:author.254.1">Bacchylides</author>
+        <title>Epigrammata</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0230.tlg001.opp-eng1">
+        <title>Adespota</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0230.tlg001.opp-grc3">
+        <title>Adespota</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0240.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.723.1">Hermolochus Lyricus ca. 4. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0240.tlg001.opp-grc2">
+        <author id="urn:cite:perseus:author.723.1">Hermolochus Lyricus ca. 4. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0263.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1303.1">Solon ca. 630-ca. 560 B.C</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0263.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.1303.1">Solon ca. 630-ca. 560 B.C</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0294.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.404.1">Corinna of Tanagra 5th cent. B.C</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0294.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.404.1">Corinna of Tanagra 5th cent. B.C</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-eng1">
+        <title>Fragmenta (part of Carmina Convivalia)</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0296.tlg001.opp-grc3">
+        <title>Fragmenta (part of Carmina Convivalia)</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0308.tlg003.opp-eng1">
+        <author id="urn:cite:perseus:author.765.1">Ion of Chios</author>
+        <title>Fragmenta Lyrica</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0308.tlg003.opp-grc2">
+        <author id="urn:cite:perseus:author.765.1">Ion of Chios</author>
+        <title>Fragmenta Lyrica</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0368.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.429.1">Cydias Lyricus 6./5. Jh. v. Chr</author>
+        <title>Fragmentum</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0368.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.429.1">Cydias Lyricus 6./5. Jh. v. Chr</author>
+        <title>Fragmentum</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0370.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.811.1">Lamprocles Atheniensis 5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0370.tlg001.opp-grc7">
+        <author id="urn:cite:perseus:author.811.1">Lamprocles Atheniensis 5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0371.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.471.1">Diagoras of Melos</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0371.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.471.1">Diagoras of Melos</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0372.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1177.1">Praxilla Sicyonia 5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0372.tlg001.opp-grc6">
+        <author id="urn:cite:perseus:author.1177.1">Praxilla Sicyonia 5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0373.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.910.1">Melanippides Melius 5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0373.tlg001.opp-grc3">
+        <author id="urn:cite:perseus:author.910.1">Melanippides Melius 5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0374.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.835.1">Licymnius Chius um 400 v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0374.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.835.1">Licymnius Chius um 400 v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0375.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.369.1">Cinesias Atheniensis 5./4. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0375.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.369.1">Cinesias Atheniensis 5./4. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0376.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1418.1">Timotheus of Miletus</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0376.tlg001.opp-grc4">
+        <author id="urn:cite:perseus:author.1418.1">Timotheus of Miletus</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0377.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1361.1">Telestes Selinuntius 5./4. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0377.tlg001.opp-grc2">
+        <author id="urn:cite:perseus:author.1361.1">Telestes Selinuntius 5./4. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0378.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.183.1">Ariphron Sicyonius um 405/398 v. Chr</author>
+        <title>Fragmentum</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0378.tlg001.opp-grc3">
+        <author id="urn:cite:perseus:author.183.1">Ariphron Sicyonius um 405/398 v. Chr</author>
+        <title>Fragmentum</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0379.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1110.1">Philoxenus Cytherius 435/434 - 380/379 v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0379.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.1110.1">Philoxenus Cytherius 435/434 - 380/379 v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0380.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1112.1">Philoxenus Leucadius 5./4. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0380.tlg001.opp-grc5">
+        <author id="urn:cite:perseus:author.1112.1">Philoxenus Leucadius 5./4. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0381.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.858.1">Lycophronides Lyricus 4. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0381.tlg001.opp-grc6">
+        <author id="urn:cite:perseus:author.858.1">Lycophronides Lyricus 4. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0397.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1186.1">Pronomus Thebanus 5. Jh. v. Chr</author>
+        <title>Titulus</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0397.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.1186.1">Pronomus Thebanus 5. Jh. v. Chr</author>
+        <title>Titulus</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0631.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1132.1">Pittacus of Mytilene ca. 650-ca. 570 B.C</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0631.tlg001.opp-grc3">
+        <author id="urn:cite:perseus:author.1132.1">Pittacus of Mytilene ca. 650-ca. 570 B.C</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0900.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.383.1">Cleomenes Rheginus 5. Jh. v. Chr</author>
+        <title>Titulus</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0900.tlg001.opp-grc3">
+        <author id="urn:cite:perseus:author.383.1">Cleomenes Rheginus 5. Jh. v. Chr</author>
+        <title>Titulus</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0918.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.813.1">Lamynthius Milesius 5. Jh. v. Chr</author>
+        <title>Titulus</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg0918.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.813.1">Lamynthius Milesius 5. Jh. v. Chr</author>
+        <title>Titulus</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1223.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.273.1">Bias Prienaeus 6. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1223.tlg001.opp-grc2">
+        <author id="urn:cite:perseus:author.273.1">Bias Prienaeus 6. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1261.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.358.1">Chilon Lyricus 6. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1261.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.358.1">Chilon Lyricus 6. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1274.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.381.1">Cleobulus Lindius 7./6. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1274.tlg001.opp-grc2">
+        <author id="urn:cite:perseus:author.381.1">Cleobulus Lindius 7./6. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1601.tlg001.opp-eng1">
+        <author id="urn:cite:perseus:author.1111.1">Philoxenus Epigrammaticus 3. Jh. v. Chr</author>
+        <title>Epigrammata</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1601.tlg001.opp-grc1">
+        <author id="urn:cite:perseus:author.1111.1">Philoxenus Epigrammaticus 3. Jh. v. Chr</author>
+        <title>Epigrammata</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1667.tlg006.opp-eng1">
+        <author id="urn:cite:perseus:author.273.1">Bias Prienaeus 6. Jh. v. Chr</author>
+        <author id="urn:cite:perseus:author.358.1">Chilon Lyricus 6. Jh. v. Chr</author>
+        <author id="urn:cite:perseus:author.381.1">Cleobulus Lindius 7./6. Jh. v. Chr</author>
+        <author id="urn:cite:perseus:author.1132.1">Pittacus of Mytilene ca. 650-ca. 570 B.C</author>
+        <author id="urn:cite:perseus:author.1303.1">Solon ca. 630-ca. 560 B.C</author>
+        <author id="urn:cite:perseus:author.1366.1">Thales ca. 634-ca. 546 B.C</author>
+        <title>Scolia</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1667.tlg006.opp-grc3">
+        <author id="urn:cite:perseus:author.273.1">Bias Prienaeus 6. Jh. v. Chr</author>
+        <author id="urn:cite:perseus:author.358.1">Chilon Lyricus 6. Jh. v. Chr</author>
+        <author id="urn:cite:perseus:author.381.1">Cleobulus Lindius 7./6. Jh. v. Chr</author>
+        <author id="urn:cite:perseus:author.1132.1">Pittacus of Mytilene ca. 650-ca. 570 B.C</author>
+        <author id="urn:cite:perseus:author.1303.1">Solon ca. 630-ca. 560 B.C</author>
+        <author id="urn:cite:perseus:author.1366.1">Thales ca. 634-ca. 546 B.C</author>
+        <title>Scolia</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1705.tlgX01.opp-eng1">
+        <author id="urn:cite:perseus:author.1366.1">Thales ca. 634-ca. 546 B.C</author>
+        <title>Fragmentum Lyricum</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1705.tlgX01.opp-grc2">
+        <author id="urn:cite:perseus:author.1366.1">Thales ca. 634-ca. 546 B.C</author>
+        <title>Fragmentum Lyricum</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1833.tlg002.opp-eng1">
+        <author id="urn:cite:perseus:author.1175.1">Pratinas Phliasius 6./5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+    <item ctsurn="urn:cts:greekLit:tlg1833.tlg002.opp-grc4">
+        <author id="urn:cite:perseus:author.1175.1">Pratinas Phliasius 6./5. Jh. v. Chr</author>
+        <title>Fragmenta</title>
+        <volume>Volume 3</volume>
+    </item>
+</items>

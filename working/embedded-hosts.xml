@@ -1,0 +1,3977 @@
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Anthologia lyrica</title>
+      <subTitle>sive Lyricorum graecorum veterum praeter Pindarum reliquiae potiores</subTitle>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n86-55744.html">
+      <namePart>Hiller, Eduard</namePart>
+      <namePart type="date">1844-1891</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n88-115329.html">
+      <namePart>Bergk, Theodor</namePart>
+      <namePart type="date">1812-1881</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr96-9519.html">
+      <namePart>Crusius, Otto</namePart>
+      <namePart type="date">1857-1918</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>in aedibus B. G. Teubneri</publisher>
+      <dateIssued>1897</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>lxxvi, 387 p. ; 18 cm.</extent>
+    </physicalDescription>
+    <note> Introductory material and notes in Latin, text in Greek.</note>
+    <note type="statement of responsibility">post Theodorum Bergkium quartum edidit
+    Eduardus Hiller ; exemplar emendavit atque novis Solonis aliorumque fragmentis auxit O.
+    Crusius.</note>
+    <subject authority="lcsh">
+      <topic>Greek poetry</topic>
+    </subject>
+    <classification authority="lcc">PA3431</classification>
+    <classification authority="ddc">884.9</classification>
+    <identifier type="oclc">2208099</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2208099</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance" note="1905 edition"
+                >http://www.archive.org/details/anthologialyrica037595mbp</url>
+    </location>
+    <location>
+      <url displayLabel="Google Books"
+                >http://books.google.com/books?id=ISEOAAAAYAAJ</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Aristotelis opera</title>
+      <partNumber>Volumen Primum</partNumber>
+      <partName>Aristoteles Graece ex Recognitione Immanuelis Bekkeri</partName>
+      <partNumber>Volumen Prius</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-4182.html">
+      <namePart>Aristotle.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n86-112270.html">
+      <namePart>Bekker, Immanuel</namePart>
+      <namePart type="date">1785-1871</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Berolini</placeTerm>
+      </place>
+      <publisher>apud G. Reimerum</publisher>
+      <dateIssued>1831</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>vii, 789 pg.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">edidit Academia Regia Borussica.</note>
+    <classification authority="lcc">PA3890</classification>
+    <classification authority="ddc">881</classification>
+    <identifier type="oclc">14545118</identifier>
+    <identifier type="lccn">10002755</identifier>
+    <identifier type="oca">aristotelisopera01arisrich</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/10002755</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/14545118</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/aristotelisopera01arisrich</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://openlibrary.org/ia/aristotelisopera01arisrich</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=XAAUAAAAYAAJ</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Comicorum atticorum fragmenta</title>
+      <partNumber>Volumen III</partNumber>
+      <partName>Novae Comoediae Fragmenta,</partName>
+      <partNumber>Pars II</partNumber>
+      <partName>Comicorum Incertae Aetatis Fragmenta, Fragmenta Incertorum Poetarum,
+      Indices, Supplementa</partName>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/no97-26378.html">
+      <namePart>Kock, Theodor</namePart>
+      <namePart type="date">1820-1901</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsae</placeTerm>
+      </place>
+      <publisher>B. G. Teubner</publisher>
+      <dateIssued>1887</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>ix, 756 p.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+      <topic>Greek drama (Comedy)</topic>
+    </subject>
+    <classification authority="lcc">PA3465 .A2 1887</classification>
+    <identifier type="lccn">04007641</identifier>
+    <identifier type="oclc">7486943 </identifier>
+    <identifier type="oca">comicorumatticor03kockuoft</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/04007641</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/7486943 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance">
+      http://www.archive.org/details/comicorumatticor03kockuoft </url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/comicorumatticor03kockuoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=YqUNAAAAIAAJ</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Decimi Magni Ausonii Burdigalensis opuscula</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Ausonius, Decimus Magnus. Works</title>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n80-128611.html">
+      <namePart>Ausonius, Decimus Magnus.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/no94-28112.html">
+      <namePart>Peiper, Rudolf</namePart>
+      <namePart type="date">1834-1898</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Leipzig</placeTerm>
+      </place>
+      <publisher>Teubner</publisher>
+      <dateIssued>1886</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>cxxviii, 556 p., fold. plate : facs. ; 18 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">recensuit Rudolfus Peiper.</note>
+    <subject authority="lcsh">
+      <topic>Romans</topic>
+      <geographic>France</geographic>
+      <topic>Poetry</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Didactic poetry, Latin</topic>
+    </subject>
+    <subject authority="lcsh">
+      <geographic>Rome</geographic>
+      <topic>Poetry</topic>
+    </subject>
+    <classification authority="lcc">PA6221</classification>
+    <identifier type="oclc">43129189</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/43129189</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=4qINAAAAIAAJ</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/opuscula00ausouoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Diophanti Alexandrini Opera omnia</title>
+      <subTitle>cum graecis commentariis</subTitle>
+      <partNumber>Volume II</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n82-149799.html">
+      <namePart>Diophantus</namePart>
+      <namePart type="termsOfAddress">of Alexandria</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-150235.html">
+      <namePart>Tannery, Paul</namePart>
+      <namePart type="date">1843-1904</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>in aedibus B. G. Teubneri</publisher>
+      <dateIssued>1895</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <language objectPart="preface">
+      <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xlvii, 297 pg.</extent>
+    </physicalDescription>
+    <tableOfContents>-II. Continens Pseudepigrapha, testimonia veterum, Pachymerae
+    Paraphrasin, Planudis Commentarium, scholia vetera, omnia fere adhuc inedita, cum
+    prolegomenis et incibus.</tableOfContents>
+    <note type="statement of responsibility">Editit et latine interpretatus est Paulus
+    Tannery.</note>
+    <subject authority="lcsh">
+      <topic>Mathematics, Greek</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Arithmetic</topic>
+      <topic>Early works to 1900</topic>
+    </subject>
+    <classification authority="lcc">PA3404 .D77 1893</classification>
+    <identifier type="lccn">34018613</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/34018613</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2692977</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"/>
+    </location>
+    <location>
+      <url displayLabel="Open Library"/>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=7K82AAAAMAAJ
+      </url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">770121</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20050516181916.0</recordChangeDate>
+      <recordIdentifier>9698190</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.3 using
+      MARC21slim2MODS3-3.xsl (Revision 1.54)</recordOrigin>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Epicorum graecorum fragmenta</title>
+    </titleInfo>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/"
+               type="personal" usage="primary" valueURI="http://id.loc.gov/authorities/names/n83135731">
+      <namePart>Kinkel, Gottfried</namePart>
+      <namePart type="date">1844-1891</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>in aedibus B.G. Teubneri</publisher>
+      <dateIssued>1877</dateIssued>
+      <dateIssued encoding="marc">1877</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <language objectPart="preface">
+      <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>vi, 322 p. 18 cm.</extent>
+    </physicalDescription>
+    <note>No more published.</note>
+    <subject authority="lcsh">
+      <topic>Greek poetry</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Epic poetry, Greek</topic>
+    </subject>
+    <classification authority="lcc">PA3402 .E7 1877</classification>
+    <identifier type="lccn">34014794</identifier>
+    <identifier type="oclc">6807807</identifier>
+    <identifier type="oca">epicorumgraecoru00kinkuoft</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/34014794</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/6807807</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=HpMOAAAAQAAJ</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/epicorumgraecoru00kinkuoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://openlibrary.org/epicorumgraecoru00kinkuoft</url>
+    </location>
+    <location>
+      <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/mdp.39015008687785</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">801009</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20050819211816.0</recordChangeDate>
+      <recordIdentifier>6887620</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using
+      MARC21slim2MODS3-4.xsl (Revision 1.78 2012/05/07)</recordOrigin>
+    </recordInfo>
+  </relatedItem>
+
+  <!-- Fragmenta historicorum graecorum -->
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fragmenta historicorum graecorum</title>
+      <partNumber>Vol II</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
+      <namePart>Müller, Karl</namePart>
+      <namePart type="termsOfAddress">of Paris</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
+      <namePart>Müller, Theodor,</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n84-135026.html">
+      <namePart>Langlois, Victor</namePart>
+      <namePart type="date">1829-1869</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Parisiis</placeTerm>
+      </place>
+      <publisher>Editore Ambrosio Firmin Didot</publisher>
+      <dateIssued>1848</dateIssued>
+      <dateIssued encoding="marc">1848</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xlii, 631 pg.</extent>
+    </physicalDescription>
+    <note type="additional physical form">Digitized and made available by: University of
+    Toronto Libraries</note>
+    <subject authority="lcsh">
+      <topic>History, Ancient</topic>
+      <topic>Collections</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Historians</topic>
+      <topic>Greece</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greece</topic>
+      <topic>History</topic>
+      <topic>Sources</topic>
+    </subject>
+    <classification authority="lcc">PA3490 M84</classification>
+    <note type="statement of responsibility">auxerunt, notis et prolegomenis illustrarunt,
+    indici plenissimo instruxerunt Car. et Theod. Mulleri . Accedunt marmora parium et
+    rosettanum, hoc cum Letronnii, illud cum C. Mulleri commentariis</note>
+    <identifier type="lccn">none for this manifestation</identifier>
+    <identifier type="oclc">221365708</identifier>
+    <identifier type="oca"> fragmentahistori02mueluoft</identifier>
+    <tableOfContents> Cadmus Milesius -- Dionysius Milesius -- Hippius Rheginus --
+    Eugeonius Samius -- Deiochus -- Bionis -- Eudemus -- Democlis --Amelesagoras -- Glaucus
+    Rheginus -- Herodorus -- Simonides -- Xenomedes -- Ionis - Stesimbrotus-- Hippias --
+    Damastus -- Anaximandrus -- Critias -- Themistogenus? -- Sophaenetus -- Cratippus --
+    Aristippus -- Dionysius Tyrannus -- Hermias Methymnaeus -- Athanis Syracusanas
+    --Timonides Leucadius -- Dionysodorus Boeoti -- Anaxis Boeoti -- Zoilus Amphipolitae --
+    Cephisodorus -- Demophilus -- Theocritus Chius -- Dinon -- Heraclides Cumaeus --
+    Aristagoras Milesius -- Aristotelis Stagiritae -- Heraclides Ponticus -- Dicaerchus
+    Messenius -- Aristoxenus Tarentinus -- Phanias Eresius -- Clearchus Solensis. -- Clytius
+    Milesius -- Leon Byzantius -- Menecrates Elaita -- Andron Halicarnassensis -- Diodorus
+    Perieg. -- Diyllus Atheniensis -- Demetrius Phalerus -- Straton Lampsacenus --
+    Theodectas Phaselinus -- Lycus Rheginus -- Nymphodorus Syracusanus -- Callis Syracusanus
+    -- Antandrus Syracusanius -- Hecataeus Abderitae -- Megasthenus -- Daimachus --
+    Patroclus -- Demodamus Milesius -- Demochares Leuconoensis -- Hieronymus Cardianus --
+    Pyrrhus Epirotes -- Proxenus -- Cineae Thessali Et Suidae -- Duris Samius -- Idomeneus
+    Lampsacenus -- Berosus Chaldaeus -- Manetho Historicus -- Demetrius Byzantinus --
+    Ctesibius. -- Sosibius Laconis -- Didorus Siculus -- Polybius -- Dionysius
+    Halicarnassensis </tableOfContents>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/fragmentahistori02mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/fragmentahistori02mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=UckWAAAAQAAJ</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fragmenta historicorum graecorum</title>
+      <partNumber>Vol II</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
+      <namePart>Müller, Karl</namePart>
+      <namePart type="termsOfAddress">of Paris</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
+      <namePart>Müller, Theodor,</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n84-135026.html">
+      <namePart>Langlois, Victor</namePart>
+      <namePart type="date">1829-1869</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Parisiis</placeTerm>
+      </place>
+      <publisher>Editore Ambrosio Firmin Didot</publisher>
+      <dateIssued>1848</dateIssued>
+      <dateIssued encoding="marc">1848</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xlii, 631 pg.</extent>
+    </physicalDescription>
+    <note type="additional physical form">Digitized and made available by: University of
+    Toronto Libraries</note>
+    <subject authority="lcsh">
+      <topic>History, Ancient</topic>
+      <topic>Collections</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Historians</topic>
+      <topic>Greece</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greece</topic>
+      <topic>History</topic>
+      <topic>Sources</topic>
+    </subject>
+    <classification authority="lcc">PA3490 M84</classification>
+    <note type="statement of responsibility">auxerunt, notis et prolegomenis illustrarunt,
+    indici plenissimo instruxerunt Car. et Theod. Mulleri . Accedunt marmora parium et
+    rosettanum, hoc cum Letronnii, illud cum C. Mulleri commentariis</note>
+    <identifier type="lccn">none for this manifestation</identifier>
+    <identifier type="oclc">221365708</identifier>
+    <identifier type="oca"> fragmentahistori02mueluoft</identifier>
+    <tableOfContents> Cadmus Milesius -- Dionysius Milesius -- Hippius Rheginus --
+    Eugeonius Samius -- Deiochus -- Bionis -- Eudemus -- Democlis --Amelesagoras -- Glaucus
+    Rheginus -- Herodorus -- Simonides -- Xenomedes -- Ionis - Stesimbrotus-- Hippias --
+    Damastus -- Anaximandrus -- Critias -- Themistogenus? -- Sophaenetus -- Cratippus --
+    Aristippus -- Dionysius Tyrannus -- Hermias Methymnaeus -- Athanis Syracusanas
+    --Timonides Leucadius -- Dionysodorus Boeoti -- Anaxis Boeoti -- Zoilus Amphipolitae --
+    Cephisodorus -- Demophilus -- Theocritus Chius -- Dinon -- Heraclides Cumaeus --
+    Aristagoras Milesius -- Aristotelis Stagiritae -- Heraclides Ponticus -- Dicaerchus
+    Messenius -- Aristoxenus Tarentinus -- Phanias Eresius -- Clearchus Solensis. -- Clytius
+    Milesius -- Leon Byzantius -- Menecrates Elaita -- Andron Halicarnassensis -- Diodorus
+    Perieg. -- Diyllus Atheniensis -- Demetrius Phalerus -- Straton Lampsacenus --
+    Theodectas Phaselinus -- Lycus Rheginus -- Nymphodorus Syracusanus -- Callis Syracusanus
+    -- Antandrus Syracusanius -- Hecataeus Abderitae -- Megasthenus -- Daimachus --
+    Patroclus -- Demodamus Milesius -- Demochares Leuconoensis -- Hieronymus Cardianus --
+    Pyrrhus Epirotes -- Proxenus -- Cineae Thessali Et Suidae -- Duris Samius -- Idomeneus
+    Lampsacenus -- Berosus Chaldaeus -- Manetho Historicus -- Demetrius Byzantinus --
+    Ctesibius. -- Sosibius Laconis -- Didorus Siculus -- Polybius -- Dionysius
+    Halicarnassensis </tableOfContents>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/fragmentahistori02mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/fragmentahistori02mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=UckWAAAAQAAJ</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fragmenta historicorum graecorum</title>
+      <partNumber>Vol II</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
+      <namePart>Müller, Karl</namePart>
+      <namePart type="termsOfAddress">of Paris</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
+      <namePart>Müller, Theodor,</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n84-135026.html">
+      <namePart>Langlois, Victor</namePart>
+      <namePart type="date">1829-1869</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Parisiis</placeTerm>
+      </place>
+      <publisher>Editore Ambrosio Firmin Didot</publisher>
+      <dateIssued>1848</dateIssued>
+      <dateIssued encoding="marc">1848</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xlii, 631 pg.</extent>
+    </physicalDescription>
+    <note type="additional physical form">Digitized and made available by: University of
+    Toronto Libraries</note>
+    <subject authority="lcsh">
+      <topic>History, Ancient</topic>
+      <topic>Collections</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Historians</topic>
+      <topic>Greece</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greece</topic>
+      <topic>History</topic>
+      <topic>Sources</topic>
+    </subject>
+    <classification authority="lcc">PA3490 M84</classification>
+    <note type="statement of responsibility">auxerunt, notis et prolegomenis illustrarunt,
+    indici plenissimo instruxerunt Car. et Theod. Mulleri . Accedunt marmora parium et
+    rosettanum, hoc cum Letronnii, illud cum C. Mulleri commentariis</note>
+    <identifier type="lccn">none for this manifestation</identifier>
+    <identifier type="oclc">221365708</identifier>
+    <identifier type="oca"> fragmentahistori02mueluoft</identifier>
+    <tableOfContents> Cadmus Milesius -- Dionysius Milesius -- Hippius Rheginus --
+    Eugeonius Samius -- Deiochus -- Bionis -- Eudemus -- Democlis --Amelesagoras -- Glaucus
+    Rheginus -- Herodorus -- Simonides -- Xenomedes -- Ionis - Stesimbrotus-- Hippias --
+    Damastus -- Anaximandrus -- Critias -- Themistogenus? -- Sophaenetus -- Cratippus --
+    Aristippus -- Dionysius Tyrannus -- Hermias Methymnaeus -- Athanis Syracusanas
+    --Timonides Leucadius -- Dionysodorus Boeoti -- Anaxis Boeoti -- Zoilus Amphipolitae --
+    Cephisodorus -- Demophilus -- Theocritus Chius -- Dinon -- Heraclides Cumaeus --
+    Aristagoras Milesius -- Aristotelis Stagiritae -- Heraclides Ponticus -- Dicaerchus
+    Messenius -- Aristoxenus Tarentinus -- Phanias Eresius -- Clearchus Solensis. -- Clytius
+    Milesius -- Leon Byzantius -- Menecrates Elaita -- Andron Halicarnassensis -- Diodorus
+    Perieg. -- Diyllus Atheniensis -- Demetrius Phalerus -- Straton Lampsacenus --
+    Theodectas Phaselinus -- Lycus Rheginus -- Nymphodorus Syracusanus -- Callis Syracusanus
+    -- Antandrus Syracusanius -- Hecataeus Abderitae -- Megasthenus -- Daimachus --
+    Patroclus -- Demodamus Milesius -- Demochares Leuconoensis -- Hieronymus Cardianus --
+    Pyrrhus Epirotes -- Proxenus -- Cineae Thessali Et Suidae -- Duris Samius -- Idomeneus
+    Lampsacenus -- Berosus Chaldaeus -- Manetho Historicus -- Demetrius Byzantinus --
+    Ctesibius. -- Sosibius Laconis -- Didorus Siculus -- Polybius -- Dionysius
+    Halicarnassensis </tableOfContents>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/fragmentahistori02mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/fragmentahistori02mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=UckWAAAAQAAJ</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fragmenta historicorum graecorum</title>
+      <partNumber>Vol II</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
+      <namePart>Müller, Karl</namePart>
+      <namePart type="termsOfAddress">of Paris</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
+      <namePart>Müller, Theodor,</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n84-135026.html">
+      <namePart>Langlois, Victor</namePart>
+      <namePart type="date">1829-1869</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Parisiis</placeTerm>
+      </place>
+      <publisher>Editore Ambrosio Firmin Didot</publisher>
+      <dateIssued>1848</dateIssued>
+      <dateIssued encoding="marc">1848</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xlii, 631 pg.</extent>
+    </physicalDescription>
+    <note type="additional physical form">Digitized and made available by: University of
+    Toronto Libraries</note>
+    <subject authority="lcsh">
+      <topic>History, Ancient</topic>
+      <topic>Collections</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Historians</topic>
+      <topic>Greece</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greece</topic>
+      <topic>History</topic>
+      <topic>Sources</topic>
+    </subject>
+    <classification authority="lcc">PA3490 M84</classification>
+    <note type="statement of responsibility">auxerunt, notis et prolegomenis illustrarunt,
+    indici plenissimo instruxerunt Car. et Theod. Mulleri . Accedunt marmora parium et
+    rosettanum, hoc cum Letronnii, illud cum C. Mulleri commentariis</note>
+    <identifier type="lccn">none for this manifestation</identifier>
+    <identifier type="oclc">221365708</identifier>
+    <identifier type="oca"> fragmentahistori02mueluoft</identifier>
+    <tableOfContents> Cadmus Milesius -- Dionysius Milesius -- Hippius Rheginus --
+    Eugeonius Samius -- Deiochus -- Bionis -- Eudemus -- Democlis --Amelesagoras -- Glaucus
+    Rheginus -- Herodorus -- Simonides -- Xenomedes -- Ionis - Stesimbrotus-- Hippias --
+    Damastus -- Anaximandrus -- Critias -- Themistogenus? -- Sophaenetus -- Cratippus --
+    Aristippus -- Dionysius Tyrannus -- Hermias Methymnaeus -- Athanis Syracusanas
+    --Timonides Leucadius -- Dionysodorus Boeoti -- Anaxis Boeoti -- Zoilus Amphipolitae --
+    Cephisodorus -- Demophilus -- Theocritus Chius -- Dinon -- Heraclides Cumaeus --
+    Aristagoras Milesius -- Aristotelis Stagiritae -- Heraclides Ponticus -- Dicaerchus
+    Messenius -- Aristoxenus Tarentinus -- Phanias Eresius -- Clearchus Solensis. -- Clytius
+    Milesius -- Leon Byzantius -- Menecrates Elaita -- Andron Halicarnassensis -- Diodorus
+    Perieg. -- Diyllus Atheniensis -- Demetrius Phalerus -- Straton Lampsacenus --
+    Theodectas Phaselinus -- Lycus Rheginus -- Nymphodorus Syracusanus -- Callis Syracusanus
+    -- Antandrus Syracusanius -- Hecataeus Abderitae -- Megasthenus -- Daimachus --
+    Patroclus -- Demodamus Milesius -- Demochares Leuconoensis -- Hieronymus Cardianus --
+    Pyrrhus Epirotes -- Proxenus -- Cineae Thessali Et Suidae -- Duris Samius -- Idomeneus
+    Lampsacenus -- Berosus Chaldaeus -- Manetho Historicus -- Demetrius Byzantinus --
+    Ctesibius. -- Sosibius Laconis -- Didorus Siculus -- Polybius -- Dionysius
+    Halicarnassensis </tableOfContents>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/fragmentahistori02mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/fragmentahistori02mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=UckWAAAAQAAJ</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fragmenta historicorum graecorum</title>
+      <partNumber>Vol III</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
+      <namePart>Müller, Karl</namePart>
+      <namePart type="termsOfAddress">of Paris</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Parisiis</placeTerm>
+      </place>
+      <publisher>Editore Ambrosio Firmin Didot</publisher>
+      <dateIssued>1849</dateIssued>
+      <dateIssued encoding="marc">1849</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+    </physicalDescription>
+    <note type="additional physical form">Digitized and made available by: University of
+    Toronto Libraries</note>
+    <subject authority="lcsh">
+      <topic>History, Ancient</topic>
+      <topic>Collections</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Historians</topic>
+      <topic>Greece</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greece</topic>
+      <topic>History</topic>
+      <topic>Sources</topic>
+    </subject>
+    <classification authority="lcc">PA3490 M84</classification>
+    <tableOfContents/>
+    <note type="statement of responsibility">collegit, disposuit, notis et prolegomenis
+    illustravit indicibus instruxit Carolus Mullerus ....accedunt Addenda et Indices
+    Locupletissimi Auctorem, Titulorem, Rerum Nominumque </note>
+    <identifier type="lccn">none for this manifestation</identifier>
+    <identifier type="oclc">221365708</identifier>
+    <identifier type="oca"> fragmentahistori03mueluoft</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/fragmentahistori03mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/fragmentahistori03mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=oqcKAAAAYAAJ
+      </url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">661201</recordCreationDate>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fragmenta historicorum graecorum</title>
+      <partNumber>Vol III</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
+      <namePart>Müller, Karl</namePart>
+      <namePart type="termsOfAddress">of Paris</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Parisiis</placeTerm>
+      </place>
+      <publisher>Editore Ambrosio Firmin Didot</publisher>
+      <dateIssued>1849</dateIssued>
+      <dateIssued encoding="marc">1849</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+    </physicalDescription>
+    <note type="additional physical form">Digitized and made available by: University of
+    Toronto Libraries</note>
+    <subject authority="lcsh">
+      <topic>History, Ancient</topic>
+      <topic>Collections</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Historians</topic>
+      <topic>Greece</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greece</topic>
+      <topic>History</topic>
+      <topic>Sources</topic>
+    </subject>
+    <classification authority="lcc">PA3490 M84</classification>
+    <tableOfContents/>
+    <note type="statement of responsibility">collegit, disposuit, notis et prolegomenis
+    illustravit indicibus instruxit Carolus Mullerus ....accedunt Addenda et Indices
+    Locupletissimi Auctorem, Titulorem, Rerum Nominumque </note>
+    <identifier type="lccn">none for this manifestation</identifier>
+    <identifier type="oclc">221365708</identifier>
+    <identifier type="oca"> fragmentahistori03mueluoft</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/fragmentahistori03mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/fragmentahistori03mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=oqcKAAAAYAAJ
+      </url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">661201</recordCreationDate>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fragmenta historicorum graecorum</title>
+      <partNumber>Vol III</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
+      <namePart>Müller, Karl</namePart>
+      <namePart type="termsOfAddress">of Paris</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Parisiis</placeTerm>
+      </place>
+      <publisher>Editore Ambrosio Firmin Didot</publisher>
+      <dateIssued>1849</dateIssued>
+      <dateIssued encoding="marc">1849</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+    </physicalDescription>
+    <note type="additional physical form">Digitized and made available by: University of
+    Toronto Libraries</note>
+    <subject authority="lcsh">
+      <topic>History, Ancient</topic>
+      <topic>Collections</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Historians</topic>
+      <topic>Greece</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greece</topic>
+      <topic>History</topic>
+      <topic>Sources</topic>
+    </subject>
+    <classification authority="lcc">PA3490 M84</classification>
+    <tableOfContents/>
+    <note type="statement of responsibility">collegit, disposuit, notis et prolegomenis
+    illustravit indicibus instruxit Carolus Mullerus ....accedunt Addenda et Indices
+    Locupletissimi Auctorem, Titulorem, Rerum Nominumque </note>
+    <identifier type="lccn">none for this manifestation</identifier>
+    <identifier type="oclc">221365708</identifier>
+    <identifier type="oca"> fragmentahistori03mueluoft</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/fragmentahistori03mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/fragmentahistori03mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=oqcKAAAAYAAJ
+      </url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">661201</recordCreationDate>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fragmenta historicorum graecorum</title>
+      <partNumber>Vol III</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
+      <namePart>Müller, Karl</namePart>
+      <namePart type="termsOfAddress">of Paris</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Parisiis</placeTerm>
+      </place>
+      <publisher>Editore Ambrosio Firmin Didot</publisher>
+      <dateIssued>1849</dateIssued>
+      <dateIssued encoding="marc">1849</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+    </physicalDescription>
+    <note type="additional physical form">Digitized and made available by: University of
+    Toronto Libraries</note>
+    <subject authority="lcsh">
+      <topic>History, Ancient</topic>
+      <topic>Collections</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Historians</topic>
+      <topic>Greece</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greece</topic>
+      <topic>History</topic>
+      <topic>Sources</topic>
+    </subject>
+    <classification authority="lcc">PA3490 M84</classification>
+    <tableOfContents/>
+    <note type="statement of responsibility">collegit, disposuit, notis et prolegomenis
+    illustravit indicibus instruxit Carolus Mullerus ....accedunt Addenda et Indices
+    Locupletissimi Auctorem, Titulorem, Rerum Nominumque </note>
+    <identifier type="lccn">none for this manifestation</identifier>
+    <identifier type="oclc">221365708</identifier>
+    <identifier type="oca"> fragmentahistori03mueluoft</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/fragmentahistori03mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/fragmentahistori03mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=oqcKAAAAYAAJ
+      </url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">661201</recordCreationDate>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fragmenta historicorum graecorum</title>
+      <partNumber>Vol IV</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
+      <namePart>Müller, Karl</namePart>
+      <namePart type="termsOfAddress">of Paris</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Parisiis</placeTerm>
+      </place>
+      <publisher>Editore Ambrosio Firmin Didot</publisher>
+      <dateIssued>1851</dateIssued>
+      <dateIssued encoding="marc">1851</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+    </physicalDescription>
+    <note type="additional physical form">Digitized and made available by: University of
+    Toronto Libraries</note>
+    <subject authority="lcsh">
+      <topic>History, Ancient</topic>
+      <topic>Collections</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Historians</topic>
+      <topic>Greece</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greece</topic>
+      <topic>History</topic>
+      <topic>Sources</topic>
+    </subject>
+    <classification authority="lcc">PA3490 M84</classification>
+    <tableOfContents> Praxagoras Atheniensis -- Bemarchus Aesariensius -- Eustathius
+    Cappadox -- Eutychianus Cappadox -- Magnus Carrhaeus -- Eunapius Sardianus --
+    Olympiodorus Thebai -- Priscus Panites -- Malchus Philadelphius -- Capito Lycus --
+    Candidus Isaurus -- Eustathius -- Epiphaniensis -- Hesychus Milesius -- Nonnos --
+    Petripatricus Anonymi -- Menander the Protector -- Theophanis Byzantium -- Joannes
+    Epiphaniensis - -Joannes Antiochenus </tableOfContents>
+    <note type="statement of responsibility">collegit, disposuit, notis et prolegomenis
+    illustravit indicibus instruxit Carolus Mullerus ....accedunt Addenda et Indices
+    Locupletissimi Auctorem, Titulorem, Rerum Nominumque </note>
+    <identifier type="lccn">none for this manifestation</identifier>
+    <identifier type="oclc">221365708</identifier>
+    <identifier type="oca"> fragmentahistori04mueluoft</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/fragmentahistori04mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/fragmentahistori04mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">661201</recordCreationDate>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fragmenta historicorum graecorum</title>
+      <partNumber>Vol IV</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
+      <namePart>Müller, Karl</namePart>
+      <namePart type="termsOfAddress">of Paris</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Parisiis</placeTerm>
+      </place>
+      <publisher>Editore Ambrosio Firmin Didot</publisher>
+      <dateIssued>1851</dateIssued>
+      <dateIssued encoding="marc">1851</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+    </physicalDescription>
+    <note type="additional physical form">Digitized and made available by: University of
+    Toronto Libraries</note>
+    <subject authority="lcsh">
+      <topic>History, Ancient</topic>
+      <topic>Collections</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Historians</topic>
+      <topic>Greece</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greece</topic>
+      <topic>History</topic>
+      <topic>Sources</topic>
+    </subject>
+    <classification authority="lcc">PA3490 M84</classification>
+    <tableOfContents> Praxagoras Atheniensis -- Bemarchus Aesariensius -- Eustathius
+    Cappadox -- Eutychianus Cappadox -- Magnus Carrhaeus -- Eunapius Sardianus --
+    Olympiodorus Thebai -- Priscus Panites -- Malchus Philadelphius -- Capito Lycus --
+    Candidus Isaurus -- Eustathius -- Epiphaniensis -- Hesychus Milesius -- Nonnos --
+    Petripatricus Anonymi -- Menander the Protector -- Theophanis Byzantium -- Joannes
+    Epiphaniensis - -Joannes Antiochenus </tableOfContents>
+    <note type="statement of responsibility">collegit, disposuit, notis et prolegomenis
+    illustravit indicibus instruxit Carolus Mullerus ....accedunt Addenda et Indices
+    Locupletissimi Auctorem, Titulorem, Rerum Nominumque </note>
+    <identifier type="lccn">none for this manifestation</identifier>
+    <identifier type="oclc">221365708</identifier>
+    <identifier type="oca"> fragmentahistori04mueluoft</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/fragmentahistori04mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/fragmentahistori04mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">661201</recordCreationDate>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
+
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grammaticae Romanae fragmenta collegit</title>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr97-15146.html">
+      <namePart>Funaioli, Gino</namePart>
+      <namePart type="date">1878-1958</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">compilerr</roleTerm>
+      </role>
+      <role>
+        <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>in aedibus B. G. Teubneri</publisher>
+      <dateIssued>1907</dateIssued>
+      <dateIssued point="start" encoding="marc">1907</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xxx, 610 p.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">recensuit Hyginus Funaioli.</note>
+    <classification authority="lcc">PA6103 .G7 1907</classification>
+    <subject authority="lcsh">
+      <topic>Latin language</topic>
+      <topic>Grammar</topic>
+      <topic>Early works to 1500</topic>
+    </subject>
+    <identifier type="lccn">08002169</identifier>
+    <identifier type="oclc">46348511</identifier>
+
+    <location>
+      <url displayLabel="LC Permalink">http://www.worldcat.org/oclc/08002169</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/46348511</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"/>
+    </location>
+    <location>
+      <url displayLabel="Open Library"/>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=WZofAAAAMAAJ</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">760217</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20050812124556.0</recordChangeDate>
+      <recordIdentifier>7278253</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Hesiod</title>
+      <subTitle>The Homeric hymns. And Homerica</subTitle>
+    </titleInfo>
+    <name authority="naf " type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-62731.html">
+      <namePart>Hesiod.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n78-95639.html">
+      <namePart>Homer</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n88-14906.html">
+      <namePart>Evelyn-White, Hugh G. (Hugh Gerard)</namePart>
+      <namePart type="date">d. 1924</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge, Mass</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <publisher>Harvard University Press</publisher>
+      <publisher>Heinemann</publisher>
+      <dateModified>1984</dateModified>
+      <dateIssued>1914</dateIssued>
+      <edition>Reprint</edition>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="introduction">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xlviii, 657, 8 p. ; 17 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">with an English translation by Hugh G.
+    Evelyn-White.</note>
+    <note>"Contains practically all that remains of the post-Homeric and pre-academic epic
+    poetry"--Pref.</note>
+    <note>Includes index.</note>
+    <note>Bibliography: p. xliii-xlviii.</note>
+    <subject authority="lcsh">
+      <topic>Epic poetry, Greek</topic>
+      <topic>Translations into English</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Hymns, Greek (Classical)</topic>
+      <topic>Translations into English</topic>
+    </subject>
+    <subject authority="lcsh">
+      <name authority="" type="personal">
+        <namePart>Hesiod</namePart>
+      </name>
+      <topic>Translations into English</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gods, Greek</topic>
+      <topic>Poetry</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Epic poetry, Greek</topic>
+    </subject>
+    <classification authority="lcc">PA3623.E65 H47 1982</classification>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">871020</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20050510130831.0</recordChangeDate>
+      <recordIdentifier>3377402</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Hesiod</title>
+      <subTitle>The Homeric hymns. And Homerica</subTitle>
+    </titleInfo>
+    <name authority="naf " type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-62731.html">
+      <namePart>Hesiod.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n78-95639.html">
+      <namePart>Homer</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n88-14906.html">
+      <namePart>Evelyn-White, Hugh G. (Hugh Gerard)</namePart>
+      <namePart type="date">d. 1924</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge, Mass</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <publisher>Harvard University Press</publisher>
+      <publisher>Heinemann</publisher>
+      <dateModified>1984</dateModified>
+      <dateIssued>1914</dateIssued>
+      <edition>Reprint</edition>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="introduction">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xlviii, 657, 8 p. ; 17 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">with an English translation by Hugh G.
+    Evelyn-White.</note>
+    <note>"Contains practically all that remains of the post-Homeric and pre-academic epic
+    poetry"--Pref.</note>
+    <note>Includes index.</note>
+    <note>Bibliography: p. xliii-xlviii.</note>
+    <subject authority="lcsh">
+      <topic>Epic poetry, Greek</topic>
+      <topic>Translations into English</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Hymns, Greek (Classical)</topic>
+      <topic>Translations into English</topic>
+    </subject>
+    <subject authority="lcsh">
+      <name authority="" type="personal">
+        <namePart>Hesiod</namePart>
+      </name>
+      <topic>Translations into English</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gods, Greek</topic>
+      <topic>Poetry</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Epic poetry, Greek</topic>
+    </subject>
+    <classification authority="lcc">PA3623.E65 H47 1982</classification>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">871020</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20050510130831.0</recordChangeDate>
+      <recordIdentifier>3377402</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>L'Organon, la Rhétorique et la Poétique d'Aristote, et l' Isagoge de
+      Porphyre</title>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-4182.html">
+      <namePart>Aristotle</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n81-124456.html">
+      <namePart>Porphyry</namePart>
+      <namePart type="date">ca. 234-ca. 305</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal"
+               xlink:href="http://viaf.org/viaf/3706014/">
+      <namePart>Ibn al-Khammār, Abū al-Khayr al-Ḥasan ibn Suwār</namePart>
+      <namePart type="date">b. 942</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+      <role>
+        <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry"/>
+      </place>
+      <place>
+        <placeTerm type="text"/>
+      </place>
+      <publisher>Bibliothèque nationale de France</publisher>
+      <dateCreated>1027</dateCreated>
+      <dateCaptured>?</dateCaptured>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>Papier. - 380 feuillets. - Hauteur, 43 centimètres ; largeur, 30
+      centimètres. 21 à 25 lignes par page</extent>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+      <internetMediaType/>
+    </physicalDescription>
+    <tableOfContents> Isagoge -- Rhetoric? () -- The Poetics-131-140 --The Organon:
+    Categories-157-178 --On Interpretation-179-191 --Prior analytics-191-223 --Posterior
+    analytics-224-242b --The topics-241-327 -- Sophistical Refutations-327-380, folio page
+    numbers based on an anlysis of the manuscript by Abd al-Raḥmān Badawī and published in
+    La transmission de la philosophie grecque au monde arabe </tableOfContents>
+    <note type="statement of responsibility">Digitized copy of Arabic manuscript owned by
+    the Bibliothèque nationale de France, Département des manuscrits, manuscript number
+    Arabe 2346</note>
+    <note/>
+    <subject authority="lcsh">
+      <topic>Logic</topic>
+      <temporal>Early works to 1800</temporal>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Aristotle</topic>
+      <topic>Organon</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Aristotle</topic>
+      <topic>Rhetoric</topic>
+    </subject>
+    <classification authority="lcc">PA3893</classification>
+
+
+    <identifier type="ark">ark:/12148/btv1b8422956q</identifier>
+    <location>
+      <url displayLabel="Gallica"
+                >http://gallica.bnf.fr/ark:/12148/btv1b8422956q</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">Gallica</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Libanii Opera</title>
+      <partNumber>Vol VIII</partNumber>
+      <partName>Progymnasmata</partName>
+      <subTitle>Accedit Gregorii Cyprii Adversus Avari Declamationem Libanianam
+      Antilogia</subTitle>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-52091.html">
+      <namePart>Libanius</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr96-35212.html">
+      <namePart>Foerster, Richard</namePart>
+      <namePart type="date">1843-1922</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>in aedibus B. G. Teubneri</publisher>
+      <dateIssued>1915</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>683 pg.</extent>
+    </physicalDescription>
+    <tableOfContents/>
+    <note type="statement of responsibility">recensuit Richardus Foerster.</note>
+    <classification authority="lcc">PA3404 .L4</classification>
+    <identifier type="lccn">04031902</identifier>
+    <identifier type="oclc"> 64046389</identifier>
+
+
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/64046389 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"/>
+    </location>
+    <location>
+      <url displayLabel="OpenLibrary"/>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"/>
+    </location>
+    <location>
+      <url displayLabel="UMich Digital General Collection"
+                >http://quod.lib.umich.edu/g/genpub/afe7993.0008.001/</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">760210</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20050430152449.0</recordChangeDate>
+      <recordIdentifier>10075222</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Metrologicorum scriptorum reliquiae</title>
+      <subTitle>Quo scriptores Graeci continentur</subTitle>
+      <partNumber>Vol I</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/no99-51788.html">
+      <namePart>Hultsch, Fridericus (Friedrich Otto)</namePart>
+      <namePart type="date">1833-1906</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+      </role>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>in aedibus B. G. Teubneri</publisher>
+      <dateIssued>1864</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="prologue">
+      <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xxiv, 355 pg.</extent>
+    </physicalDescription>
+    <subject>
+      <geographicCode authority="marcgac">e-gr---</geographicCode>
+      <geographicCode authority="marcgac">e-it---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Weights and measures</topic>
+      <geographic>Greece. [from old catalog]</geographic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Weights and measures</topic>
+      <geographic>Rome. [from old catalog]</geographic>
+    </subject>
+    <classification authority="lcc">PA3403 .M6 1864</classification>
+    <identifier type="lccn">34014793</identifier>
+    <identifier type="oclc">2004625</identifier>
+    <identifier type="oca">metrologicorumsc01hultuoft </identifier>
+    <location>
+      <url displayLabel="LCCN Permalink">http://lccn.loc.gov/34014793</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/2004625</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=rBwAAAAAYAAJ</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/metrologicorumsc01hultuoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/metrologicorumsc01hultuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">831220</recordCreationDate>
+      <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+      <recordIdentifier>9697851</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Metrologicorum scriptorum reliquiae</title>
+      <subTitle>Quo scriptores Graeci continentur</subTitle>
+      <partNumber>Vol I</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/no99-51788.html">
+      <namePart>Hultsch, Fridericus (Friedrich Otto)</namePart>
+      <namePart type="date">1833-1906</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+      </role>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>in aedibus B. G. Teubneri</publisher>
+      <dateIssued>1864</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="prologue">
+      <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xxiv, 355 pg.</extent>
+    </physicalDescription>
+    <subject>
+      <geographicCode authority="marcgac">e-gr---</geographicCode>
+      <geographicCode authority="marcgac">e-it---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Weights and measures</topic>
+      <geographic>Greece. [from old catalog]</geographic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Weights and measures</topic>
+      <geographic>Rome. [from old catalog]</geographic>
+    </subject>
+    <classification authority="lcc">PA3403 .M6 1864</classification>
+    <identifier type="lccn">34014793</identifier>
+    <identifier type="oclc">2004625</identifier>
+    <identifier type="oca">metrologicorumsc01hultuoft </identifier>
+    <location>
+      <url displayLabel="LCCN Permalink">http://lccn.loc.gov/34014793</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/2004625</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=rBwAAAAAYAAJ</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/metrologicorumsc01hultuoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/metrologicorumsc01hultuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">831220</recordCreationDate>
+      <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+      <recordIdentifier>9697851</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Platonis Opera</title>
+      <partNumber>Tomus I</partNumber>
+      <partName>Tetralogia I-II</partName>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-32347.html">
+      <namePart>Burnet, John</namePart>
+      <namePart type="date">1863- 1928</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Oxonii</placeTerm>
+      </place>
+      <publisher>e typographeo Clarendoniano</publisher>
+      <edition>Reprint</edition>
+      <dateModified>1958</dateModified>
+      <dateIssued>1900</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xiv, 311 pg.</extent>
+      <note>Pages numbers are after Stephanus edition</note>
+    </physicalDescription>
+    <note type="statement of responsibility">recognovit breviqve adnotatione critica
+    instrvxit Ioannes Burnet</note>
+    <note>Signed introduction of vol. 1 dated November, 1899</note>
+    <note>Originally planned in 6 volumes</note>
+    <tableOfContents>t. 1. (Tetralogia I-II). Euthyphro ; Apologia Socratis ; Crito ;
+    Phaedo ; Cratylus ; Theaetetus ; Sophista ; Politicus </tableOfContents>
+    <classification authority="lcc">PA3405.S8</classification>
+    <classification authority="lcc">PA4279</classification>
+    <classification authority="ddc">184</classification>
+    <identifier type="lccn">05029044</identifier>
+    <identifier type="oclc">4124457</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</url>
+    </location>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks" note="Snippet View"
+                >http://books.google.com/books?id=Id0vAAAAMAAJ </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/MN40030ucmf_0 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/operarecognovitb01platuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">840302</recordCreationDate>
+      <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+      <recordIdentifier>6799875</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Platonis Opera</title>
+      <partNumber>Tomus II</partNumber>
+      <partName>Tetralogia III-IV</partName>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-32347.html">
+      <namePart>Burnet, John</namePart>
+      <namePart type="date">1863- 1928</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Oxonii</placeTerm>
+      </place>
+      <publisher>e typographeo Clarendoniano</publisher>
+      <dateModified>1964</dateModified>
+      <edition>Reprint</edition>
+      <dateIssued>1901</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent/>
+      <note>Page numbers taken from Stephanus edition</note>
+    </physicalDescription>
+    <note type="statement of responsibility">recognovit breviqve adnotatione critica
+    instrvxit Ioannes Burnet</note>
+    <note>Signed introduction of vol. 1 dated November, 1899</note>
+    <note>Originally planned in 6 volumes</note>
+    <tableOfContents>t. 2. (Tetralogia III-IV). Parmenides ; Philebus ; Symposium ;
+    Phaedrus ; Alcibiades I-II ; Hipparchus ; Amatores</tableOfContents>
+    <classification authority="lcc">PA3405.S8</classification>
+    <classification authority="lcc">PA4279</classification>
+    <classification authority="ddc">184</classification>
+    <identifier type="lccn">05029044</identifier>
+    <identifier type="oclc">4124457</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</url>
+    </location>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks" note="Snippet View"/>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/MN40030ucmf_0 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/operarecognovitb02platuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">840302</recordCreationDate>
+      <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+      <recordIdentifier>6799875</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Platonis Opera</title>
+      <partNumber>Tomus III</partNumber>
+      <partName>Tetralogia V-VII</partName>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-32347.html">
+      <namePart>Burnet, John</namePart>
+      <namePart type="date">1863- 1928</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Oxonii</placeTerm>
+      </place>
+      <publisher>e typographeo Clarendoniano</publisher>
+      <dateModified>1961</dateModified>
+      <edition>Reprint</edition>
+      <dateIssued>1903</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent/>
+      <note>Page numbers from Stephanus edition</note>
+    </physicalDescription>
+    <note type="statement of responsibility">recognovit breviqve adnotatione critica
+    instrvxit Ioannes Burnet</note>
+    <note>Signed introduction of vol. 1 dated November, 1899</note>
+    <note>Originally planned in 6 volumes</note>
+    <tableOfContents>t. 3. (Tetralogia V-VII) Theages ; Charmides ; Laches ; Lysis ;
+    Euthydemus ; Protagoras ; Gorgias ; Meno ; Hippias Maior ; Hippias Minor ; Io ;
+    Menexenus</tableOfContents>
+    <classification authority="lcc">PA3405.S8</classification>
+    <classification authority="lcc">PA4279</classification>
+    <classification authority="ddc">184</classification>
+    <identifier type="lccn">05029044</identifier>
+    <identifier type="oclc">4124457</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</url>
+    </location>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks" note="Snippet View"/>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/MN40030ucmf_0 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/operarecognovitb03platuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">840302</recordCreationDate>
+      <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+      <recordIdentifier>6799875</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Platonis Opera</title>
+      <partNumber>Tomus IV</partNumber>
+      <partName>Tetralogia VIII</partName>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-32347.html">
+      <namePart>Burnet, John</namePart>
+      <namePart type="date">1863- 1928</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Oxonii</placeTerm>
+      </place>
+      <publisher>e typographeo Clarendoniano</publisher>
+      <edition>Reprint</edition>
+      <dateModified>1962</dateModified>
+      <dateIssued>1902</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent/>
+      <note>Page numbers from Stephanus edition</note>
+    </physicalDescription>
+    <note type="statement of responsibility">recognovit breviqve adnotatione critica
+    instrvxit Ioannes Burnet</note>
+    <note>Signed introduction of vol. 1 dated November, 1899</note>
+    <note>Originally planned in 6 volumes</note>
+    <tableOfContents>t. 4. (Tetralogia VIII) Clitopho ; Respublica ; Timaeus ;
+    Critias</tableOfContents>
+    <classification authority="lcc">PA3405.S8</classification>
+    <classification authority="lcc">PA4279</classification>
+    <classification authority="ddc">184</classification>
+    <identifier type="lccn">05029044</identifier>
+    <identifier type="oclc">4124457</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</url>
+    </location>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks" note="Snippet View"
+                >http://books.google.com/books?id=ZiKsj7GXrrEC </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/MN40030ucmf_0 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/operarecognovitb04platuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">840302</recordCreationDate>
+      <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+      <recordIdentifier>6799875</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Platonis Opera</title>
+      <partNumber>Tomus V</partNumber>
+      <partName>Tetralogia IX, Definitiones, et Spuria</partName>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-32347.html">
+      <namePart>Burnet, John</namePart>
+      <namePart type="date">1863- 1928</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Oxonii</placeTerm>
+      </place>
+      <publisher>e typographeo Clarendoniano</publisher>
+      <edition>Reprint</edition>
+      <dateModified>1959</dateModified>
+      <dateIssued>1907</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent/>
+      <note>Pages taken from Stephanus edition</note>
+    </physicalDescription>
+    <note type="statement of responsibility">recognovit breviqve adnotatione critica
+    instrvxit Ioannes Burnet</note>
+    <note>Signed introduction of vol. 1 dated November, 1899</note>
+    <note>Originally planned in 6 volumes</note>
+    <tableOfContents>t. 5. (Tetralogia IX, Definitiones, et spuria). Minos ; Leges ;
+    Epinomis ; Epistulae ; Definitiones ; De iusto ; De virtute ; Demodocus ; Sisyphus ;
+    Eryxias ; Axiochus</tableOfContents>
+    <classification authority="lcc">PA3405.S8</classification>
+    <classification authority="lcc">PA4279</classification>
+    <classification authority="ddc">184</classification>
+    <identifier type="lccn">05029044</identifier>
+    <identifier type="oclc">4124457</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</url>
+    </location>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks" note="Snippet View"/>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/MN40030ucmf_0 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance" note="Vol 5-Part 1"
+                >http://www.archive.org/details/p1platonisopera05platuoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance" note="Vol 5-Part 2"
+                >http://www.archive.org/stream/p2operarecognovitb05platuoft#page/n9/mode/2up</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">840302</recordCreationDate>
+      <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+      <recordIdentifier>6799875</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Plutarch's Lives</title>
+      <partNumber>Volume X</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-26763.html">
+      <namePart>Plutarch.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n86-857201.html">
+      <namePart>Perrin, Bernadotte</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge</placeTerm>
+      </place>
+      <publisher>Harvard University Press</publisher>
+      <publisher>W. Heinemann</publisher>
+      <edition>Reprint</edition>
+      <dateModified>2000</dateModified>
+      <dateIssued>1921</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>x, 400 pg.</extent>
+    </physicalDescription>
+    <tableOfContents>X. Agis and Cleomenes, and Tiberius and Caius Gracchus, Philopoemen
+    and Titus Flaminius.</tableOfContents>
+    <note type="statement of responsibility">with an English translation by Bernadotte
+    Perrin.</note>
+    <note>Imprint varies.</note>
+    <note>Greek and English opposite pages.</note>
+    <subject authority="lcsh">
+      <geographic>Greece</geographic>
+      <topic>Biography</topic>
+      <topic>Early works to 1800</topic>
+    </subject>
+    <subject authority="lcsh">
+      <geographic>Rome</geographic>
+      <topic>Biography</topic>
+      <topic>Early works to 1800</topic>
+    </subject>
+    <classification authority="lcc">PA3612</classification>
+    <classification authority="ddc"> 920.038</classification>
+    <identifier type="oclc">40115288</identifier>
+    <identifier type="isbn">0674991133</identifier>
+    <identifier type="lccn">15002792</identifier>
+    <identifier type="oca">plutarchslives10plut</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/15002792</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/40115288</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/plutarchslives10plut</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://openlibrary.org/details//plutarchslives10plut</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=5WYMAAAAIAAJ</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Plutarch's Moralia</title>
+      <partNumber>Vol XV</partNumber>
+      <partName>Fragments</partName>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Moralia. English &amp; Greek.</title>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-26763.html">
+      <namePart>Plutarch.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-15803.html">
+      <namePart>Sandbach, F.H.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <publisher>Harvard University</publisher>
+      <edition>Reprint</edition>
+      <dateModified>1987</dateModified>
+      <dateIssued>1969</dateIssued>
+      <copyrightDate>1969</copyrightDate>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <tableOfContents>v. 15. Works by Plutarch: ancient lists ; Tyrwhitt's fragments ;
+    Fragments from lost lives ; Fragments from other named works ; Other
+    fragments</tableOfContents>
+    <note>Greek and English on opposite pages</note>
+    <note>Translators vary</note>
+    <note>Originally published 1927-1969</note>
+    <note>Includes bibliographical references (v. 1, p. xviii-xxxiii) and
+    indexes.</note>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xv, 418 pg.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+      <topic>Ethics</topic>
+      <topic>Early works to 1800</topic>
+    </subject>
+    <classification authority="lcc">PA4368</classification>
+    <classification authority="lcc">PA3611</classification>
+    <classification authority="ddc">880.8</classification>
+    <identifier type="isbn">0674994736</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/27026689</url>
+    </location>
+    <location>
+      <url displayLabel="Worldcat">http://www.worldcat.org/oclc/37351027</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <!-- Poetae Graeci -->
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Poetae Graeci.</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Germany</placeTerm>
+      </place>
+      <publisher>Teubner</publisher>
+      <dateIssued>1854-1884</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>5 pts. in 1 v.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Unknown</note>
+    <note>Binder's title.</note>
+    <classification authority="lcc">PA3401</classification>
+    <tableOfContents>Babrius. 1865.--Hesiodus. 1878.--Anacreon. 1876.--Theocritus.
+    1884.--Apollodorus. 1854.</tableOfContents>
+    <identifier type="oclc"> 24188229</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/24188229 </url>
+    </location>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Poetae Graeci.</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Germany</placeTerm>
+      </place>
+      <publisher>Teubner</publisher>
+      <dateIssued>1854-1884</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>5 pts. in 1 v.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Unknown</note>
+    <note>Binder's title.</note>
+    <classification authority="lcc">PA3401</classification>
+    <tableOfContents>Babrius. 1865.--Hesiodus. 1878.--Anacreon. 1876.--Theocritus.
+    1884.--Apollodorus. 1854.</tableOfContents>
+    <identifier type="oclc"> 24188229</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/24188229 </url>
+    </location>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Poetae Graeci.</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Germany</placeTerm>
+      </place>
+      <publisher>Teubner</publisher>
+      <dateIssued>1854-1884</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>5 pts. in 1 v.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Unknown</note>
+    <note>Binder's title.</note>
+    <note>This book has five separate works in it, listed under the Table of Contents in
+    OCLC record</note>
+    <classification authority="lcc">PA3401</classification>
+    <tableOfContents>Babrius. 1865.--Hesiodus. 1878.--Anacreon. 1876.--Theocritus.
+    1884.--Apollodorus. 1854.</tableOfContents>
+    <identifier type="oclc"> 24188229</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/24188229</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Poetae Graeci.</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Germany</placeTerm>
+      </place>
+      <publisher>Teubner</publisher>
+      <dateIssued>1854-1884</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>5 pts. in 1 v.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Unknown</note>
+    <note>Binder's title.</note>
+    <classification authority="lcc">PA3401</classification>
+    <tableOfContents>Babrius. 1865.--Hesiodus. 1878.--Anacreon. 1876.--Theocritus.
+    1884.--Apollodorus. 1854.</tableOfContents>
+    <identifier type="oclc"> 24188229</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/24188229 </url>
+    </location>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Poetae Graeci.</title>
+      <partName/>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Germany</placeTerm>
+      </place>
+      <publisher>Teubner</publisher>
+      <dateIssued>1854-1884</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>5 pts. in 1 v.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Unknown</note>
+    <note>Binder's title.</note>
+    <classification authority="lcc">PA3401</classification>
+    <tableOfContents>Babrius. 1865.--Hesiodus. 1878.--Anacreon. 1876.--Theocritus.
+    1884.--Apollodorus. 1854.</tableOfContents>
+    <identifier type="oclc"> 24188229</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/24188229 </url>
+    </location>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Poetae Graeci.</title>
+      <partName/>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Germany</placeTerm>
+      </place>
+      <publisher>Teubner</publisher>
+      <dateIssued>1854-1884</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>5 pts. in 1 v.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Unknown</note>
+    <note>Binder's title.</note>
+    <classification authority="lcc">PA3401</classification>
+    <tableOfContents>Babrius. 1865.--Hesiodus. 1878.--Anacreon. 1876.--Theocritus.
+    1884.--Apollodorus. 1854.</tableOfContents>
+    <identifier type="oclc"> 24188229</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/24188229 </url>
+    </location>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Poetae latini minores</title>
+      <partNumber>Volume IV</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-82337.html">
+      <namePart>Baehrens, Emil</namePart>
+      <namePart type="date">1848-1888</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>in aedibus B. G. Teubneri</publisher>
+      <dateIssued>1882</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>445 pg.</extent>
+    </physicalDescription>
+    <note type="statement of                 responsibility">Recensuit et emendavit
+    Aemilius Baehrens.</note>
+    <subject authority="lcsh">
+      <topic>Latin poetry</topic>
+    </subject>
+    <classification authority="lcc">PA6102.A2</classification>
+    <identifier type="oclc">3655992</identifier>
+    <identifier type="lccn">34017100</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/34017100</url>
+    </location>
+    <location>
+      <url displayLabel="Worldcat">http://worldcat.org/oclc/3655992</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=qJYOAAAAQAAJ</url>
+    </location>
+    <location>
+      <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/njp.32101075725026</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">780221</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20050607191351.0</recordChangeDate>
+      <recordIdentifier>9229510</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Poetae lyrici graeci</title>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n88-115329.html">
+      <namePart>Bergk, Theodor</namePart>
+      <namePart type="date">1812-1881</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>Sumtu Reichenbachiorum fratrum</publisher>
+      <dateIssued>1843</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>887p.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+      <topic>Greek poetry (Collections)</topic>
+    </subject>
+    <classification authority="lcc">PA3443 B47 1843</classification>
+    <note type="statement of responsibility">Edidit Theodorus Bergk</note>
+    <identifier type="lccn">none</identifier>
+    <identifier type="oclc">8293178 </identifier>
+    <identifier type="oca">poetaelyricigrae00berguoft</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/8293178 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/poetaelyricigrae00berguoft </url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/stream/poetaelyricigrae00berguoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=VYIEAAAAQAAJ</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">720101</recordCreationDate>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <nonSort>The</nonSort>
+      <title>Greek anthology</title>
+      <partNumber>Vol II</partNumber>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Greek anthology. English &amp; Greek</title>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr89-5382.html">
+      <namePart>Paton, W. R. (William Roger)</namePart>
+      <namePart type="date">d. 1921</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+      </role>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+      <publisher>W. Heinemann</publisher>
+      <publisher>G.P. Putnam's sons</publisher>
+      <edition>Reprint</edition>
+      <dateIssued>1917</dateIssued>
+      <dateModified>1919</dateModified>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>5 v. illus. 17 cm.</extent>
+    </physicalDescription>
+    <note>Greek and English on opposite pages</note>
+    <note>A chronological list of the more important books containing verse translations
+    from the Greek anthology": v. 1, p. xiii-xv.</note>
+    <subject authority="lcsh">
+      <topic>Greek poetry</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greek poetry</topic>
+      <topic>Translations into English</topic>
+    </subject>
+    <classification authority="lcc">PA3611</classification>
+    <classification authority="ddc">884</classification>
+    <identifier>Perseus:text:2008.01.0473</identifier>
+    <identifier type="tlg">urn:cts:greekLang:tlg7000.tlg001.perseus-grc2</identifier>
+    <identifier type="oclc">2848020</identifier>
+    <identifier type="lccn">17000015</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2848020</url>
+    </location>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/17000015</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/greekanthology02newyuoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://openlibrary.org/details/greekanthology02newyuoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=hBQOAAAAYAAJ</url>
+    </location>
+    <location>
+      <url displayLabel="Perseus"
+                >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0473</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <nonSort>The</nonSort>
+      <title>Greek anthology</title>
+      <partNumber>Vol III</partNumber>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Greek anthology. English &amp; Greek</title>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr89-5382.html">
+      <namePart>Paton, W. R. (William Roger)</namePart>
+      <namePart type="date">d. 1921</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+      <publisher>W. Heinemann</publisher>
+      <publisher>G.P. Putnam's sons</publisher>
+      <edition>Reprint</edition>
+      <dateIssued>1915</dateIssued>
+      <dateModified>1925</dateModified>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>5 v. illus. 17 cm.</extent>
+    </physicalDescription>
+    <note>Greek and English on opposite pages</note>
+    <note>A chronological list of the more important books containing verse translations
+    from the Greek anthology": v. 1, p. xiii-xv.</note>
+    <subject authority="lcsh">
+      <topic>Greek poetry</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greek poetry</topic>
+      <topic>Translations into English</topic>
+    </subject>
+    <classification authority="lcc">PA3611</classification>
+    <classification authority="ddc">884</classification>
+    <identifier>Perseus:text:2008.01.0474</identifier>
+    <identifier transliteration="ctsurn"
+		     >urn:cts:greekLang:tlg7000.tlg001.perseus-grc3</identifier>
+    <identifier type="oclc">2848020</identifier>
+    <identifier type="lccn">17000015</identifier>
+    <identifier type="oca">greekanthology03newyuoft</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/17000015</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2848020</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/greekanthology03newyuoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"/>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=EhwOAAAAYAAJ</url>
+    </location>
+    <location>
+      <url displayLabel="Perseus"
+                >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0474</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <nonSort>The</nonSort>
+      <title>Greek anthology</title>
+      <partNumber>Vol IV</partNumber>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Greek anthology. English &amp; Greek</title>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr89-5382.html">
+      <namePart>Paton, W. R. (William Roger)</namePart>
+      <namePart type="date">d. 1921</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+      <publisher>W. Heinemann</publisher>
+      <publisher>G.P. Putnam's sons</publisher>
+      <dateCreated>1918</dateCreated>
+      <dateModified>1926</dateModified>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>422 pg.</extent>
+    </physicalDescription>
+    <note>Greek and English on opposite pages</note>
+    <note>A chronological list of the more important books containing verse translations
+    from the Greek anthology": v. 1, p. xiii-xv.</note>
+    <subject authority="lcsh">
+      <topic>Greek poetry</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greek poetry</topic>
+      <topic>Translations into English</topic>
+    </subject>
+    <classification authority="lcc">PA3611</classification>
+    <classification authority="ddc">884</classification>
+    <identifier>Perseus:text:2008.01.0475</identifier>
+    <identifier type="ctsurn"
+		     >urn:cts:greekLang:tlg7000.tlg001.perseus-grc4</identifier>
+    <identifier type="oclc">2848020</identifier>
+    <identifier type="lccn">17000015</identifier>
+    <identifier type="oca">greekanthology04newyuoft</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/17000015</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2848020</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/greekanthology04newyuoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://openlibrary.org/ia/greekanthology04newyuoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=F41fAAAAMAAJ</url>
+    </location>
+    <location>
+      <url displayLabel="Perseus"
+                >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0475</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <nonSort>The</nonSort>
+      <title>Greek anthology</title>
+      <partNumber>Vol IV</partNumber>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Greek anthology. English &amp; Greek</title>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr89-5382.html">
+      <namePart>Paton, W. R. (William Roger)</namePart>
+      <namePart type="date">d. 1921</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+      <publisher>W. Heinemann</publisher>
+      <publisher>G.P. Putnam's sons</publisher>
+      <dateCreated>1918</dateCreated>
+      <dateModified>1926</dateModified>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>422 pg.</extent>
+    </physicalDescription>
+    <note>Greek and English on opposite pages</note>
+    <note>A chronological list of the more important books containing verse translations
+    from the Greek anthology": v. 1, p. xiii-xv.</note>
+    <subject authority="lcsh">
+      <topic>Greek poetry</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greek poetry</topic>
+      <topic>Translations into English</topic>
+    </subject>
+    <classification authority="lcc">PA3611</classification>
+    <classification authority="ddc">884</classification>
+    <identifier>Perseus:text:2008.01.0475</identifier>
+    <identifier type="ctsurn"
+		     >urn:cts:greekLang:tlg7000.tlg001.perseus-grc4</identifier>
+    <identifier type="oclc">2848020</identifier>
+    <identifier type="lccn">17000015</identifier>
+    <identifier type="oca">greekanthology04newyuoft</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/17000015</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2848020</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/greekanthology04newyuoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://openlibrary.org/ia/greekanthology04newyuoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=F41fAAAAMAAJ</url>
+    </location>
+    <location>
+      <url displayLabel="Perseus"
+                >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0475</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <nonSort>The</nonSort>
+      <title>Greek anthology</title>
+      <partNumber>Vol V</partNumber>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Greek anthology. English &amp; Greek</title>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr89-5382.html">
+      <namePart>Paton, W. R. (William Roger)</namePart>
+      <namePart type="date">d. 1921</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+      <publisher>W. Heinemann</publisher>
+      <publisher>G.P. Putnam's sons</publisher>
+      <dateIssued>1927</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>5 v. illus. 17 cm.</extent>
+    </physicalDescription>
+    <note>Greek and English on opposite pages</note>
+    <note>A chronological list of the more important books containing verse translations
+    from the Greek anthology": v. 1, p. xiii-xv.</note>
+    <subject authority="lcsh">
+      <topic>Greek poetry</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greek poetry</topic>
+      <topic>Translations into English</topic>
+    </subject>
+    <classification authority="lcc">PA3611</classification>
+    <classification authority="ddc">884</classification>
+    <identifier>Perseus:text:2008.01.0476</identifier>
+    <identifier type="ctsurn"
+		     >urn:cts:greekLang:tlg7000.tlg001.perseus-grc5</identifier>
+    <identifier type="oclc">2848020</identifier>
+    <identifier type="lccn">17000015</identifier>
+    <identifier type="oca">greekanthology05newyuoft</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/17000015</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2848020</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/greekanthology05newyuoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://openlibrary.org/ia/greekanthology05newyuoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=RIxfAAAAMAAJ</url>
+    </location>
+    <location>
+      <url displayLabel="Perseus"
+                >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0476</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Theophrasti Eresii Opera Quae Supersunt Omnia</title>
+      <partName>Fragmenta</partName>
+      <partNumber>Tomus Tertius</partNumber>
+      <subTitle>Accessit Prisciani Lydi Metaphrasis in Theophrasti Libros de Sensu Et De
+      Phantasia</subTitle>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-108364.html">
+      <namePart>Theophrastus.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/no98-74395.html">
+      <namePart>Wimmer, Friedrich</namePart>
+      <namePart type="date">1803-1868</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>B.G. Teubneri</publisher>
+      <dateIssued>1862</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xxxiii, 309 pg.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+      <topic>Botany</topic>
+      <topic>Pre-Linnean works</topic>
+    </subject>
+    <classification authority="lcc">QK41 .T31</classification>
+    <identifier type="oclc">9211155</identifier>
+    <identifier type="oca">theophrastieresi03heouoft</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/9211155</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/theophrastieresi03theouoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/theophrastieresi03theouoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=bK4NAAAAYAAJ</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fragmenta historicorum graecorum</title>
+      <partNumber>Vol III</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
+      <namePart>Müller, Karl</namePart>
+      <namePart type="termsOfAddress">of Paris</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Parisiis</placeTerm>
+      </place>
+      <publisher>Editore Ambrosio Firmin Didot</publisher>
+      <dateIssued>1849</dateIssued>
+      <dateIssued encoding="marc">1849</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+    </physicalDescription>
+    <note type="additional physical form">Digitized and made available by: University of
+    Toronto Libraries</note>
+    <subject authority="lcsh">
+      <topic>History, Ancient</topic>
+      <topic>Collections</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Historians</topic>
+      <topic>Greece</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greece</topic>
+      <topic>History</topic>
+      <topic>Sources</topic>
+    </subject>
+    <classification authority="lcc">PA3490 M84</classification>
+    <tableOfContents/>
+    <note type="statement of responsibility">collegit, disposuit, notis et prolegomenis
+    illustravit indicibus instruxit Carolus Mullerus ....accedunt Addenda et Indices
+    Locupletissimi Auctorem, Titulorem, Rerum Nominumque </note>
+    <identifier type="lccn">none for this manifestation</identifier>
+    <identifier type="oclc">221365708</identifier>
+    <identifier type="oca"> fragmentahistori03mueluoft</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/fragmentahistori03mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/fragmentahistori03mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=oqcKAAAAYAAJ
+      </url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">661201</recordCreationDate>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fragmenta historicorum graecorum</title>
+      <partNumber>Vol III</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
+      <namePart>Müller, Karl</namePart>
+      <namePart type="termsOfAddress">of Paris</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Parisiis</placeTerm>
+      </place>
+      <publisher>Editore Ambrosio Firmin Didot</publisher>
+      <dateIssued>1849</dateIssued>
+      <dateIssued encoding="marc">1849</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+    </physicalDescription>
+    <note type="additional physical form">Digitized and made available by: University of
+    Toronto Libraries</note>
+    <subject authority="lcsh">
+      <topic>History, Ancient</topic>
+      <topic>Collections</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Historians</topic>
+      <topic>Greece</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Greece</topic>
+      <topic>History</topic>
+      <topic>Sources</topic>
+    </subject>
+    <classification authority="lcc">PA3490 M84</classification>
+    <tableOfContents/>
+    <note type="statement of responsibility">collegit, disposuit, notis et prolegomenis
+    illustravit indicibus instruxit Carolus Mullerus ....accedunt Addenda et Indices
+    Locupletissimi Auctorem, Titulorem, Rerum Nominumque </note>
+    <identifier type="lccn">none for this manifestation</identifier>
+    <identifier type="oclc">221365708</identifier>
+    <identifier type="oca"> fragmentahistori03mueluoft</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/fragmentahistori03mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/fragmentahistori03mueluoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=oqcKAAAAYAAJ
+      </url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">661201</recordCreationDate>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Platonis Opera</title>
+      <partNumber>Tomus II</partNumber>
+      <partName>Tetralogia III-IV</partName>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-32347.html">
+      <namePart>Burnet, John</namePart>
+      <namePart type="date">1863- 1928</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Oxonii</placeTerm>
+      </place>
+      <publisher>e typographeo Clarendoniano</publisher>
+      <dateModified>1964</dateModified>
+      <edition>Reprint</edition>
+      <dateIssued>1901</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent/>
+      <note>Page numbers taken from Stephanus edition</note>
+    </physicalDescription>
+    <note type="statement of responsibility">recognovit breviqve adnotatione critica
+    instrvxit Ioannes Burnet</note>
+    <note>Signed introduction of vol. 1 dated November, 1899</note>
+    <note>Originally planned in 6 volumes</note>
+    <tableOfContents>t. 2. (Tetralogia III-IV). Parmenides ; Philebus ; Symposium ;
+    Phaedrus ; Alcibiades I-II ; Hipparchus ; Amatores</tableOfContents>
+    <classification authority="lcc">PA3405.S8</classification>
+    <classification authority="lcc">PA4279</classification>
+    <classification authority="ddc">184</classification>
+    <identifier type="lccn">05029044</identifier>
+    <identifier type="oclc">4124457</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</url>
+    </location>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks" note="Snippet View"/>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/MN40030ucmf_0 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/operarecognovitb02platuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">840302</recordCreationDate>
+      <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+      <recordIdentifier>6799875</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Platonis Opera</title>
+      <partNumber>Tomus III</partNumber>
+      <partName>Tetralogia V-VII</partName>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-32347.html">
+      <namePart>Burnet, John</namePart>
+      <namePart type="date">1863- 1928</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Oxonii</placeTerm>
+      </place>
+      <publisher>e typographeo Clarendoniano</publisher>
+      <dateModified>1961</dateModified>
+      <edition>Reprint</edition>
+      <dateIssued>1903</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent/>
+      <note>Page numbers from Stephanus edition</note>
+    </physicalDescription>
+    <note type="statement of responsibility">recognovit breviqve adnotatione critica
+    instrvxit Ioannes Burnet</note>
+    <note>Signed introduction of vol. 1 dated November, 1899</note>
+    <note>Originally planned in 6 volumes</note>
+    <tableOfContents>t. 3. (Tetralogia V-VII) Theages ; Charmides ; Laches ; Lysis ;
+    Euthydemus ; Protagoras ; Gorgias ; Meno ; Hippias Maior ; Hippias Minor ; Io ;
+    Menexenus</tableOfContents>
+    <classification authority="lcc">PA3405.S8</classification>
+    <classification authority="lcc">PA4279</classification>
+    <classification authority="ddc">184</classification>
+    <identifier type="lccn">05029044</identifier>
+    <identifier type="oclc">4124457</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</url>
+    </location>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks" note="Snippet View"/>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/MN40030ucmf_0 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/operarecognovitb03platuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">840302</recordCreationDate>
+      <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+      <recordIdentifier>6799875</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Platonis Opera</title>
+      <partNumber>Tomus IV</partNumber>
+      <partName>Tetralogia VIII</partName>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-32347.html">
+      <namePart>Burnet, John</namePart>
+      <namePart type="date">1863- 1928</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Oxonii</placeTerm>
+      </place>
+      <publisher>e typographeo Clarendoniano</publisher>
+      <edition>Reprint</edition>
+      <dateModified>1962</dateModified>
+      <dateIssued>1902</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent/>
+      <note>Page numbers from Stephanus edition</note>
+    </physicalDescription>
+    <note type="statement of responsibility">recognovit breviqve adnotatione critica
+    instrvxit Ioannes Burnet</note>
+    <note>Signed introduction of vol. 1 dated November, 1899</note>
+    <note>Originally planned in 6 volumes</note>
+    <tableOfContents>t. 4. (Tetralogia VIII) Clitopho ; Respublica ; Timaeus ;
+    Critias</tableOfContents>
+    <classification authority="lcc">PA3405.S8</classification>
+    <classification authority="lcc">PA4279</classification>
+    <classification authority="ddc">184</classification>
+    <identifier type="lccn">05029044</identifier>
+    <identifier type="oclc">4124457</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</url>
+    </location>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks" note="Snippet View"
+                >http://books.google.com/books?id=ZiKsj7GXrrEC </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/MN40030ucmf_0 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/operarecognovitb04platuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">840302</recordCreationDate>
+      <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+      <recordIdentifier>6799875</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Platonis Opera</title>
+      <partNumber>Tomus IV</partNumber>
+      <partName>Tetralogia VIII</partName>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-32347.html">
+      <namePart>Burnet, John</namePart>
+      <namePart type="date">1863- 1928</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Oxonii</placeTerm>
+      </place>
+      <publisher>e typographeo Clarendoniano</publisher>
+      <edition>Reprint</edition>
+      <dateModified>1962</dateModified>
+      <dateIssued>1902</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent/>
+      <note>Page numbers from Stephanus edition</note>
+    </physicalDescription>
+    <note type="statement of responsibility">recognovit breviqve adnotatione critica
+    instrvxit Ioannes Burnet</note>
+    <note>Signed introduction of vol. 1 dated November, 1899</note>
+    <note>Originally planned in 6 volumes</note>
+    <tableOfContents>t. 4. (Tetralogia VIII) Clitopho ; Respublica ; Timaeus ;
+    Critias</tableOfContents>
+    <classification authority="lcc">PA3405.S8</classification>
+    <classification authority="lcc">PA4279</classification>
+    <classification authority="ddc">184</classification>
+    <identifier type="lccn">05029044</identifier>
+    <identifier type="oclc">4124457</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</url>
+    </location>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks" note="Snippet View"
+                >http://books.google.com/books?id=ZiKsj7GXrrEC</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/MN40030ucmf_0 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/operarecognovitb04platuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">840302</recordCreationDate>
+      <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+      <recordIdentifier>6799875</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Platonis Opera</title>
+      <partNumber>Tomus V</partNumber>
+      <partName>Tetralogia IX, Definitiones, et Spuria</partName>
+    </titleInfo>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal"
+               xlink:href="http://errol.oclc.org/laf/n50-32347.html">
+      <namePart>Burnet, John</namePart>
+      <namePart type="date">1863- 1928</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Oxonii</placeTerm>
+      </place>
+      <publisher>e typographeo Clarendoniano</publisher>
+      <edition>Reprint</edition>
+      <dateModified>1959</dateModified>
+      <dateIssued>1907</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent/>
+      <note>Pages taken from Stephanus edition</note>
+    </physicalDescription>
+    <note type="statement of responsibility">recognovit breviqve adnotatione critica
+    instrvxit Ioannes Burnet</note>
+    <note>Signed introduction of vol. 1 dated November, 1899</note>
+    <note>Originally planned in 6 volumes</note>
+    <tableOfContents>t. 5. (Tetralogia IX, Definitiones, et spuria). Minos ; Leges ;
+    Epinomis ; Epistulae ; Definitiones ; De iusto ; De virtute ; Demodocus ; Sisyphus ;
+    Eryxias ; Axiochus</tableOfContents>
+    <classification authority="lcc">PA3405.S8</classification>
+    <classification authority="lcc">PA4279</classification>
+    <classification authority="ddc">184</classification>
+    <identifier type="lccn">05029044</identifier>
+    <identifier type="oclc">4124457</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/4124457</url>
+    </location>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/05029044</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks" note="Snippet View"/>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/MN40030ucmf_0 </url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance" note="Vol 5-Part 1"
+                >http://www.archive.org/details/p1platonisopera05platuoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance" note="Vol 5-Part 2"
+                >http://www.archive.org/stream/p2operarecognovitb05platuoft#page/n9/mode/2up</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">840302</recordCreationDate>
+      <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+      <recordIdentifier>6799875</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+</modsCollection>
