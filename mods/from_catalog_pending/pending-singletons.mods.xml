@@ -4540,16 +4540,15 @@
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Epistulae">
+    <mods displayLabel="Augustine's Epistulae (Goldbacher)">
         <titleInfo type="uniform">
             <title>Epistulae</title>
         </titleInfo>
         <titleInfo>
             <title>Sancti Aurelii Augustini Opera</title>
-            <partNumber>Opera Sectio II, Pars I</partNumber>
+            <partNumber>Opera Sectio II</partNumber>
         </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n80-126290.html ">
             <namePart>Augustine</namePart>
             <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
             <role>
@@ -4563,7 +4562,22 @@
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
+        <identifier type="oclc">504162003</identifier>
         <typeOfResource>text</typeOfResource>
+        <subject authority="lcsh">
+            <topic>Fathers of the church</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Church history</topic>
+            <topic>Primitive and Early Church</topic>
+            <topic>ca. 30-600</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Christian Life</topic>
+            <topic>History</topic>
+            <topic>Early church, ca. 30-600</topic>
+        </subject>
+        <classification authority="lcc">BR60 .C6</classification>
         <originInfo>
             <place>
                 <placeTerm type="code" authority="marccountry">au</placeTerm>
@@ -4578,482 +4592,155 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <physicalDescription>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-            <extent/>
-        </physicalDescription>
-        <tableOfContents>Praefatio. Ep. I-XXX</tableOfContents>
-        <note type="statement of responsibility"/>
-        <note/>
-        <subject authority="lcsh">
-            <topic>Fathers of the church</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Church history</topic>
-            <topic>Primitive and Early Church</topic>
-            <topic>ca. 30-600</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Christian Life</topic>
-            <topic>History</topic>
-            <topic>Early church, ca. 30-600</topic>
-        </subject>
-        <classification authority="lcc">BR60 .C6</classification>
         <relatedItem type="series">
             <titleInfo>
                 <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
-                <partNumber>Volume 34, Part I</partNumber>
             </titleInfo>
         </relatedItem>
-        <identifier type="oclc">504162003</identifier>
-        <identifier type="stoa author-text">stoa0040-stoa011</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/504162003</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=DzIRAAAAYAAJ</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >https://archive.org/details/corpusscriptoru15wiengoog</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"/>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158003005773</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
-            <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
+        <relatedItem type="constituent" otherType="work">
+            <relatedItem type="constituent" otherType="expression">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 34">
+                    <part type="volume">
+                        <detail>
+                            <number>34</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Part I">
+                        <part type="part">
+                            <detail>
+                                <number>1</number>
+                            </detail>
+                        </part>
+                        <tableOfContents>Praefatio. Ep. I-XXX</tableOfContents>
+                        <location>
+                            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/504162003</url>
+                        </location>
+                        <location>
+                            <url displayLabel="GoogleBooks"
+                                >http://books.google.com/books?id=DzIRAAAAYAAJ</url>
+                        </location>
+                        <location>
+                            <url displayLabel="Open Content Alliance"
+                                >https://archive.org/details/corpusscriptoru15wiengoog</url>
+                        </location>
+                        <location>
+                            <url displayLabel="HathiTrust"
+                                >http://hdl.handle.net/2027/uc1.31158003005773</url>
+                        </location>
+                        
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Part II">
+                        <part type="part">
+                            <detail>
+                                <number>2</number>
+                            </detail>
+                        </part>
+                        <tableOfContents>Ep. XXXI-CXXIII</tableOfContents>
+                        <location>
+                            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/504162003</url>
+                        </location>
+                        <location>
+                            <url displayLabel="GoogleBooks">http://books.google.com/books?id=NyQQAAAAYAAJ</url>
+                        </location>
+                        <location>
+                            <url displayLabel="Open Content Alliance"
+                                >https://archive.org/details/corpusscriptoru06wissgoog</url>
+                        </location>
+                        <location>
+                            <url displayLabel="HathiTrust"
+                                >http://hdl.handle.net/2027/uc1.31158003005773?urlappend=%3Bseq=140</url>
+                        </location>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Part III">
+                        <part type="part">
+                            <detail>
+                                <number>3</number>
+                            </detail>
+                        </part>
+                        <tableOfContents>Ep. CXXIV-CLXXXIVA</tableOfContents>
+                        <location>
+                            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/34549005</url>
+                        </location>
+                        <location>
+                            <url displayLabel="GoogleBooks"/>
+                        </location>
+                        <location>
+                            <url displayLabel="Open Content Alliance"/>
+                        </location>
+                        <location>
+                            <url displayLabel="Open Library"/>
+                        </location>
+                        <location>
+                            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/nyp.33433081640892</url>
+                        </location>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Part IV">
+                        <part type="part">
+                            <detail>
+                                <number>4</number>
+                            </detail>
+                        </part>
+                        <tableOfContents>Ep. CLXXXV-CCLXX</tableOfContents>
+                        <location>
+                            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/34548997</url>
+                        </location>
+                        <location>
+                            <url displayLabel="Open Content Alliance">http://archive.org/stream/CSEL57</url>
+                        </location>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Part V">
+                        <part type="part">
+                            <detail>
+                                <number>5</number>
+                            </detail>
+                        </part>
+                        <tableOfContents>Praefatio Editoris et Indices</tableOfContents>
+                        <location>
+                            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/499042394</url>
+                        </location>
+                        <location>
+                            <url displayLabel="GoogleBooks"/>
+                        </location>
+                        <location>
+                            <url displayLabel="Open Content Alliance"
+                                >https://archive.org/details/corpusscriptorum58auguuoft</url>
+                        </location>
+                    </relatedItem>
+                </relatedItem>
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Epistulae">
-        <titleInfo type="uniform">
-            <title>Epistulae</title>
-        </titleInfo>
-        <titleInfo>
-            <title>Sancti Aurelii Augustini Opera</title>
-            <partNumber>Opera Sectio II, Pars II</partNumber>
-        </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
-            <namePart>Augustine</namePart>
-            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
-            valueURI="http://id.loc.gov/authorities/names/nr96043975">
-            <namePart>Goldbacher, Alois</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">au</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Vindobonae</placeTerm>
-            </place>
-            <publisher>Gerold</publisher>
-            <dateIssued>1898</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <physicalDescription>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-            <extent/>
-        </physicalDescription>
-        <note type="statement of responsibility"/>
-        <note/>
-        <tableOfContents>Ep. XXXI-CXXIII</tableOfContents>
-        <subject authority="lcsh">
-            <topic>Fathers of the church</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Church history</topic>
-            <topic>Primitive and Early Church</topic>
-            <topic>ca. 30-600</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Christian Life</topic>
-            <topic>History</topic>
-            <topic>Early church, ca. 30-600</topic>
-        </subject>
-        <classification authority="lcc">BR60 .C6</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
-                <partNumber>Volume 34, Part II</partNumber>
-            </titleInfo>
-        </relatedItem>
-        <identifier type="oclc">504162003</identifier>
-        <identifier type="stoa author-text">stoa0040-stoa011</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/504162003</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=NyQQAAAAYAAJ</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >https://archive.org/details/corpusscriptoru06wissgoog</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"/>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust"
-                >http://hdl.handle.net/2027/uc1.31158003005773?urlappend=%3Bseq=140</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
-            <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
-                <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Epistulae">
-        <titleInfo type="uniform">
-            <title>Epistulae</title>
-        </titleInfo>
-        <titleInfo>
-            <title>Sancti Aurelii Augustini Opera</title>
-            <partNumber>Opera Sectio II, Pars V</partNumber>
-            <subTitle>Epistulae, Pars III</subTitle>
-        </titleInfo>
-        <titleInfo type="alternative">
-            <title>Epistulae</title>
-            <partNumber>124-184A</partNumber>
-        </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
-            <namePart>Augustine</namePart>
-            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
-            valueURI="http://id.loc.gov/authorities/names/nr96043975">
-            <namePart>Goldbacher, Alois</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">au</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Vindobonae</placeTerm>
-            </place>
-            <publisher>Gerold</publisher>
-            <dateIssued>1904</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <physicalDescription>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-            <extent>736 p. ; 23 cm.</extent>
-        </physicalDescription>
-        <tableOfContents>Ep. CXXIV-CLXXXIVA</tableOfContents>
-        <note type="statement of responsibility"/>
-        <note/>
-        <subject authority="lcsh">
-            <topic>Fathers of the church</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Church history</topic>
-            <topic>Primitive and Early Church</topic>
-            <topic>ca. 30-600</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Christian Life</topic>
-            <topic>History</topic>
-            <topic>ca. 30-600</topic>
-        </subject>
-        <classification authority="lcc">BR60 .C6</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
-                <partNumber>44</partNumber>
-            </titleInfo>
-        </relatedItem>
-        <identifier type="oclc">34549005</identifier>
-        <identifier type="stoa author-text">stoa0040-stoa011</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/34549005</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks"/>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"/>
-        </location>
-        <location>
-            <url displayLabel="Open Library"/>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/nyp.33433081640892</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
-            <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
-                <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Epistulae">
-        <titleInfo type="uniform">
-            <title>Epistulae</title>
-        </titleInfo>
-        <titleInfo>
-            <title>Sancti Aurelii Augustini Opera</title>
-            <partNumber>Opera Sectio II</partNumber>
-            <subTitle>Epistulae</subTitle>
-            <partNumber>Pars IV</partNumber>
-        </titleInfo>
-        <titleInfo type="alternative">
-            <title>Epistulae</title>
-            <partNumber>185-270</partNumber>
-        </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
-            <namePart>Augustine</namePart>
-            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
-            valueURI="http://id.loc.gov/authorities/names/nr96043975">
-            <namePart>Goldbacher, Alois</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">au</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Vindobonae</placeTerm>
-            </place>
-            <publisher>Gerold</publisher>
-            <dateIssued>1911</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <physicalDescription>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-            <extent>656 p. ; 23 cm.</extent>
-        </physicalDescription>
-        <tableOfContents>Ep. CLXXXV-CCLXX</tableOfContents>
-        <note type="statement of responsibility">Recensuit et commentario critico instruxit Al. Goldbacher.</note>
-        <note/>
-        <subject authority="lcsh">
-            <topic>Fathers of the church</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Church history</topic>
-            <topic>Primitive and Early Church</topic>
-            <topic>ca. 30-600</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Christian Life</topic>
-            <topic>History</topic>
-            <topic>ca. 30-600</topic>
-        </subject>
-        <classification authority="lcc">BR60 .C6</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
-                <partNumber>57</partNumber>
-            </titleInfo>
-        </relatedItem>
-        <identifier type="oclc">34548997</identifier>
-        <identifier type="stoa author-text">stoa0040-stoa011</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/34548997</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks"/>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance">http://archive.org/stream/CSEL57</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"/>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust"/>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
-            <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
-                <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Epistulae">
-        <titleInfo type="uniform">
-            <title>Epistulae</title>
-        </titleInfo>
-        <titleInfo>
-            <title>Sancti Aurelii Augustini Opera</title>
-            <partNumber>Opera Sectio II, Pars V</partNumber>
-        </titleInfo>
-        <titleInfo type="alternative">
-            <title>Epistulae. Indices.</title>
-        </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
-            <namePart>Augustine</namePart>
-            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
-            valueURI="http://id.loc.gov/authorities/names/nr96043975">
-            <namePart>Goldbacher, Alois</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">au</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Vindobonae</placeTerm>
-            </place>
-            <publisher>Gerold</publisher>
-            <dateIssued>1923</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <physicalDescription>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-            <extent>c, 426 p.</extent>
-        </physicalDescription>
-        <tableOfContents>Praefatio Editoris et Indices</tableOfContents>
-        <note type="statement of responsibility"/>
-        <note/>
-        <subject authority="lcsh">
-            <topic>Fathers of the church</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Church history</topic>
-            <topic>Primitive and Early Church</topic>
-            <topic>ca. 30-600</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Christian Life</topic>
-            <topic>History</topic>
-            <topic/>
-            <topic>ca. 30-600</topic>
-        </subject>
-        <classification authority="lcc">BR60 .C6</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
-                <partNumber>58</partNumber>
-            </titleInfo>
-        </relatedItem>
-        <identifier type="oclc">499042394</identifier>
-        <identifier type="stoa author-text" displayLabel="IsIndexTo">stoa0040-stoa011</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/499042394</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks"/>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >https://archive.org/details/corpusscriptorum58auguuoft</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"/>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust"/>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
-            <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
-                <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    
-    <mods displayLabel="Epistulae">
+
+    <mods displayLabel="Pliny the Younger Epistiulae (Melmoth and Hutchinson)">
         <titleInfo xml:lang="en" type="uniform">
             <title>Epistulae</title>
         </titleInfo>
-        <titleInfo>
-            <title>Letters</title>
-            <partNumber>Vol I</partNumber>
-        </titleInfo>
-        <identifier type="phi">1318.1</identifier>
-        <identifier type="stoa author-text">stoa0233-stoa001</identifier>
-        <identifier type="oclc">237118369</identifier>
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n79-75182.html">
+            <namePart>Pliny,</namePart>
+            <namePart type="termsOfAddress">the Younger</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n88-7600.html">
+            <namePart>Melmoth, William</namePart>
+            <namePart type="date">1710?-1799</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr97-32198.html">
+            <namePart>Hutchinson, W. M. L.</namePart>
+            <namePart type="date">b. 1868</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
         <identifier type="lccn">16000654</identifier>
-        <identifier type="oca">letterswithengli01plinuoft</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-eng2</identifier>
         <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
@@ -5073,24 +4760,17 @@
             <edition>Reprint</edition>
             <issuance>monographic</issuance>
         </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xvi, 535 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <tableOfContents>Book I-Book VI</tableOfContents>
-        <note type="statement of responsibility">with an English translation, by William Melmoth,
-            revised by W.M.L. Hutchinson.</note>
-        <note>Latin and English text on opposite pages.</note>
-        <classification authority="lcc">PA6156</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Loeb classical library</title>
-            </titleInfo>
-            <titleInfo type="abbreviated">
-                <title>LCL</title>
-            </titleInfo>
-        </relatedItem>
+        <subject authority="lcsh">
+            <name authority="" type="personal">
+                <namePart type="termsOfAddress">the Younger</namePart>
+                <namePart>Pliny</namePart>
+            </name>
+            <topic>Correspondence</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Latin letters</topic>
+            <topic>Translations into English</topic>
+        </subject>
         <location>
             <url displayLabel="LC Permalink">http://lccn.loc.gov/16000654</url>
         </location>
@@ -5111,100 +4791,6 @@
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015004736669</url>
         </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n79-75182.html">
-            <namePart>Pliny,</namePart>
-            <namePart type="termsOfAddress">the Younger</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n88-7600.html             ">
-            <namePart>Melmoth, William</namePart>
-            <namePart type="date">1710?-1799</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr97-32198.html             ">
-            <namePart>Hutchinson, W. M. L.</namePart>
-            <namePart type="date">b. 1868</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <subject authority="lcsh">
-            <name authority="" type="personal">
-                <namePart type="termsOfAddress">the Younger</namePart>
-                <namePart>Pliny</namePart>
-            </name>
-            <topic>Correspondence</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Latin letters</topic>
-            <topic>Translations into English</topic>
-        </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
-            <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
-                <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-eng2</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Epistulae">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Epistulae</title>
-        </titleInfo>
-        <titleInfo>
-            <title>Letters</title>
-            <partNumber>Vol II</partNumber>
-        </titleInfo>
-        <identifier type="phi">1318.1</identifier>
-        <identifier type="stoa author-text">stoa0233-stoa001</identifier>
-        <identifier type="oclc">237118369</identifier>
-        <identifier type="lccn">16000654</identifier>
-        <identifier type="oca">letterswithengli02plinuoft</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-eng2</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">London</placeTerm>
-            </place>
-            <publisher>Harvard University</publisher>
-            <publisher>W. Heinemann</publisher>
-            <publisher>Harvard University</publisher>
-            <dateModified>1958</dateModified>
-            <dateIssued>1915</dateIssued>
-            <edition>Reprint</edition>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>440 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <tableOfContents>Book VII-X</tableOfContents>
-        <note type="statement of responsibility">with an English translation, by William Melmoth,
-            revised by W.M.L. Hutchinson.</note>
-        <note>Latin and English text on opposite pages.</note>
-        <classification authority="lcc">PA6156</classification>
         <relatedItem type="series">
             <titleInfo>
                 <title>Loeb classical library</title>
@@ -5213,301 +4799,51 @@
                 <title>LCL</title>
             </titleInfo>
         </relatedItem>
-        <location>
-            <url displayLabel="LC Permalink">http://lccn.loc.gov/16000654</url>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/237118369</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/letterswithengli02plinuoft</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"
-                >http://openlibrary.org/details/letterswithengli02plinuoft</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=TTsMAAAAIAAJ</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n79-75182.html">
-            <namePart>Pliny,</namePart>
-            <namePart type="termsOfAddress">the Younger</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n88-7600.html             ">
-            <namePart>Melmoth, William</namePart>
-            <namePart type="date">1710?-1799</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr97-32198.html             ">
-            <namePart>Hutchinson, W. M. L.</namePart>
-            <namePart type="date">b. 1868</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <subject authority="lcsh">
-            <name authority="" type="personal">
-                <namePart type="termsOfAddress">the Younger</namePart>
-                <namePart>Pliny</namePart>
-            </name>
-            <topic>Correspondence</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Latin letters</topic>
-            <topic>Translations into English</topic>
-        </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
+        <relatedItem type="constituent" otherType="work">
             <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
-                <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-eng2</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Epistulae">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Epistulae</title>
-        </titleInfo>
-        <titleInfo>
-            <title>Letters</title>
-            <partNumber>Vol I</partNumber>
-        </titleInfo>
-        <identifier type="phi">1318.1</identifier>
-        <identifier type="stoa author-text">stoa0233-stoa001</identifier>
-        <identifier type="oclc">237118369</identifier>
-        <identifier type="lccn">16000654</identifier>
-        <identifier type="oca">letterswithengli01plinuoft</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-lat4</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">London</placeTerm>
-            </place>
-            <publisher>Harvard University</publisher>
-            <publisher>W. Heinemann</publisher>
-            <publisher>Harvard University</publisher>
-            <dateModified>1957</dateModified>
-            <dateIssued>1915</dateIssued>
-            <edition>Reprint</edition>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xvi, 535 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <tableOfContents>Book I-Book VI</tableOfContents>
-        <note type="statement of responsibility">with an English translation, by William Melmoth,
-            revised by W.M.L. Hutchinson.</note>
-        <note>Latin and English text on opposite pages.</note>
-        <classification authority="lcc">PA6156</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Loeb classical library</title>
-            </titleInfo>
-            <titleInfo type="abbreviated">
-                <title>LCL</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="LC Permalink">http://lccn.loc.gov/16000654</url>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/237118369</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/letterswithengli01plinuoft</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"
-                >http://openlibrary.org/details/letterswithengli01plinuoft</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=yXhfAAAAMAAJ</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015004736669</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n79-75182.html">
-            <namePart>Pliny,</namePart>
-            <namePart type="termsOfAddress">the Younger</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n88-7600.html             "/>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr97-32198.html             ">
-            <namePart>Hutchinson, W. M. L.</namePart>
-            <namePart type="date">b. 1868</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <subject authority="lcsh">
-            <name authority="" type="personal">
-                <namePart type="termsOfAddress">the Younger</namePart>
-                <namePart>Pliny</namePart>
-            </name>
-            <topic>Correspondence</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Latin letters</topic>
-            <topic>Translations into English</topic>
-        </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
-            <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
+            
+            <relatedItem type="constituent" otherType="expression">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-lat4</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume I">
+                    <part type="volume">
+                        <detail>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Book I-Book VI</tableOfContents>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume II">
+                    <part type="volume">
+                        <detail>
+                            <number>2</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Book VII-X</tableOfContents>
+                </relatedItem>
+                
             </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Epistulae">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Epistulae</title>
-        </titleInfo>
-        <titleInfo>
-            <title>Letters</title>
-            <partNumber>Vol II</partNumber>
-        </titleInfo>
-        <identifier type="phi">1318.1</identifier>
-        <identifier type="stoa author-text">stoa0233-stoa001</identifier>
-        <identifier type="oclc">237118369</identifier>
-        <identifier type="lccn">16000654</identifier>
-        <identifier type="oca">letterswithengli02plinuoft</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-lat4</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">London</placeTerm>
-            </place>
-            <publisher>Harvard University</publisher>
-            <publisher>W. Heinemann</publisher>
-            <publisher>Harvard University</publisher>
-            <dateModified>1958</dateModified>
-            <dateIssued>1915</dateIssued>
-            <edition>Reprint</edition>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>440 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <tableOfContents>Book VII-X</tableOfContents>
-        <note type="statement of responsibility">with an English translation, by William Melmoth,
-            revised by W.M.L. Hutchinson.</note>
-        <note>Latin and English text on opposite pages.</note>
-        <classification authority="lcc">PA6156</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Loeb classical library</title>
-            </titleInfo>
-            <titleInfo type="abbreviated">
-                <title>LCL</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="LC Permalink">http://lccn.loc.gov/16000654</url>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/237118369</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/letterswithengli02plinuoft</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"
-                >http://openlibrary.org/details/letterswithengli02plinuoft</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=TTsMAAAAIAAJ</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n79-75182.html">
-            <namePart>Pliny,</namePart>
-            <namePart type="termsOfAddress">the Younger</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n88-7600.html             "/>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr97-32198.html             ">
-            <namePart>Hutchinson, W. M. L.</namePart>
-            <namePart type="date">b. 1868</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <subject authority="lcsh">
-            <name authority="" type="personal">
-                <namePart type="termsOfAddress">the Younger</namePart>
-                <namePart>Pliny</namePart>
-            </name>
-            <topic>Correspondence</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Latin letters</topic>
-            <topic>Translations into English</topic>
-        </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Epistulae">
-            <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Epistulae">
-                <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-lat4</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-eng2</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume I">
+                    <part type="volume">
+                        <detail>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Book I-Book VI</tableOfContents>
+                    
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume II">
+                    <part type="volume">
+                        <detail>
+                            <number>2</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Book VII-X</tableOfContents>
+                </relatedItem>
+                
             </relatedItem>
+            
         </relatedItem>
     </mods>
 
