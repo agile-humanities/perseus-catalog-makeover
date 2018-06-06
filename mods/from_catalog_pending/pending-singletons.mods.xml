@@ -3575,96 +3575,6 @@
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Anicii Manlii Severini Boetii Commentarii in librum Aristotelis Pars Posterior">
-        <titleInfo>
-            <title>Anicii Manlii Severini Boetii Commentarii in librum Aristotelis</title>
-            <partNumber>Pars Posterior</partNumber>
-        </titleInfo>
-        <titleInfo type="uniform">
-            <title>Commentarii in librum Aristotelis Peri hermeneias</title>
-        </titleInfo>
-        <titleInfo type="abbreviated" authority="ls">
-            <title>Boëth. Aristot. Interpr.</title>
-        </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n79-29805.html">
-            <namePart>Boethius</namePart>
-            <namePart type="date">d. 524</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n86-55752.html">
-            <namePart>Meiser, Karl</namePart>
-            <namePart type="date">1843-1912</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Lipsiae</placeTerm>
-            </place>
-            <publisher>in aedibus B. G. Teubneri</publisher>
-            <dateIssued>1880</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>vi, 550 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <tableOfContents>Secundam Editionem et Indices Continens</tableOfContents>
-        <subject authority="lcsh">
-            <name type="personal">
-                <namePart>Aristotle</namePart>
-            </name>
-        </subject>
-        <classification authority="lcc">PA6104 .B54 1877</classification>
-        <identifier type="lccn">34013837</identifier>
-        <identifier type="oca">commentariiinlib00boetuoft</identifier>
-        <identifier type="oclc">54042337</identifier>
-        <identifier type="stoa author-text">stoa0058-stoa022</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022.opp-lat1</identifier>
-        <!-- 
-  <identifier type="tlg" displayLabel="isCommentaryOn">0086.017</identifier> -->
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/54042337</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/commentariiinlib00boetuoft#page/n239/mode/2up</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"
-                >http://www.openlibrary.org/details/commentariiinlib00boetuoft</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=2MUUAAAAQAAJ&amp;pg=PA229#v=onepage</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust"
-                >http://hdl.handle.net/2027/uva.x000673217?urlappend=%3Bseq=251</url>
-        </location>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Anicii Manlii Severini Boetii Commentarii in librum Aristotelis Pars Posterior">
-            <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022</identifier>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Anicii Manlii Severini Boetii Commentarii in librum Aristotelis Pars Posterior">
-                <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022.opp-lat1</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-
     <mods displayLabel="Commentarii in librum Aristotelis de interpretatione">
         <titleInfo xml:lang="lat" type="uniform">
             <title>Commentarii in librum Aristotelis de interpretatione</title>
@@ -3679,9 +3589,23 @@
         <identifier type="lccn">34013837</identifier>
         <identifier type="oca">commentariiinlib00boetuoft</identifier>
         <identifier type="oclc">54042337</identifier>
-        <identifier type="stoa author-text">stoa0058-stoa022</identifier>
-        <!-- <identifier displayLabel="isCommentaryOn" type="tlg">0086.017</identifier> -->
-        <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022.opp-lat1</identifier>
+        <classification authority="lcc">PA6104 .B54 1877</classification>
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n79-29805.html">
+            <namePart>Boethius</namePart>
+            <namePart type="date">d. 524</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n86-55752.html">
+            <namePart>Meiser, Karl</namePart>
+            <namePart type="date">1843-1912</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
         <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
@@ -3694,55 +3618,14 @@
             <dateIssued>1877</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>x, 225 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
+        
         <tableOfContents>Versionem Continuam et Primam Editionem Contines</tableOfContents>
-        <classification authority="lcc">PA6104 .B54 1877</classification>
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/54042337</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/commentariiinlib00boetuoft</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"
-                >http://www.openlibrary.org/details/commentariiinlib00boetuoft</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=2MUUAAAAQAAJ</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uva.x000673217</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">810403</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20050606180053.0</recordChangeDate>
-            <recordIdentifier>8292793</recordIdentifier>
-        </recordInfo>
+
+        
         <language>
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n79-29805.html">
-            <namePart>Boethius</namePart>
-            <namePart type="date">d. 524</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n86-55752.html">
-            <namePart>Meiser, Karl</namePart>
-            <namePart type="date">1843-1912</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
+
         <subject authority="lcsh">
             <name type="personal">
                 <namePart>Aristotle</namePart>
@@ -3754,6 +3637,57 @@
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Commentarii in librum Aristotelis de interpretatione">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022.opp-lat1</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Pars Prior">
+                    <part type="part">
+                        <detail>
+                            <caption>Pars Prior</caption>
+                        </detail>
+                    </part>
+                    <location>
+                        <url displayLabel="WorldCat">http://worldcat.org/oclc/54042337</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://www.archive.org/details/commentariiinlib00boetuoft</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Library"
+                            >http://www.openlibrary.org/details/commentariiinlib00boetuoft</url>
+                    </location>
+                    <location>
+                        <url displayLabel="GoogleBooks">http://books.google.com/books?id=2MUUAAAAQAAJ</url>
+                    </location>
+                    <location>
+                        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uva.x000673217</url>
+                    </location>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Pars Posterior">
+                    <part type="part">
+                        <detail>
+                            <caption>Pars Posterior</caption>
+                        </detail>
+                    </part>
+                    <location>
+                        <url displayLabel="WorldCat">http://worldcat.org/oclc/54042337</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://archive.org/stream/commentariiinlib00boetuoft#page/n239/mode/2up</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Library"
+                            >http://www.openlibrary.org/details/commentariiinlib00boetuoft</url>
+                    </location>
+                    <location>
+                        <url displayLabel="GoogleBooks"
+                            >http://books.google.com/books?id=2MUUAAAAQAAJ&amp;pg=PA229#v=onepage</url>
+                    </location>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >http://hdl.handle.net/2027/uva.x000673217?urlappend=%3Bseq=251</url>
+                    </location>
+                    
+                </relatedItem>
             </relatedItem>
         </relatedItem>
     </mods>
