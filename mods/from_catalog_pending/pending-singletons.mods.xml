@@ -6147,22 +6147,18 @@
         </relatedItem>
     </mods>
     
-
-    <mods displayLabel="Res Rustica">
+    
+    <mods displayLabel="Res Rustica (Loeb)">
         <titleInfo xml:lang="en" type="uniform">
             <title>Res Rustica</title>
         </titleInfo>
         <titleInfo>
             <title>On agriculture</title>
-            <partNumber>Volume I</partNumber>
         </titleInfo>
         <titleInfo type="abbreviated" authority="ls">
             <title>Col. R. R.</title>
         </titleInfo>
         <identifier type="oclc">3433687</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-eng3</identifier>
         <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
@@ -6177,12 +6173,6 @@
             <edition>Reprint</edition>
             <issuance>monographic</issuance>
         </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xxxiii, 461 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <tableOfContents>Res Rustica I-IV</tableOfContents>
         <note type="statement of responsibility">with a recension of the text and an English translation
             by Harrison Boyd Ash.</note>
         <note>Latin and English.</note>
@@ -6192,39 +6182,15 @@
                 <title>The Loeb classical library. [Latin authors]</title>
             </titleInfo>
         </relatedItem>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks" note="Snippet View"
-                >http://books.google.com/books?vid=OCLC03433687</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/onagriculturewit01coluuoft</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"
-                >http://openlibrary.org/details/onagriculturewit01coluuoft</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n80-56875.html">
             <namePart>Columella, Lucius Junius Moderatus.</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n86-863278.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n86-863278.html">
             <namePart>Ash, Harrison Boyd</namePart>
             <role>
                 <roleTerm authority="translator" type="text">translator</roleTerm>
@@ -6236,487 +6202,142 @@
         <subject authority="lcsh">
             <topic>Agriculture</topic>
             <topic>Early works to 1800</topic>
-        </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-eng3</identifier>
+        </subject>        
+        <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica (translation)">
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-eng3</identifier>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Vol 1 (English)">
+                <part type="volume">
+                    <detail>
+                        <number>1</number>
+                    </detail>
+                </part>
+                <tableOfContents>Res Rustica I-IV</tableOfContents>
+                <location>
+                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
+                </location>
+                <location>
+                    <url displayLabel="GoogleBooks" note="Snippet View"
+                        >http://books.google.com/books?vid=OCLC03433687</url>
+                </location>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/onagriculturewit01coluuoft</url>
+                </location>
+                <location>
+                    <url displayLabel="Open Library"
+                        >http://openlibrary.org/details/onagriculturewit01coluuoft</url>
+                </location>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Vol II (English)">
+                <part type="volume">
+                    <detail>
+                        <number>2</number>
+                    </detail>
+                </part>
+                <tableOfContents>Res Rustica V-IX</tableOfContents>
+                <location>
+                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
+                </location>
+                <location>
+                    <url displayLabel="GoogleBooks" note="Snippet View"
+                        >http://books.google.com/books?id=0YRfAAAAMAAJ</url>
+                </location>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/onagriculturewit02coluuoft</url>
+                </location>
+                <location>
+                    <url displayLabel="Open Library"
+                        >http://www.openlibrary.org/details/onagriculturewit02coluuoft</url>
+                </location>
+                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Vol III (English)">
+                <part type="volume">
+                    <detail>
+                        <number>3</number>
+                    </detail>
+                </part>
+                <tableOfContents>Res Rustica X-XII</tableOfContents>
+                <location>
+                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust" note="Snippet  View"
+                        >http://hdl.handle.net/2027/coo.31924052156233</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
+            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat11</identifier>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Vol 1">
+                <part type="volume">
+                    <detail>
+                        <number>1</number>
+                    </detail>
+                </part>
+                <tableOfContents>Res Rustica I-IV</tableOfContents>
+                <location>
+                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
+                </location>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/onagriculturewit01coluuoft</url>
+                </location>
+                <location>
+                    <url displayLabel="Open Library"
+                        >http://openlibrary.org/details/onagriculturewit01coluuoft</url>
+                </location>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Vol II)">
+                <part type="volume">
+                    <detail>
+                        <number>2</number>
+                    </detail>
+                </part>
+                <tableOfContents>Res Rustica V-IX</tableOfContents>
+                <location>
+                    <url displayLabel="GoogleBooks" note="Snippet View"
+                        >http://books.google.com/books?id=0YRfAAAAMAAJ</url>
+                </location>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >http://www.archive.org/details/onagriculturewit02coluuoft</url>
+                </location>
+                <location>
+                    <url displayLabel="Open Library"
+                        >http://www.openlibrary.org/details/onagriculturewit02coluuoft</url>
+                </location>
+                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Vol III">
+                <part type="volume">
+                    <detail>
+                        <number>3</number>
+                    </detail>
+                </part>
+                <tableOfContents>Res Rustica X-XII</tableOfContents>
+                <location>
+                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
+                </location>
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Res Rustica">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Res Rustica</title>
-        </titleInfo>
-        <titleInfo>
-            <title>On agriculture</title>
-            <partNumber>Volume II</partNumber>
-        </titleInfo>
-        <identifier type="oclc">3433687</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-eng3</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <publisher>Harvard University Press</publisher>
-            <dateIssued>1954</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xi, 503 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <tableOfContents>Res Rustica V-IX</tableOfContents>
-        <note>Latin and English.</note>
-        <classification authority="lcc">PA6156</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>The Loeb classical library. [Latin authors]</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks" note="Snippet View"
-                >http://books.google.com/books?id=0YRfAAAAMAAJ</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/onagriculturewit02coluuoft</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"
-                >http://www.openlibrary.org/details/onagriculturewit02coluuoft</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
-            <namePart>Columella, Lucius Junius Moderatus.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n88-681700.html">
-            <namePart>Forster, E. S. (Edward Seymour)</namePart>
-            <namePart type="date">1879-1950</namePart>
-            <role>
-                <roleTerm authority="translator" type="text">translator</roleTerm>
-            </role>
-            <role>
-                <roleTerm authority="translator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/no2004-37142.html">
-            <namePart>Heffner, Edward H. (Edward Hoch)</namePart>
-            <namePart type="date">1879-1950</namePart>
-            <role>
-                <roleTerm authority="translator" type="text">translator</roleTerm>
-            </role>
-            <role>
-                <roleTerm authority="translator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <subject authority="lcsh">
-            <topic>Agriculture</topic>
-            <topic>Early works to 1800</topic>
-        </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-eng3</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Res Rustica">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Res Rustica</title>
-        </titleInfo>
-        <titleInfo>
-            <title>On agriculture and trees</title>
-            <partNumber>Volume III</partNumber>
-        </titleInfo>
-        <identifier type="oclc">3433687</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-eng3</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <publisher>Harvard University Press</publisher>
-            <dateIssued>1955</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>1 vol</extent>
-        </physicalDescription>
-        <tableOfContents>Res Rustica X-XII</tableOfContents>
-        <note>Latin and English.</note>
-        <classification authority="lcc">PA6156</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>The Loeb classical library. [Latin authors]</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust" note="Snippet  View"
-                >http://hdl.handle.net/2027/coo.31924052156233</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
-            <namePart>Columella, Lucius Junius Moderatus.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n88-681700.html">
-            <namePart>Forster, E. S. (Edward Seymour)</namePart>
-            <namePart type="date">1879-1950</namePart>
-            <role>
-                <roleTerm authority="translator" type="text">translator</roleTerm>
-            </role>
-            <role>
-                <roleTerm authority="translator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/no2004-37142.html">
-            <namePart>Heffner, Edward H. (Edward Hoch)</namePart>
-            <namePart type="date">b. 1886</namePart>
-            <role>
-                <roleTerm authority="translator" type="text">translator</roleTerm>
-            </role>
-        </name>
-        <subject authority="lcsh">
-            <topic>Agriculture</topic>
-            <topic>Early works to 1800</topic>
-        </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-eng3</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Res Rustica">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Res Rustica</title>
-        </titleInfo>
-        <titleInfo>
-            <title>On agriculture</title>
-            <partNumber>Volume I</partNumber>
-        </titleInfo>
-        <titleInfo type="abbreviated" authority="ls">
-            <title>Col. R. R.</title>
-        </titleInfo>
-        <identifier type="oclc">3433687</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat11</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <publisher>Harvard University Press</publisher>
-            <dateModified>1960</dateModified>
-            <dateIssued>1941</dateIssued>
-            <edition>Reprint</edition>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xxxiii, 461 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <tableOfContents>Res Rustica I-IV</tableOfContents>
-        <note type="statement of responsibility">with a recension of the text and an English translation
-            by Harrison Boyd Ash.</note>
-        <note>Latin and English.</note>
-        <classification authority="lcc">PA6156</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>The Loeb classical library</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/onagriculturewit01coluuoft</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"
-                >http://openlibrary.org/details/onagriculturewit01coluuoft</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
-            <namePart>Columella, Lucius Junius Moderatus.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n86-863278.html">
-            <namePart>Ash, Harrison Boyd</namePart>
-            <role>
-                <roleTerm authority="translator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <subject authority="lcsh">
-            <topic>Agriculture</topic>
-            <topic>Early works to 1800</topic>
-        </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat11</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Res Rustica">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Res Rustica</title>
-        </titleInfo>
-        <titleInfo>
-            <title>On agriculture</title>
-            <partNumber>Volume II</partNumber>
-        </titleInfo>
-        <identifier type="oclc">3433687</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat11</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <publisher>Harvard University Press</publisher>
-            <dateIssued>1954</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xi, 503 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <note>Latin and English.</note>
-        <classification authority="lcc">PA6156</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>The Loeb classical library. [Latin authors]</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
-        </location>
-        <tableOfContents>Res Rustica V-IX</tableOfContents>
-        <location>
-            <url displayLabel="GoogleBooks" note="Snippet View"
-                >http://books.google.com/books?id=0YRfAAAAMAAJ</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/onagriculturewit02coluuoft</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"
-                >http://www.openlibrary.org/details/onagriculturewit02coluuoft</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
-            <namePart>Columella, Lucius Junius Moderatus.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n88-681700.html">
-            <namePart>Forster, E. S. (Edward Seymour)</namePart>
-            <namePart type="date">1879-1950</namePart>
-
-            <role>
-                <roleTerm authority="translator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/no2004-37142.html">
-            <namePart>Heffner, Edward H. (Edward Hoch)</namePart>
-            <namePart type="date">1879-1950</namePart>
-            <role>
-                <roleTerm authority="translator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <subject authority="lcsh">
-            <topic>Agriculture</topic>
-            <topic>Early works to 1800</topic>
-        </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat11</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Res Rustica">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Res Rustica</title>
-        </titleInfo>
-        <titleInfo>
-            <title>On agriculture and trees</title>
-            <partNumber>Volume III</partNumber>
-        </titleInfo>
-        <identifier type="oclc">3433687</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat11</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <publisher>Harvard University Press</publisher>
-            <dateIssued>1955</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>1 vol</extent>
-        </physicalDescription>
-        <tableOfContents>Res Rustica X-XII</tableOfContents>
-        <note>Latin and English.</note>
-        <classification authority="lcc">PA6156</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>The Loeb classical library</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
-            <namePart>Columella, Lucius Junius Moderatus.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n88-681700.html">
-            <namePart>Forster, E. S. (Edward Seymour)</namePart>
-            <namePart type="date">1879-1950</namePart>
-
-            <role>
-                <roleTerm authority="translator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/no2004-37142.html">
-            <namePart>Heffner, Edward H. (Edward Hoch)</namePart>
-            <namePart type="date">1879-1950</namePart>
-            <role>
-                <roleTerm authority="translator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <subject authority="lcsh">
-            <topic>Agriculture</topic>
-            <topic>Early works to 1800</topic>
-        </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat11</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Res Rustica">
+    <mods displayLabel="Res Rustica (Vpsaliensis)">
         <titleInfo xml:lang="en" type="uniform">
             <title>Res Rustica</title>
         </titleInfo>
         <titleInfo>
             <title>L. Ivni Moderati Colvmellae Opera qvae exstant</title>
-            <partNumber>Fasciculus Alter</partNumber>
-            <partName>Rei Rusticae</partName>
+            
         </titleInfo>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="oclc">812349</identifier>
-        <identifier type="lccn"/>
         <identifier type="oca">livnimoderaticol1v8colu</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
         <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
@@ -6727,55 +6348,21 @@
             <dateIssued encoding="marc">1897</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <form authority="gmd">electronic resource</form>
-            <form authority="marccategory">electronic resource</form>
-            <form authority="marcsmd">remote</form>
-            <extent>107 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <tableOfContents>Libri I-II</tableOfContents>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
+        </location>
         <classification authority="lcc">PA6375 C6 1897</classification>
         <relatedItem type="series">
             <titleInfo>
                 <title>Collectio scriptorvm vetervm Vpsaliensis</title>
             </titleInfo>
         </relatedItem>
-        <location>
-            <url displayLabel="LC Permalink"/>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=PA47#v=onepage</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/livnimoderaticol1v8colu#page/n63/mode/2up</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust"
-                >http://hdl.handle.net/2027/uc1.b3115203?urlappend=%3Bseq=65</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OColC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier source="CaSfIA"/>
-            <recordOrigin/>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
         <language>
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
-            <namePart>Columella, Lucius Junius Moderatus.</namePart>
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n80-56875.html">
+            <namePart>Columella, Lucius Junius Moderatus</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
@@ -6792,553 +6379,148 @@
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Fasciculus Alter">
+                    <part type="part">
+                        <detail>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Libri I-II</tableOfContents>
+                    
+                    <location>
+                        <url displayLabel="GoogleBooks"
+                            >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=PA47#v=onepage</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://archive.org/stream/livnimoderaticol1v8colu#page/n63/mode/2up</url>
+                    </location>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >http://hdl.handle.net/2027/uc1.b3115203?urlappend=%3Bseq=65</url>
+                    </location>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Fasciculus Tertius">
+                    <part type="part">
+                        <detail>
+                            <number>3</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Libri III-V</tableOfContents>
+                    
+                    <location>
+                        <url displayLabel="GoogleBooks"
+                            >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA1-PA2</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://archive.org/stream/livnimoderaticol1v8colu#page/n177/mode/2up</url>
+                    </location>
+                    
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Fasciculus Quartus">
+                    <part type="part">
+                        <detail>
+                            <number>4</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Libri VI-VII</tableOfContents>
+                    
+                    <location>
+                        <url displayLabel="GoogleBooks"
+                            >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=PA155#</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://archive.org/stream/livnimoderaticol1v8colu#page/n331/mode/2up</url>
+                    </location>
+                    
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Fasciculus Quintus">
+                    <part type="part">
+                        <detail>
+                            <number>5</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Libri VIII-IX</tableOfContents>
+                    
+                    <location>
+                        <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
+                    </location>
+                    <location>
+                        <url displayLabel="GoogleBooks"
+                            >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA1-PA161</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://archive.org/stream/livnimoderaticol1v8colu#page/n495/mode/2up</url>
+                    </location>
+                    
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Fasciculus Sextus">
+                    <part type="part">
+                        <detail>
+                            <number>6</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Liber Decimus</tableOfContents>
+                    <location>
+                        <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
+                    </location>
+                    <location>
+                        <url displayLabel="GoogleBooks"
+                            >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA2-PA123</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://archive.org/stream/livnimoderaticol1v8colu#page/n633/mode/2up</url>
+                    </location>
+                    <location>
+                        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.b3073557</url>
+                    </location>
+                    
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Fasciculus Septimus">
+                    <part type="part">
+                        <detail>
+                            <number>7</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Liber Undecimus</tableOfContents>
+                    <location>
+                        <url displayLabel="GoogleBooks"
+                            >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA5-PA27#v=onepage</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://archive.org/stream/livnimoderaticol1v8colu#page/n663/mode/2up</url>
+                    </location>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >http://hdl.handle.net/2027/uc1.b3073557?urlappend=%3Bseq=43</url>
+                    </location>
+                    
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Fasciculus Octavus">
+                    <part type="part">
+                        <detail>
+                            <number>8</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Liber XII</tableOfContents>
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://archive.org/stream/livnimoderaticol1v8colu#page/n739/mode/2up</url>
+                    </location>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA4-PA75#v=onepage</url>
+                    </location>
+                </relatedItem>
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Res Rustica">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Res Rustica</title>
-        </titleInfo>
-        <titleInfo>
-            <title>L. Ivni Moderati Colvmellae Opera qvae exstant</title>
-            <partNumber>Fasciculus Tertius</partNumber>
-            <partName>Rei Rusticae</partName>
-        </titleInfo>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="oclc">812349</identifier>
-        <identifier type="lccn"/>
-        <identifier type="oca">livnimoderaticol1v8colu</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="text">Upsaliae</placeTerm>
-            </place>
-            <publisher>Eranos' Forlag</publisher>
-            <dateIssued>1968</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <form authority="gmd">electronic resource</form>
-            <form authority="marccategory">electronic resource</form>
-            <form authority="marcsmd">remote</form>
-            <extent>151 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <tableOfContents>Libri III-V</tableOfContents>
-        <classification authority="lcc">PA6375 C6 1897</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Collectio scriptorvm vetervm Vpsaliensis</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="LC Permalink"/>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA1-PA2</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/livnimoderaticol1v8colu#page/n177/mode/2up</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust"/>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OColC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier source="CaSfIA"/>
-            <recordOrigin/>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
-            <namePart>Columella, Lucius Junius Moderatus.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
-            valueURI="http://id.loc.gov/authorities/names/n88645432">
-            <namePart>Hedberg, Sten</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Res Rustica">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Res Rustica</title>
-        </titleInfo>
-        <titleInfo>
-            <title>L. Ivni Moderati Colvmellae Opera qvae exstant</title>
-            <partNumber>Fasciculus Quartus</partNumber>
-            <partName>Rei Rusticae</partName>
-        </titleInfo>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="oclc">812349</identifier>
-        <identifier type="lccn"/>
-        <identifier type="oca">livnimoderaticol1v8colu</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="text">Gotoburgi</placeTerm>
-            </place>
-            <publisher>Eranos' Forlag</publisher>
-            <dateIssued>1940</dateIssued>
-            <dateIssued encoding="marc">1940</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <form authority="gmd">electronic resource</form>
-            <form authority="marccategory">electronic resource</form>
-            <form authority="marcsmd">remote</form>
-            <extent>vi, 157 pg.</extent>
-        </physicalDescription>
-        <tableOfContents>Libri VI-VII</tableOfContents>
-        <classification authority="lcc">PA6375 C6 1897</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Collectio scriptorvm vetervm Vpsaliensis</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="LC Permalink"/>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=PA155#</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/livnimoderaticol1v8colu#page/n331/mode/2up</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust"/>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OColC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier source="CaSfIA"/>
-            <recordOrigin/>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
-            <namePart>Columella, Lucius Junius Moderatus.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
-            valueURI="http://id.loc.gov/authorities/names/n94075098">
-            <namePart>Lundström, Vilhelm</namePart>
-            <namePart type="date">1869-1940</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Res Rustica">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Res Rustica</title>
-        </titleInfo>
-        <titleInfo>
-            <title>L. Ivni Moderati Colvmellae Opera qvae exstant</title>
-            <partNumber>Fasciculus Quintus</partNumber>
-            <partName>Rei Rusticae</partName>
-        </titleInfo>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="oclc">812349</identifier>
-        <identifier type="lccn"/>
-        <identifier type="oca">livnimoderaticol1v8colu</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="text">Upsaliae</placeTerm>
-            </place>
-            <publisher>Eranos' Forlag</publisher>
-            <dateIssued>1955</dateIssued>
-            <dateIssued encoding="marc">1955</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <form authority="gmd">electronic resource</form>
-            <form authority="marccategory">electronic resource</form>
-            <form authority="marcsmd">remote</form>
-            <extent>xix, 117 pg.</extent>
-        </physicalDescription>
-        <tableOfContents>Libri VIII-IX</tableOfContents>
-        <classification authority="lcc">PA6375 C6 1897</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Collectio scriptorvm vetervm Vpsaliensis</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="LC Permalink"/>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA1-PA161</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/livnimoderaticol1v8colu#page/n495/mode/2up</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust"/>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OColC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier source="CaSfIA"/>
-            <recordOrigin/>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
-            <namePart>Columella, Lucius Junius Moderatus.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
-            valueURI="http://id.loc.gov/authorities/names/no2010144140">
-            <namePart>Josephson, Åke</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Res Rustica">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Res Rustica</title>
-        </titleInfo>
-        <titleInfo>
-            <title>L. Ivni Moderati Colvmellae Opera qvae exstant</title>
-            <partNumber>Fasciculus Sextus</partNumber>
-            <partName>Rei Rusticae</partName>
-        </titleInfo>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="oclc">812349</identifier>
-        <identifier type="lccn"/>
-        <identifier type="oca">livnimoderaticol1v8colu</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="text">Upsaliae</placeTerm>
-            </place>
-            <publisher>In libraria Lundequistiana</publisher>
-            <dateIssued>1902</dateIssued>
-            <dateIssued encoding="marc">1902</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <form authority="gmd">electronic resource</form>
-            <form authority="marccategory">electronic resource</form>
-            <form authority="marcsmd">remote</form>
-            <extent>23 pg.</extent>
-        </physicalDescription>
-        <tableOfContents>Liber Decimus</tableOfContents>
-        <classification authority="lcc">PA6375 C6 1897</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Collectio scriptorvm vetervm Vpsaliensis</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="LC Permalink"/>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA2-PA123</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/livnimoderaticol1v8colu#page/n633/mode/2up</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.b3073557</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OColC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier source="CaSfIA"/>
-            <recordOrigin/>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
-            <namePart>Columella, Lucius Junius Moderatus.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
-            valueURI="http://id.loc.gov/authorities/names/n94075098">
-            <namePart>Lundström, Vilhelm</namePart>
-            <namePart type="date">1869-1940</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Res Rustica">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Res Rustica</title>
-        </titleInfo>
-        <titleInfo>
-            <title>L. Ivni Moderati Colvmellae Opera qvae exstant</title>
-            <partNumber>Fasciculus Septimus</partNumber>
-            <partName>Rei Rusticae</partName>
-        </titleInfo>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="oclc">812349</identifier>
-        <identifier type="lccn"/>
-        <identifier type="oca">livnimoderaticol1v8colu</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="text">Upsaliae</placeTerm>
-            </place>
-            <publisher>In libraria Lundequistiana</publisher>
-            <dateIssued>1906</dateIssued>
-            <dateIssued encoding="marc">1906</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <tableOfContents>Liber Undecimus</tableOfContents>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <form authority="gmd">electronic resource</form>
-            <form authority="marccategory">electronic resource</form>
-            <form authority="marcsmd">remote</form>
-            <extent>70 pg.</extent>
-        </physicalDescription>
-        <classification authority="lcc">PA6375 C6 1897</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Collectio scriptorvm vetervm Vpsaliensis</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="LC Permalink"/>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA5-PA27#v=onepage</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/livnimoderaticol1v8colu#page/n663/mode/2up</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust"
-                >http://hdl.handle.net/2027/uc1.b3073557?urlappend=%3Bseq=43</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OColC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier source="CaSfIA"/>
-            <recordOrigin/>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
-            <namePart>Columella, Lucius Junius Moderatus.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
-            valueURI="http://id.loc.gov/authorities/names/n94075098">
-            <namePart>Lundström, Vilhelm</namePart>
-            <namePart type="date">1869-1940</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Res Rustica">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Res Rustica</title>
-        </titleInfo>
-        <titleInfo>
-            <title>L. Ivni Moderati Colvmellae Opera qvae exstant</title>
-            <partNumber>Fasciculus Octavus</partNumber>
-            <partName>Rei Rusticae</partName>
-        </titleInfo>
-        <identifier type="stoa author-text">stoa0094-stoa002</identifier>
-        <identifier type="phi">845.2</identifier>
-        <identifier type="oclc">812349</identifier>
-        <identifier type="lccn"/>
-        <identifier type="oca">livnimoderaticol1v8colu</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="text">Upsaliae</placeTerm>
-            </place>
-            <publisher>Eranos' Forlag</publisher>
-            <dateIssued>1968</dateIssued>
-            <dateIssued encoding="marc">1968</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <form authority="gmd">electronic resource</form>
-            <form authority="marccategory">electronic resource</form>
-            <form authority="marcsmd">remote</form>
-            <extent>79 pg.</extent>
-        </physicalDescription>
-        <tableOfContents>Liber XII</tableOfContents>
-        <classification authority="lcc">PA6375 C6 1897</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Collectio scriptorvm vetervm Vpsaliensis</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="LC Permalink"/>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks"/>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/livnimoderaticol1v8colu#page/n739/mode/2up</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust"
-                >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA4-PA75#v=onepage</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OColC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier source="CaSfIA"/>
-            <recordOrigin/>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-56875.html">
-            <namePart>Columella, Lucius Junius Moderatus.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
-            valueURI="http://id.loc.gov/authorities/names/n88645432">
-            <namePart>Hedberg, Sten</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat3</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
+
     <mods displayLabel="In Aristotelis physicorum libros commentaria">
         <titleInfo type="uniform" lang="lat">
             <title>In Aristotelis physicorum libros commentaria</title>
