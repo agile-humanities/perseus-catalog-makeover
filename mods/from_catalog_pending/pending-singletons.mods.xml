@@ -2175,23 +2175,23 @@
         <language>
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n79-15690.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n79-15690.html">
             <namePart>Livy.</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n50-32107.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n50-32107.html">
             <namePart>Conway, Robert Seymour</namePart>
             <namePart type="date">1864-1933</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/no2005-81631.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/no2005-81631.html">
             <namePart>Walters, C. Flamstead (Charles Flamstead)</namePart>
             <namePart type="date">d. 1927</namePart>
             <role>
@@ -3729,15 +3729,15 @@
         <language>
             <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
         </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n82-32152.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n82-32152.html">
             <namePart>Donatus, Aelius.</namePart>
             <role>
                 <roleTerm type="text" authority="marcrelator">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/no92-24872.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/no92-24872.html">
             <namePart>Wessner, Paul</namePart>
             <namePart type="date">1870-1933</namePart>
             <role>
@@ -3848,8 +3848,8 @@
         <language>
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n79-32202.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n79-32202.html">
             <namePart>Justinian I</namePart>
             <namePart type="termsOfAddress">Emperor of the East</namePart>
             <namePart type="date">483?-565</namePart>
@@ -3857,16 +3857,16 @@
                 <roleTerm authority="marcrelator">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n84-30568.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n84-30568.html">
             <namePart>Krueger, Paul</namePart>
             <namePart type="date">1840-1926</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n50-4383.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n50-4383.html">
             <namePart>Mommsen, Theodor</namePart>
             <namePart type="date">1817-1903</namePart>
             <role>
@@ -3960,16 +3960,16 @@
         <language>
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n80-126290.html ">
             <namePart>Augustine</namePart>
             <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n87-802027.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n87-802027.html">
             <namePart>Dombart, Bernhard</namePart>
             <namePart type="date">1832-1907</namePart>
             <role>
@@ -4052,8 +4052,8 @@
         <titleInfo xml:lang="en" type="uniform">
             <title>De civitate dei</title>
         </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n80-126290.html">
             <namePart>Augustine</namePart>
             <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
             <role>
@@ -4188,16 +4188,16 @@
         <language>
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n86-113590.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n86-113590.html">
             <namePart>Nonius Marcellus</namePart>
             <namePart type="date">4th cent</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n50-50877.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n50-50877.html">
             <namePart>Lindsay, W. M. (Wallace Martin)</namePart>
             <namePart type="date">1858-1937</namePart>
             <role>
@@ -4400,8 +4400,8 @@
         <language>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
         </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n79-32202.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n79-32202.html">
             <namePart>Justinian I</namePart>
             <namePart type="termsOfAddress">Emperor of the East</namePart>
             <namePart type="date">483?-565</namePart>
@@ -4409,8 +4409,8 @@
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/no2003-106320.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/no2003-106320.html">
             <namePart>Monro, C. H. (Charles Henry)</namePart>
             <namePart type="date">1835-1908</namePart>
             <role>
@@ -6527,7 +6527,6 @@
         </titleInfo>
         <titleInfo>
             <title>Simplicii in Aristotelis physicorum libros octo commentaria</title>
-            <partNumber>Volume 1</partNumber>
         </titleInfo>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/71399875/">
@@ -6563,37 +6562,16 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
         </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
         <subject authority="lcsh">
             <topic>Aristoteles</topic>
         </subject>
         <classification authority="lcc">PA3902 A25</classification>
         <identifier type="oclc">7832122</identifier>
-        <identifier type="tlg">4013.004</identifier>
-        <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg004.opp-grc1</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/7832122</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/commentariaina09akaduoft</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=taMNAAAAIAAJ</url>
-        </location>
-        <location>
-            <url displayLabel="First1K"
-                >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg4013/tlg001/tlg4013.tlg004.opp-grc1.xml</url>
-        </location>
         <relatedItem type="series">
             <titleInfo>
                 <title>Commentaria in Aristotelem graeca</title>
                 <subTitle>Edita consilio et auctoritate Academiae litterarum regiae
-               borussicae</subTitle>
-                <partNumber>Vol 9</partNumber>
+                    borussicae</subTitle>
             </titleInfo>
             <name type="corporate">
                 <namePart>Akademie der Wissenschaften, Berlin</namePart>
@@ -6624,141 +6602,58 @@
             </subject>
             <classification authority="lcc">PA3902 A25</classification>
         </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OTU</recordContentSource>
-            <recordCreationDate encoding="marc">670101</recordCreationDate>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="In Aristotelis physicorum libros commentaria">
+        
+        <relatedItem type="constituent" otherType="work" displayLabel="In Aristotelis physicorum libros commentaria">
             <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg004</identifier>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="In Aristotelis physicorum libros commentaria">
+            <relatedItem type="constituent" otherType="expression" displayLabel="In Aristotelis physicorum libros commentaria">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg004.opp-grc1</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 1">
+                    <part type="volume">
+                        <detail>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <location>
+                        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/7832122</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://www.archive.org/details/commentariaina09akaduoft</url>
+                    </location>
+                    <location>
+                        <url displayLabel="GoogleBooks">http://books.google.com/books?id=taMNAAAAIAAJ</url>
+                    </location>
+                    <location>
+                        <url displayLabel="First1K"
+                            >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg4013/tlg001/tlg4013.tlg004.opp-grc1.xml</url>
+                    </location>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 2">
+                    <part type="volume">
+                        <detail>
+                            <number>2</number>
+                        </detail>
+                    </part>
+                    <location>
+                        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/7832122</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://www.archive.org/details/commentariaina10akaduoft</url>
+                    </location>
+                    <location>
+                        <url displayLabel="GoogleBooks">http://books.google.com/books?id=hjQNAAAAYAAJ</url>
+                    </location>
+                    <location>
+                        <url displayLabel="First1K"
+                            >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg4013/tlg001/tlg4013.tlg004.opp-grc1.xml</url>
+                    </location>
+                    
+                </relatedItem>
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="In Aristotelis physicorum libros commentaria">
-        <titleInfo type="uniform" lang="lat">
-            <title>In Aristotelis physicorum libros commentaria</title>
-        </titleInfo>
-        <titleInfo>
-            <title>Simplicii in Aristotelis physicorum libros octo commentaria</title>
-            <partNumber>Volume 2</partNumber>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/71399875/">
-            <namePart>Simplicius</namePart>
-            <namePart type="termsOfAddress">of Cilicia</namePart>
-            <role>
-                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/36987838/">
-            <namePart>Diels, Hermann Alexander,</namePart>
-            <namePart type="date">1848-1922</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Berlin</placeTerm>
-            </place>
-            <publisher>typ. et impensis G. Reimeri</publisher>
-            <dateIssued>1895</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="preface">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <subject authority="lcsh">
-            <topic>Aristoteles</topic>
-        </subject>
-        <classification authority="lcc">PA3902 A25</classification>
-        <identifier type="oclc">7832122</identifier>
-        <identifier type="tlg">4013.004</identifier>
-        <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg004.opp-grc1</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/7832122</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/commentariaina10akaduoft</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=hjQNAAAAYAAJ</url>
-        </location>
-        <location>
-            <url displayLabel="First1K"
-                >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg4013/tlg001/tlg4013.tlg004.opp-grc1.xml</url>
-        </location>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Commentaria in Aristotelem graeca</title>
-                <subTitle>Edita consilio et auctoritate Academiae litterarum regiae
-               borussicae</subTitle>
-                <partNumber>Vol 10</partNumber>
-            </titleInfo>
-            <name type="corporate">
-                <namePart>Akademie der Wissenschaften, Berlin</namePart>
-            </name>
-            <typeOfResource>text</typeOfResource>
-            <originInfo>
-                <place>
-                    <placeTerm type="text">Berolini</placeTerm>
-                </place>
-                <publisher>Typ. et impensis G. Reimeri</publisher>
-                <dateIssued>1895</dateIssued>
-                <issuance>monographic</issuance>
-            </originInfo>
-            <language objectPart="preface">
-                <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-            </language>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <physicalDescription>
-                <form authority="marcform">print</form>
-            </physicalDescription>
-            <subject authority="lcsh">
-                <name type="personal">
-                    <namePart>Aristotle</namePart>
-                </name>
-                <topic>Commentaries</topic>
-            </subject>
-            <classification authority="lcc">PA3902 A25</classification>
-        </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OTU</recordContentSource>
-            <recordCreationDate encoding="marc">670101</recordCreationDate>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="In Aristotelis physicorum libros commentaria">
-            <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg004</identifier>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="In Aristotelis physicorum libros commentaria">
-                <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg004.opp-grc1</identifier>
-            </relatedItem>
-        </relatedItem>
-    </mods>
+    
     <mods displayLabel="(Sophoniae) in parva naturalia commentarium">
         <titleInfo xml:lang="en" type="uniform">
             <title>(Sophoniae) in parva naturalia commentarium</title>
@@ -6772,8 +6667,6 @@
             <title>Them. in PN</title>
         </titleInfo>
         <identifier type="oclc">301528012</identifier>
-        <identifier type="tlg">2001.041</identifier>
-        <identifier type="ctsurn">urn:cts:greekLit:tlg2001.tlg041.opp-grc1</identifier>
         <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
@@ -6786,11 +6679,6 @@
             <dateIssued>1903</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent> Xiii, 44 p. ; 26 cm.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
         <classification authority="ddc"/>
         <location>
             <url displayLabel="LC Permalink"/>
@@ -6856,15 +6744,15 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
         </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n79-127090.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n79-127090.html">
             <namePart>Themistius</namePart>
             <role>
                 <roleTerm type="text" authority="marcrelator">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://viaf.org/viaf/2590252/">
+        <name authority="naf" type="personal"
+            xlink:href="http://viaf.org/viaf/2590252/">
             <namePart>Wendland, Paul</namePart>
             <namePart type="date">1864-1915</namePart>
             <role>
@@ -6888,6 +6776,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Ab excessu divi Marci libri octo">
         <titleInfo>
             <title>Ab excessu divi Marci libri octo</title>
@@ -6925,11 +6814,7 @@
         <language objectPart="preface">
             <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
         </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xii, 235 p. 20 cm.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
+        
         <note type="statement of responsibility" altRepGroup="00">Edidit Curt. Stavenhagen.</note>
         <note>Text in Greek; introductory matter in Latin.</note>
         <subject authority="lcsh">
@@ -6950,7 +6835,6 @@
                 <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
             </titleInfo>
         </relatedItem>
-        <identifier type="tlg">0015.001</identifier>
         <identifier type="lccn">67097325</identifier>
         <identifier type="oclc">3465925</identifier>
         <location>
@@ -6959,14 +6843,7 @@
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/wu.89089983910</url>
         </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">771205</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20050826114138.0</recordChangeDate>
-            <recordIdentifier>6612293</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-				(Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
+        
         <relatedItem type="constituent" otherType="work"
             displayLabel="Ab excessu divi Marci libri octo">
             <identifier type="ctsurn"/>
@@ -6976,6 +6853,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
+  
     <mods displayLabel="Acta Philippi et Acta Thomae accedunt Acta Barnabae">
         <titleInfo>
             <title>Acta Philippi et Acta Thomae accedunt Acta Barnabae</title>
@@ -7150,6 +7028,8 @@
             </relatedItem>
         </relatedItem>
     </mods>
+
+    <!-- No expressions associated with anything in the Acta apostolorum apocrypha -->
     <mods displayLabel="Acta apostolorum apocrypha Vol. 1">
         <titleInfo>
             <title>Acta apostolorum apocrypha</title>
@@ -7443,6 +7323,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Agathemeri Orthonis Geographiae Hypotyposis">
         <titleInfo>
             <title>Agathemeri Orthonis Geographiae Hypotyposis</title>
@@ -7498,6 +7379,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Agathemeris Orthonis filii Geographiae repraesentatio compendiaria">
         <titleInfo>
             <title>Agathemeris Orthonis filii Geographiae repraesentatio compendiaria</title>
@@ -7633,6 +7515,8 @@
             </relatedItem>
         </relatedItem>
     </mods>
+
+    <!-- Associated with no work or expression -->
     <mods displayLabel="Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii">
         <titleInfo>
             <title>Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii</title>
@@ -7674,56 +7558,9 @@
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/nnc1.cu55123171</url>
         </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Problemata (lib. 3-4) [Sp.]</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/95239377">
-                <namePart>Alexander</namePart>
-                <namePart type="termsOfAddress">of Aphrodisias</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/5005589">
-                <namePart>Usener, Hermann</namePart>
-                <namePart type="date">1834-1905</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">0732.017</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>1</start>
-                    <end>37</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/nnc1.cu55123171?urlappend=%3Bseq=40</url>
-            </location>
-        </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii">
-                <identifier type="ctsurn"/>
-            </relatedItem>
-        </relatedItem>
     </mods>
+
+    <!-- Associated with a tlg id only (0732.015) -->
     <mods displayLabel="Alexandri in Aristotelis analyticorum priorum librum i commentarium">
         <titleInfo>
             <title>Alexandri in Aristotelis analyticorum priorum librum i commentarium</title>
@@ -7766,26 +7603,10 @@
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/nnc1.0064694399</url>
         </location>
-        <relatedItem type="constituent">
+        <relatedItem type="constituent" otherType="structure">
             <titleInfo>
                 <title>Fragmenta Alexandri in analytica posteriora commentariorum</title>
             </titleInfo>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/95239377">
-                <namePart>Alexander</namePart>
-                <namePart type="termsOfAddress">of Aphrodisias</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/5048928">
-                <namePart>Wallies, Maximillian</namePart>
-                <namePart type="date">1856-1925</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
             <language objectPart="text">
                 <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
             </language>
@@ -7801,21 +7622,9 @@
                     >https://hdl.handle.net/2027/nnc1.0064694399?urlappend=%3Bseq=22</url>
             </location>
         </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Alexandri in Aristotelis analyticorum priorum librum i commentarium">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Alexandri in Aristotelis analyticorum priorum librum i commentarium">
-                <identifier type="ctsurn"/>
-            </relatedItem>
-        </relatedItem>
     </mods>
+
+    <!-- Associated with a tlg id only (2577.001) -->
     <mods displayLabel="Anatolius sur les dix premiers nombres">
         <titleInfo>
             <title>Anatolius sur les dix premiers nombres</title>
@@ -7858,10 +7667,7 @@
         <location>
             <url displayLabel="WorldCat">http://www.worldcat.org/oclc/248555797</url>
         </location>
-        <location>
-            <url displayLabel="DKB">http://www.kb.dk/e-mat/dod/130021585565_color.pdf</url>
-        </location>
-        <relatedItem type="constituent">
+        <relatedItem type="constituent" otherType="structure">
             <titleInfo>
                 <title>Περὶ δεκάδος καὶ τῶν ἐντὸς αὐτῆς ἀριθμῶν</title>
             </titleInfo>
@@ -7874,14 +7680,7 @@
                     <roleTerm type="text">creator</roleTerm>
                 </role>
             </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/36965878">
-                <namePart>Heiberg, Johan Ludvig</namePart>
-                <namePart type="date">1854-1928</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
+            
             <language objectPart="text">
                 <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
             </language>
@@ -7896,21 +7695,9 @@
                 <url displayLabel="DKB">http://www.kb.dk/e-mat/dod/130021585565_color.pdf</url>
             </location>
         </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Anatolius sur les dix premiers nombres">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Anatolius sur les dix premiers nombres">
-                <identifier type="ctsurn"/>
-            </relatedItem>
-        </relatedItem>
     </mods>
+
+    <!-- Associated with a tlg id only (1124.002) -->
     <mods displayLabel="Andronici Rhodii qui fertur libelli Peri pathōn. Pars altera, De virtutibus et vitiis">
         <titleInfo>
             <title>Andronici Rhodii qui fertur libelli Peri pathōn. Pars altera, De virtutibus et vitiis</title>
@@ -8028,6 +7815,8 @@
             </relatedItem>
         </relatedItem>
     </mods>
+
+    <!-- Associated with a tlg id only (1124.001) -->
     <mods displayLabel="Andronici qui fertur libelli Peri pathōn, pars prior">
         <titleInfo>
             <title>Andronici qui fertur libelli Peri pathōn, pars prior</title>
@@ -8131,9 +7920,13 @@
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Apocrypha Anecdota II (Texts and Studies 5.1)">
+    
+    <!-- Associated with tlg ids only -->
+   
+    <mods displayLabel="Apocrypha anecdota II">
         <titleInfo>
-            <title>Apocrypha Anecdota II (Texts and Studies 5.1)</title>
+            <title>Apocrypha anecdota</title>
+            <subTitle>second series</subTitle>
         </titleInfo>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/88882890">
@@ -8143,7 +7936,6 @@
                 <roleTerm type="text">editor</roleTerm>
             </role>
         </name>
-        <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
                 <placeTerm type="code" authority="marccountry">enk</placeTerm>
@@ -8155,88 +7947,130 @@
             <dateIssued>1897</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>276 p.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <note type="statement of responsibility">edited by Montague Rhodes James.</note>
-        <subject authority="lcsh">
-            <topic>Apocrypha (Bible)</topic>
-            <topic>Baruch 3</topic>
-            <genre>Translations into English</genre>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Apocrypha (Bible)</topic>
-            <topic>Testament of Job</topic>
-            <genre>Introductions</genre>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Bible</topic>
-            <topic>Apocrypha</topic>
-            <genre>Criticism, interpretation, etc.</genre>
-        </subject>
-        <identifier type="oclc">606047080</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/606047080</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101068766748</url>
-        </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Πράξεις τοῦ ἁγιου ἀποστόλου Θωμᾶ</title>
-            </titleInfo>
-            <name authority="tlg" type="corporate" valueURI="http://viaf.org/viaf/175807631/">
-                <namePart>Acta Thomae</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/88882890">
-                <namePart>James, Montague Rhodes</namePart>
-                <namePart type="date">1862-1936</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">2038.006</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>28</start>
-                    <end>45</end>
-                </extent>
+        <typeOfResource>text</typeOfResource>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Introductions">
+            <part type="section">
+                <detail>
+                    <title>Introductions</title>
+                </detail>
             </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/njp.32101068766748?urlappend=%3Bseq=148</url>
-            </location>
+            <relatedItem type="constituent" otherType="structure" displayLabel="A fragment of the Acts of John">
+                <part type="section">
+                    <detail>
+                        <title>A fragment of the Acts of John</title>
+                    </detail>
+                </part>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="A fragment of the Acts of John">
+                <part type="section">
+                    <detail>
+                        <title>A fragment of the Acts of John</title>
+                    </detail>
+                </part>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="The Acts of Thomas">
+                <part type="section">
+                    <detail>
+                        <title>The Acts of Thomas</title>
+                    </detail>
+                </part>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Letters of Herod and Pilate">
+                <part type="section">
+                    <detail>
+                        <title>Letters of Herod and Pilate</title>
+                    </detail>
+                </part>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Letter of Tiberius to Pilate">
+                <part type="section">
+                    <detail>
+                        <title>Letter of Tiberius to Pilate</title>
+                    </detail>
+                </part>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="The Apocalypse of Baruch">
+                <part type="section">
+                    <detail>
+                        <title>The Apocalypse of Baruch</title>
+                    </detail>
+                </part>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="The Testament of Job">
+                <part type="section">
+                    <detail>
+                        <title>The Testament of Job</title>
+                    </detail>
+                </part>
+            </relatedItem>
         </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Apocrypha Anecdota II (Texts and Studies 5.1)">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Apocrypha Anecdota II (Texts and Studies 5.1)">
-                <identifier type="ctsurn"/>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Texts">
+            <part type="section">
+                <detail>
+                    <title>Texts</title>
+                </detail>
+            </part>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Actorum Iohannis a Leucio conscriptorum fragmentum">
+                <part type="section">
+                    <detail>
+                        <title>Actorum Iohannis a Leucio conscriptorum fragmentum</title>
+                    </detail>
+                </part>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Acta Thomae (ex Cod. Brit. Mus. Add. 10,073)">
+                <part type="section">
+                    <detail>
+                        <title>Acta Thomae (ex Cod. Brit. Mus. Add. 10,073)</title>
+                    </detail>
+                </part>
+                <identifier type="tlg">2038.006</identifier>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/njp.32101068766748?urlappend=%3Bseq=148</url>
+                </location>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Epistolae Pilati et Herodis">
+                <part type="section">
+                    <detail>
+                        <title>Epistolae Pilati et Herodis</title>
+                    </detail>
+                </part>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Epistola Tiberii ad Pilatum">
+                <part type="section">
+                    <detail>
+                        <title>Epistola Tiberii ad Pilatum</title>
+                    </detail>
+                </part>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Apocalypsis Baruchi tertia Graece">
+                <part type="section">
+                    <detail>
+                        <title>Apocalypsis Baruchi tertia Graece</title>
+                    </detail>
+                </part>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Testamentum Iobi">
+                <part type="section">
+                    <detail>
+                        <title>Testamentum Iobi</title>
+                    </detail>
+                </part>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Additional Notes">
+                <part type="section">
+                    <detail>
+                        <title>Additional Notes</title>
+                    </detail>
+                </part>
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Apocrypha anecdota [Texts and Studies 2.3]">
+     
+    <mods displayLabel="Apocrypha Ancedota (collection of 13 books and fragments)">
         <titleInfo>
-            <title>Apocrypha anecdota [Texts and Studies 2.3]</title>
+            <title>Apocrypha anecdota</title>
+            <subTitle>a collection of thirteen apocryphal books and fragments</subTitle>
         </titleInfo>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/88882890">
@@ -8282,54 +8116,130 @@
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101068766680</url>
         </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Βίος καὶ πολιτεία τῶν ὁσίων Γγναικῶν Ξανθίππης Πολγξένης καὶ Ῥεβέκκας</title>
-            </titleInfo>
-            <name type="corporate" authority="tlg">
-                <namePart>Acta Xanthippae et Polyxenae</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/88882890">
-                <namePart>James, Montague Rhodes</namePart>
-                <namePart type="date">1862-1936</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">2248.001</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>58</start>
-                    <end>85</end>
-                </extent>
+        <relatedItem type="constituent" otherType="structure" displayLabel="On the Latin Version of the Viso Pauli">
+            <part type="section">
+                <detail>
+                    <title>On the Latin Version of the Viso Pauli</title>
+                </detail>
             </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/njp.32101068766680?urlappend=%3Bseq=76</url>
-            </location>
         </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Apocrypha anecdota [Texts and Studies 2.3]">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Apocrypha anecdota [Texts and Studies 2.3]">
-                <identifier type="ctsurn"/>
-            </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Visio Pauli">
+            <part type="section">
+                <detail>
+                    <title>Visio Pauli</title>
+                </detail>
+            </part>
         </relatedItem>
-    </mods>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Introduction to the Acts of Xanthippe and Polyxena">
+            <part type="section">
+                <detail>
+                    <title>Introduction to the Acts of Xanthippe and Polyxena</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Acta Xanthippae et Polyxenae">
+            <part type="section">
+                <detail>
+                    <title>Acta Xanthippae et Polyxenae</title>
+                </detail>
+            </part>
+            <identifier type="tlg">2248.001</identifier>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="On the Story of Zosimus">
+            <part type="section">
+                <detail>
+                    <title>On the Story of Zosimus</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Narratio Zosimi">
+            <part type="section">
+                <detail>
+                    <title>Narratio Zosimi</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="On the Apocalypse of the Virgin">
+            <part type="section">
+                <detail>
+                    <title>On the Apocalypse of the Virgin</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Apocalypsis Mariae Virginis">
+            <part type="section">
+                <detail>
+                    <title>Apocalypsis Mariae Virginis</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="On the Apocalypse of Sedrach">
+            <part type="section">
+                <detail>
+                    <title>On the Apocalypse of Sedrach</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Apocalypsis Sedrach">
+            <part type="section">
+                <detail>
+                    <title>Apocalypsis Sedrach</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="A Fragment of the Apocalypse of Adam in Greek">
+            <part type="section">
+                <detail>
+                    <title>A Fragment of the Apocalypse of Adam in Greek</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="A Fragment of the Book in Enoch in Latin">
+            <part type="section">
+                <detail>
+                    <title>A Fragment of the Book in Enoch in Latin</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="A Description of Antichrist in Latin">
+            <part type="section">
+                <detail>
+                    <title>A Description of Antichrist in Latin</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="on supplements to the Acts of Philip">
+            <part type="section">
+                <detail>
+                    <title>on supplements to the Acts of Philip</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Translatio Philippi">
+            <part type="section">
+                <detail>
+                    <title>Translatio Philippi</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Four Apocryphal Fragments in Latin">
+            <part type="section">
+                <detail>
+                    <title>Four Apocryphal Fragments in Latin</title>
+                </detail>
+            </part>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Additional Notes">
+            <part type="section">
+                <detail>
+                    <title>Additional Notes</title>
+                </detail>
+            </part>
+        </relatedItem>
+    </mods>    
+    
+
+
     <mods displayLabel="Apollonii Dyscoli quae supersunt Volumen alterum Apollonii Dyscoli De constructione libri quattuor">
         <titleInfo>
             <title>Apollonii Dyscoli quae supersunt</title>
@@ -9327,8 +9237,8 @@
         <titleInfo type="abbreviated" displayLabel="FHG">
             <title>FHG 5: 38-39</title>
         </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://id.loc.gov/authorities/names/n82225765">
+        <name authority="naf" type="personal"
+            xlink:href="http://id.loc.gov/authorities/names/n82225765">
             <namePart>John</namePart>
             <namePart type="termsOfAddress">Malalas,</namePart>
             <namePart type="date">approximately 491-approximately 578</namePart>
@@ -9337,23 +9247,23 @@
             </role>
             <displayForm>Johannes Malalas</displayForm>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
             <namePart>Müller, Karl</namePart>
             <namePart type="termsOfAddress">of Paris</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr95-8187.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
             <namePart>Müller, Theodor,</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n84-135026.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n84-135026.html">
             <namePart>Langlois, Victor</namePart>
             <namePart type="date">1829-1869</namePart>
             <role>
@@ -9388,23 +9298,23 @@
                 <partNumber>Vol V</partNumber>
                 <partNumber>Pars Prior</partNumber>
             </titleInfo>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
                 <namePart>Müller, Karl</namePart>
                 <namePart type="termsOfAddress">of Paris</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/nr95-8187.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
                 <namePart>Müller, Theodor,</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n84-135026.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n84-135026.html">
                 <namePart>Langlois, Victor</namePart>
                 <namePart type="date">1829-1869</namePart>
                 <role>
@@ -10563,8 +10473,8 @@
         <titleInfo type="uniform" authorityURI="http://id.loc.gov/authorities/names/no91013549">
             <title>De Bospori navigatione</title>
         </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://id.loc.gov/authorities/names/no91013549">
+        <name authority="naf" type="personal"
+            xlink:href="http://id.loc.gov/authorities/names/no91013549">
             <namePart>Dionysius,</namePart>
             <namePart type="termsOfAddress">of Byzantium</namePart>
             <namePart type="date"/>
@@ -10572,23 +10482,23 @@
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
             <namePart>Müller, Karl</namePart>
             <namePart type="termsOfAddress">of Paris</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr95-8187.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
             <namePart>Müller, Theodor,</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n84-135026.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n84-135026.html">
             <namePart>Langlois, Victor</namePart>
             <namePart type="date">1829-1869</namePart>
             <role>
@@ -10623,23 +10533,23 @@
                 <partNumber>Vol V</partNumber>
                 <partNumber>Pars Prior</partNumber>
             </titleInfo>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
                 <namePart>Müller, Karl</namePart>
                 <namePart type="termsOfAddress">of Paris</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/nr95-8187.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
                 <namePart>Müller, Theodor,</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n84-135026.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n84-135026.html">
                 <namePart>Langlois, Victor</namePart>
                 <namePart type="date">1829-1869</namePart>
                 <role>
@@ -11257,8 +11167,8 @@
         <titleInfo>
             <title>Epistula ad Mechemet II</title>
         </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://id.loc.gov/authorities/names/n86028627">
+        <name authority="naf" type="personal"
+            xlink:href="http://id.loc.gov/authorities/names/n86028627">
             <namePart>Kritovoulos,</namePart>
             <namePart type="date">active 15th century</namePart>
             <role>
@@ -11266,23 +11176,23 @@
             </role>
             <displayForm>Critobulus</displayForm>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
             <namePart>Müller, Karl</namePart>
             <namePart type="termsOfAddress">of Paris</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr95-8187.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
             <namePart>Müller, Theodor,</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n84-135026.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n84-135026.html">
             <namePart>Langlois, Victor</namePart>
             <namePart type="date">1829-1869</namePart>
             <role>
@@ -11317,23 +11227,23 @@
                 <partNumber>Vol V</partNumber>
                 <partNumber>Pars Prior</partNumber>
             </titleInfo>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
                 <namePart>Müller, Karl</namePart>
                 <namePart type="termsOfAddress">of Paris</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/nr95-8187.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
                 <namePart>Müller, Theodor,</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n84-135026.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n84-135026.html">
                 <namePart>Langlois, Victor</namePart>
                 <namePart type="date">1829-1869</namePart>
                 <role>
@@ -11413,8 +11323,8 @@
         <titleInfo type="abbreviated" displayLabel="FHG">
             <title>FHG 5: 27-38</title>
         </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="viaf" type="personal"
-            ns2:href="http://viaf.org/viaf/67264121">
+        <name authority="viaf" type="personal"
+            xlink:href="http://viaf.org/viaf/67264121">
             <namePart>John,</namePart>
             <namePart type="termsOfAddress">of Antioch,</namePart>
             <namePart type="date">7th cent.</namePart>
@@ -11422,23 +11332,23 @@
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
             <namePart>Müller, Karl</namePart>
             <namePart type="termsOfAddress">of Paris</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr95-8187.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
             <namePart>Müller, Theodor,</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n84-135026.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n84-135026.html">
             <namePart>Langlois, Victor</namePart>
             <namePart type="date">1829-1869</namePart>
             <role>
@@ -11472,23 +11382,23 @@
                 <partNumber>Vol V</partNumber>
                 <partNumber>Pars Prior</partNumber>
             </titleInfo>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
                 <namePart>Müller, Karl</namePart>
                 <namePart type="termsOfAddress">of Paris</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/nr95-8187.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
                 <namePart>Müller, Theodor,</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n84-135026.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n84-135026.html">
                 <namePart>Langlois, Victor</namePart>
                 <namePart type="date">1829-1869</namePart>
                 <role>
@@ -13647,16 +13557,16 @@
             <partNumber>Vol 4</partNumber>
             <partName>Heronis Definitiones cum Variis Collectionibus, Heronis Quae Feruntur Geometrica</partName>
         </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n81-55336.html">
             <namePart>Hero,</namePart>
             <namePart type="termsOfAddress">of Alexandria</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n84-802854.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n84-802854.html">
             <namePart>Heiberg, J. L. (Johan Ludvig)</namePart>
             <namePart type="date">1854-1928</namePart>
             <role>
@@ -13723,16 +13633,16 @@
             <titleInfo type="translated" lang="ger">
                 <title>Definitionen Geometrischer</title>
             </titleInfo>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n81-55336.html">
                 <namePart>Hero,</namePart>
                 <namePart type="termsOfAddress">of Alexandria</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n84-802854.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n84-802854.html">
                 <namePart>Heiberg, J. L. (Johan Ludvig)</namePart>
                 <namePart type="date">1854-1928</namePart>
                 <role>
@@ -13764,16 +13674,16 @@
             <titleInfo>
                 <title>Geometrica</title>
             </titleInfo>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n81-55336.html">
                 <namePart>Hero,</namePart>
                 <namePart type="termsOfAddress">of Alexandria</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n84-802854.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n84-802854.html">
                 <namePart>Heiberg, J. L. (Johan Ludvig)</namePart>
                 <namePart type="date">1854-1928</namePart>
                 <role>
@@ -13824,24 +13734,24 @@
             <partNumber>Vol 5</partNumber>
             <partName>Heronis quae feruntur sterometrica et de mensuris</partName>
         </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n81-55336.html">
             <namePart>Hero,</namePart>
             <namePart type="termsOfAddress">of Alexandria</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/no2005-77533.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/no2005-77533.html">
             <namePart>Schmidt, Wilhelm</namePart>
             <namePart type="date">1862-1905</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n84-802854.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n84-802854.html">
             <namePart>Heiberg, J. L. (Johan Ludvig)</namePart>
             <namePart type="date">1854-1928</namePart>
             <role>
@@ -13905,16 +13815,16 @@
             <titleInfo type="uniform">
                 <title>Geodaesia [Sp.]</title>
             </titleInfo>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n81-55336.html">
                 <namePart>Hero,</namePart>
                 <namePart type="termsOfAddress">of Alexandria</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n84-802854.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n84-802854.html">
                 <namePart>Heiberg, J. L. (Johan Ludvig)</namePart>
                 <namePart type="date">1854-1928</namePart>
                 <role>
@@ -13946,16 +13856,16 @@
             <titleInfo type="translated" lang="ger">
                 <title>Stereometrie</title>
             </titleInfo>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n81-55336.html">
                 <namePart>Hero,</namePart>
                 <namePart type="termsOfAddress">of Alexandria</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n84-802854.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n84-802854.html">
                 <namePart>Heiberg, J. L. (Johan Ludvig)</namePart>
                 <namePart type="date">1854-1928</namePart>
                 <role>
@@ -13987,16 +13897,16 @@
             <titleInfo type="uniform">
                 <title>De Mensuris</title>
             </titleInfo>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n81-55336.html">
                 <namePart>Hero,</namePart>
                 <namePart type="termsOfAddress">of Alexandria</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n84-802854.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n84-802854.html">
                 <namePart>Heiberg, J. L. (Johan Ludvig)</namePart>
                 <namePart type="date">1854-1928</namePart>
                 <role>
@@ -14142,8 +14052,8 @@
         <titleInfo type="abbreviated" displayLabel="FHG">
             <title>FHG 5: 54-161</title>
         </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://id.loc.gov/authorities/names/n86028627">
+        <name authority="naf" type="personal"
+            xlink:href="http://id.loc.gov/authorities/names/n86028627">
             <namePart>Kritovoulos,</namePart>
             <namePart type="date">active 15th century</namePart>
             <role>
@@ -14151,23 +14061,23 @@
             </role>
             <displayForm>Critobulus</displayForm>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
             <namePart>Müller, Karl</namePart>
             <namePart type="termsOfAddress">of Paris</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr95-8187.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
             <namePart>Müller, Theodor,</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n84-135026.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n84-135026.html">
             <namePart>Langlois, Victor</namePart>
             <namePart type="date">1829-1869</namePart>
             <role>
@@ -14201,23 +14111,23 @@
                 <partNumber>Vol V</partNumber>
                 <partNumber>Pars Prior</partNumber>
             </titleInfo>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
                 <namePart>Müller, Karl</namePart>
                 <namePart type="termsOfAddress">of Paris</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/nr95-8187.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
                 <namePart>Müller, Theodor,</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n84-135026.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n84-135026.html">
                 <namePart>Langlois, Victor</namePart>
                 <namePart type="date">1829-1869</namePart>
                 <role>
@@ -14388,8 +14298,8 @@
             <title>Homiliae</title>
             <partNumber>III-IV</partNumber>
         </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-125110.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n80-125110.html">
             <namePart>Photius I,</namePart>
             <namePart type="termsOfAddress">Saint, Patriarch of Constantinople,</namePart>
             <namePart type="date">ca. 820-ca. 891</namePart>
@@ -14397,23 +14307,23 @@
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
             <namePart>Müller, Karl</namePart>
             <namePart type="termsOfAddress">of Paris</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr95-8187.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
             <namePart>Müller, Theodor,</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n84-135026.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n84-135026.html">
             <namePart>Langlois, Victor</namePart>
             <namePart type="date">1829-1869</namePart>
             <role>
@@ -14448,23 +14358,23 @@
                 <partNumber>Vol V</partNumber>
                 <partNumber>Pars Prior</partNumber>
             </titleInfo>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
                 <namePart>Müller, Karl</namePart>
                 <namePart type="termsOfAddress">of Paris</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/nr95-8187.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
                 <namePart>Müller, Theodor,</namePart>
                 <role>
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-                ns2:href="http://errol.oclc.org/laf/n84-135026.html">
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n84-135026.html">
                 <namePart>Langlois, Victor</namePart>
                 <namePart type="date">1829-1869</namePart>
                 <role>
@@ -15681,8 +15591,8 @@
         <titleInfo type="uniform">
             <title>Bibliotheca</title>
         </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n80-125110.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n80-125110.html">
             <namePart>Photius I,</namePart>
             <namePart type="termsOfAddress">Saint, Patriarch of Constantinople,</namePart>
             <namePart type="date">ca. 820-ca. 891</namePart>
@@ -15875,8 +15785,8 @@
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/nr99-5240.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr99-5240.html">
             <namePart>Camphausen, Walter</namePart>
             <namePart type="date">d. 1916</namePart>
             <role>
@@ -16115,15 +16025,15 @@
         <language>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
         </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n79-120267.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n79-120267.html">
             <namePart>Silius Italicus, Tiberius Catius.</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n50-26939.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n50-26939.html">
             <namePart>Duff, J. D. (James Duff)</namePart>
             <namePart type="date">1860-1940</namePart>
             <role>
@@ -16238,15 +16148,15 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
         </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n79-127090.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n79-127090.html">
             <namePart>Themistius</namePart>
             <role>
                 <roleTerm type="text" authority="marcrelator">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="viaf" type="personal"
-            ns2:href="http://viaf.org/viaf/5048928/">
+        <name authority="viaf" type="personal"
+            xlink:href="http://viaf.org/viaf/5048928/">
             <namePart>Wallies, Maximilian</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
@@ -16560,16 +16470,16 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
         </language>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n83-164845.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n83-164845.html">
             <namePart>Philoponus, John</namePart>
             <namePart type="date">6th cent</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="viaf" type="personal"
-            ns2:href="http://viaf.org/viaf/5048928/">
+        <name authority="viaf" type="personal"
+            xlink:href="http://viaf.org/viaf/5048928/">
             <namePart>Wallies, Maximilian</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
@@ -17046,8 +16956,8 @@
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n88-32040.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n88-32040.html">
             <namePart>Flach, Hans</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
@@ -17373,8 +17283,8 @@
         <titleInfo type="alternative">
             <title>Poetica astronomica</title>
         </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-            ns2:href="http://errol.oclc.org/laf/n84-175578.html">
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n84-175578.html">
             <namePart>Hyginus, C. Julius.</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
