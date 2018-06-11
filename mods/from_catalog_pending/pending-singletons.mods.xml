@@ -8431,6 +8431,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Athenagorae philosophi Atheniensis Opera">
         <titleInfo>
             <title>Athenagorae philosophi Atheniensis Opera</title>
@@ -8490,193 +8491,69 @@
             <url displayLabel="Worldcat"
                 >http://www.worldcat.org/title/athenagorae-philosophi-atheniensis-opera/oclc/632400942</url>
         </location>
-        <relatedItem type="constituent">
+        <relatedItem type="constituent" otherType="work" displayLabel="Legatio sive Supplicatio pro Christianis">
             <titleInfo>
                 <title>Legatio sive Supplicatio pro Christianis</title>
             </titleInfo>
-            <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/106097488">
-                <namePart>Athenagoras</namePart>
-                <namePart type="date">active 2nd century</namePart>
-                <role>
-                    <roleTerm authority="marcrelator">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/416334">
-                <namePart>Otto, J. C. Th. (Johann Carl Theodor)</namePart>
-                <namePart type="date">1816-1897</namePart>
-                <role>
-                    <roleTerm authority="marcrelator">editor</roleTerm>
-                </role>
-            </name>
-            <identifier type="ctsurn">tlg1205.tlg001.perseus-grc1</identifier>
             <identifier type="tlg">1205.001</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>2</start>
-                    <end>184</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >https://archive.org/stream/athenagoraephilo00athe#page/2/mode/2up</url>
-            </location>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/hvd.32044055059604?urlappend=%3Bseq=86</url>
-            </location>
-            <location displayLabel="First1KGreek">
-                <url>https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg1205/tlg001/tlg1205.tlg001.perseus-grc1.xml</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Legatio sive Supplicatio pro Christianis</title>
-            </titleInfo>
-            <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/106097488">
-                <namePart>Athenagoras</namePart>
-                <namePart type="date">active 2nd century</namePart>
-                <role>
-                    <roleTerm authority="marcrelator">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/416334">
-                <namePart>Otto, J. C. Th. (Johann Carl Theodor)</namePart>
-                <namePart type="date">1816-1897</namePart>
-                <role>
-                    <roleTerm authority="marcrelator">editor</roleTerm>
-                </role>
-                <role>
-                    <roleTerm authority="marcrelator">translator</roleTerm>
-                </role>
-            </name>
-            <identifier type="tlg">1205.001</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>3</start>
-                    <end>185</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >https://archive.org/stream/athenagoraephilo00athe#page/2/mode/2up</url>
-            </location>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/hvd.32044055059604?urlappend=%3Bseq=86</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>De Resurrectione</title>
-            </titleInfo>
-            <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/106097488">
-                <namePart>Athenagoras</namePart>
-                <namePart type="date">active 2nd century</namePart>
-                <role>
-                    <roleTerm authority="marcrelator">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/416334">
-                <namePart>Otto, J. C. Th. (Johann Carl Theodor)</namePart>
-                <namePart type="date">1816-1897</namePart>
-                <role>
-                    <roleTerm authority="marcrelator">editor</roleTerm>
-                </role>
-            </name>
-            <identifier type="ctsurn">tlg1205.tlg002.perseus-grc1</identifier>
-            <identifier type="tlg">1205.002</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>186</start>
-                    <end>290</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >https://archive.org/stream/athenagoraephilo00athe#page/186/mode/2up</url>
-            </location>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/hvd.32044055059604?urlappend=%3Bseq=420</url>
-            </location>
-            <location displayLabel="First1KGreek">
-                <url>https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc1.xml</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>De Resurrectione</title>
-            </titleInfo>
-            <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/106097488">
-                <namePart>Athenagoras</namePart>
-                <namePart type="date">active 2nd century</namePart>
-                <role>
-                    <roleTerm authority="marcrelator">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/416334">
-                <namePart>Otto, J. C. Th. (Johann Carl Theodor)</namePart>
-                <namePart type="date">1816-1897</namePart>
-                <role>
-                    <roleTerm authority="marcrelator">editor</roleTerm>
-                </role>
-                <role>
-                    <roleTerm authority="marcrelator">translator</roleTerm>
-                </role>
-            </name>
-            <identifier type="tlg">1205.002</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>187</start>
-                    <end>291</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >https://archive.org/stream/athenagoraephilo00athe#page/186/mode/2up</url>
-            </location>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/hvd.32044055059604?urlappend=%3Bseq=420</url>
-            </location>
-        </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">121025</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20130610073438.0</recordChangeDate>
-            <recordIdentifier>17508246</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-				(Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Athenagorae philosophi Atheniensis Opera">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Athenagorae philosophi Atheniensis Opera">
-                <identifier type="ctsurn"/>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg1205.tlg001.perseus-grc1</identifier>
+                <language objectPart="text">
+                    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+                </language>
+                <part>
+                    <extent unit="pages">
+                        <start>2</start>
+                        <end>184</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >https://archive.org/stream/athenagoraephilo00athe#page/2/mode/2up</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/hvd.32044055059604?urlappend=%3Bseq=86</url>
+                </location>
+                <location displayLabel="First1KGreek">
+                    <url>https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg1205/tlg001/tlg1205.tlg001.perseus-grc1.xml</url>
+                </location>
             </relatedItem>
         </relatedItem>
+        
+        <relatedItem type="constituent" otherType="work" displayLabel="De Resurrectione">
+            <titleInfo>
+                <title>De Resurrectione</title>
+            </titleInfo>
+            <identifier type="tlg">1205.002</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg1205.tlg002.perseus-grc1</identifier>
+                
+                <language objectPart="text">
+                    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+                </language>
+                <part>
+                    <extent unit="pages">
+                        <start>186</start>
+                        <end>290</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >https://archive.org/stream/athenagoraephilo00athe#page/186/mode/2up</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/hvd.32044055059604?urlappend=%3Bseq=420</url>
+                </location>
+                <location displayLabel="First1KGreek">
+                    <url>https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc1.xml</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        
     </mods>
+ 
     <mods displayLabel="Belopoeica">
         <titleInfo type="uniform" lang="lat">
             <title>Belopoeica</title>
