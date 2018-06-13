@@ -8612,10 +8612,6 @@
         <language objectPart="text">
             <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
         </language>
-        <physicalDescription>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-            <extent>1 online resource (56 pages) illustrations.</extent>
-        </physicalDescription>
         <note type="statement of responsibility" altRepGroup="00">[Hrsg. von] Hermann Alexander Diels und Erwin Schramm.</note>
         <note>German and Greek.</note>
         <note>"Philons Mechanik B. VII und VIII (vulgo füntes Buch)."</note>
@@ -8639,30 +8635,22 @@
                 <partNumber>Number 2</partNumber>
             </titleInfo>
         </relatedItem>
-        <identifier type="tlg">0559.012</identifier>
-        <identifier type="ctsurn">urn:cts:greekLit:tlg0559.tlg012.opp-grc1</identifier>
         <identifier type="oclc">234096346</identifier>
-        <location>
-            <url displayLabel="Worldcat">http://www.worldcat.org/oclc/234096346</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.d0002807964</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-				(Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
+
         <relatedItem type="constituent" otherType="work" displayLabel="Belopoeica">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0559.tlg012</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="Belopoeica">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg0559.tlg012.opp-grc1</identifier>
+                <location>
+                    <url displayLabel="Worldcat">http://www.worldcat.org/oclc/234096346</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.d0002807964</url>
+                </location>
             </relatedItem>
         </relatedItem>
     </mods>
+ 
     <mods displayLabel="C. Ateio Capitonis Fragmenta">
         <titleInfo>
             <title>C. Ateio Capitonis Fragmenta</title>
@@ -8718,26 +8706,20 @@
                 <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana</title>
             </titleInfo>
         </relatedItem>
-        <identifier type="phi">806.2</identifier>
         <identifier type="oclc">881300239</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/881300239</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="C. Ateio Capitonis Fragmenta">
-            <identifier type="ctsurn"/>
+            <identifier type="phi">806.2</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="C. Ateio Capitonis Fragmenta">
-                <identifier type="ctsurn"/>
+                
+                <location>
+                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/881300239</url>
+                </location>
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Choricius Gazaeus Opera">
+    
+    <mods displayLabel="Choricius Gazaeus Opera (Dumont)">
         <titleInfo>
             <title>Choricius Gazaeus Opera</title>
         </titleInfo>
@@ -8795,21 +8777,16 @@
             <url displayLabel="University of Chicago"
                 >http://storage.lib.uchicago.edu/pres/2006/pres2006-0875.pdf</url>
         </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
+        
         <relatedItem type="constituent" otherType="work" displayLabel="Choricius Gazaeus Opera">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Choricius Gazaeus Opera">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Choricius Gazaeus Opera">
+    <mods displayLabel="Choricius Gazaeus Opera (Teubner)">
         <titleInfo>
             <title>Choricius Gazaeus Opera</title>
         </titleInfo>
@@ -8876,169 +8853,17 @@
             <recordIdentifier/>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Choricius Gazaeus Opera">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Choricius Gazaeus Opera">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Chronographia">
-        <titleInfo>
-            <title>Chronographia</title>
-        </titleInfo>
-        <titleInfo type="abbreviated" displayLabel="FHG">
-            <title>FHG 5: 38-39</title>
-        </titleInfo>
-        <name authority="naf" type="personal"
-            xlink:href="http://id.loc.gov/authorities/names/n82225765">
-            <namePart>John</namePart>
-            <namePart type="termsOfAddress">Malalas,</namePart>
-            <namePart type="date">approximately 491-approximately 578</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-            <displayForm>Johannes Malalas</displayForm>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
-            <namePart>Müller, Karl</namePart>
-            <namePart type="termsOfAddress">of Paris</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
-            <namePart>Müller, Theodor,</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/n84-135026.html">
-            <namePart>Langlois, Victor</namePart>
-            <namePart type="date">1829-1869</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <tableOfContents>Selections: Chapter 18: Section 150-152</tableOfContents>
-        <identifier type="tlg">2871.004</identifier>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <part>
-            <extent unit="pages">
-                <start>38</start>
-                <end>39</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=_N8GAAAAQAAJ&amp;pg=PA38</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/fragmentahistori05mueluoft#page/n115/mode/2up</url>
-        </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Fragmenta historicorum graecorum</title>
-                <partNumber>Vol V</partNumber>
-                <partNumber>Pars Prior</partNumber>
-            </titleInfo>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
-                <namePart>Müller, Karl</namePart>
-                <namePart type="termsOfAddress">of Paris</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
-                <namePart>Müller, Theodor,</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/n84-135026.html">
-                <namePart>Langlois, Victor</namePart>
-                <namePart type="date">1829-1869</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <typeOfResource>text</typeOfResource>
-            <originInfo>
-                <place>
-                    <placeTerm type="text">Parisiis</placeTerm>
-                </place>
-                <publisher>Editore Ambrosio Firmin Didot</publisher>
-                <dateIssued>1873</dateIssued>
-                <dateIssued encoding="marc">1873</dateIssued>
-                <issuance>monographic</issuance>
-            </originInfo>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-            </language>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <physicalDescription>
-                <digitalOrigin>digitized other analog</digitalOrigin>
-            </physicalDescription>
-            <note type="additional physical form">Digitized and made available by: University of Toronto
-            Libraries</note>
-            <subject authority="lcsh">
-                <topic>History, Ancient</topic>
-                <topic>Collections</topic>
-            </subject>
-            <subject authority="lcsh">
-                <topic>Historians</topic>
-                <topic>Greece</topic>
-            </subject>
-            <subject authority="lcsh">
-                <topic>Greece</topic>
-                <topic>History</topic>
-                <topic>Sources</topic>
-            </subject>
-            <classification authority="lcc">PA3490 M84</classification>
-            <tableOfContents>Aristodemus -- Eusebius -- Priscus -- Joannes Antiochenus -- Joannis Malalas --
-            -- Critobulus --  Photius -- Periplus Ponti Euxini --Dionysius Byzantinus (Anaplus Bosporus) </tableOfContents>
-            <note type="statement of responsibility">E Codigibus Parisiensi, Scorialensi, Constantinopolitano, Athoo, 
-            Londiniensi Edidit, Prolegomenis, Annotatione,  Indicibus Instruxit Carolus Muller
-        </note>
-            <identifier type="lccn">none for this manifestation</identifier>
-            <identifier type="oclc">221365708</identifier>
-            <identifier type="oca"> fragmentahistori05mueluoft</identifier>
-            <location>
-                <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
-            </location>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >http://www.archive.org/details/fragmentahistori05mueluoft</url>
-            </location>
-            <location>
-                <url displayLabel="Open Library"
-                    >http://www.openlibrary.org/details/fragmentahistori05mueluoft</url>
-            </location>
-            <location>
-                <url displayLabel="GoogleBooks">http://books.google.com/books?id=_N8GAAAAQAAJ</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="work" displayLabel="Chronographia">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Chronographia">
-                <identifier type="ctsurn"/>
-            </relatedItem>
-        </relatedItem>
-    </mods>
+    
+
+    
+
     <mods displayLabel="Cornelii Nepotis Vitae cum fragmentis">
         <titleInfo>
             <title>Cornelii Nepotis Vitae cum fragmentis</title>
@@ -10122,159 +9947,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="De Bospori navigatione">
-        <titleInfo type="uniform" authorityURI="http://id.loc.gov/authorities/names/no91013549">
-            <title>De Bospori navigatione</title>
-        </titleInfo>
-        <name authority="naf" type="personal"
-            xlink:href="http://id.loc.gov/authorities/names/no91013549">
-            <namePart>Dionysius,</namePart>
-            <namePart type="termsOfAddress">of Byzantium</namePart>
-            <namePart type="date"/>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
-            <namePart>Müller, Karl</namePart>
-            <namePart type="termsOfAddress">of Paris</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
-            <namePart>Müller, Theodor,</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/n84-135026.html">
-            <namePart>Langlois, Victor</namePart>
-            <namePart type="date">1829-1869</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <tableOfContents>Fragmentum</tableOfContents>
-        <identifier type="tlg">0083.003</identifier>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <part>
-            <extent unit="pages">
-                <start>188</start>
-                <end>190</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=_N8GAAAAQAAJ&amp;pg=PA188</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/fragmentahistori05mueluoft#page/n265/mode/2up</url>
-        </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Fragmenta historicorum graecorum</title>
-                <partNumber>Vol V</partNumber>
-                <partNumber>Pars Prior</partNumber>
-            </titleInfo>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
-                <namePart>Müller, Karl</namePart>
-                <namePart type="termsOfAddress">of Paris</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
-                <namePart>Müller, Theodor,</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/n84-135026.html">
-                <namePart>Langlois, Victor</namePart>
-                <namePart type="date">1829-1869</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <typeOfResource>text</typeOfResource>
-            <originInfo>
-                <place>
-                    <placeTerm type="text">Parisiis</placeTerm>
-                </place>
-                <publisher>Editore Ambrosio Firmin Didot</publisher>
-                <dateIssued>1873</dateIssued>
-                <dateIssued encoding="marc">1873</dateIssued>
-                <issuance>monographic</issuance>
-            </originInfo>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-            </language>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <physicalDescription>
-                <digitalOrigin>digitized other analog</digitalOrigin>
-            </physicalDescription>
-            <note type="additional physical form">Digitized and made available by: University of Toronto
-            Libraries</note>
-            <subject authority="lcsh">
-                <topic>History, Ancient</topic>
-                <topic>Collections</topic>
-            </subject>
-            <subject authority="lcsh">
-                <topic>Historians</topic>
-                <topic>Greece</topic>
-            </subject>
-            <subject authority="lcsh">
-                <topic>Greece</topic>
-                <topic>History</topic>
-                <topic>Sources</topic>
-            </subject>
-            <classification authority="lcc">PA3490 M84</classification>
-            <tableOfContents>Aristodemus -- Eusebius -- Priscus -- Joannes Antiochenus -- Joannis Malalas --
-            -- Critobulus --  Photius -- Periplus Ponti Euxini --Dionysius Byzantinus (Anaplus Bosporus) </tableOfContents>
-            <note type="statement of responsibility">E Codigibus Parisiensi, Scorialensi, Constantinopolitano, Athoo, 
-            Londiniensi Edidit, Prolegomenis, Annotatione,  Indicibus Instruxit Carolus Muller
-        </note>
-            <identifier type="lccn">none for this manifestation</identifier>
-            <identifier type="oclc">221365708</identifier>
-            <identifier type="oca"> fragmentahistori05mueluoft</identifier>
-            <location>
-                <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
-            </location>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >http://www.archive.org/details/fragmentahistori05mueluoft</url>
-            </location>
-            <location>
-                <url displayLabel="Open Library"
-                    >http://www.openlibrary.org/details/fragmentahistori05mueluoft</url>
-            </location>
-            <location>
-                <url displayLabel="GoogleBooks">http://books.google.com/books?id=_N8GAAAAQAAJ</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="work" displayLabel="De Bospori navigatione">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="De Bospori navigatione">
-                <identifier type="ctsurn"/>
-            </relatedItem>
-        </relatedItem>
-    </mods>
+    
     <mods displayLabel="De Victu Attenuante">
         <titleInfo type="uniform">
             <title>De Victu Attenuante</title>
@@ -10816,315 +10489,8 @@
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Epistula ad Mechemet II">
-        <titleInfo>
-            <title>Epistula ad Mechemet II</title>
-        </titleInfo>
-        <name authority="naf" type="personal"
-            xlink:href="http://id.loc.gov/authorities/names/n86028627">
-            <namePart>Kritovoulos,</namePart>
-            <namePart type="date">active 15th century</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-            <displayForm>Critobulus</displayForm>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
-            <namePart>Müller, Karl</namePart>
-            <namePart type="termsOfAddress">of Paris</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
-            <namePart>Müller, Theodor,</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/n84-135026.html">
-            <namePart>Langlois, Victor</namePart>
-            <namePart type="date">1829-1869</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <tableOfContents>Argumentum (pg. 40-51) -- Epistola ad Mechemetem (pg. 52-53) </tableOfContents>
-        <identifier type="tlg">3147.003</identifier>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <part>
-            <extent unit="pages">
-                <start>40</start>
-                <end>53</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=_N8GAAAAQAAJ&amp;pg=PA40</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/fragmentahistori05mueluoft#page/n117/mode/2up</url>
-        </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Fragmenta historicorum graecorum</title>
-                <partNumber>Vol V</partNumber>
-                <partNumber>Pars Prior</partNumber>
-            </titleInfo>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
-                <namePart>Müller, Karl</namePart>
-                <namePart type="termsOfAddress">of Paris</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
-                <namePart>Müller, Theodor,</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/n84-135026.html">
-                <namePart>Langlois, Victor</namePart>
-                <namePart type="date">1829-1869</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <typeOfResource>text</typeOfResource>
-            <originInfo>
-                <place>
-                    <placeTerm type="text">Parisiis</placeTerm>
-                </place>
-                <publisher>Editore Ambrosio Firmin Didot</publisher>
-                <dateIssued>1873</dateIssued>
-                <dateIssued encoding="marc">1873</dateIssued>
-                <issuance>monographic</issuance>
-            </originInfo>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-            </language>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <physicalDescription>
-                <digitalOrigin>digitized other analog</digitalOrigin>
-            </physicalDescription>
-            <note type="additional physical form">Digitized and made available by: University of Toronto
-            Libraries</note>
-            <subject authority="lcsh">
-                <topic>History, Ancient</topic>
-                <topic>Collections</topic>
-            </subject>
-            <subject authority="lcsh">
-                <topic>Historians</topic>
-                <topic>Greece</topic>
-            </subject>
-            <subject authority="lcsh">
-                <topic>Greece</topic>
-                <topic>History</topic>
-                <topic>Sources</topic>
-            </subject>
-            <classification authority="lcc">PA3490 M84</classification>
-            <tableOfContents>Aristodemus -- Eusebius -- Priscus -- Joannes Antiochenus -- Joannis Malalas --
-            -- Critobulus --  Photius -- Periplus Ponti Euxini --Dionysius Byzantinus (Anaplus Bosporus) </tableOfContents>
-            <note type="statement of responsibility">E Codigibus Parisiensi, Scorialensi, Constantinopolitano, Athoo, 
-            Londiniensi Edidit, Prolegomenis, Annotatione,  Indicibus Instruxit Carolus Muller
-        </note>
-            <identifier type="lccn">none for this manifestation</identifier>
-            <identifier type="oclc">221365708</identifier>
-            <identifier type="oca"> fragmentahistori05mueluoft</identifier>
-            <location>
-                <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
-            </location>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >http://www.archive.org/details/fragmentahistori05mueluoft</url>
-            </location>
-            <location>
-                <url displayLabel="Open Library"
-                    >http://www.openlibrary.org/details/fragmentahistori05mueluoft</url>
-            </location>
-            <location>
-                <url displayLabel="GoogleBooks">http://books.google.com/books?id=_N8GAAAAQAAJ</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="work" displayLabel="Epistula ad Mechemet II">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Epistula ad Mechemet II">
-                <identifier type="ctsurn"/>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    <mods displayLabel="Fragmenta ex Historica Chronica">
-        <titleInfo>
-            <title>Fragmenta ex Historica Chronica</title>
-        </titleInfo>
-        <titleInfo type="abbreviated" displayLabel="FHG">
-            <title>FHG 5: 27-38</title>
-        </titleInfo>
-        <name authority="viaf" type="personal"
-            xlink:href="http://viaf.org/viaf/67264121">
-            <namePart>John,</namePart>
-            <namePart type="termsOfAddress">of Antioch,</namePart>
-            <namePart type="date">7th cent.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
-            <namePart>Müller, Karl</namePart>
-            <namePart type="termsOfAddress">of Paris</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
-            <namePart>Müller, Theodor,</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/n84-135026.html">
-            <namePart>Langlois, Victor</namePart>
-            <namePart type="date">1829-1869</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <identifier type="tlg">4394.003</identifier>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <part>
-            <extent unit="pages">
-                <start>27</start>
-                <end>38</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=_N8GAAAAQAAJ&amp;pg=PA27</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/fragmentahistori05mueluoft#page/n103/mode/2up</url>
-        </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Fragmenta historicorum graecorum</title>
-                <partNumber>Vol V</partNumber>
-                <partNumber>Pars Prior</partNumber>
-            </titleInfo>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
-                <namePart>Müller, Karl</namePart>
-                <namePart type="termsOfAddress">of Paris</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
-                <namePart>Müller, Theodor,</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/n84-135026.html">
-                <namePart>Langlois, Victor</namePart>
-                <namePart type="date">1829-1869</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <typeOfResource>text</typeOfResource>
-            <originInfo>
-                <place>
-                    <placeTerm type="text">Parisiis</placeTerm>
-                </place>
-                <publisher>Editore Ambrosio Firmin Didot</publisher>
-                <dateIssued>1873</dateIssued>
-                <dateIssued encoding="marc">1873</dateIssued>
-                <issuance>monographic</issuance>
-            </originInfo>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-            </language>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <physicalDescription>
-                <digitalOrigin>digitized other analog</digitalOrigin>
-            </physicalDescription>
-            <note type="additional physical form">Digitized and made available by: University of Toronto
-            Libraries</note>
-            <subject authority="lcsh">
-                <topic>History, Ancient</topic>
-                <topic>Collections</topic>
-            </subject>
-            <subject authority="lcsh">
-                <topic>Historians</topic>
-                <topic>Greece</topic>
-            </subject>
-            <subject authority="lcsh">
-                <topic>Greece</topic>
-                <topic>History</topic>
-                <topic>Sources</topic>
-            </subject>
-            <classification authority="lcc">PA3490 M84</classification>
-            <tableOfContents>Aristodemus -- Eusebius -- Priscus -- Joannes Antiochenus -- Joannis Malalas --
-            -- Critobulus --  Photius -- Periplus Ponti Euxini --Dionysius Byzantinus (Anaplus Bosporus) </tableOfContents>
-            <note type="statement of responsibility">E Codigibus Parisiensi, Scorialensi, Constantinopolitano, Athoo, 
-            Londiniensi Edidit, Prolegomenis, Annotatione,  Indicibus Instruxit Carolus Muller
-        </note>
-            <identifier type="lccn">none for this manifestation</identifier>
-            <identifier type="oclc">221365708</identifier>
-            <identifier type="oca"> fragmentahistori05mueluoft</identifier>
-            <location>
-                <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
-            </location>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >http://www.archive.org/details/fragmentahistori05mueluoft</url>
-            </location>
-            <location>
-                <url displayLabel="Open Library"
-                    >http://www.openlibrary.org/details/fragmentahistori05mueluoft</url>
-            </location>
-            <location>
-                <url displayLabel="GoogleBooks">http://books.google.com/books?id=_N8GAAAAQAAJ</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Fragmenta ex Historica Chronica">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Fragmenta ex Historica Chronica">
-                <identifier type="ctsurn"/>
-            </relatedItem>
-        </relatedItem>
-    </mods>
+    
+    
     <mods displayLabel="Griechische Poliorketiker">
         <titleInfo>
             <title>Griechische Poliorketiker</title>
@@ -13698,160 +13064,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Historiae">
-        <titleInfo>
-            <title>Historiae</title>
-        </titleInfo>
-        <titleInfo type="abbreviated" displayLabel="FHG">
-            <title>FHG 5: 54-161</title>
-        </titleInfo>
-        <name authority="naf" type="personal"
-            xlink:href="http://id.loc.gov/authorities/names/n86028627">
-            <namePart>Kritovoulos,</namePart>
-            <namePart type="date">active 15th century</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-            <displayForm>Critobulus</displayForm>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
-            <namePart>Müller, Karl</namePart>
-            <namePart type="termsOfAddress">of Paris</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
-            <namePart>Müller, Theodor,</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/n84-135026.html">
-            <namePart>Langlois, Victor</namePart>
-            <namePart type="date">1829-1869</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <identifier type="tlg">3147.004</identifier>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <part>
-            <extent unit="pages">
-                <start>54</start>
-                <end>161</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=_N8GAAAAQAAJ&amp;pg=PA54</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/fragmentahistori05mueluoft#page/n131/mode/2up</url>
-        </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Fragmenta historicorum graecorum</title>
-                <partNumber>Vol V</partNumber>
-                <partNumber>Pars Prior</partNumber>
-            </titleInfo>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
-                <namePart>Müller, Karl</namePart>
-                <namePart type="termsOfAddress">of Paris</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
-                <namePart>Müller, Theodor,</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/n84-135026.html">
-                <namePart>Langlois, Victor</namePart>
-                <namePart type="date">1829-1869</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <typeOfResource>text</typeOfResource>
-            <originInfo>
-                <place>
-                    <placeTerm type="text">Parisiis</placeTerm>
-                </place>
-                <publisher>Editore Ambrosio Firmin Didot</publisher>
-                <dateIssued>1873</dateIssued>
-                <dateIssued encoding="marc">1873</dateIssued>
-                <issuance>monographic</issuance>
-            </originInfo>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-            </language>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <physicalDescription>
-                <digitalOrigin>digitized other analog</digitalOrigin>
-            </physicalDescription>
-            <note type="additional physical form">Digitized and made available by: University of Toronto
-            Libraries</note>
-            <subject authority="lcsh">
-                <topic>History, Ancient</topic>
-                <topic>Collections</topic>
-            </subject>
-            <subject authority="lcsh">
-                <topic>Historians</topic>
-                <topic>Greece</topic>
-            </subject>
-            <subject authority="lcsh">
-                <topic>Greece</topic>
-                <topic>History</topic>
-                <topic>Sources</topic>
-            </subject>
-            <classification authority="lcc">PA3490 M84</classification>
-            <tableOfContents>Aristodemus -- Eusebius -- Priscus -- Joannes Antiochenus -- Joannis Malalas --
-            -- Critobulus --  Photius -- Periplus Ponti Euxini --Dionysius Byzantinus (Anaplus Bosporus) </tableOfContents>
-            <note type="statement of responsibility">E Codigibus Parisiensi, Scorialensi, Constantinopolitano, Athoo, 
-            Londiniensi Edidit, Prolegomenis, Annotatione,  Indicibus Instruxit Carolus Muller
-        </note>
-            <identifier type="lccn">none for this manifestation</identifier>
-            <identifier type="oclc">221365708</identifier>
-            <identifier type="oca"> fragmentahistori05mueluoft</identifier>
-            <location>
-                <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
-            </location>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >http://www.archive.org/details/fragmentahistori05mueluoft</url>
-            </location>
-            <location>
-                <url displayLabel="Open Library"
-                    >http://www.openlibrary.org/details/fragmentahistori05mueluoft</url>
-            </location>
-            <location>
-                <url displayLabel="GoogleBooks">http://books.google.com/books?id=_N8GAAAAQAAJ</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="work" displayLabel="Historiae">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Historiae">
-                <identifier type="ctsurn"/>
-            </relatedItem>
-        </relatedItem>
-    </mods>
+    
     <mods displayLabel="Historiae Animalium Epitome subiunctis Aeliani Timothei aliorumque eclogis">
         <titleInfo>
             <title>Historiae Animalium Epitome subiunctis Aeliani Timothei aliorumque eclogis</title>
@@ -13943,162 +13156,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Homiliae">
-        <titleInfo type="uniform">
-            <title>Homiliae</title>
-        </titleInfo>
-        <titleInfo type="alternative">
-            <title>Homiliae</title>
-            <partNumber>III-IV</partNumber>
-        </titleInfo>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/n80-125110.html">
-            <namePart>Photius I,</namePart>
-            <namePart type="termsOfAddress">Saint, Patriarch of Constantinople,</namePart>
-            <namePart type="date">ca. 820-ca. 891</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
-            <namePart>Müller, Karl</namePart>
-            <namePart type="termsOfAddress">of Paris</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
-            <namePart>Müller, Theodor,</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/n84-135026.html">
-            <namePart>Langlois, Victor</namePart>
-            <namePart type="date">1829-1869</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <identifier type="tlg">4040.006</identifier>
-        <tableOfContents>I. De Rossorum Incursione Homiliae I --  De Rossorum Incursione Homiliae II</tableOfContents>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <part>
-            <extent unit="pages">
-                <start>162</start>
-                <end>173</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="GoogleBooks"
-                >http://books.google.com/books?id=_N8GAAAAQAAJ&amp;pg=PA162</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://archive.org/stream/fragmentahistori05mueluoft#page/n239/mode/2up</url>
-        </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Fragmenta historicorum graecorum</title>
-                <partNumber>Vol V</partNumber>
-                <partNumber>Pars Prior</partNumber>
-            </titleInfo>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/nr95-8185.html">
-                <namePart>Müller, Karl</namePart>
-                <namePart type="termsOfAddress">of Paris</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/nr95-8187.html">
-                <namePart>Müller, Theodor,</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/n84-135026.html">
-                <namePart>Langlois, Victor</namePart>
-                <namePart type="date">1829-1869</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <typeOfResource>text</typeOfResource>
-            <originInfo>
-                <place>
-                    <placeTerm type="text">Parisiis</placeTerm>
-                </place>
-                <publisher>Editore Ambrosio Firmin Didot</publisher>
-                <dateIssued>1873</dateIssued>
-                <dateIssued encoding="marc">1873</dateIssued>
-                <issuance>monographic</issuance>
-            </originInfo>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-            </language>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <physicalDescription>
-                <digitalOrigin>digitized other analog</digitalOrigin>
-            </physicalDescription>
-            <note type="additional physical form">Digitized and made available by: University of Toronto
-            Libraries</note>
-            <subject authority="lcsh">
-                <topic>History, Ancient</topic>
-                <topic>Collections</topic>
-            </subject>
-            <subject authority="lcsh">
-                <topic>Historians</topic>
-                <topic>Greece</topic>
-            </subject>
-            <subject authority="lcsh">
-                <topic>Greece</topic>
-                <topic>History</topic>
-                <topic>Sources</topic>
-            </subject>
-            <classification authority="lcc">PA3490 M84</classification>
-            <tableOfContents>Aristodemus -- Eusebius -- Priscus -- Joannes Antiochenus -- Joannis Malalas --
-            -- Critobulus --  Photius -- Periplus Ponti Euxini --Dionysius Byzantinus (Anaplus Bosporus) </tableOfContents>
-            <note type="statement of responsibility">E Codigibus Parisiensi, Scorialensi, Constantinopolitano, Athoo, 
-            Londiniensi Edidit, Prolegomenis, Annotatione,  Indicibus Instruxit Carolus Muller
-        </note>
-            <identifier type="lccn">none for this manifestation</identifier>
-            <identifier type="oclc">221365708</identifier>
-            <identifier type="oca"> fragmentahistori05mueluoft</identifier>
-            <location>
-                <url displayLabel="WorldCat">http://worldcat.org/oclc/221365708</url>
-            </location>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >http://www.archive.org/details/fragmentahistori05mueluoft</url>
-            </location>
-            <location>
-                <url displayLabel="Open Library"
-                    >http://www.openlibrary.org/details/fragmentahistori05mueluoft</url>
-            </location>
-            <location>
-                <url displayLabel="GoogleBooks">http://books.google.com/books?id=_N8GAAAAQAAJ</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="work" displayLabel="Homiliae">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Homiliae">
-                <identifier type="ctsurn"/>
-            </relatedItem>
-        </relatedItem>
-    </mods>
+    
     <mods displayLabel="Hyperidis Orationes sex cum ceterarum fragmentis">
         <titleInfo>
             <title>Hyperidis Orationes sex cum ceterarum fragmentis</title>
