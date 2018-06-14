@@ -6846,17 +6846,20 @@
         
         <relatedItem type="constituent" otherType="work"
             displayLabel="Ab excessu divi Marci libri octo">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Ab excessu divi Marci libri octo">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
-  
-    <mods displayLabel="Acta Philippi et Acta Thomae accedunt Acta Barnabae">
-        <titleInfo>
-            <title>Acta Philippi et Acta Thomae accedunt Acta Barnabae</title>
+ 
+    <mods displayLabel="Acts of the Apostles, Apocryphal">
+        <titleInfo type="uniform">
+            <title>Acts of the Apostles, Apocryphal</title>
+        </titleInfo>
+        <titleInfo lang="lat">
+            <title>Acta Apostolorum Apocrypha post Constantinum Tischendorf</title>
         </titleInfo>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/77062188">
@@ -6866,175 +6869,6 @@
                 <roleTerm type="text">editor</roleTerm>
             </role>
         </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Leipzig</placeTerm>
-            </place>
-            <publisher>Mendelssohn</publisher>
-            <dateIssued>1903</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xlii, 395 p.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <note type="statement of responsibility">edidit Maximilianus Bonnet.</note>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Acta apostolorum apocrypha</title>
-                <partNumber>Vol. 2.2</partNumber>
-            </titleInfo>
-        </relatedItem>
-        <identifier type="oclc">697604807</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/697604807</url>
-        </location>
-        <location>
-            <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003083911</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">https://hdl.handle.net/2027/coo.31924095644245</url>
-        </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Πράξεις τοῦ ἁγίου ἀποστόλου Θωμᾶ</title>
-            </titleInfo>
-            <name authority="tlg" type="corporate" valueURI="http://viaf.org/viaf/175807631/">
-                <namePart>Acta Thomae</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/77062188">
-                <namePart>Bonnet, Max</namePart>
-                <namePart type="date">1841-1917</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">2038.001</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>99</start>
-                    <end>288</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=148</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Πράξεις τοῦ ἁγίου ἀποστόλου Θωμᾶ</title>
-            </titleInfo>
-            <name authority="tlg" type="corporate" valueURI="http://viaf.org/viaf/175807631/">
-                <namePart>Acta Thomae</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/77062188">
-                <namePart>Bonnet, Max</namePart>
-                <namePart type="date">1841-1917</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">2038.004</identifier>
-            <part>
-                <extent unit="pages">
-                    <list>108-109, 111-145, 251-258, 269-288</list>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=158</url>
-            </location>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=160</url>
-            </location>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=300</url>
-            </location>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=318</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Ἡ τελείωσις Θωμᾶ τοῦ ἀποστόλου</title>
-            </titleInfo>
-            <name authority="tlg" type="corporate" valueURI="http://viaf.org/viaf/175807631/">
-                <namePart>Acta Thomae</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/77062188">
-                <namePart>Bonnet, Max</namePart>
-                <namePart type="date">1841-1917</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">2038.005</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>289</start>
-                    <end>291</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=338</url>
-            </location>
-        </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Acta Philippi et Acta Thomae accedunt Acta Barnabae">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Acta Philippi et Acta Thomae accedunt Acta Barnabae">
-                <identifier type="ctsurn"/>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-
-    <!-- No expressions associated with anything in the Acta apostolorum apocrypha -->
-    <mods displayLabel="Acta apostolorum apocrypha Vol. 1">
-        <titleInfo>
-            <title>Acta apostolorum apocrypha</title>
-            <partNumber>Vol. 1</partNumber>
-        </titleInfo>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/25402935">
             <namePart>Lipsius, Richard Adelbert</namePart>
@@ -7044,52 +6878,20 @@
             </role>
         </name>
         <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Leipzig</placeTerm>
-            </place>
-            <publisher>Mendelssohn</publisher>
-            <dateIssued>1891</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
         </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>cxi, 320 p.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
+        <originInfo>
+            <issuance>serial</issuance>
+        </originInfo>
         <note type="statement of responsibility">post Constantinum Tischendorf denuo ediderunt Ricardus Adelbertus Lipsius et Maximilianus Bonnet.</note>
-        <subject authority="lcsh">
-            <topic>Apocryphal books (New Testament)</topic>
-        </subject>
-        <identifier type="oclc">608965165</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/608965165</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/wu.89013863634</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015005649523</url>
-        </location>
-        <location>
-            <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003083909</url>
-        </location>
-        <relatedItem type="constituent">
-            <titleInfo authority="viaf" type="uniform" valueURI="http://viaf.org/viaf/195832913/">
-                <title>Martyrium Pauli</title>
-            </titleInfo>
-            <name type="corporate">
-                <namePart>Acta Pauli</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Vol 1">
+            <part type="volume">
+                <detail>
+                    <number>1</number>
+                </detail>
+            </part>
+            <identifier type="oclc">608965165</identifier>
             <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
                 valueURI="http://viaf.org/viaf/25402935">
                 <namePart>Lipsius, Richard Adelbert</namePart>
@@ -7098,232 +6900,256 @@
                     <roleTerm type="text">editor</roleTerm>
                 </role>
             </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">0388.002</identifier>
-            <part>
-                <extent unit="pages">
-                    <list>104, 106, 108, 110, 112, 114-117</list>
-                </extent>
-            </part>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">gw</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Leipzig</placeTerm>
+                </place>
+                <publisher>Mendelssohn</publisher>
+                <dateIssued>1891</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
             <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/wu.89013863634?urlappend=%3Bseq=220https://hdl.handle.net/2027/wu.89013863634?urlappend=%3Bseq=220</url>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/608965165</url>
             </location>
-        </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/175404336/">
-                <title>Acta Pauli et Theclae</title>
-            </titleInfo>
-            <name type="corporate">
-                <namePart>Acta Pauli</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/25402935">
-                <namePart>Lipsius, Richard Adelbert</namePart>
-                <namePart type="date">1830-1892</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">0388.004</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>235</start>
-                    <end>271</end>
-                </extent>
-            </part>
             <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/wu.89013863634?urlappend=%3Bseq=350</url>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/wu.89013863634</url>
             </location>
-        </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/175404336/">
-                <title>Acta Pauli et Theclae (partis finalis recensio e codice G)</title>
-            </titleInfo>
-            <name type="corporate">
-                <namePart>Acta Pauli</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/25402935">
-                <namePart>Lipsius, Richard Adelbert</namePart>
-                <namePart type="date">1830-1892</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">0388.005</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>271</start>
-                    <end>272</end>
-                </extent>
-            </part>
             <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/wu.89013863634?urlappend=%3Bseq=386</url>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015005649523</url>
             </location>
+            <location>
+                <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003083909</url>
+            </location>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Martyrium Pauli">
+                <part>
+                    <extent unit="pages">
+                        <list>104, 106, 108, 110, 112, 114-117</list>
+                    </extent>
+                </part>
+                <relatedItem type="constituent" otherType="work" displayLabel="Martyrium Pauli">
+                    <identifier type="tlg">0388.002</identifier>
+                    <relatedItem type="constituent" otherType="expression">
+                        <location>
+                            <url displayLabel="HathiTrust"
+                                >https://hdl.handle.net/2027/wu.89013863634?urlappend=%3Bseq=220https://hdl.handle.net/2027/wu.89013863634?urlappend=%3Bseq=220</url>
+                        </location>
+                    </relatedItem>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Acta Pauli et Theclae">
+                <part>
+                    <extent unit="pages">
+                        <start>235</start>
+                        <end>271</end>
+                    </extent>
+                </part>
+                <relatedItem type="constituent" otherType="work">
+                    <identifier type="tlg">0388.004</identifier>
+                    <relatedItem type="constituent" otherType="expression">
+                        <location>
+                            <url displayLabel="HathiTrust"
+                                >https://hdl.handle.net/2027/wu.89013863634?urlappend=%3Bseq=350</url>
+                        </location>
+                    </relatedItem>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Acta Pauli et Theclae (partis finalis recensio e codice G)">
+                <part>
+                    <extent unit="pages">
+                        <start>271</start>
+                        <end>272</end>
+                    </extent>
+                </part>
+                <relatedItem type="constituent" otherType="work">
+                    <identifier type="tlg">0388.005</identifier>
+                    <relatedItem type="constituent" otherType="expression">
+                        <location>
+                            <url displayLabel="HathiTrust"
+                                >https://hdl.handle.net/2027/wu.89013863634?urlappend=%3Bseq=386</url>
+                        </location>
+                    </relatedItem>
+                </relatedItem>
+            </relatedItem>
         </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Acta apostolorum apocrypha Vol. 1">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Acta apostolorum apocrypha Vol. 1">
-                <identifier type="ctsurn"/>
+        
+        <relatedItem type="constituent" otherType="structure" displayLabel="Vol 2">
+            <part type="volume">
+                <detail>
+                    <number>2</number>
+                </detail>
+            </part>
+            
+            <relatedItem type="constituent" otherType="structure" displayLabel="Vol 2.1">
+                <identifier type="oclc">717308117</identifier>
+                <originInfo>
+                    <place>
+                        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+                    </place>
+                    <place>
+                        <placeTerm type="text">Leipzig</placeTerm>
+                    </place>
+                    <publisher>Mendelssohn</publisher>
+                    <dateIssued>1898</dateIssued>
+                    <issuance>monographic</issuance>
+                </originInfo>
+                <location>
+                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/717308117</url>
+                </location>
+                <location>
+                    <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003086899</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044010474799</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015066433262</url>
+                </location>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Acta Joannis">
+                    <part>
+                        <extent unit="pages">
+                            <start>151</start>
+                            <end>215</end>
+                        </extent>
+                    </part>
+                    <relatedItem type="constituent" otherType="work" displayLabel="Acta Joannis">
+                        <identifier type="tlg">0317.001</identifier>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="expression">
+                        <location>
+                            <url displayLabel="HathiTrust"
+                                >https://hdl.handle.net/2027/hvd.32044010474799?urlappend=%3Bseq=210</url>
+                        </location>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Acta Joannia (recensio)">
+                    <part>
+                        <extent unit="pages">
+                            <list>152-160, 169, 171-179, 203-206, 209-210</list>
+                        </extent>
+                    </part>
+                    <relatedItem type="constituent" otherType="work" displayLabel="Acta Joannia (recensio)">
+                        <identifier type="tlg">0317.002</identifier>
+                        <relatedItem type="constituent" otherType="expression">
+                            <location>
+                                <url displayLabel="HathiTrust"
+                                    >https://hdl.handle.net/2027/hvd.32044010474799?urlappend=%3Bseq=212</url>
+                            </location>
+                        </relatedItem>
+                    </relatedItem>
+                </relatedItem>
+            </relatedItem>
+            
+            <relatedItem type="constituent" otherType="structure" displayLabel="Vol 2.2">
+                <originInfo>
+                    <place>
+                        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+                    </place>
+                    <place>
+                        <placeTerm type="text">Leipzig</placeTerm>
+                    </place>
+                    <publisher>Mendelssohn</publisher>
+                    <dateIssued>1903</dateIssued>
+                </originInfo>
+                <part type="part">
+                    <detail>
+                        <number>2</number>
+                    </detail>
+                </part>
+                <titleInfo lang="lat">
+                    <title>Acta Philippi et Acta Thomae accedunt Acta Barnabae</title>
+                </titleInfo>
+                <identifier type="oclc">697604807</identifier>
+                <location>
+                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/697604807</url>
+                </location>
+                <location>
+                    <url displayLabel="UBL"
+                        >https://katalog.ub.uni-leipzig.de/Record/0003083911</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/coo.31924095644245</url>
+                </location>
+                <relatedItem type="constituent" otherType="part" displayLabel="Acta Thomae">
+                    <part type="part">
+                        <detail>
+                            <title>Acta Thomae</title>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Πράξεις τοῦ ἁγίου ἀποστόλου Θωμᾶ">
+                        <part>
+                            <extent unit="pages">
+                                <start>99</start>
+                                <end>288</end>
+                            </extent>
+                        </part>
+                        <relatedItem type="constituent" otherType="work"
+                            displayLabel="Πράξεις τοῦ ἁγίου ἀποστόλου Θωμᾶ">
+                            <identifier type="tlg">2038.001</identifier>
+                            <relatedItem type="constituent" otherType="expression">
+                                <location>
+                                    <url displayLabel="HathiTrust"
+                                        >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=148</url>
+                                </location> 
+                            </relatedItem>
+                        </relatedItem>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Πράξεις τοῦ ἁγίου ἀποστόλου Θωμᾶ">
+                        <part>
+                            <extent unit="pages">
+                                <list>108-109, 111-145, 251-258, 269-288</list>
+                            </extent>
+                        </part>
+                        <relatedItem type="constituent" otherType="work"
+                            displayLabel="Πράξεις τοῦ ἁγίου ἀποστόλου Θωμᾶ">
+                            <identifier type="tlg">2038.004</identifier>
+                            <relatedItem type="constituent" otherType="expression">
+                                <location>
+                                    <url displayLabel="HathiTrust"
+                                        >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=158</url>
+                                </location>
+                                <location>
+                                    <url displayLabel="HathiTrust"
+                                        >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=160</url>
+                                </location>
+                                <location>
+                                    <url displayLabel="HathiTrust"
+                                        >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=300</url>
+                                </location>
+                                <location>
+                                    <url displayLabel="HathiTrust"
+                                        >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=318</url>
+                                </location>                        
+                                
+                            </relatedItem>
+                        </relatedItem>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Ἡ τελείωσις Θωμᾶ τοῦ ἀποστόλου">
+                        <part>
+                            <extent unit="pages">
+                                <start>289</start>
+                                <end>291</end>
+                            </extent>
+                        </part>                               
+                        <relatedItem type="constituent" otherType="work"
+                            displayLabel="Ἡ τελείωσις Θωμᾶ τοῦ ἀποστόλου">
+                            <identifier type="tlg">2038.005</identifier>
+                            <relatedItem type="constituent" otherType="expression">
+                                <location>
+                                    <url displayLabel="HathiTrust"
+                                        >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=338</url>
+                                </location>    
+                            </relatedItem>
+                        </relatedItem>
+                    </relatedItem>
+                </relatedItem>
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Acta apostolorum apocrypha Vol. 2.1">
-        <titleInfo>
-            <title>Acta apostolorum apocrypha</title>
-            <partNumber>Vol. 2.1</partNumber>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/77062188">
-            <namePart>Bonnet, Max</namePart>
-            <namePart type="date">1841-1917</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Leipzig</placeTerm>
-            </place>
-            <publisher>Mendelssohn</publisher>
-            <dateIssued>1898</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>XXXVII, 262 S. ; 23 cm</extent>
-        </physicalDescription>
-        <note type="statement of responsibility">post Constantinum Tischendorf denuo ed. Ricardus Adelbertus Lipsius et Maximilianus Bonnet.</note>
-        <identifier type="oclc">717308117</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/717308117</url>
-        </location>
-        <location>
-            <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003086899</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044010474799</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015066433262</url>
-        </location>
-        <relatedItem type="constituent">
-            <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/179834949/">
-                <title>Acta Joannis</title>
-            </titleInfo>
-            <name type="personal">
-                <namePart>Anonymous</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/77062188">
-                <namePart>Bonnet, Max</namePart>
-                <namePart type="date">1841-1917</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">0317.001</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>151</start>
-                    <end>215</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/hvd.32044010474799?urlappend=%3Bseq=210</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/179834949/">
-                <title>Acta Joannia (recensio)</title>
-            </titleInfo>
-            <name type="personal">
-                <namePart>Anonymous</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/77062188">
-                <namePart>Bonnet, Max</namePart>
-                <namePart type="date">1841-1917</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">0317.002</identifier>
-            <part>
-                <extent unit="pages">
-                    <list>152-160, 169, 171-179, 203-206, 209-210</list>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/hvd.32044010474799?urlappend=%3Bseq=212</url>
-            </location>
-        </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Acta apostolorum apocrypha Vol. 2.1">
-            <identifier type="ctsurn"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Acta apostolorum apocrypha Vol. 2.1">
-                <identifier type="ctsurn"/>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-
+ 
     <mods displayLabel="Agathemeri Orthonis Geographiae Hypotyposis">
         <titleInfo>
             <title>Agathemeri Orthonis Geographiae Hypotyposis</title>
@@ -7808,10 +7634,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Andronici Rhodii qui fertur libelli Peri pathōn. Pars altera, De virtutibus et vitiis">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Andronici Rhodii qui fertur libelli Peri pathōn. Pars altera, De virtutibus et vitiis">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -7913,10 +7739,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Andronici qui fertur libelli Peri pathōn, pars prior">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Andronici qui fertur libelli Peri pathōn, pars prior">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -8424,10 +8250,10 @@
 				(Revision 1.106 2014/12/19)</recordOrigin>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Aristotelis Ars rhetorica">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Aristotelis Ars rhetorica">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -9940,10 +9766,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Cornelii Nepotis Vitae cum fragmentis">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Cornelii Nepotis Vitae cum fragmentis">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -10026,10 +9852,10 @@
 				(Revision 1.106 2014/12/19)</recordOrigin>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="De Victu Attenuante">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="De Victu Attenuante">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -10109,10 +9935,10 @@
 				(Revision 1.106 2014/12/19)</recordOrigin>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="De chorographia libri tres">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="De chorographia libri tres">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -10207,10 +10033,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="De venenatis animalibus eorumque remediis">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="De venenatis animalibus eorumque remediis">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -10376,10 +10202,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Die Briefe des Sextus Julius Africanus an Aristides und Origenes">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Die Briefe des Sextus Julius Africanus an Aristides und Origenes">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -10482,10 +10308,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Epiphanius Band I Ancoratus und Panarion: (Ancoratus und Panarion Haer. 1-33)">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Epiphanius Band I Ancoratus und Panarion: (Ancoratus und Panarion Haer. 1-33)">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -10592,10 +10418,10 @@
             <recordIdentifier/>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Griechische Poliorketiker">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Griechische Poliorketiker">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -10841,10 +10667,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Gynaeciorvm libri IV, De signis fractvrarvm">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Gynaeciorvm libri IV, De signis fractvrarvm">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -11110,9 +10936,9 @@
 				(Revision 1.106 2014/12/19)</recordOrigin>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Hermogenis opera">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression" displayLabel="Hermogenis opera">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -11346,10 +11172,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Herodiani technici Reliquiae Praefationem et Heroodiani Prosodiam Catholicam Volume I">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Herodiani technici Reliquiae Praefationem et Heroodiani Prosodiam Catholicam Volume I">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -12563,10 +12389,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Herodiani technici Reliquiae Reliqua Scripta Prosodiaca Pathologiam Orthographica Volume II">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Herodiani technici Reliquiae Reliqua Scripta Prosodiaca Pathologiam Orthographica Volume II">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -12740,10 +12566,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Heronis Alexandrini Opera quae supersunt omnia Vol 4 Heronis Definitiones cum Variis Collectionibus, Heronis Quae Feruntur Geometrica">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Heronis Alexandrini Opera quae supersunt omnia Vol 4 Heronis Definitiones cum Variis Collectionibus, Heronis Quae Feruntur Geometrica">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -12963,10 +12789,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Heronis Alexandrini Opera quae supersunt omnia Vol 5 Heronis quae feruntur sterometrica et de mensuris">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Heronis Alexandrini Opera quae supersunt omnia Vol 5 Heronis quae feruntur sterometrica et de mensuris">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -13057,10 +12883,10 @@
 				(Revision 1.106 2014/12/19)</recordOrigin>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Historia ecclesiastica">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Historia ecclesiastica">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -13465,10 +13291,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Hyperidis Orationes sex cum ceterarum fragmentis">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Hyperidis Orationes sex cum ceterarum fragmentis">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -13569,10 +13395,10 @@
 				(Revision 1.106 2014/12/19)</recordOrigin>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="In Platonis Phaedrum scholia">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="In Platonis Phaedrum scholia">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -13656,9 +13482,9 @@
 				(Revision 1.106 2014/12/19)</recordOrigin>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Institutio Logica">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression" displayLabel="Institutio Logica">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -13757,10 +13583,10 @@
             <recordIdentifier/>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Les actes de Pierre">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Les actes de Pierre">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -14288,10 +14114,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="M. Cornelii Frontonis Epistulae adnotatione critica instructae">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="M. Cornelii Frontonis Epistulae adnotatione critica instructae">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -14387,10 +14213,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Myriobiblion sive Bibliotheca">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Myriobiblion sive Bibliotheca">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -14476,10 +14302,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Patrologia Syriaca 2, Appendix">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Patrologia Syriaca 2, Appendix">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -14561,10 +14387,10 @@
             <recordIdentifier/>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Peri aneimenou libellus">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Peri aneimenou libellus">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -14980,10 +14806,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -15403,10 +15229,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Davidis prolegomena et in Porphyrii isagogen commentarium">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Davidis prolegomena et in Porphyrii isagogen commentarium">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -15636,10 +15462,10 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Eliae in Porphyrii isagogen et Aristotelis categorias commentaria">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Eliae in Porphyrii isagogen et Aristotelis categorias commentaria">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -15733,10 +15559,10 @@
             </languageOfCataloging>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Eudociae Augustae Violarium">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Eudociae Augustae Violarium">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
@@ -16064,9 +15890,9 @@
 				(Revision 1.106 2014/12/19)</recordOrigin>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Astronomica">
-            <identifier type="ctsurn"/>
+            
             <relatedItem type="constituent" otherType="expression" displayLabel="Astronomica">
-                <identifier type="ctsurn"/>
+                
             </relatedItem>
         </relatedItem>
     </mods>
