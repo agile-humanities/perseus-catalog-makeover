@@ -10336,9 +10336,10 @@
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Gynaeciorvm libri IV, De signis fractvrarvm">
+
+    <mods displayLabel="Soranus (Corpus Medicorum Graecorum, Vol 4)">
         <titleInfo>
-            <title>Gynaeciorvm libri IV, De signis fractvrarvm</title>
+            <title>Soranus</title>
         </titleInfo>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/35828235/">
@@ -10412,7 +10413,7 @@
                 <partNumber>Volume 4</partNumber>
             </titleInfo>
         </relatedItem>
-        <relatedItem type="constituent">
+        <relatedItem type="constituent" otherType="work" displayLabel="Gynaeciorum libri iv">
             <titleInfo>
                 <title>Gynaeciorum libri iv</title>
             </titleInfo>
@@ -10424,34 +10425,31 @@
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/27840515">
-                <namePart>Ilberg, Johannes</namePart>
-                <namePart type="date">1860-1930</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
+            
             <identifier type="tlg">0565.001</identifier>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg001.1st1K-grc1</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>3</start>
-                    <end>152</end>
-                </extent>
-            </part>
-            <location displayLabel="BBAW">
-                <url>http://cmg.bbaw.de/epubl/online/cmg_04.html?custom=1&amp;pn=25&amp;AnzFrames=1&amp;dw=2369&amp;dh=1118</url>
-            </location>
-            <location>
-                <url displayLabel="First1KGreek"
-                    >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0565/tlg001/tlg0565.tlg001.1st1K-grc1.xml</url>
-            </location>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg001</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg001.1st1K-grc1</identifier>
+                <language objectPart="text">
+                    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+                </language>
+                <part>
+                    <extent unit="pages">
+                        <start>3</start>
+                        <end>152</end>
+                    </extent>
+                </part>
+                <location displayLabel="BBAW">
+                    <url>http://cmg.bbaw.de/epubl/online/cmg_04.html?custom=1&amp;pn=25&amp;AnzFrames=1&amp;dw=2369&amp;dh=1118</url>
+                </location>
+                <location>
+                    <url displayLabel="First1KGreek"
+                        >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0565/tlg001/tlg0565.tlg001.1st1K-grc1.xml</url>
+                </location>
+            </relatedItem>                
         </relatedItem>
-        <relatedItem type="constituent">
+        
+        <relatedItem type="constituent" otherType="work" displayLabel="De signis fracturarum">
             <titleInfo>
                 <title>De signis fracturarum</title>
             </titleInfo>
@@ -10463,34 +10461,32 @@
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/27840515">
-                <namePart>Ilberg, Johannes</namePart>
-                <namePart type="date">1860-1930</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
+            
             <identifier type="tlg">0565.002</identifier>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg002.1st1K-grc1</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>155</start>
-                    <end>158</end>
-                </extent>
-            </part>
-            <location displayLabel="BBAW">
-                <url>http://cmg.bbaw.de/epubl/online/cmg_04.html?custom=1&amp;pn=177&amp;AnzFrames=1&amp;dw=2369&amp;dh=1118</url>
-            </location>
-            <location>
-                <url displayLabel="First1KGreek"
-                    >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0565/tlg002/tlg0565.tlg002.1st1K-grc1.xml</url>
-            </location>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg002</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg002.1st1K-grc1</identifier>
+                <language objectPart="text">
+                    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+                </language>
+                <part>
+                    <extent unit="pages">
+                        <start>155</start>
+                        <end>158</end>
+                    </extent>
+                </part>
+                <location displayLabel="BBAW">
+                    <url>http://cmg.bbaw.de/epubl/online/cmg_04.html?custom=1&amp;pn=177&amp;AnzFrames=1&amp;dw=2369&amp;dh=1118</url>
+                </location>
+                <location>
+                    <url displayLabel="First1KGreek"
+                        >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0565/tlg002/tlg0565.tlg002.1st1K-grc1.xml</url>
+                </location>                
+            </relatedItem>
+            
         </relatedItem>
-        <relatedItem type="constituent">
+        
+        <relatedItem type="constituent" otherType="work" displayLabel="De fasciis">
             <titleInfo>
                 <title>De fasciis</title>
             </titleInfo>
@@ -10502,34 +10498,33 @@
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/27840515">
-                <namePart>Ilberg, Johannes</namePart>
-                <namePart type="date">1860-1930</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
+            
             <identifier type="tlg">0565.003</identifier>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>159</start>
-                    <end>171</end>
-                </extent>
-            </part>
-            <location displayLabel="BBAW">
-                <url>http://cmg.bbaw.de/epubl/online/cmg_04.html?custom=1&amp;pn=181&amp;AnzFrames=1&amp;dw=2369&amp;dh=1118</url>
-            </location>
-            <location>
-                <url displayLabel="First1KGreek"
-                    >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0565/tlg003/tlg0565.tlg003.1st1K-grc1.xml</url>
-            </location>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg003</identifier>
+            
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1</identifier>
+                <language objectPart="text">
+                    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+                </language>
+                <part>
+                    <extent unit="pages">
+                        <start>159</start>
+                        <end>171</end>
+                    </extent>
+                </part>
+                <location displayLabel="BBAW">
+                    <url>http://cmg.bbaw.de/epubl/online/cmg_04.html?custom=1&amp;pn=181&amp;AnzFrames=1&amp;dw=2369&amp;dh=1118</url>
+                </location>
+                <location>
+                    <url displayLabel="First1KGreek"
+                        >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0565/tlg003/tlg0565.tlg003.1st1K-grc1.xml</url>
+                </location>                
+            </relatedItem>
+            
         </relatedItem>
-        <relatedItem type="constituent">
+        
+        <relatedItem type="constituent" otherType="work" displayLabel="Vita Hippocratis">
             <titleInfo>
                 <title>Vita Hippocratis</title>
             </titleInfo>
@@ -10541,50 +10536,31 @@
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/27840515">
-                <namePart>Ilberg, Johannes</namePart>
-                <namePart type="date">1860-1930</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="tlg">0565.004</identifier>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg004.1st1K-grc1</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>175</start>
-                    <end>178</end>
-                </extent>
-            </part>
-            <location displayLabel="BBAW">
-                <url>http://cmg.bbaw.de/epubl/online/cmg_04.html?custom=1&amp;pn=197&amp;AnzFrames=1&amp;dw=2369&amp;dh=1118</url>
-            </location>
-            <location>
-                <url displayLabel="First1KGreek"
-                    >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0565/tlg004/tlg0565.tlg004.1st1K-grc1.xml</url>
-            </location>
-        </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">840905</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20130308112913.0</recordChangeDate>
-            <recordIdentifier>7804368</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-				(Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Gynaeciorvm libri IV, De signis fractvrarvm">
-            
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Gynaeciorvm libri IV, De signis fractvrarvm">
-                
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg004</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg004.1st1K-grc1</identifier>
+                <language objectPart="text">
+                    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+                </language>
+                <part>
+                    <extent unit="pages">
+                        <start>175</start>
+                        <end>178</end>
+                    </extent>
+                </part>
+                <location displayLabel="BBAW">
+                    <url>http://cmg.bbaw.de/epubl/online/cmg_04.html?custom=1&amp;pn=197&amp;AnzFrames=1&amp;dw=2369&amp;dh=1118</url>
+                </location>
+                <location>
+                    <url displayLabel="First1KGreek"
+                        >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0565/tlg004/tlg0565.tlg004.1st1K-grc1.xml</url>
+                </location>               
             </relatedItem>
+            
         </relatedItem>
     </mods>
+
     <mods displayLabel="Hermogenis opera">
         <titleInfo>
             <title>Hermogenis opera</title>
