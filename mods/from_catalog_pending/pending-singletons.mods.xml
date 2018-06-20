@@ -7175,7 +7175,7 @@
         </name>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/9870846">
-            <namePart>Holste, Lukas,</namePart>
+            <namePart>Holste, Lukas</namePart>
             <namePart type="date">1596-1661</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
@@ -7190,8 +7190,6 @@
         </language>
         <note>Nunc primum Graece et Latine edita ex Mss. Regiae, Vaticanae et Altempsianae Biblioth</note>
         <identifier type="manuscript">Carte Allacci XCVII 4 (Rome, Biblioteca Vallicelliana)</identifier>
-        <identifier type="tlg">0090.001</identifier>
-        <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001.opp-lat7</identifier>
         <originInfo>
             <dateCreated>N.d.</dateCreated>
         </originInfo>
