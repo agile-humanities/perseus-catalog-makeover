@@ -10621,7 +10621,8 @@
                 <partNumber>Volume 6</partNumber>
             </titleInfo>
         </relatedItem>
-        <relatedItem type="constituent">
+        
+        <relatedItem type="constituent" otherType="work" displayLabel="Progymnasmata">
             <titleInfo>
                 <title>Progymnasmata</title>
             </titleInfo>
@@ -10633,31 +10634,27 @@
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/44690899/">
-                <namePart>Rabe, Hugo,</namePart>
-                <namePart type="date">1867-1932</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="tlg">0592.001</identifier>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg001.1st1K-grc1</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>1</start>
-                    <end>27</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=32</url>
-            </location>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg001</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg001.1st1K-grc1</identifier>
+                <language objectPart="text">
+                    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+                </language>
+                <part>
+                    <extent unit="pages">
+                        <start>1</start>
+                        <end>27</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=32</url>
+                </location>
+            </relatedItem>
+            
         </relatedItem>
-        <relatedItem type="constituent">
+        <relatedItem type="constituent" otherType="work" displayLabel="Peri tôn staseôn">
             <titleInfo>
                 <title>Περὶ στάσεων</title>
             </titleInfo>
@@ -10672,31 +10669,26 @@
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/44690899/">
-                <namePart>Rabe, Hugo,</namePart>
-                <namePart type="date">1867-1932</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="tlg">0592.002</identifier>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg002.1st1K-grc1</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>28</start>
-                    <end>92</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=60</url>
-            </location>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg002</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg002.1st1K-grc1</identifier>
+                <language objectPart="text">
+                    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+                </language>
+                <part>
+                    <extent unit="pages">
+                        <start>28</start>
+                        <end>92</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=60</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
+        <relatedItem type="constituent" otherType="work" displayLabel="Peri Heureseôs">
             <titleInfo>
                 <title>Περὶ εὑρέσεως</title>
             </titleInfo>
@@ -10711,31 +10703,27 @@
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/44690899/">
-                <namePart>Rabe, Hugo,</namePart>
-                <namePart type="date">1867-1932</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
+            
             <identifier type="tlg">0592.003</identifier>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg003.1st1K-grc1</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>93</start>
-                    <end>212</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=124</url>
-            </location>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg003</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg003.1st1K-grc1</identifier>
+                <language objectPart="text">
+                    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+                </language>
+                <part>
+                    <extent unit="pages">
+                        <start>93</start>
+                        <end>212</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=124</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
+        <relatedItem type="constituent" otherType="work" displayLabel="Peri ideôn">
             <titleInfo>
                 <title>Περὶ ἰδεῶν λόγου</title>
             </titleInfo>
@@ -10750,31 +10738,27 @@
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/44690899/">
-                <namePart>Rabe, Hugo,</namePart>
-                <namePart type="date">1867-1932</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg004.1st1K-grc1</identifier>
-            <identifier type="tlg">0592.004</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>213</start>
-                    <end>413</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=244</url>
-            </location>
+            
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg004</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg004.1st1K-grc1</identifier>
+                <identifier type="tlg">0592.004</identifier>
+                <language objectPart="text">
+                    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+                </language>
+                <part>
+                    <extent unit="pages">
+                        <start>213</start>
+                        <end>413</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=244</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
+        <relatedItem type="constituent" otherType="work" displayLabel="Peri Methodou Deinotêtos">
             <titleInfo>
                 <title>Περὶ μεθόδου δεινότητος</title>
             </titleInfo>
@@ -10789,46 +10773,27 @@
                     <roleTerm authority="marcrelator" type="text">creator</roleTerm>
                 </role>
             </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/44690899/">
-                <namePart>Rabe, Hugo,</namePart>
-                <namePart type="date">1867-1932</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg005.1st1K-grc1</identifier>
-            <identifier type="tlg">0592.005</identifier>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>414</start>
-                    <end>456</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=446</url>
-            </location>
-        </relatedItem>
-
-        <recordInfo>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">860205</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20130502140926.0</recordChangeDate>
-            <recordIdentifier>5893001</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-				(Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work" displayLabel="Hermogenis opera">
-            
-            <relatedItem type="constituent" otherType="expression" displayLabel="Hermogenis opera">
-                
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg005</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg005.1st1K-grc1</identifier>
+                <identifier type="tlg">0592.005</identifier>
+                <language objectPart="text">
+                    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+                </language>
+                <part>
+                    <extent unit="pages">
+                        <start>414</start>
+                        <end>456</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=446</url>
+                </location>
             </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Herodiani ab excessu divi Marci libri octo">
         <titleInfo>
             <title>Herodiani ab excessu divi Marci libri octo</title>
