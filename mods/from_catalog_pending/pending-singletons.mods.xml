@@ -11861,11 +11861,7 @@
         <language objectPart="text">
             <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
         </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xxxviii, 262 p. 25 cm.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
+        
         <note type="statement of responsibility" altRepGroup="00">hrsg. im Auftrage der
             Kirchenväter-Commission der Köngl. Preussischen Akademie der Wissenschaften, auf Grund
             der nachgelassenen Papiere von Gerhard Loeschcke, durch Margret Heinemann.</note>
@@ -11883,26 +11879,17 @@
         </relatedItem>
         <identifier type="lccn">20023080</identifier>
         <identifier type="oclc">1013775</identifier>
-        <identifier type="tlg">2768.001</identifier>
-        <location>
-            <url displayLabel="Worldcat">http://www.worldcat.org/oclc/781927375</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >https://archive.org/details/gelasiuskircheng28gelauoft</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">740918</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20130514081123.0</recordChangeDate>
-            <recordIdentifier>9189796</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-                (Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Historia ecclesiastica">
-
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Historia ecclesiastica"> </relatedItem>
+            <identifier type="tlg">2768.001</identifier>
+            <relatedItem type="constituent" otherType="expression" displayLabel="Historia ecclesiastica">
+                <location>
+                    <url displayLabel="Worldcat">http://www.worldcat.org/oclc/781927375</url>
+                </location>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >https://archive.org/details/gelasiuskircheng28gelauoft</url>
+                </location>                
+            </relatedItem>
         </relatedItem>
     </mods>
 
@@ -11968,33 +11955,28 @@
                 <partNumber>1 part 1</partNumber>
             </titleInfo>
         </relatedItem>
-        <identifier type="tlg">0644.001</identifier>
-        <identifier type="ctsurn">urn:cts:greekLit:tlg0644.tlg001.1st1K-grc1</identifier>
+
         <identifier type="oclc">75481882</identifier>
         <location>
             <url displayLabel="WorldCat">http://www.worldcat.org/oclc/75481882</url>
         </location>
-        <location>
-            <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003006937</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/pst.000046011183</url>
-        </location>
-        <location displayLabel="First1K">
-            <url>https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0644/tlg001/tlg0644.tlg001.1st1K-grc1.xml</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
+
         <relatedItem type="constituent" otherType="work"
             displayLabel="Historiae Animalium Epitome subiunctis Aeliani Timothei aliorumque eclogis">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0644.tlg001</identifier>
+            <identifier type="tlg">0644.001</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Historiae Animalium Epitome subiunctis Aeliani Timothei aliorumque eclogis">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg0644.tlg001.1st1K-grc1</identifier>
+                <location>
+                    <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003006937</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust">http://hdl.handle.net/2027/pst.000046011183</url>
+                </location>
+                <location displayLabel="First1K">
+                    <url>https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0644/tlg001/tlg0644.tlg001.1st1K-grc1.xml</url>
+                </location>
             </relatedItem>
         </relatedItem>
     </mods>
@@ -12043,11 +12025,6 @@
         <language objectPart="notes">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>XLVII, 192 S.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
         <relatedItem type="series">
             <titleInfo>
                 <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
@@ -12060,258 +12037,127 @@
         <location>
             <url displayLabel="SLUB">http://digital.slub-dresden.de/id403673038</url>
         </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>In Demosthenem</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" usage="primary"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/264197546">
-                <namePart>Hyperides</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66554862">
-                <namePart>Jensen, Christian Cornelius</namePart>
-                <namePart type="date">1883-1940</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="In Demosthenem">
+            
             <identifier type="tlg">0030.005</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>2</start>
-                    <end>24</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="SLUB"
-                    >http://digital.slub-dresden.de/werkansicht/dlf/103343/54/</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                
+                <part>
+                    <extent unit="pages">
+                        <start>2</start>
+                        <end>24</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/54/</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Pro Lycophrone</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" usage="primary"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/264197546">
-                <namePart>Hyperides</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66554862">
-                <namePart>Jensen, Christian Cornelius</namePart>
-                <namePart type="date">1883-1940</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Pro Lycophrone">
+            
             <identifier type="tlg">0030.001</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>25</start>
-                    <end>37</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="SLUB"
-                    >http://digital.slub-dresden.de/werkansicht/dlf/103343/77/</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                
+                <part>
+                    <extent unit="pages">
+                        <start>25</start>
+                        <end>37</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/77/</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Pro Euxenippo</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" usage="primary"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/264197546">
-                <namePart>Hyperides</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66554862">
-                <namePart>Jensen, Christian Cornelius</namePart>
-                <namePart type="date">1883-1940</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Pro Euxenippo">
+            
             <identifier type="tlg">0030.004</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>38</start>
-                    <end>56</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="SLUB"
-                    >http://digital.slub-dresden.de/werkansicht/dlf/103343/90/</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                
+                <part>
+                    <extent unit="pages">
+                        <start>38</start>
+                        <end>56</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/90/</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>In Philippidem</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" usage="primary"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/264197546">
-                <namePart>Hyperides</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66554862">
-                <namePart>Jensen, Christian Cornelius</namePart>
-                <namePart type="date">1883-1940</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="In Philippidem">
+            
             <identifier type="tlg">0030.002</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>57</start>
-                    <end>68</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="SLUB"
-                    >http://digital.slub-dresden.de/werkansicht/dlf/103343/109/</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                
+                <part>
+                    <extent unit="pages">
+                        <start>57</start>
+                        <end>68</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/109/</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>In Athenogenem</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" usage="primary"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/264197546">
-                <namePart>Hyperides</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66554862">
-                <namePart>Jensen, Christian Cornelius</namePart>
-                <namePart type="date">1883-1940</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="In Athenogenem">
+            
             <identifier type="tlg">0030.003</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>69</start>
-                    <end>89</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="SLUB"
-                    >http://digital.slub-dresden.de/werkansicht/dlf/103343/121/</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                
+                <part>
+                    <extent unit="pages">
+                        <start>69</start>
+                        <end>89</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/121/</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Epitaphius</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" usage="primary"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/264197546">
-                <namePart>Hyperides</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66554862">
-                <namePart>Jensen, Christian Cornelius</namePart>
-                <namePart type="date">1883-1940</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Epitaphius">
+            
             <identifier type="tlg">0030.006</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>90</start>
-                    <end>114</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="SLUB"
-                    >http://digital.slub-dresden.de/werkansicht/dlf/103343/142/</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                
+                <part>
+                    <extent unit="pages">
+                        <start>90</start>
+                        <end>114</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/142/</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Fragmenta</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" usage="primary"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/264197546">
-                <namePart>Hyperides</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66554862">
-                <namePart>Jensen, Christian Cornelius</namePart>
-                <namePart type="date">1883-1940</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+            
             <identifier type="tlg">0030.007</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>115</start>
-                    <end>154</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="SLUB"
-                    >http://digital.slub-dresden.de/werkansicht/dlf/103343/167/</url>
-            </location>
-        </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-            <recordOrigin/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Hyperidis Orationes sex cum ceterarum fragmentis">
-
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Hyperidis Orationes sex cum ceterarum fragmentis"> </relatedItem>
+            <relatedItem type="constituent" otherType="expression">
+                
+                <part>
+                    <extent unit="pages">
+                        <start>115</start>
+                        <end>154</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/167/</url>
+                </location>
+            </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="In Platonis Phaedrum scholia">
         <titleInfo type="uniform">
             <title>In Platonis Phaedrum scholia</title>
@@ -12390,7 +12236,7 @@
             </titleInfo>
         </relatedItem>
         <identifier type="oclc">238300</identifier>
-        <identifier type="tlg">2317.001</identifier>
+        
         <location>
             <url displayLabel="Worldcat">http://www.worldcat.org/oclc/2383001</url>
         </location>
@@ -12400,21 +12246,14 @@
         <location>
             <url displayLabel="HathiTrust">https://hdl.handle.net/2027/mdp.39015018654387</url>
         </location>
-        <recordInfo>
-            <descriptionStandard>aacr</descriptionStandard>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">801205</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20130522084539.0</recordChangeDate>
-            <recordIdentifier>10387508</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-                (Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
+        
         <relatedItem type="constituent" otherType="work" displayLabel="In Platonis Phaedrum scholia">
-
+            <identifier type="tlg">2317.001</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="In Platonis Phaedrum scholia"> </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Institutio Logica">
         <titleInfo type="uniform">
             <title>Institutio Logica</title>
@@ -12455,11 +12294,7 @@
         <language objectPart="preface">
             <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
         </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>x, [4], [3]-75 p. 18 cm.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
+        
         <note>Romanized.</note>
         <subject authority="lcsh">
             <topic>Logic</topic>
@@ -12470,36 +12305,31 @@
             </titleInfo>
         </relatedItem>
         <classification authority="lcc">PA3404.G2 I6 1896</classification>
-        <identifier type="tlg">0057.081</identifier>
+        
         <identifier type="lccn">34018584</identifier>
         <identifier type="oclc">9504824</identifier>
         <location>
             <url displayLabel="Worldcat">http://www.worldcat.org/oclc/9504824</url>
         </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=s3MIAAAAIAAJ</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/wu.89097872832</url>
-        </location>
-        <location>
-            <url displayLabel="1st 1K"
-                >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0057/tlg081/tlg0057.tlg081.1st1K-grc1.xml</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">831028</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20121204115313.0</recordChangeDate>
-            <recordIdentifier>6887966</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-                (Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work" displayLabel="Institutio Logica">
 
-            <relatedItem type="constituent" otherType="expression" displayLabel="Institutio Logica"
-            > </relatedItem>
+        
+        <relatedItem type="constituent" otherType="work" displayLabel="Institutio Logica">
+            <identifier type="tlg">0057.081</identifier>
+            <relatedItem type="constituent" otherType="expression" displayLabel="Institutio Logica">
+                <location>
+                    <url displayLabel="GoogleBooks">http://books.google.com/books?id=s3MIAAAAIAAJ</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust">http://hdl.handle.net/2027/wu.89097872832</url>
+                </location>
+                <location>
+                    <url displayLabel="1st 1K"
+                        >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0057/tlg081/tlg0057.tlg081.1st1K-grc1.xml</url>
+                </location>                
+            </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Les actes de Pierre">
         <titleInfo>
             <title>Les actes de Pierre</title>
@@ -12542,7 +12372,8 @@
         </subject>
         <relatedItem type="series">
             <titleInfo>
-                <title>Les actes de Pierre</title>
+                <nonSort>Les</nonSort>
+                <title>actes de Pierre</title>
             </titleInfo>
         </relatedItem>
         <identifier type="oclc">817151953</identifier>
@@ -12555,52 +12386,24 @@
         <location>
             <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003111247</url>
         </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Μαρτύριον τοῦ ἁγίου ἀποστόλου Πέτρου</title>
-            </titleInfo>
-            <name type="corporate" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/185068871/">
-                <namePart>Acta Petri</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/17269441">
-                <namePart>Vouaux, Léon</namePart>
-                <namePart type="date">1870-1914</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
+      <relatedItem type="constituent" otherType="work" displayLabel="Μαρτύριον τοῦ ἁγίου ἀποστόλου Πέτρου">
             <identifier type="tlg">0389.001</identifier>
-            <part>
-                <extent unit="pages">
-                    <start>398</start>
-                    <end>466</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/pst.000009926974?urlappend=%3Bseq=412</url>
-            </location>
-        </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work" displayLabel="Les actes de Pierre">
-
             <relatedItem type="constituent" otherType="expression"
-                displayLabel="Les actes de Pierre"> </relatedItem>
+                displayLabel="Les actes de Pierre">
+                <part>
+                    <extent unit="pages">
+                        <start>398</start>
+                        <end>466</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/pst.000009926974?urlappend=%3Bseq=412</url>
+                </location>                
+            </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="M. Cornelii Frontonis Epistulae adnotatione critica instructae">
         <titleInfo>
             <title>M. Cornelii Frontonis Epistulae adnotatione critica instructae</title>
@@ -12675,463 +12478,144 @@
         <location>
             <url displayLabel="PHI">http://latin.packhum.org/author/1248</url>
         </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Ad M. Caesarem et Inivcem</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Ad M. Caesarem et Inivcem">
             <identifier type="phi">1248.1</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/1/0#0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/1/0#0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Ad M. Antoninum Imp. Epist.</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Ad M. Antoninum Imp. Epist.">
             <identifier type="phi">1248.2</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/2/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/2/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Ad Verum Imp.Epistulae</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Ad Verum Imp.Epistulae">
             <identifier type="phi">1248.3</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/3/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/3/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>De Eloquentia</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="De Eloquentia">
             <identifier type="phi">1248.4</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/4/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/4/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>De Orationibus</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="De Orationibus">
             <identifier type="phi">1248.5</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/5/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/5/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Ad Antoninum Pium Epistulae</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Ad Antoninum Pium Epistulae">
             <identifier type="phi">1248.6</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/6/0#0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/6/0#0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Ad Amicos Epistulae</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Ad Amicos Epistulae">
             <identifier type="phi">1248.7</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/7/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/7/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Principiae Historiae</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Principiae Historiae">
             <identifier type="phi">1248.8</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/7/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/7/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Laudes Fumi et Pulveris</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Laudes Fumi et Pulveris">
             <identifier type="phi">1248.9</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/9/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/9/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Laudes Neglegentiae</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Laudes Neglegentiae">
             <identifier type="phi">1248.10</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/10/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/10/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>De Bello Parthico</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="De Bello Parthico">
             <identifier type="phi">1248.11</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/11/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/11/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>De Feriis Alsiensibus</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="De Feriis Alsiensibus">
             <identifier type="phi">1248.12</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/12/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/12/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>De Nepote Amisso</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="De Nepote Amisso">
             <identifier type="phi">1248.13</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/13/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/13/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Arion</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Arion">
             <identifier type="phi">1248.14</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/14/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/14/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Additamentum Epist. Aceph.</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Additamentum Epist. Aceph.">
             <identifier type="phi">1248.15</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/15/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/15/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Fragmenta</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
             <identifier type="phi">1248.16</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/16/0</url>
-            </location>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/16/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Carmina</title>
-            </titleInfo>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/66499129/">
-                <namePart>Fronto, Marcus Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/54185287/">
-                <namePart>Hout, Michael Petrus Josephus van den</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-            </language>
+        <relatedItem type="constituent" otherType="work" displayLabel="Carmina">
             <identifier type="phi">1248.17</identifier>
-            <location>
-                <url displayLabel="PHI">http://latin.packhum.org/loc/1248/17/0</url>
-            </location>
-        </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-            <recordOrigin/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="M. Cornelii Frontonis Epistulae adnotatione critica instructae">
-
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="M. Cornelii Frontonis Epistulae adnotatione critica instructae"
-            > </relatedItem>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/17/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Myriobiblion sive Bibliotheca">
         <titleInfo type="alternative">
             <title>Myriobiblion sive Bibliotheca</title>
