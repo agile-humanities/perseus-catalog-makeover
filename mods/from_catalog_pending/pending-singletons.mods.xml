@@ -13068,6 +13068,18 @@
         <titleInfo xml:lang="en" type="uniform">
             <title>Quae Fertur In Aristotelis Analyticorum Priorum Librum I</title>
         </titleInfo>
+        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-127090.html">
+            <namePart>Themistius</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" xlink:href="http://viaf.org/viaf/5048928/">
+            <namePart>Wallies, Maximilian</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
         <part>
             <extent unit="words">
                 <total>73271</total>
@@ -13080,8 +13092,7 @@
             <title>Them. in APr</title>
         </titleInfo>
         <identifier type="oclc">301534170</identifier>
-        <identifier type="tlg">2001.042</identifier>
-        <identifier type="ctsurn">urn:cts:greekLit:tlg2001.tlg042.opp-grc1</identifier>
+        
         <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
@@ -13099,10 +13110,8 @@
             <digitalOrigin>digitized other analog</digitalOrigin>
         </physicalDescription>
         <classification authority="lcc">PA3902 A25</classification>
-        <classification authority="ddc"/>
-        <location>
-            <url displayLabel="LC Permalink"/>
-        </location>
+        
+        
         <location>
             <url displayLabel="WorldCat">http://www.worldcat.org/oclc/301534170</url>
         </location>
@@ -13153,28 +13162,11 @@
             </subject>
             <classification authority="lcc">PA3902 A25</classification>
         </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OTU</recordContentSource>
-            <recordCreationDate encoding="marc">670101</recordCreationDate>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
+        
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
         </language>
-        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-127090.html">
-            <namePart>Themistius</namePart>
-            <role>
-                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" xlink:href="http://viaf.org/viaf/5048928/">
-            <namePart>Wallies, Maximilian</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
+        
         <subject authority="lcsh">
             <topic>Aristotle,</topic>
             <temporal>384-322 B.C.</temporal>
@@ -13189,12 +13181,14 @@
         <relatedItem type="constituent" otherType="work"
             displayLabel="Quae Fertur In Aristotelis Analyticorum Priorum Librum I">
             <identifier type="ctsurn">urn:cts:greekLit:tlg2001.tlg042</identifier>
+            <identifier type="tlg">2001.042</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Quae Fertur In Aristotelis Analyticorum Priorum Librum I">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg2001.tlg042.opp-grc1</identifier>
             </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean">
         <titleInfo>
             <title>Une deuxième apocalypse apocryphe grecque de saint Jean</title>
@@ -13262,7 +13256,7 @@
             <language objectPart="text">
                 <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
             </language>
-            <identifier type="tlg">1158.002</identifier>
+            
             <part>
                 <extent unit="pages">
                     <start>215</start>
@@ -13274,20 +13268,16 @@
                     >http://hdl.handle.net/2027/mdp.39015034791916?urlappend=%3Bseq=234</url>
             </location>
         </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
+        
         <relatedItem type="constituent" otherType="work"
             displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean">
-
+            <identifier type="tlg">1158.002</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean"
             > </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Vita Porphyrii episcopi gazensis">
         <titleInfo type="uniform" lang="lat">
             <title>Vita Porphyrii episcopi gazensis</title>
@@ -13351,8 +13341,6 @@
         <classification authority="lcc">PA3404 .M24 1895</classification>
         <identifier type="lccn">34010824</identifier>
         <identifier type="oclc">6732629</identifier>
-        <identifier type="tlg">2806.001</identifier>
-        <identifier type="ctsurn">urn:cts:greekLit:tlg2806.tlg001.1st1K-grc1</identifier>
         <location>
             <url displayLabel="First1KGreek"
                 >https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/tlg2806/tlg001</url>
@@ -13363,16 +13351,9 @@
         <location>
             <url displayLabel="GoogleBOoks">https://books.google.com/books?id=lopLAAAAIAAJ</url>
         </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">841012</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20140227113117.0</recordChangeDate>
-            <recordIdentifier>6887262</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-                (Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Vita Porphyrii episcopi gazensis">
+            <identifier type="tlg">2806.001</identifier>
             <identifier type="ctsurn">urn:cts:greekLit:tlg2806.tlg001</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Vita Porphyrii episcopi gazensis">
@@ -13380,6 +13361,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="in Aristotelis Analytica Posteriora commentaria">
         <titleInfo xml:lang="lat" type="uniform">
             <title>in Aristotelis Analytica Posteriora commentaria</title>
