@@ -12975,97 +12975,95 @@
         <titleInfo xml:lang="en" type="uniform">
             <title>Punica</title>
         </titleInfo>
-        <titleInfo xml:lang="en">
-            <title>Punica</title>
-            <partNumber>Volume 1</partNumber>
-        </titleInfo>
-        <identifier type="lccn">34017332</identifier>
-        <identifier type="oclc">4156319</identifier>
-        <identifier type="oca">punicasi01siliuoft</identifier>
-        <identifier type="phi">1345.1</identifier>
-        <identifier type="stoa author-text">stoa0263-stoa001</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-eng2</identifier>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge, Mass</placeTerm>
-            </place>
-            <publisher>Harvard University Press</publisher>
-            <dateIssued>1927</dateIssued>
-            <dateModified>1961</dateModified>
-            <edition>Reprint</edition>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xviii, 443 pg.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <tableOfContents>Book I-VIII</tableOfContents>
-        <note type="statement of responsibility">with an English translation by J. D. Duff
-            ...</note>
-        <note>Latin and English on opposite pages.</note>
-        <classification authority="lcc">PA6156.S6 1934</classification>
-        <classification authority="ddc">873.4</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>The Loeb classical library. [Latin authors]</title>
-            </titleInfo>
-        </relatedItem>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/4156319</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/punicasi01siliuoft</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"
-                >http://www.openlibrary.org/details/punicasi01siliuoft</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks"/>
-        </location>
-        <location>
-            <url displayLabel="LC Permalink">http://lccn.loc.gov/34017332</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OTSM</recordContentSource>
-            <recordCreationDate encoding="marc">881104</recordCreationDate>
-            <languageOfCataloging>
+        <relatedItem type="constituent" otherType="structure">
+            <part type="volume">
+                <detail>
+                    <number>1</number>
+                </detail>
+            </part>
+            <identifier type="lccn">34017332</identifier>
+            <identifier type="oclc">4156319</identifier>
+            <identifier type="oca">punicasi01siliuoft</identifier>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge, Mass</placeTerm>
+                </place>
+                <publisher>Harvard University Press</publisher>
+                <dateIssued>1927</dateIssued>
+                <dateModified>1961</dateModified>
+                <edition>Reprint</edition>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>xviii, 443 pg.</extent>
+                <digitalOrigin>digitized other analog</digitalOrigin>
+            </physicalDescription>
+            <tableOfContents>Book I-VIII</tableOfContents>
+            <note type="statement of responsibility">with an English translation by J. D. Duff
+                ...</note>
+            <note>Latin and English on opposite pages.</note>
+            <classification authority="lcc">PA6156.S6 1934</classification>
+            <classification authority="ddc">873.4</classification>
+            <relatedItem type="series">
+                <titleInfo>
+                    <title>The Loeb classical library. [Latin authors]</title>
+                </titleInfo>
+            </relatedItem>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/4156319</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"
+                    >http://www.archive.org/details/punicasi01siliuoft</url>
+            </location>
+            <location>
+                <url displayLabel="Open Library"
+                    >http://www.openlibrary.org/details/punicasi01siliuoft</url>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks"/>
+            </location>
+            <location>
+                <url displayLabel="LC Permalink">http://lccn.loc.gov/34017332</url>
+            </location>
+            <language>
                 <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
-        <language>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-        </language>
-        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-120267.html">
-            <namePart>Silius Italicus, Tiberius Catius.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n50-26939.html">
-            <namePart>Duff, J. D. (James Duff)</namePart>
-            <namePart type="date">1860-1940</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
-            </role>
-        </name>
-        <subject authority="lcsh">
-            <topic>Punic war, 2nd, 218-210 B.C</topic>
-            <topic>Poetry</topic>
-        </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Punica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Punica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-eng2</identifier>
+            </language>
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n79-120267.html">
+                <namePart>Silius Italicus, Tiberius Catius</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/n50-26939.html">
+                <namePart>Duff, J. D. (James Duff)</namePart>
+                <namePart type="date">1860-1940</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <subject authority="lcsh">
+                <topic>Punic war, 2nd, 218-210 B.C</topic>
+                <topic>Poetry</topic>
+            </subject>
+            <relatedItem type="constituent" otherType="work" displayLabel="Punica">
+                <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001</identifier>
+                <identifier type="phi">1345.1</identifier>
+                <identifier type="stoa author-text">stoa0263-stoa001</identifier>
+                <relatedItem type="constituent" otherType="expression" displayLabel="Punica">
+                    <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-eng2</identifier>
+                </relatedItem>
             </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Quae Fertur In Aristotelis Analyticorum Priorum Librum I">
         <titleInfo xml:lang="en" type="uniform">
             <title>Quae Fertur In Aristotelis Analyticorum Priorum Librum I</title>
