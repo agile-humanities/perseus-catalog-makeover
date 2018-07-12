@@ -13498,6 +13498,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Davidis prolegomena et in Porphyrii isagogen commentarium">
         <titleInfo>
             <title>Davidis prolegomena et in Porphyrii isagogen commentarium</title>
@@ -13696,6 +13697,7 @@
             > </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Eliae in Porphyrii isagogen et Aristotelis categorias commentaria">
         <titleInfo>
             <title>Eliae in Porphyrii isagogen et Aristotelis categorias commentaria</title>
@@ -13755,127 +13757,6 @@
         <location>
             <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.aa0008103608</url>
         </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>In Porphyrii isagogen</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/2147118089326340297/">
-                <namePart>Elias</namePart>
-                <namePart type="termsOfAddress">Neoplatonicus</namePart>
-                <role>
-                    <roleTerm type="text" authority="marcrelator">attributed author</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/98427196/">
-                <namePart>Busse, Adolf</namePart>
-                <namePart type="date">1856-1942</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">4020.001</identifier>
-            <!--      <identifier type="tlg" displayLabel="isCommentaryOn">2034.006</identifier> -->
-            <part>
-                <extent unit="pages">
-                    <start>1</start>
-                    <end>104</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >https://archive.org/stream/commentariaina18pt13akaduoft#page/n37/mode/2up</url>
-            </location>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=40</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Eliae (olim Davidis) in Aristotelis categorias commentarium</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/2147118089326340297/">
-                <namePart>Elias</namePart>
-                <namePart type="termsOfAddress">Neoplatonicus</namePart>
-                <role>
-                    <roleTerm type="text" authority="marcrelator">attributed author</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/98427196/">
-                <namePart>Busse, Adolf</namePart>
-                <namePart type="date">1856-1942</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">4020.002</identifier>
-            <!--      <identifier type="tlg" displayLabel="isCommentaryOn">0086.006</identifier> -->
-            <part>
-                <extent unit="pages">
-                    <start>107</start>
-                    <end>255</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >https://archive.org/stream/commentariaina18pt13akaduoft#page/n143/mode/2up</url>
-            </location>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=144</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>In Aristotelis categorias commentarium</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/14779150/">
-                <namePart>David</namePart>
-                <namePart type="termsOfAddress">the Invincible</namePart>
-                <role>
-                    <roleTerm type="text" authority="marcrelator">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/98427196/">
-                <namePart>Busse, Adolf</namePart>
-                <namePart type="date">1856-1942</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">4021.003</identifier>
-            <!-- Have cataloged this work twice, as it is now commonly attributed to David the Armenian commentator -->
-            <!--      <identifier type="tlg" displayLabel="isCommentaryOn">0086.006</identifier> -->
-            <part>
-                <extent unit="pages">
-                    <start>107</start>
-                    <end>255</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >https://archive.org/stream/commentariaina18pt13akaduoft#page/n143/mode/2up</url>
-            </location>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=144</url>
-            </location>
-        </relatedItem>
         <relatedItem type="series">
             <titleInfo>
                 <title>Commentaria in Aristotelem graeca</title>
@@ -13915,21 +13796,67 @@
             </subject>
             <classification authority="lcc">PA3902 A25</classification>
         </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OTU</recordContentSource>
-            <recordCreationDate encoding="marc">670101</recordCreationDate>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Eliae in Porphyrii isagogen et Aristotelis categorias commentaria">
-
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Eliae in Porphyrii isagogen et Aristotelis categorias commentaria"
-            > </relatedItem>
+        
+        <relatedItem type="constituent" otherType="work" displayLabel="In Porphyrii isagogen">
+            <identifier type="tlg">4020.001</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <part>
+                    <extent unit="pages">
+                        <start>1</start>
+                        <end>104</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >https://archive.org/stream/commentariaina18pt13akaduoft#page/n37/mode/2up</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=40</url>
+                </location>
+            </relatedItem>
         </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Eliae (olim Davidis) in Aristotelis categorias commentarium">
+            <identifier type="tlg">4020.002</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <part>
+                    <extent unit="pages">
+                        <start>107</start>
+                        <end>255</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >https://archive.org/stream/commentariaina18pt13akaduoft#page/n143/mode/2up</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=144</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="In Aristotelis categorias commentarium">
+            <identifier type="tlg">4021.003</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <part>
+                    <extent unit="pages">
+                        <start>107</start>
+                        <end>255</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >https://archive.org/stream/commentariaina18pt13akaduoft#page/n143/mode/2up</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=144</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        
     </mods>
+
     <mods displayLabel="Eudociae Augustae Violarium">
         <titleInfo>
             <title>Eudociae Augustae Violarium</title>
@@ -13990,7 +13917,7 @@
                 <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
             </titleInfo>
         </relatedItem>
-        <identifier type="tlg">2766a.001</identifier>
+
         <identifier type="lccn">34018609</identifier>
         <identifier type="oclc">2551636</identifier>
         <identifier type="oca">eudociaeaugustae00palauoft</identifier>
@@ -14020,11 +13947,12 @@
             </languageOfCataloging>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Eudociae Augustae Violarium">
-
+            <identifier type="tlg">2766a.001</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Eudociae Augustae Violarium"> </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="In Aristotelis Categorias Commentarium">
         <titleInfo type="uniform" lang="lat">
             <title>In Aristotelis Categorias Commentarium</title>
@@ -14078,7 +14006,7 @@
         </subject>
         <classification authority="lcc">PA3902 A25</classification>
         <identifier type="oclc">299723573</identifier>
-        <identifier type="tlg">4013.003</identifier>
+        
         <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg003.opp-grc1</identifier>
         <!-- 
    <identifier type="tlg" displayLabel="isCommentaryOn">0086.006</identifier> -->
@@ -14140,6 +14068,7 @@
         </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="In Aristotelis Categorias Commentarium">
+            <identifier type="tlg">4013.003</identifier>
             <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg003</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="In Aristotelis Categorias Commentarium">
@@ -14147,6 +14076,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
+    
     <mods displayLabel="In Aristotelis quattuor libros de caelo commentaria">
         <titleInfo type="uniform" lang="lat">
             <title>In Aristotelis quattuor libros de caelo commentaria</title>
@@ -14200,8 +14130,7 @@
         </subject>
         <classification authority="lcc">PA3902 A25</classification>
         <identifier type="oclc">60440687</identifier>
-        <identifier type="tlg">4013.001</identifier>
-        <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg001.opp-grc1</identifier>
+        
         <!-- 
    <identifier type="tlg" displayLabel="isCommentaryOn">0086.005</identifier> -->
         <location>
@@ -14254,15 +14183,10 @@
             </subject>
             <classification authority="lcc">PA3902 A25</classification>
         </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OTU</recordContentSource>
-            <recordCreationDate encoding="marc">670101</recordCreationDate>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
+        
         <relatedItem type="constituent" otherType="work"
             displayLabel="In Aristotelis quattuor libros de caelo commentaria">
+            <identifier type="tlg">4013.001</identifier>
             <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg001</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="In Aristotelis quattuor libros de caelo commentaria">
@@ -14270,6 +14194,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Astronomica">
         <titleInfo type="uniform">
             <title>Astronomica</title>
@@ -14282,14 +14207,14 @@
             <title>Poetica astronomica</title>
         </titleInfo>
         <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n84-175578.html">
-            <namePart>Hyginus, C. Julius.</namePart>
+            <namePart>Hyginus, C. Julius</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/39379691/">
-            <namePart>Le Bœuffle, André.</namePart>
+            <namePart>Le Bœuffle, André</namePart>
             <namePart type="date">1924-2006</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
@@ -14334,7 +14259,7 @@
         <identifier type="isbn">2251013210</identifier>
         <identifier type="lccn">83228645</identifier>
         <identifier type="oclc">895032125</identifier>
-        <identifier type="phi">899.1</identifier>
+
         <location>
             <url displayLabel="Worldcat"
                 >http://www.worldcat.org/title/astronomie/oclc/895032125</url>
@@ -14342,17 +14267,9 @@
         <location>
             <url displayLabel="PHI">http://latin.packhum.org/loc/899/1/0</url>
         </location>
-        <recordInfo>
-            <descriptionStandard>aacr</descriptionStandard>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">850607</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20090630150830.0</recordChangeDate>
-            <recordIdentifier>946457</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-                (Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
+        
         <relatedItem type="constituent" otherType="work" displayLabel="Astronomica">
-
+            <identifier type="phi">899.1</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="Astronomica"
             > </relatedItem>
         </relatedItem>
