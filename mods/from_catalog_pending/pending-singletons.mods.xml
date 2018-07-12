@@ -12852,7 +12852,7 @@
         </relatedItem>
         <note type="statement of responsibility"/>
         <classification authority="lcc"/>
-        <identifier type="rhg">rhg0001.rhg001</identifier>
+        
         <identifier type="oclc">10261570</identifier>
         <identifier type="oca">romanisophistaep00romauoft</identifier>
         <location>
@@ -12869,18 +12869,14 @@
         <location>
             <url displayLabel="GoogleBooks">http://books.google.com/books?id=6E0BAAAAMAAJ</url>
         </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
+        
         <relatedItem type="constituent" otherType="work" displayLabel="Peri aneimenou libellus">
-
+            <identifier type="rhg">rhg0001.rhg001</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Peri aneimenou libellus"> </relatedItem>
         </relatedItem>
     </mods>
+
     <mods displayLabel="Pseudo-Augustini Quaestiones Veteris et Novi Testamenti CXXVII">
         <titleInfo>
             <title>Pseudo-Augustini Quaestiones Veteris et Novi Testamenti CXXVII</title>
