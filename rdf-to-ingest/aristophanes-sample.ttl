@@ -8,7 +8,7 @@
 @prefix expression: <http://catalog.perseus.org/expressions/> .
 @prefix viaf: <http://viaf.org/viaf/> .
 
- viaf:20962036 a :F10_Person ;
+viaf:20962036 a :F10_Person ;
  	       rdfs:label "Aristophanes"@en ;
 	       schema:sameAs author:202.1 .
 
