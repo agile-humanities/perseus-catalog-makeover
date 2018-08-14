@@ -9,6 +9,6 @@ prefix expression: <http://catalog.perseus.org/expressions/>
 
 select ?s ?l
 where {
-  ?s a :F22_Self_Contained_Expression ;
+  ?s a :F1_Work ;
      rdfs:label ?l .
   }
