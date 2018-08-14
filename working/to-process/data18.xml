@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data n="18">
+    <item title="Heronis Alexandrini Opera quae supersunt omnia" count="10">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Heronis Alexandrini Opera quae supersunt omnia</mods:title>
+                <mods:partNumber>Vol 1</mods:partNumber>
+                <mods:partName>Pneumatica et Automata</mods:partName>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+                <mods:namePart>Hero,</mods:namePart>
+                <mods:namePart type="termsOfAddress">of Alexandria</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/no2005-77533.html">
+                <mods:namePart>Schmidt, Wilhelm</mods:namePart>
+                <mods:namePart type="date">1862-1905</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                <mods:dateIssued>1899</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="preface">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>lxxii, 514 pg.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note type="statement of responsibility">recensuit Guilelumus Schmidt; accedunt
+                Heronis fragmentum De horoscopiis aquariis, Philonis De ingeniis spiritualibus,
+                Vitruvii capita quaedam ad pneumatica pertinentia </mods:note>
+            <mods:subject>
+                <mods:geographicCode authority="marcgac">e-gr---</mods:geographicCode>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mathematics, Greek</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Physics</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3404 .H4 1899</mods:classification>
+            <mods:identifier type="lccn">15013159</mods:identifier>
+            <mods:identifier type="oclc">43057814</mods:identifier>
+
+            <mods:location>
+                <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/15013159</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/43057814</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Library"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=mNY2AAAAMAAJ</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="HathiTrust"
+                    >https://hdl.handle.net/2027/mdp.39015024207253</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc">840313</mods:recordCreationDate>
+                <mods:recordChangeDate encoding="iso8601">20080219170220.0</mods:recordChangeDate>
+                <mods:recordIdentifier>7302729</mods:recordIdentifier>
+                <mods:recordOrigin>Converted from MARCXML to MODS version 3.4 using
+                    MARC21slim2MODS3-4.xsl (Revision 1.74)</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg006.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" type="uniform">
+                    <mods:title>Metrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Catoptrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg005.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Catoptrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg002.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">De automatis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg003.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta de
+                        Horoscopiis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg003.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta de
+                        Horoscopiis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg004.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Mechanicorum
+                        Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg006.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Metrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Pneumatica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg001.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Pneumatica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Heronis Alexandrini Opera quae supersunt omnia" count="10">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Heronis Alexandrini Opera quae supersunt omnia</mods:title>
+                <mods:partNumber>Vol 1</mods:partNumber>
+                <mods:partName>Pneumatica et Automata</mods:partName>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+                <mods:namePart>Hero,</mods:namePart>
+                <mods:namePart type="termsOfAddress">of Alexandria</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/no2005-77533.html">
+                <mods:namePart>Schmidt, Wilhelm</mods:namePart>
+                <mods:namePart type="date">1862-1905</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                <mods:dateIssued>1899</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="preface">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>lxxii, 514 pg.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note type="statement of responsibility">recensuit Guilelumus Schmidt; accedunt
+                Heronis fragmentum De horoscopiis aquariis, Philonis De ingeniis spiritualibus,
+                Vitruvii capita quaedam ad pneumatica pertinentia </mods:note>
+            <mods:subject>
+                <mods:geographicCode authority="marcgac">e-gr---</mods:geographicCode>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mathematics, Greek</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Physics</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3404 .H4 1899</mods:classification>
+            <mods:identifier type="lccn">15013159</mods:identifier>
+            <mods:identifier type="oclc">43057814</mods:identifier>
+
+            <mods:location>
+                <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/15013159</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/43057814</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Library"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=mNY2AAAAMAAJ</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="HathiTrust"
+                    >https://hdl.handle.net/2027/mdp.39015024207253</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc">840313</mods:recordCreationDate>
+                <mods:recordChangeDate encoding="iso8601">20080219170220.0</mods:recordChangeDate>
+                <mods:recordIdentifier>7302729</mods:recordIdentifier>
+                <mods:recordOrigin>Converted from MARCXML to MODS version 3.4 using
+                    MARC21slim2MODS3-4.xsl (Revision 1.74)</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg006.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" type="uniform">
+                    <mods:title>Metrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Catoptrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg005.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Catoptrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg002.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">De automatis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg003.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta de
+                        Horoscopiis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg003.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta de
+                        Horoscopiis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg004.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Mechanicorum
+                        Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg006.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Metrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Pneumatica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg001.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Pneumatica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Heronis Alexandrini Opera quae supersunt omnia" count="10">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Heronis Alexandrini Opera quae supersunt omnia</mods:title>
+                <mods:partNumber>Vol 1</mods:partNumber>
+                <mods:partName>Pneumatica et Automata</mods:partName>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+                <mods:namePart>Hero,</mods:namePart>
+                <mods:namePart type="termsOfAddress">of Alexandria</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/no2005-77533.html">
+                <mods:namePart>Schmidt, Wilhelm</mods:namePart>
+                <mods:namePart type="date">1862-1905</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                <mods:dateIssued>1899</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="preface">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>lxxii, 514 pg.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note type="statement of responsibility">recensuit Guilelumus Schmidt; accedunt
+                Heronis fragmentum De horoscopiis aquariis, Philonis De ingeniis spiritualibus,
+                Vitruvii capita quaedam ad pneumatica pertinentia </mods:note>
+            <mods:subject>
+                <mods:geographicCode authority="marcgac">e-gr---</mods:geographicCode>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mathematics, Greek</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Physics</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3404 .H4 1899</mods:classification>
+            <mods:identifier type="lccn">15013159</mods:identifier>
+            <mods:identifier type="oclc">43057814</mods:identifier>
+
+            <mods:location>
+                <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/15013159</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/43057814</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Library"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=mNY2AAAAMAAJ</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc">840313</mods:recordCreationDate>
+                <mods:recordChangeDate encoding="iso8601">20080219170220.0</mods:recordChangeDate>
+                <mods:recordIdentifier>7302729</mods:recordIdentifier>
+                <mods:recordOrigin>Converted from MARCXML to MODS version 3.4 using
+                    MARC21slim2MODS3-4.xsl (Revision 1.74)</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg006.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" type="uniform">
+                    <mods:title>Metrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Catoptrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg005.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Catoptrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg002.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">De automatis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg003.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta de
+                        Horoscopiis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg003.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta de
+                        Horoscopiis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg004.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Mechanicorum
+                        Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg006.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Metrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Pneumatica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg001.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Pneumatica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Heronis Alexandrini Opera quae supersunt omnia" count="10">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Heronis Alexandrini Opera quae supersunt omnia</mods:title>
+                <mods:partNumber>Vol 2-Fasc I</mods:partNumber>
+                <mods:partName>Mechanica et Catoptrica</mods:partName>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+                <mods:namePart>Hero,</mods:namePart>
+                <mods:namePart type="termsOfAddress">of Alexandria</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n80-106962.html">
+                <mods:namePart>Qusṭā ibn Lūqā</mods:namePart>
+                <mods:namePart type="date">ca. 820-ca. 912</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/no2005-77533.html">
+                <mods:namePart>Schmidt, Wilhelm</mods:namePart>
+                <mods:namePart type="date">1862-1905</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/no2009-73066.html">
+                <mods:namePart>Nix, Ludwig Leo Michael</mods:namePart>
+                <mods:namePart type="date">1865-1904</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                <mods:dateIssued>1900</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">ara</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="preface">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>xliv, 415 pg.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note>This book has been scanned in backwards</mods:note>
+            <mods:note type="statement of responsibility">accedunt quaedam excerpta</mods:note>
+            <mods:subject>
+                <mods:geographicCode authority="marcgac">e-gr---</mods:geographicCode>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mathematics, Greek</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Physics</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3404 .H4 1899</mods:classification>
+            <mods:identifier type="lccn">15013159</mods:identifier>
+            <mods:identifier type="oclc">43057814</mods:identifier>
+
+            <mods:location>
+                <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/15013159</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/43057814</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Library"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=fNc2AAAAMAAJ</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc">840313</mods:recordCreationDate>
+                <mods:recordChangeDate encoding="iso8601">20080219170220.0</mods:recordChangeDate>
+                <mods:recordIdentifier>7302729</mods:recordIdentifier>
+                <mods:recordOrigin>Converted from MARCXML to MODS version 3.4 using
+                    MARC21slim2MODS3-4.xsl (Revision 1.74)</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg006.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" type="uniform">
+                    <mods:title>Metrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Catoptrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg005.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Catoptrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg002.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">De automatis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg003.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta de
+                        Horoscopiis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg003.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta de
+                        Horoscopiis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg004.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Mechanicorum
+                        Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg006.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Metrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Pneumatica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg001.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Pneumatica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Heronis Alexandrini Opera quae supersunt omnia" count="10">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Heronis Alexandrini Opera quae supersunt omnia</mods:title>
+                <mods:partNumber>Vol 3</mods:partNumber>
+                <mods:partName>Rationes dimetiendi et Commentatio dioptrica</mods:partName>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+                <mods:namePart>Hero,</mods:namePart>
+                <mods:namePart type="termsOfAddress">of Alexandria</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/no2005-77279.html">
+                <mods:namePart>Schöne, Hermann</mods:namePart>
+                <mods:namePart type="date">1870-1941</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                <mods:dateIssued>1903</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="preface">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>xxi, 366 pg.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note/>
+            <mods:note type="statement of responsibility"/>
+            <mods:subject>
+                <mods:geographicCode authority="marcgac">e-gr---</mods:geographicCode>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mathematics, Greek</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Physics</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3404 .H4 1899</mods:classification>
+            <mods:identifier type="lccn">15013159</mods:identifier>
+            <mods:identifier type="oclc">43057814</mods:identifier>
+
+            <mods:location>
+                <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/15013159</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/43057814</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Library"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=rh6hB9Vehs4C</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="HathiTrust"
+                    >https://hdl.handle.net/2027/mdp.39015017390363</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc">840313</mods:recordCreationDate>
+                <mods:recordChangeDate encoding="iso8601">20080219170220.0</mods:recordChangeDate>
+                <mods:recordIdentifier>7302729</mods:recordIdentifier>
+                <mods:recordOrigin>Converted from MARCXML to MODS version 3.4 using
+                    MARC21slim2MODS3-4.xsl (Revision 1.74)</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg006.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" type="uniform">
+                    <mods:title>Metrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Catoptrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg005.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Catoptrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg002.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">De automatis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg003.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta de
+                        Horoscopiis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg003.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta de
+                        Horoscopiis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg004.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Mechanicorum
+                        Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg006.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Metrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Pneumatica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg001.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Pneumatica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Heronis Alexandrini opera quae supersunt omnia" count="2">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Heronis Alexandrini opera quae supersunt omnia</mods:title>
+                <mods:partNumber>Vol 3</mods:partNumber>
+                <mods:partName>Rationes dimetiendi et Commentatio dioptrica</mods:partName>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+                <mods:namePart>Hero,</mods:namePart>
+                <mods:namePart type="termsOfAddress">of Alexandria</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/no2005-77279.html">
+                <mods:namePart>Schöne, Hermann</mods:namePart>
+                <mods:namePart type="date">1870-1941</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                <mods:dateIssued>1903</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="preface">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>xxi, 366 pg.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note/>
+            <mods:note type="statement of responsibility"/>
+            <mods:subject>
+                <mods:geographicCode authority="marcgac">e-gr---</mods:geographicCode>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mathematics, Greek</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Physics</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3404 .H4 1899</mods:classification>
+            <mods:identifier type="lccn">15013159</mods:identifier>
+            <mods:identifier type="oclc">43057814</mods:identifier>
+
+            <mods:location>
+                <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/15013159</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/43057814</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="HathiTrust"
+                    >https://hdl.handle.net/2027/mdp.39015017390363</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=rh6hB9Vehs4C</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc">840313</mods:recordCreationDate>
+                <mods:recordChangeDate encoding="iso8601">20080219170220.0</mods:recordChangeDate>
+                <mods:recordIdentifier>7302729</mods:recordIdentifier>
+                <mods:recordOrigin>Converted from MARCXML to MODS version 3.4 using
+                    MARC21slim2MODS3-4.xsl (Revision 1.74)</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg007.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Dioptra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Dioptra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Heronis Alexandrini ppera quae supersunt omnia" count="1">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Heronis Alexandrini ppera quae supersunt omnia</mods:title>
+                <mods:partNumber>Vol 2-Fasc I</mods:partNumber>
+                <mods:partName>Mechanica et Catoptrica</mods:partName>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+                <mods:namePart>Hero,</mods:namePart>
+                <mods:namePart type="termsOfAddress">of Alexandria</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n80-106962.html">
+                <mods:namePart>Qusṭā ibn Lūqā</mods:namePart>
+                <mods:namePart type="date">ca. 820-ca. 912</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/no2005-77533.html">
+                <mods:namePart>Schmidt, Wilhelm</mods:namePart>
+                <mods:namePart type="date">1862-1905</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/no2009-73066.html">
+                <mods:namePart>Nix, Ludwig Leo Michael</mods:namePart>
+                <mods:namePart type="date">1865-1904</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                <mods:dateIssued>1900</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">ara</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="preface">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>xliv, 415 pg.</mods:extent>
+            </mods:physicalDescription>
+            <mods:note>This book has been scanned in backwards</mods:note>
+            <mods:note type="statement of responsibility">accedunt quaedam excerpta</mods:note>
+            <mods:subject>
+                <mods:geographicCode authority="marcgac">e-gr---</mods:geographicCode>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mathematics, Greek</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Physics</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3404 .H4 1899</mods:classification>
+            <mods:identifier type="lccn">15013159</mods:identifier>
+            <mods:identifier type="oclc">43057814</mods:identifier>
+
+            <mods:location>
+                <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/15013159</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/43057814</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Library"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=fNc2AAAAMAAJ</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc">840313</mods:recordCreationDate>
+                <mods:recordChangeDate encoding="iso8601">20080219170220.0</mods:recordChangeDate>
+                <mods:recordIdentifier>7302729</mods:recordIdentifier>
+                <mods:recordOrigin>Converted from MARCXML to MODS version 3.4 using
+                    MARC21slim2MODS3-4.xsl (Revision 1.74)</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg004.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Mechanicorum
+                        Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+
+    <item title="Heronis Alexandrini Opera quae supersunt omnia" count="10">
+        <mods:relatedItem xmlns:mods="http://www.loc.gov/mods/v3" type="host">
+            <mods:titleInfo>
+                <mods:title>Heronis Alexandrini Opera quae supersunt omnia</mods:title>
+                <mods:partNumber>Vol 3</mods:partNumber>
+                <mods:partName>Rationes dimetiendi et Commentatio dioptrica</mods:partName>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+                <mods:namePart>Hero,</mods:namePart>
+                <mods:namePart type="termsOfAddress">of Alexandria</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/no2005-77279.html">
+                <mods:namePart>Schöne, Hermann</mods:namePart>
+                <mods:namePart type="date">1870-1941</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                <mods:dateIssued>1903</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>xxi, 366 pg.</mods:extent>
+            </mods:physicalDescription>
+            <mods:relatedItem type="series">
+                <mods:titleInfo>
+                    <mods:title> Bibliotheca scriptorum Graecorum et Romanorum Teubneriana
+                    </mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+            <mods:note/>
+            <mods:note type="statement of responsibility"/>
+            <mods:subject>
+                <mods:geographicCode authority="marcgac">e-gr---</mods:geographicCode>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mathematics, Greek</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Physics</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3404 .H4 1899</mods:classification>
+            <mods:identifier type="lccn">15013159</mods:identifier>
+            <mods:identifier type="oclc">43057814</mods:identifier>
+            
+            <mods:location>
+                <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/15013159</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/43057814</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="HathiTrust"
+                    >https://hdl.handle.net/2027/mdp.39015017390363</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=rh6hB9Vehs4C</mods:url>
+            </mods:location>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg006.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" type="uniform">
+                    <mods:title>Metrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Catoptrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg005.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Catoptrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg002.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">De automatis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg003.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta de
+                        Horoscopiis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg003.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Fragmenta de
+                        Horoscopiis</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg004.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Mechanicorum
+                        Fragmenta</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg006.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Metrica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg001.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Pneumatica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg001.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Pneumatica</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Heronis Alexandrini opera quae supersunt omnia" count="2">
+        <mods:relatedItem xmlns:mods="http://www.loc.gov/mods/v3" type="host">
+            <mods:titleInfo>
+                <mods:title>Heronis Alexandrini opera quae supersunt omnia</mods:title>
+                <mods:partNumber>Vol 3</mods:partNumber>
+                <mods:partName>Rationes dimetiendi et Commentatio dioptrica</mods:partName>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n81-55336.html">
+                <mods:namePart>Hero,</mods:namePart>
+                <mods:namePart type="termsOfAddress">of Alexandria</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/no2005-77279.html">
+                <mods:namePart>Schöne, Hermann</mods:namePart>
+                <mods:namePart type="date">1870-1941</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">gw</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Lipsiae</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>in aedibus B. G. Teubneri</mods:publisher>
+                <mods:dateIssued>1903</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>xxi, 366 pg.</mods:extent>
+            </mods:physicalDescription>
+            <mods:relatedItem type="series">
+                <mods:titleInfo>
+                    <mods:title> Bibliotheca scriptorum Graecorum et Romanorum Teubneriana
+                    </mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+            <mods:note/>
+            <mods:note type="statement of responsibility"/>
+            <mods:subject>
+                <mods:geographicCode authority="marcgac">e-gr---</mods:geographicCode>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mathematics, Greek</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Physics</mods:topic>
+                <mods:genre>Early works to 1800</mods:genre>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3404 .H4 1899</mods:classification>
+            <mods:identifier type="lccn">15013159</mods:identifier>
+            <mods:identifier type="oclc">43057814</mods:identifier>
+            
+            <mods:location>
+                <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/15013159</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/43057814</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Library"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=rh6hB9Vehs4C</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="HathiTrust"
+                    >https://hdl.handle.net/2027/mdp.39015017390363</mods:url>
+            </mods:location>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg007.opp-ger1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:title>Dioptra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0559.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Dioptra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    
+    
+</data>

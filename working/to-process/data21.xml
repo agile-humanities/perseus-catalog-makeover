@@ -1,0 +1,2764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data n="21">
+    <item title="Sophocles" count="28">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Sophocles</title>
+                <subTitle>the plays and fragments with critical notes, commentary, and translation
+                    in English prose</subTitle>
+                <partNumber>Part 2</partNumber>
+                <partName>The Oedipus Coloneus</partName>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+                <namePart>Sophocles</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n50-39216.html">
+                <namePart>Jebb, Richard Claverhouse</namePart>
+                <namePart type="termsOfAddress">Sir</namePart>
+                <namePart type="date">1841-1905.</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                </role>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge</placeTerm>
+                </place>
+                <publisher>The University press</publisher>
+                <dateIssued>1889</dateIssued>
+                <edition>2nd edition</edition>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent/>
+            </physicalDescription>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Sophocles</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA4413 .A2</classification>
+
+            <identifier type="oclc">39793726</identifier>
+            <location>
+                <url displayLabel="LC Permalink"/>
+            </location>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/39793726</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"/>
+            </location>
+            <location>
+                <url displayLabel="Open Library"/>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks">http://books.google.com/books?id=iQQMAAAAYAAJ</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">830419</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010514100920.0 </recordChangeDate>
+                <recordIdentifier>9605363 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Sophocles" count="28">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Sophocles</title>
+                <subTitle>the plays and fragments with critical notes, commentary, and translation
+                    in English prose</subTitle>
+                <partNumber>Part 3</partNumber>
+                <partName>The Antigone</partName>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+                <namePart>Sophocles</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n50-39216.html">
+                <namePart>Jebb, Richard Claverhouse</namePart>
+                <namePart type="termsOfAddress">Sir</namePart>
+                <namePart type="date">1841-1905.</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge</placeTerm>
+                </place>
+                <publisher>The University press</publisher>
+                <dateIssued>1891</dateIssued>
+                <edition>Second Edition</edition>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent/>
+            </physicalDescription>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Sophocles</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA4413 .A2</classification>
+
+            <identifier type="oclc">39793726</identifier>
+            <location>
+                <url displayLabel="LC Permalink"/>
+            </location>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/39793726</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"/>
+            </location>
+            <location>
+                <url displayLabel="Open Library"/>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks"/>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/nyp.33433081618823</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">830419</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010514100920.0 </recordChangeDate>
+                <recordIdentifier>9605363 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Sophocles" count="28">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Sophocles</title>
+                <subTitle>the plays and fragments with critical notes, commentary, and translation
+                    in English prose</subTitle>
+                <partNumber>Part 6</partNumber>
+                <partName>The Electra</partName>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+                <namePart>Sophocles</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n50-39216.html">
+                <namePart>Jebb, Richard Claverhouse</namePart>
+                <namePart type="termsOfAddress">Sir</namePart>
+                <namePart type="date">1841-1905.</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge</placeTerm>
+                </place>
+                <publisher>The University press</publisher>
+                <dateIssued>1894</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent/>
+            </physicalDescription>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Sophocles</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA4413 .A2</classification>
+
+            <identifier type="oclc">1989605</identifier>
+            <location>
+                <url displayLabel="LC Permalink"/>
+            </location>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/1989605</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"/>
+            </location>
+            <location>
+                <url displayLabel="Open Library"/>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks"/>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.31951002351070k</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">830419</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010514100920.0 </recordChangeDate>
+                <recordIdentifier>9605363 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Sophocles" count="28">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Sophocles</title>
+                <subTitle>the plays and fragments with critical notes, commentary, and translation
+                    in English prose</subTitle>
+                <partNumber>Part 7</partNumber>
+                <partName>The Ajax</partName>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+                <namePart>Sophocles</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n50-39216.html">
+                <namePart>Jebb, Richard Claverhouse</namePart>
+                <namePart type="termsOfAddress">Sir</namePart>
+                <namePart type="date">1841-1905.</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge</placeTerm>
+                </place>
+                <publisher>The University press</publisher>
+                <dateIssued>1896</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>lxxiii, 258 p. ; 23 cm</extent>
+            </physicalDescription>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Sophocles</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA4413 .A2</classification>
+            <identifier type="lccn">04014073</identifier>
+            <identifier type="oclc">25466584</identifier>
+            <location>
+                <url displayLabel="LC Permalink">http://lccn.loc.gov/04014073</url>
+            </location>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/25466584</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"/>
+            </location>
+            <location>
+                <url displayLabel="Open Library"/>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks">http://books.google.com/books?id=VXc0AQAAMAAJ</url>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust"/>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">830419</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010514100920.0 </recordChangeDate>
+                <recordIdentifier>9605363 </recordIdentifier>
+            </recordInfo>
+            <typeOfResource>text</typeOfResource>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Sophocles" count="28">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Sophocles</title>
+                <subTitle>the plays and fragments with critical notes, commentary, and translation
+                    in English prose</subTitle>
+                <partNumber>Part 1</partNumber>
+                <partName>The Oedipus Tyrannus</partName>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n50-39216.html">
+                <namePart>Jebb, Richard Claverhouse</namePart>
+                <namePart type="termsOfAddress">Sir</namePart>
+                <namePart type="date">1841-1905.</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge</placeTerm>
+                </place>
+                <publisher>The University press</publisher>
+                <dateIssued>1887</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent/>
+            </physicalDescription>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Sophocles</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA4413 .A2</classification>
+
+            <identifier type="oclc">39793726</identifier>
+            <location>
+                <url displayLabel="LC Permalink"/>
+            </location>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/39793726</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"/>
+            </location>
+            <location>
+                <url displayLabel="Open Library"/>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks"/>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust" note="Stereotyped Edition"
+                    >http://hdl.handle.net/2027/umn.31951002351065d</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">830419</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010514100920.0 </recordChangeDate>
+                <recordIdentifier>9605363 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Sophocles" count="28">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Sophocles</title>
+                <subTitle>the plays and fragments with critical notes, commentary, and translation
+                    in English prose</subTitle>
+                <partNumber>Part 4</partNumber>
+                <partName>The Philoctetes</partName>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+                <namePart>Sophocles</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n50-39216.html">
+                <namePart>Jebb, Richard Claverhouse</namePart>
+                <namePart type="termsOfAddress">Sir</namePart>
+                <namePart type="date">1841-1905.</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                </role>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge</placeTerm>
+                </place>
+                <publisher>The University press</publisher>
+                <dateIssued>1898</dateIssued>
+                <issuance>monographic</issuance>
+                <edition>2nd edition</edition>
+            </originInfo>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent/>
+            </physicalDescription>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Sophocles</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA4413 .A2</classification>
+
+            <identifier type="oclc">1989605</identifier>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <location>
+                <url displayLabel="LC Permalink"/>
+            </location>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/1989605</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"/>
+            </location>
+            <location>
+                <url displayLabel="Open Library"/>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks">http://books.google.com/books?id=5gQMAAAAYAAJ</url>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.319510023510687</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">830419</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010514100920.0 </recordChangeDate>
+                <recordIdentifier>9605363 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Sophocles" count="28">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Sophocles</title>
+                <subTitle>the plays and fragments with critical notes, commentary, and translation
+                    in English prose</subTitle>
+                <partNumber>Part 5</partNumber>
+                <partName>The Trachiniae</partName>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+                <namePart>Sophocles</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n50-39216.html">
+                <namePart>Jebb, Richard Claverhouse</namePart>
+                <namePart type="termsOfAddress">Sir</namePart>
+                <namePart type="date">1841-1905.</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                </role>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Cambridge</placeTerm>
+                </place>
+                <publisher>The University press</publisher>
+                <dateIssued>1892</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent/>
+            </physicalDescription>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Sophocles</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA4413 .A2</classification>
+
+            <identifier type="oclc">39793726</identifier>
+            <location>
+                <url displayLabel="LC Permalink"/>
+            </location>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/39793726</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"/>
+            </location>
+            <location>
+                <url displayLabel="Open Library"/>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks">http://books.google.com/books?id=MHeJ3778E7s</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">830419</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010514100920.0 </recordChangeDate>
+                <recordIdentifier>9605363 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Sophocles" count="28">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Sophocles</title>
+                <subTitle>with an English translation</subTitle>
+                <partNumber>Vol 1</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+                <namePart>Sophocles</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n83-130003.html">
+                <namePart>Storr, Francis</namePart>
+                <namePart type="date">1839-1919</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                </role>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="marcgt">bibliography</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">New York</placeTerm>
+                </place>
+                <publisher>W. Heinemann</publisher>
+                <publisher>The Macmillan Co.</publisher>
+                <dateIssued>1912</dateIssued>
+                <dateModified>1962</dateModified>
+                <edition>Reprint</edition>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </language>
+            <language>
+                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>xiv, 419 pg.</extent>
+            </physicalDescription>
+            <tableOfContents>I. Oedipus the king, Oedipus at Colonus, Antigone.</tableOfContents>
+            <note type="statement of responsibility">by F. Storr.</note>
+            <note type="bibliography">Bibliography: v. 1, p. xv.</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Sophocles</namePart>
+                </name>
+                <genre>Translations into English</genre>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <genre>Drama</genre>
+            </subject>
+            <classification authority="lcc">PA3612 .S7</classification>
+            <relatedItem type="series">
+                <titleInfo>
+                    <title>The Loeb classical library. [Greek authors]</title>
+                    <partNumber>Vol 20</partNumber>
+                </titleInfo>
+            </relatedItem>
+            <identifier type="lccn">13005616</identifier>
+            <identifier type="oclc">1650983</identifier>
+            <identifier type="oca">sophoclesstor01sophuoft</identifier>
+            <location>
+                <url displayLabel="LC Permalink">http://lccn.loc.gov/13005616</url>
+            </location>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/1650983</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"
+                    >http://www.archive.org/details/sophoclesstor01sophuoft</url>
+            </location>
+            <location>
+                <url displayLabel="Open Library"
+                    >http://openlibrary.org/details/sophoclesstor01sophuoft</url>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks">http://books.google.com/books?id=5qUNAAAAIAAJ</url>
+            </location>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Sophocles" count="28">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Sophocles</title>
+                <subTitle>with an English translation</subTitle>
+                <partNumber>Vol 1</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+                <namePart>Sophocles</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n83-130003.html">
+                <namePart>Storr, Francis</namePart>
+                <namePart type="date">1839-1919</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                </role>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="marcgt">bibliography</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">New York</placeTerm>
+                </place>
+                <publisher>W. Heinemann</publisher>
+                <publisher>The Macmillan Co.</publisher>
+                <dateIssued>1912</dateIssued>
+                <dateModified>1962</dateModified>
+                <edition>Reprint</edition>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </language>
+            <language>
+                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>xiv, 419 pg.</extent>
+            </physicalDescription>
+            <tableOfContents>I. Oedipus the king, Oedipus at Colonus, Antigone.</tableOfContents>
+            <note type="statement of responsibility">by F. Storr.</note>
+            <note type="bibliography">Bibliography: v. 1, p. xv.</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Sophocles</namePart>
+                </name>
+                <genre>Translations into English</genre>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <genre>Drama</genre>
+            </subject>
+            <classification authority="lcc">PA3612 .S7</classification>
+            <relatedItem type="series">
+                <titleInfo>
+                    <title>The Loeb classical library. [Greek authors]</title>
+                    <partNumber>Vol 20</partNumber>
+                </titleInfo>
+            </relatedItem>
+            <identifier type="lccn">13005616</identifier>
+            <identifier type="oclc">1650983</identifier>
+            <identifier type="oca">sophoclesstor01sophuoft</identifier>
+            <location>
+                <url displayLabel="LC Permalink">http://lccn.loc.gov/13005616</url>
+            </location>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/1650983</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"
+                    >http://www.archive.org/details/sophoclesstor01sophuoft</url>
+            </location>
+            <location>
+                <url displayLabel="Open Library"
+                    >http://openlibrary.org/details/sophoclesstor01sophuoft</url>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks">http://books.google.com/books?id=5qUNAAAAIAAJ</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">830419</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010514100920.0 </recordChangeDate>
+                <recordIdentifier>9605363 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Sophocles" count="28">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Sophocles</mods:title>
+                <mods:subTitle>with an English translation</mods:subTitle>
+                <mods:partNumber>Vol 1</mods:partNumber>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+                <mods:namePart>Sophocles</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n83-130003.html">
+                <mods:namePart>Storr, Francis</mods:namePart>
+                <mods:namePart type="date">1839-1919</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:genre authority="marcgt">bibliography</mods:genre>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">New York</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>W. Heinemann</mods:publisher>
+                <mods:publisher>The Macmillan Co.</mods:publisher>
+                <mods:dateIssued>1912</mods:dateIssued>
+                <mods:dateModified>1962</mods:dateModified>
+                <mods:edition>Reprint</mods:edition>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>xiv, 419 pg.</mods:extent>
+            </mods:physicalDescription>
+            <mods:tableOfContents>I. Oedipus the king, Oedipus at Colonus,
+                Antigone.</mods:tableOfContents>
+            <mods:note type="statement of responsibility">by F. Storr.</mods:note>
+            <mods:note type="bibliography">Bibliography: v. 1, p. xv.</mods:note>
+            <mods:subject authority="lcsh">
+                <mods:name type="personal">
+                    <mods:namePart>Sophocles</mods:namePart>
+                </mods:name>
+                <mods:genre>Translations into English</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mythology, Greek</mods:topic>
+                <mods:genre>Drama</mods:genre>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3612 .S7</mods:classification>
+            <mods:identifier type="lccn">13005616</mods:identifier>
+            <mods:identifier type="oclc">1650983</mods:identifier>
+            <mods:identifier type="oca">sophoclesstor01sophuoft</mods:identifier>
+            <mods:location>
+                <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/13005616</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/1650983</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"
+                    >http://www.archive.org/details/sophoclesstor01sophuoft</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Library"
+                    >http://openlibrary.org/details/sophoclesstor01sophuoft</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=5qUNAAAAIAAJ</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc">750923</mods:recordCreationDate>
+                <mods:recordChangeDate encoding="iso8601">20010514094945.0</mods:recordChangeDate>
+                <mods:recordIdentifier>8701798</mods:recordIdentifier>
+                <mods:recordOrigin>Converted from MARCXML to MODS version 3.3 using
+                    MARC21slim2MODS3-3.xsl (Revision 1.54)</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Sophocles" count="28">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Sophocles</title>
+                <subTitle>with an English translation</subTitle>
+                <partNumber>Vol 2</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+                <namePart>Sophocles</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n83-130003.html">
+                <namePart>Storr, Francis</namePart>
+                <namePart type="date">1839-1919</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                </role>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="marcgt">bibliography</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">New York</placeTerm>
+                </place>
+                <publisher>W. Heinemann</publisher>
+                <publisher>The Macmillan Co.</publisher>
+                <dateIssued>1913</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language objectPart="text">
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </language>
+            <language objectPart="text">
+                <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>493 pg.</extent>
+            </physicalDescription>
+            <tableOfContents>II. Ajax, Electra, Trachiniae, Philoctetes</tableOfContents>
+            <note type="statement of responsibility">by F. Storr.</note>
+            <note type="bibliography">Bibliography: v. 1, p. xv.</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Sophocles</namePart>
+                </name>
+                <genre>Translations into English</genre>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <genre>Drama</genre>
+            </subject>
+            <classification authority="lcc">PA3612 .S7</classification>
+            <relatedItem type="series">
+                <titleInfo>
+                    <title>The Loeb classical library. [Greek authors]</title>
+                    <partNumber>Vol 21</partNumber>
+                </titleInfo>
+            </relatedItem>
+            <identifier type="lccn">13005616</identifier>
+            <identifier type="oclc">1650983</identifier>
+            <identifier type="oca">sophoclesstor02sophuoft</identifier>
+            <location>
+                <url displayLabel="LC Permalink">http://lccn.loc.gov/13005616</url>
+            </location>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/1650983</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"
+                    >http://www.archive.org/details/sophoclesstor02sophuoft</url>
+            </location>
+            <location>
+                <url displayLabel="Open Library"
+                    >http://openlibrary.org/details/sophoclesstor02sophuoft</url>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks">http://books.google.com/books?id=GNVfAAAAMAAJ</url>
+            </location>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Sophocles" count="28">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Sophocles</mods:title>
+                <mods:subTitle>with an English translation</mods:subTitle>
+                <mods:partNumber>Vol 2</mods:partNumber>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+                <mods:namePart>Sophocles</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n83-130003.html">
+                <mods:namePart>Storr, Francis</mods:namePart>
+                <mods:namePart type="date">1839-1919</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:genre authority="marcgt">bibliography</mods:genre>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">New York</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>W. Heinemann</mods:publisher>
+                <mods:publisher>The Macmillan Co.</mods:publisher>
+                <mods:dateIssued>1913</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>493 pg.</mods:extent>
+            </mods:physicalDescription>
+            <mods:tableOfContents>II. Ajax, Electra, Trachiniae, Philoctetes</mods:tableOfContents>
+            <mods:note type="statement of responsibility">by F. Storr.</mods:note>
+            <mods:note type="bibliography">Bibliography: v. 1, p. xv.</mods:note>
+            <mods:subject authority="lcsh">
+                <mods:name type="personal">
+                    <mods:namePart>Sophocles</mods:namePart>
+                </mods:name>
+                <mods:genre>Translations into English</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mythology, Greek</mods:topic>
+                <mods:genre>Drama</mods:genre>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3612 .S7</mods:classification>
+            <mods:identifier type="lccn">13005616</mods:identifier>
+            <mods:identifier type="oclc">1650983</mods:identifier>
+            <mods:identifier type="oca">sophoclesstor02sophuoft</mods:identifier>
+            <mods:location>
+                <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/13005616</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/1650983</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"
+                    >http://www.archive.org/details/sophoclesstor02sophuoft</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Library"
+                    >http://openlibrary.org/details/sophoclesstor02sophuoft</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks"
+                    >http://books.google.com/books?id=GNVfAAAAMAAJ</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc">750923</mods:recordCreationDate>
+                <mods:recordChangeDate encoding="iso8601">20010514094945.0</mods:recordChangeDate>
+                <mods:recordIdentifier>8701798</mods:recordIdentifier>
+                <mods:recordOrigin>Converted from MARCXML to MODS version 3.3 using
+                    MARC21slim2MODS3-3.xsl (Revision 1.54)</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Ajax</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Ajax</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Antigone</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Antigone</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Electra</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Electra</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus Tyrannus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Oedipus at Colonus</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Philoctetes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Philoctetes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Trachiniae</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0011.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Trachiniae</title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+
+</data>

@@ -1,0 +1,2086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:dcterms="http://purl.org/dc/terms"
+      xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods.xsd">
+   <titleInfo>
+      <title>Moralia</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Moralia. English &amp; Greek.</title>
+   </titleInfo>
+   <identifier type="oclc">37351027</identifier>
+   <name type="personal">
+      <nameIdentifier type="viaf">32140876</nameIdentifier>
+      <displayForm>Plutarch</displayForm>
+      <role>
+         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Cambridge</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">London</placeTerm>
+      </place>
+      <publisher>Harvard University</publisher>
+   </originInfo>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Loeb Classical Library</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 1">
+      <part type="volume">
+         <detail type="volume">
+            <number>1</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Education of Children">
+         <part type="book">
+            <detail type="book">
+               <number>1</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Education of Children</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg067.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ παίδων ἀγωγῆς</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg067.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="How the Young Man Should Study Poetry">
+         <part type="book">
+            <detail type="book">
+               <number>2</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>How the Young Man Should Study Poetry</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg068.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Πῶς δεῖ τὸν νέον ποιημάτων ἀκούειν </title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg068.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Hearing">
+         <part type="book">
+            <detail type="book">
+               <number>3</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Hearing</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg069.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τοῦ ἀκούειν</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg069.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="How to Tell a Flatterer from a Friend">
+         <part type="book">
+            <detail type="book">
+               <number>4</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>How to Tell a Flatterer from a Friend</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg070.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Πῶς ἄν τις διακρίνοιε τὸν κόλακα τοῦ φίλου</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg070.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="How a Man May Become Aware of his Progress in Virtue">
+         <part type="book">
+            <detail type="book">
+               <number>5</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>How a Man May Become Aware of his Progress in Virtue</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg071.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Πῶς ἄν τις αἴσθοιτο ἑαυτοῦ προκόπτοντος ἐπ᾿ ἀρετῇ</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg071.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 2">
+      <part type="volume">
+         <detail type="volume">
+            <number>2</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="How to Profit by One's Enemies">
+         <part type="book">
+            <detail type="book">
+               <number>6</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>How to Profit by One's Enemies</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg072.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Πῶς ἄν τις ὑπ᾿ ἐχθρῶν ὠφελοῖτο</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg072.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Having Many Friends">
+         <part type="book">
+            <detail type="book">
+               <number>7</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Having Many Friends</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg073.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ πολυφιλίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg073.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Chance">
+         <part type="book">
+            <detail type="book">
+               <number>8</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Chance</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg074.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τύχης</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg074.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Virtue and Vice">
+         <part type="book">
+            <detail type="book">
+               <number>9</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Virtue and Vice</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg075.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ ἀρετῆς καὶ κακίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg075.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Letter of Condolence to Apollonius">
+         <part type="book">
+            <detail type="book">
+               <number>10</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Letter of Condolence to Apollonius</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg076.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Παραμυθητικὸς πρὸς Ἀπολλώνιον</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg076.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Advice about Keeping Well">
+         <part type="book">
+            <detail type="book">
+               <number>11</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Advice about Keeping Well</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg077.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Ὑγιεινὰ παραγγέλματα</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg077.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Advice to Bride and Groom">
+         <part type="book">
+            <detail type="book">
+               <number>12</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Advice to Bride and Groom</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg078.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Γαμικὰ παραγγέλματα</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg078.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Dinner of the Seven Wise Men">
+         <part type="book">
+            <detail type="book">
+               <number>13</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Dinner of the Seven Wise Men</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg079.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Ἑπτά σοφῶν συμπόσιον</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg079.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Superstition">
+         <part type="book">
+            <detail type="book">
+               <number>14</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Superstition</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg080.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ δεισιδαιμονίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg080.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 3">
+      <part type="volume">
+         <detail type="volume">
+            <number>3</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Sayings of Kings and Commanders">
+         <part type="book">
+            <detail type="book">
+               <number>15</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Sayings of Kings and Commanders</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg081.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Βασιλέων ἀποφθέγματα καὶ στρατηγών</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg081.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Sayings of the Spartans">
+         <part type="book">
+            <detail type="book">
+               <number>16</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Sayings of the Spartans</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Ἀποφθέγματα Λακωνικά</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Institutions of the Spartans">
+         <part type="book">
+            <detail type="book">
+               <number>17</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Institutions of the Spartans</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082a.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Τὰ παλαιὰ τῶν Λακεδαιμονίων ἐπιτηδεύματα</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082a.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Sayings of the Spartan Women">
+         <part type="book">
+            <detail type="book">
+               <number>18</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Sayings of the Spartan Women</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082b.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Λακαινῶν αποφθέγματα</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg082b.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Virtues of Women">
+         <part type="book">
+            <detail type="book">
+               <number>19</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Virtues of Women</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg083.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Γυναικῶν ἀρεταί</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg083.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 4">
+      <part type="volume">
+         <detail type="volume">
+            <number>4</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Roman Questions">
+         <part type="book">
+            <detail type="book">
+               <number>20</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Roman Questions</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084a.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Αἴτια Ῥωμαϊκά</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084a.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Greek Questions">
+         <part type="book">
+            <detail type="book">
+               <number>21</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Greek Questions</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084b.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Αἴτια Ἑλληνικά</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg084b.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Greek and Roman Parallel Stories">
+         <part type="book">
+            <detail type="book">
+               <number>22</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Greek and Roman Parallel Stories</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg085.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Συναγωγὴ ἱστοριῶν παραλλήλων Ἑλληνικῶν καὶ Ρωμαϊκῶν</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg085.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Fortune of the Romans">
+         <part type="book">
+            <detail type="book">
+               <number>23</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Fortune of the Romans</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg086.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τῆς Ῥωμαίων τύχης</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg086.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Fortune or Virtue of Alexander the Great">
+         <part type="book">
+            <detail type="book">
+               <number>24</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Fortune or Virtue of Alexander the Great</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg087.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τῆς Ἀλεξάνδρου τύχης ἢ ἀρετῆς</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg087.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Glory of the Athenians">
+         <part type="book">
+            <detail type="book">
+               <number>25</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Glory of the Athenians</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg088.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Πότερον Ἀθηναῖοι κατὰ πόλεμον ἢ κατὰ σοφίαν ἐνδοξότεροι</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg088.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 5">
+      <part type="volume">
+         <detail type="volume">
+            <number>5</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Isis and Osiris">
+         <part type="book">
+            <detail type="book">
+               <number>26</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Isis and Osiris</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg089.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ Ἴσιδος καὶ Ὀσίριδος</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg089.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the EI at Delphi">
+         <part type="book">
+            <detail type="book">
+               <number>27</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the EI at Delphi</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg090.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τοῦ εἶ τοῦ έν Δελφοῖς</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg090.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Oracles at Delphi no Longer Given in Verse">
+         <part type="book">
+            <detail type="book">
+               <number>28</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Oracles at Delphi no Longer Given in Verse</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg091.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τοῦ μὴ χρᾶν ἔμμετρα νῦν τὴν Πυθίαν</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg091.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Obsolescence of Oracles">
+         <part type="book">
+            <detail type="book">
+               <number>29</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Obsolescence of Oracles</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg092.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τῶν ἐκλελοιπότων χρηστηρίων</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg092.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 6">
+      <part type="volume">
+         <detail type="volume">
+            <number>6</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Can Virtue be Taught?">
+         <part type="book">
+            <detail type="book">
+               <number>30</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Can Virtue be Taught?</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg093.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Εἰ διδακτὸν ἡ ἀρετή</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg093.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Moral Virtue">
+         <part type="book">
+            <detail type="book">
+               <number>31</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Moral Virtue</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg094.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ ἠθικῆς ἀρετῆς</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg094.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Control of Anger">
+         <part type="book">
+            <detail type="book">
+               <number>32</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Control of Anger</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg095.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ ἀοργησίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg095.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Tranquility of Mind">
+         <part type="book">
+            <detail type="book">
+               <number>33</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Tranquility of Mind</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg096.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ εὐθυμίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg096.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Brotherly Love">
+         <part type="book">
+            <detail type="book">
+               <number>34</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Brotherly Love</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg097.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ φιλαδελφίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg097.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Affection for Offspring">
+         <part type="book">
+            <detail type="book">
+               <number>35</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Affection for Offspring</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg098.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τῆς εἰς τὰ ἔγγονα φιλοστοργίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg098.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Whether Vice is Sufficient to Cause Unhappiness">
+         <part type="book">
+            <detail type="book">
+               <number>36</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Whether Vice is Sufficient to Cause Unhappiness</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg099.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Εἰ αὐτάρκης ἡ κακία πρὸς κακοδαιμονίαν</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg099.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Whether Affections of the Soul are Worse than Those of the Body">
+         <part type="book">
+            <detail type="book">
+               <number>37</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Whether Affections of the Soul are Worse than Those of the Body</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg100.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τοῦ πότερον τὰ ψυχῆς ἢ τὰ σώματος πάθη χείρονα</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg100.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Talkativeness">
+         <part type="book">
+            <detail type="book">
+               <number>38</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Talkativeness</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg101.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ ἀδολεσχίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg101.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Being a Busybody">
+         <part type="book">
+            <detail type="book">
+               <number>39</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Being a Busybody</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg102.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ πολυπραγμοσύνης</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg102.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 7">
+      <part type="volume">
+         <detail type="volume">
+            <number>7</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Love of Wealth">
+         <part type="book">
+            <detail type="book">
+               <number>40</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Love of Wealth</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg103.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ φιλοπλουτίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg103.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Compliancy">
+         <part type="book">
+            <detail type="book">
+               <number>41</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Compliancy</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg104.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ δυσωπίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg104.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Envy and Hate">
+         <part type="book">
+            <detail type="book">
+               <number>42</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Envy and Hate</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg105.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ φθόνου καὶ μίσους</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg105.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Praising Oneself Inoffensively">
+         <part type="book">
+            <detail type="book">
+               <number>43</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Praising Oneself Inoffensively</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg106.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τοῦ ἑαυτὸν ἐπαινεῖν ἀνεπιφθόνως</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg106.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Delays of Divine Vengeance">
+         <part type="book">
+            <detail type="book">
+               <number>44</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Delays of Divine Vengeance</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg107.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τῶν ὑπὸ τοῦ θείου βραδέως τιμωρουμένων</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg107.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="On Fate">
+         <part type="book">
+            <detail type="book">
+               <number>45</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Fate</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg108.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ εἰμαρμένης</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg108.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Sign of Socrates">
+         <part type="book">
+            <detail type="book">
+               <number>46</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Sign of Socrates</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg109.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τοῦ Σωκράτους δαιμονίου</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg109.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Exile">
+         <part type="book">
+            <detail type="book">
+               <number>47</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Exile</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg110.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ φυγῆς</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg110.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Consolation to his Wife">
+         <part type="book">
+            <detail type="book">
+               <number>48</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Consolation to his Wife</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg111.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Παραμυθητικὸς πρὸς τὴν γυναῖκα</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg111.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 8">
+      <part type="volume">
+         <detail type="volume">
+            <number>8</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Table Talk">
+         <part type="book">
+            <detail type="book">
+               <number>49</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Table Talk</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg112.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Συμποσιακά</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg112.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 9">
+      <part type="volume">
+         <detail type="volume">
+            <number>9</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Dialogue on Love">
+         <part type="book">
+            <detail type="book">
+               <number>50</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Dialogue on Love</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg113.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Ἐρωτικός</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg113.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 10">
+      <part type="volume">
+         <detail type="volume">
+            <number>10</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Love Stories">
+         <part type="book">
+            <detail type="book">
+               <number>51</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Love Stories</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg114.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Ἐρωτικαὶ διηγήσεις</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg114.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="A Philosopher Ought to Converse Especially with Men in Power">
+         <part type="book">
+            <detail type="book">
+               <number>52</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>A Philosopher Ought to Converse Especially with Men in Power</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg115.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τοῦ ὅτι μάλιστα τοὶς ἡγεμόσιν δεῖ τὸν φιλόσοφον διαλέγεσθαι</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg115.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="To an Uneducated Ruler">
+         <part type="book">
+            <detail type="book">
+               <number>53</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>To an Uneducated Ruler</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg116.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Πρὸς ἡγεμόνα ἀπαίδευτον</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg116.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Whether an Old Man Should Engage in Public Affairs">
+         <part type="book">
+            <detail type="book">
+               <number>54</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Whether an Old Man Should Engage in Public Affairs</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg117.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Εἰ πρεσβυτέρῳ πολιτευτέον</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg117.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Precepts of Statecraft">
+         <part type="book">
+            <detail type="book">
+               <number>55</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Precepts of Statecraft</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg118.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Πολιτικὰ παραγγέλματα</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg118.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Monarchy, Democracy and Oligarchy">
+         <part type="book">
+            <detail type="book">
+               <number>56</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Monarchy, Democracy and Oligarchy</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg119.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ μοναρχίας καὶ δημοκρατίας καὶ ὀλιγαρχίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg119.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="That we Ought Not to Borrow">
+         <part type="book">
+            <detail type="book">
+               <number>57</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>That we Ought Not to Borrow</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg120.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τοῦ μὴ δεῖν δανείζεσθαι</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg120.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Lives of the Ten Orators">
+         <part type="book">
+            <detail type="book">
+               <number>58</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Lives of the Ten Orators</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg121.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Βίοι τῶν δέκα ῥητόρων</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg121.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Comparison between Aristophanes and Menander">
+         <part type="book">
+            <detail type="book">
+               <number>59</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Comparison between Aristophanes and Menander</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg122.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Συγκρίσεως Ἀριστοφάνους καὶ Μενάνδρου ἐπιτομή</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg122.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 11">
+      <part type="volume">
+         <detail type="volume">
+            <number>11</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Malice of Herodotus">
+         <part type="book">
+            <detail type="book">
+               <number>60</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Malice of Herodotus</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg123.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τῆς Ἡροδότου κακοηθείας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg123.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Opinions of the Philosophers">
+         <part type="book">
+            <detail type="book">
+               <number>61</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Opinions of the Philosophers</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τῶν ἀρεσκόντων φιλοσόφοις φυσικῶν δογμάτων</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Causes of Natural Phenomena">
+         <part type="book">
+            <detail type="book">
+               <number>62</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Causes of Natural Phenomena</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg125.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Αἴτια φυσικά</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg125.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 12">
+      <part type="volume">
+         <detail type="volume">
+            <number>12</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Face Which Appears in the Orb of the Moon">
+         <part type="book">
+            <detail type="book">
+               <number>63</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Face Which Appears in the Orb of the Moon</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg126.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τοῦ ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς σελήνης</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg126.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Principle of Cold">
+         <part type="book">
+            <detail type="book">
+               <number>64</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Principle of Cold</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg127.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τοῦ πρώτως ψυχροῦ</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg127.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Whether Fire or Water is More Useful">
+         <part type="book">
+            <detail type="book">
+               <number>65</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Whether Fire or Water is More Useful</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg128.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Πότερον ὕδωρ ὴ πῦρ χρησιμότερον</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg128.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Whether Land or Sea Animals are Cleverer">
+         <part type="book">
+            <detail type="book">
+               <number>66</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Whether Land or Sea Animals are Cleverer</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg129.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Πότερα τῶν ζῴων φρονιμώτερα τὰ χερσαία ἢ τὰ ἔνυδρα</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg129.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Beasts are Rational">
+         <part type="book">
+            <detail type="book">
+               <number>67</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Beasts are Rational</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg130.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τοῦ τὰ ἄλογα λόγῳ χρῆσθαι</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg130.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Eating of Flesh">
+         <part type="book">
+            <detail type="book">
+               <number>68</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Eating of Flesh</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg131.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ σαρκοφαγίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg131.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 13">
+      <part type="volume">
+         <detail type="volume">
+            <number>13</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Platonic Questions">
+         <part type="book">
+            <detail type="book">
+               <number>69</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Platonic Questions</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg133.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Πλατωνικὰ ζητήματα</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg133.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On the Birth of the Spirit in Timaeus">
+         <part type="book">
+            <detail type="book">
+               <number>70</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On the Birth of the Spirit in Timaeus</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg134.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τῆς ἐν Τιμαίῳ ψυχογονίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg134.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Summary of the Birth of the Spirit">
+         <part type="book">
+            <detail type="book">
+               <number>71</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Summary of the Birth of the Spirit</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg135.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Ἐπιτομή τοῦ Περὶ τῆς ἐν τῷ Τιμαίῳ ψυχογονίας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg135.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Stoic Self-Contradictions">
+         <part type="book">
+            <detail type="book">
+               <number>72</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Stoic Self-Contradictions</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg136.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ Στωϊκῶν ἐναντιωμάτων</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg136.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="The Stoics Speak More Paradoxically than the Poets">
+         <part type="book">
+            <detail type="book">
+               <number>73</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>The Stoics Speak More Paradoxically than the Poets</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg137.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Ὅτι παραδοξότερα οἱ Στωϊκοὶ τῶν ποιητῶν λέγουσιν</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg137.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Common Conceptions against the Stoics">
+         <part type="book">
+            <detail type="book">
+               <number>74</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Common Conceptions against the Stoics</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg138.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ τῶν κοινῶν ἐννοιῶν πρὸς τοὺς Στωϊκούς</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg138.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent" otherType="physical" displayLabel="Volume 14">
+      <part type="volume">
+         <detail type="volume">
+            <number>14</number>
+         </detail>
+      </part>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="It is Impossible to Live Pleasantly in the Manner of Epicurus">
+         <part type="book">
+            <detail type="book">
+               <number>75</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>It is Impossible to Live Pleasantly in the Manner of Epicurus</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg139.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Ὅτι οὐδὲ ἡδέως ζῆν ἔστιν κατ’ Ἐπίκουρον</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg139.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Against Colotes">
+         <part type="book">
+            <detail type="book">
+               <number>76</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Against Colotes</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg140.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Πρὸς Κωλώτην</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg140.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="Is the Saying &#34;Live in Obscurity&#34; Right?">
+         <part type="book">
+            <detail type="book">
+               <number>77</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Is the Saying "Live in Obscurity" Right?</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg141.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Εἰ καλῶς εἴρηται τὸ λάθε βιώσας</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0007.tlg141.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent"
+                   otherType="section"
+                   displayLabel="On Music">
+         <part type="book">
+            <detail type="book">
+               <number>78</number>
+            </detail>
+         </part>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>On Music</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0094.tlg002.loeb-en-F3</identifier>
+         </relatedItem>
+         <relatedItem type="constituent" otherType="manifestation">
+            <part type="manifestation">
+               <detail type="manifestation">
+                  <title>Περὶ μουσικῆς</title>
+               </detail>
+            </part>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0094.tlg002.loeb-grc-F3</identifier>
+         </relatedItem>
+      </relatedItem>
+  </relatedItem>
+</mods>

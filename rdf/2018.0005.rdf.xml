@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dcterms="http://purl.org/dc/terms"
+         xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
+   
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg067.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De liberis educandis</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg067"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg067.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De liberis educandis</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg067.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg068.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quomodo adolescens poetas audire debeat</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg068"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg068.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quomodo adolescens poetas audire debeat</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg068.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg069.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De recta ratione audiendi</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg069"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg069.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De recta ratione audiendi</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg069.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg070.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quomodo adulator ab amico internoscatur</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg070"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg070.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quomodo adulator ab amico internoscatur</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg070.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg071.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quomodo quis suos in virtute sentiat profectus</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg071"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg071.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quomodo quis suos in virtute sentiat profectus</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg071.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg072.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De capienda ex inimicis utilitate</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg072"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg072.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De capienda ex inimicis utilitate</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg072.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg073.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De amicorum multitudine</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg073"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg073.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De amicorum multitudine</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg073.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg074.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De fortuna</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg074"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg074.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De fortuna</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg074.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg075.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De virtute et vitio</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg075"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg075.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De virtute et vitio</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg075.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg076.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Consolatio ad Apollonium</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg076"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg076.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Consolatio ad Apollonium</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg076.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg077.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De tuenda sanitate praecepta</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg077"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg077.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De tuenda sanitate praecepta</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg077.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg078.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Coniugalia praecepta</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg078"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg078.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Coniugalia praecepta</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg078.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg079.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Septem sapientium convivium</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg079"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg079.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Septem sapientium convivium</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg079.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg080.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De superstitione</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg080"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg080.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De superstitione</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg080.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg081.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>regum et imperatorum apophthegmata</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg081"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg081.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>regum et imperatorum apophthegmata</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg081.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg082.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>apophthegmata Laconica</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg082.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>apophthegmata Laconica</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg082a.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>instituta Laconica</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082a"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg082a.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>instituta Laconica</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082a.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg082b.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Lacaenarum apophthegmata</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082b"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg082b.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Lacaenarum apophthegmata</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg082b.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg083.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Mulierum virtutes</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg083"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg083.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Mulierum virtutes</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg083.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg084a.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quaestiones Romanae</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg084a"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg084a.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quaestiones Romanae</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg084a.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg084b.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quaestiones Graecae</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg084b"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg084b.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quaestiones Graecae</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg084b.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg085.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Parallela minora</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg085"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg085.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Parallela minora</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg085.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg086.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De fortuna Romanorum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg086"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg086.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De fortuna Romanorum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg086.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg087.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De Alexandri magni fortuna aut virtute</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg087"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg087.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De Alexandri magni fortuna aut virtute</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg087.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg088.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De gloria Atheniensium</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg088"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg088.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De gloria Atheniensium</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg088.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg089.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De Iside et Osiride</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg089"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg089.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De Iside et Osiride</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg089.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg090.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De E apud Delphos</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg090"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg090.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De E apud Delphos</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg090.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg091.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De Pythiae oraculis</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg091"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg091.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De Pythiae oraculis</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg091.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg092.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De defectu oraculorum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg092"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg092.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De defectu oraculorum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg092.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg093.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>An virtus doceri possit</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg093"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg093.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>An virtus doceri possit</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg093.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg094.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De virtute morali</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg094"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg094.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De virtute morali</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg094.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg095.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De cohibenda ira</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg095"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg095.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De cohibenda ira</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg095.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg096.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De tranquillitate animi</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg096"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg096.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De tranquillitate animi</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg096.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg097.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De fraterno amore</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg097"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg097.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De fraterno amore</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg097.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg098.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De amore prolis</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg098"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg098.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De amore prolis</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg098.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg099.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>An vitiositas ad infelicitatem sufficiat</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg099"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg099.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>An vitiositas ad infelicitatem sufficiat</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg099.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg100.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Animine an corporis affectiones sint peiores</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg100"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg100.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Animine an corporis affectiones sint peiores</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg100.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg101.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De garrulitate</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg101"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg101.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De garrulitate</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg101.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg102.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De curiositate</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg102"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg102.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De curiositate</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg102.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg103.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De cupiditate divitiarum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg103"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg103.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De cupiditate divitiarum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg103.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg104.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De vitioso pudore</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg104"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg104.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De vitioso pudore</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg104.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg105.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De invidia et odio</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg105"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg105.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De invidia et odio</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg105.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg106.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De laude ipsius</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg106"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg106.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De laude ipsius</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg106.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg107.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De sera numinis vindicta</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg107"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg107.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De sera numinis vindicta</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg107.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg108.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De fato</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg108"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg108.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De fato</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg108.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg109.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De genio Socratis</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg109"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg109.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De genio Socratis</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg109.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg110.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De exilio</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg110"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg110.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De exilio</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg110.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg111.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Consolatio ad uxorem</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg111"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg111.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Consolatio ad uxorem</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg111.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg112.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quaestiones convivales</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg112"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg112.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quaestiones convivales</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg112.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg113.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Amatorius</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg113"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg113.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Amatorius</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg113.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg114.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Amatoriae narrationes</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg114"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg114.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Amatoriae narrationes</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg114.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg115.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Maxime cum principibus philosopho esse disserendum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg115"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg115.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Maxime cum principibus philosopho esse disserendum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg115.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg116.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Ad principem ineruditum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg116"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg116.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Ad principem ineruditum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg116.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg117.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>An seni respublica gerenda sit</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg117"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg117.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>An seni respublica gerenda sit</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg117.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg118.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Praecepta gerendae reipublicae</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg118"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg118.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Praecepta gerendae reipublicae</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg118.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg119.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De unius in republica dominatione, populari statu, et paucorum imperio</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg119"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg119.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De unius in republica dominatione, populari statu, et paucorum imperio</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg119.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg120.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De vitando aere alieno</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg120"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg120.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De vitando aere alieno</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg120.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg121.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Vitae decem oratorum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg121"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg121.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Vitae decem oratorum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg121.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg122.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Comparationis Aristophanis et Menandri compendium</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg122"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg122.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Comparationis Aristophanis et Menandri compendium</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg122.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg123.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De malignitate Herodoti</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg123"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg123.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De malignitate Herodoti</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg123.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De placitis philosophorum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De placitis philosophorum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg125.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Quaestiones naturales</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg125"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg125.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Quaestiones naturales</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg125.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg126.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De facie in orbe lunae</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg126"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg126.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De facie in orbe lunae</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg126.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg127.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De primo frigido</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg127"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg127.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De primo frigido</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg127.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg128.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Aquane an ignis sit utilior</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg128"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg128.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Aquane an ignis sit utilior</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg128.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg129.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De sollertia animalium</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg129"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg129.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De sollertia animalium</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg129.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg130.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Bruta animalia ratione uti</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg130"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg130.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Bruta animalia ratione uti</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg130.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg131.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De esu carnium</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg131"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg131.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De esu carnium</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg131.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg133.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Platonicae quaestiones</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg133"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg133.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Platonicae quaestiones</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg133.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg134.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De animae procreatione in Timaeo</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg134"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg134.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De animae procreatione in Timaeo</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg134.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg135.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Epitome libri de animae procreatione in Timaeo</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg135"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg135.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Epitome libri de animae procreatione in Timaeo</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg135.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg136.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De Stoicorum repugnantiis</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg136"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg136.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De Stoicorum repugnantiis</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg136.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg137.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Stoicos absurdiora poetis dicere</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg137"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg137.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Stoicos absurdiora poetis dicere</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg137.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg138.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De communibus notitiis adversus Stoicos</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg138"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg138.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De communibus notitiis adversus Stoicos</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg138.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg139.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Non posse suaviter vivi secundum Epicurum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg139"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg139.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Non posse suaviter vivi secundum Epicurum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg139.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg140.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>Adversus Colotem</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg140"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg140.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>Adversus Colotem</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg140.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg141.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>An recte dictum sit latenter esse vivendum</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg141"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0007.tlg141.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>An recte dictum sit latenter esse vivendum</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0007.tlg141.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0094.tlg002.goodwin-F22">
+      <rdf:type rdf:resource="efrbroo:F22_Self_Contained_Expression"/>
+      <rdfs:label>De musica</rdfs:label>
+      <efrbroo:P72_has_language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+     <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0094.tlg002"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="urn:cts:greekLit:tlg0094.tlg002.goodwin-F3">
+      <rdf:type rdf:resource="efrbroo:F3_Manifestation_Product_Type"/>
+      <rdfs:label>De musica</rdfs:label>
+      <efrbroo:CLR6_should_carry>
+         <efrbroo:F24_Publication_Expression>
+            <efrbroo:R3i_realises rdf:resource="urn:cts:greekLit:tlg0094.tlg002.goodwin-F22"/>
+         </efrbroo:F24_Publication_Expression>
+      </efrbroo:CLR6_should_carry>
+   </rdf:Description>
+  
+</rdf:RDF>

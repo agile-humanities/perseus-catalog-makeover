@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<constituents>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg019.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title>Aemilius Paullus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg019.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title>Aemilius Paullus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg044.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Agesilaus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg044.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Agesilaus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg051a.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Agis</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg051a.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Agis</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg015.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Alcibiades</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg015.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Alcibiades</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg047.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Alexander</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg047.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Alexander</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg058.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Antonius</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg058.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Antonius</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg063.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Aratus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg063.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Aratus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg024.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title>Aristides</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg024.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title>Aristides</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg064.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Artaxerxes</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg064.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Artaxerxes</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg061.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Brutus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg061.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Brutus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg048.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Caesar</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg048.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Caesar</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg052b.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Caius Gracchus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg052b.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Caius Gracchus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg016.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Caius Marcius
+                        Coriolanus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg016.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Caius Marcius
+                        Coriolanus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg031.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Caius Marius</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg031.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Caius Marius</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg011.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Camillus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg011.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Camillus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg050.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Cato Minor</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg050.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Cato Minor</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg055.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Cicero</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg055.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Cicero</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg035.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Cimon</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg035.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Cimon</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg051b.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Cleomenes</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg051b.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Cleomenes</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg046.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Agesilaus and
+                        Pompey</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg046.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Agesilaus and
+                        Pompey</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg053.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Agis and Cleomenes
+                        and the Gracchi</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg053.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Agis and Cleomenes
+                        and the Gracchi</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg017.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Alcibiades and
+                        Coriolanus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg017.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Alcibiades and
+                        Coriolanus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg026.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title>Comparison of Aristides with Marcus Cato</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg026.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title>Comparison of Aristides with Marcus Cato</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg059.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Demetrius and
+                        Antony</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg059.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Demetrius and
+                        Antony</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg056.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title>Comparison of Demosthenes with Cicero</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg056.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                <mods:title>Comparison of Demosthenes with Cicero</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+    <section>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg062.opp-eng1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Dion and
+                        Brutus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+        <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg062.opp-grc1">
+            <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Dion and
+                        Brutus</mods:title>
+            </mods:titleInfo>
+        </constituent>
+    </section>
+<section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg037.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title>Comparison of Lucullus and Cimon</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg037.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title>Comparison of Lucullus and Cimon</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg006.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Lycurgus and
+                        Numa</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg006.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Lycurgus and
+                        Numa</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg034.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Lysander and
+                        Sulla</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg034.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Lysander and
+                        Sulla</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg040.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Nicias and
+                        Crassus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg040.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Nicias and
+                        Crassus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg023.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Pelopidas and
+                        Marcellus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg023.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Pelopidas and
+                        Marcellus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg014.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Pericles and Fabius
+                        Maximus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg014.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Pericles and Fabius
+                        Maximus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg029.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Philopoemen and
+                        Titus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg029.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Philopoemen and
+                        Titus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg043.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title>Comparison of Sertorius and Eumenes</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg043.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title>Comparison of Sertorius and Eumenes</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg009.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title>Comparison of Solon and Publicola</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg009.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title>Comparison of Solon and Publicola</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg003.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Theseus and
+                        Romulus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg003.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Comparison of Theseus and
+                        Romulus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg020.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title>Comparison of Timoleon and Aemilius</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg020.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title>Comparison of Timoleon and Aemilius</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg039.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Crassus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg039.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Crassus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg057.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Demetrius</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg057.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Demetrius</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg054.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Demosthenes</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg054.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Demosthenes</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg060.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Dion</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg060.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Dion</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg041.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenes</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg041.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenes</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg013.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Fabius Maximus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg013.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Fabius Maximus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg065.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Galba</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg065.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Galba</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg036.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Lucullus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg036.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Lucullus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg004.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Lycurgus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg004.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Lycurgus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg032.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Lysander</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg032.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Lysander</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg022.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Marcellus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg022.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Marcellus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg025.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Marcus Cato</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg025.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Marcus Cato</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg038.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Nicias</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg038.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Nicias</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg005.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Numa</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg005.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Numa</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg066.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Otho</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg066.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Otho</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg021.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Pelopidas</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg021.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Pelopidas</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg012.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Pericles</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg012.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Pericles</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg027.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Philopoemen</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg027.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Philopoemen</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg049.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Phocion</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg049.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Phocion</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg045.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Pompey</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg045.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Pompey</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg008.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Publicola</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg008.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Publicola</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg030.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Pyrrhus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg030.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Pyrrhus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg002.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Romulus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg002.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Romulus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg042.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Sertorius</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg042.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Sertorius</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg007.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Solon</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg007.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Solon</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg033.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Sulla</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg033.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Sulla</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg010.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Themistocles</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg010.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Themistocles</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg001.opp-eng2">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Theseus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg001.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Theseus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg052a.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Tiberius Gracchus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg052a.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Tiberius Gracchus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg018.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Timoleon</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg018.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title xmlns="http://www.loc.gov/mods/v3">Timoleon</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+    <section>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg028.opp-eng1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title>Titus Flamininus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    <constituent ctsurn="urn:cts:greekLit:tlg0007.tlg028.opp-grc1">
+        <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+            <mods:title>Titus Flamininus</mods:title>
+        </mods:titleInfo>
+    </constituent>
+    </section>
+
+  </constituents>

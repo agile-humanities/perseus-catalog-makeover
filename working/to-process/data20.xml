@@ -1,0 +1,3054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data n="20">
+    <item title="Aeschylus" count="38">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Aeschylus</mods:title>
+                <mods:subTitle>the seven plays in English verse</mods:subTitle>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                <mods:namePart>Aeschylus</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n50-30943.html">
+                <mods:namePart>Campbell, Lewis</mods:namePart>
+                <mods:namePart type="date">1830-1908</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:genre authority="marc">biography</mods:genre>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">New York [etc.]</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Oxford University Press</mods:publisher>
+                <mods:publisher>Humphrey Milford</mods:publisher>
+                <mods:dateIssued>1925</mods:dateIssued>
+                <mods:dateIssued encoding="marc">1925</mods:dateIssued>
+                <mods:dateCreated>1912</mods:dateCreated>
+                <mods:edition>New edition, revised</mods:edition>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>xxii, 278 p. 16 cm.</mods:extent>
+            </mods:physicalDescription>
+            <mods:subject authority="lcsh">
+                <mods:name authority="" type="personal">
+                    <mods:namePart>Aeschylus</mods:namePart>
+                </mods:name>
+                <mods:topic>Translations into English</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mythology, Greek</mods:topic>
+                <mods:topic>Drama</mods:topic>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3827</mods:classification>
+            <mods:identifier type="oclc">24227321</mods:identifier>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/24227321</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"
+                    note="1935 printing-non revised edition"
+                    >http://archive.org/details/sevenplaysinengl00aescuoft</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">OcoLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc"/>
+                <mods:recordChangeDate encoding="iso8601"/>
+                <mods:recordIdentifier/>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                    <mods:subTitle>Epidoc Edition</mods:subTitle>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Aeschylus" count="38">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Aeschylus</mods:title>
+                <mods:subTitle>with an English translation</mods:subTitle>
+                <mods:partNumber>Vol I</mods:partNumber>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                <mods:namePart>Aeschylus</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <mods:namePart>Smyth, Herbert Weir</mods:namePart>
+                <mods:namePart type="date">1857- 1937</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:genre authority="marc">biography</mods:genre>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">mau</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Cambridge</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Harvard University Press</mods:publisher>
+                <mods:publisher>W. Heinemann</mods:publisher>
+                <mods:edition>Reprint</mods:edition>
+                <mods:dateCreated>1922</mods:dateCreated>
+                <mods:dateIssued>1973</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+                <mods:edition>Reprint</mods:edition>
+            </mods:originInfo>
+            <mods:language objectPart="text">
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:language objectPart="text">
+                <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+            </mods:language>
+            <mods:tableOfContents>1. Suppliant maidens. Persians. Prometheus. Seven against
+                Thebes</mods:tableOfContents>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent/>
+            </mods:physicalDescription>
+            <mods:subject authority="lcsh">
+                <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                    ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                    <mods:namePart>Aeschylus</mods:namePart>
+                </mods:name>
+                <mods:topic>Translations into English</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mythology, Greek</mods:topic>
+                <mods:topic>Drama</mods:topic>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3612</mods:classification>
+            <mods:classification authority="ddc">882.1</mods:classification>
+            <mods:identifier type="oclc">19220709</mods:identifier>
+            <mods:identifier type="isbn">0674991605</mods:identifier>
+
+            <mods:location>
+                <mods:url displayLabel="LC Permalink"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/19220709</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="GoogleBooks">http://books.google.com/books?id=lnKEAAAAIAAJ
+                </mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Library"/>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="HathiTrust"
+                    >http://hdl.handle.net/2027/uc1.32106006136839</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">OCoLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc"/>
+                <mods:recordChangeDate encoding="iso8601"/>
+                <mods:recordIdentifier/>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                    <mods:subTitle>Epidoc Edition</mods:subTitle>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Aeschylus" count="38">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Aeschylus</title>
+                <subTitle>with an English translation</subTitle>
+                <partNumber>Vol I</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                <namePart>Aeschylus</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <namePart>Smyth, Herbert Weir</namePart>
+                <namePart type="date">1857- 1937</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="perseus">drama</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>W. Heinemann</publisher>
+                <dateIssued>1922-26</dateIssued>
+                <dateIssued encoding="marc" point="start">1922</dateIssued>
+                <dateIssued encoding="marc" point="end">1926</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>p. cm.</extent>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Aeschylus</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA3612 .A4 1922</classification>
+            <identifier type="oclc">13109528</identifier>
+            <location>
+                <url displayLabel="Worldcat">http://worldcat.org/oclc/13109528</url>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks">http://books.google.com/books?id=lnKEAAAAIAAJ </url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"/>
+            </location>
+            <location>
+                <url displayLabel="Open Library"/>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.32106006136839</url>
+            </location>
+            <tableOfContents>I. The suppliant maidens. The Persians. Prometheus bound. The seven
+                against Thebes.--II. Agamemnon. The libation-bearers. Eumenides.
+                Fragments.</tableOfContents>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">810217</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010508154443.0 </recordChangeDate>
+                <recordIdentifier>9195281 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                    <mods:subTitle>Epidoc Edition</mods:subTitle>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Aeschylus" count="38">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Aeschylus</title>
+                <subTitle>with an English translation</subTitle>
+                <partNumber>Vol I</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                <namePart>Aeschylus</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <namePart>Smyth, Herbert Weir</namePart>
+                <namePart type="date">1857- 1937</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="perseus">drama</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>W. Heinemann</publisher>
+                <dateIssued>1922-26</dateIssued>
+                <dateIssued encoding="marc" point="start">1922</dateIssued>
+                <dateIssued encoding="marc" point="end">1926</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>p. cm.</extent>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Aeschylus</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA3612 .A4 1922</classification>
+            <identifier type="oclc">13109528</identifier>
+            <location>
+                <url displayLabel="Worldcat">http://worldcat.org/oclc/13109528</url>
+            </location>
+            <location>
+                <url displayLabel="WorldCat">http://worldcat.org/oclc/19220709</url>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks">http://books.google.com/books?id=lnKEAAAAIAAJ </url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"/>
+            </location>
+            <location>
+                <url displayLabel="Open Library"/>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.32106006136839</url>
+            </location>
+            <tableOfContents>I. The suppliant maidens. The Persians. Prometheus bound. The seven
+                against Thebes.--II. Agamemnon. The libation-bearers. Eumenides.
+                Fragments.</tableOfContents>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">810217</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010508154443.0 </recordChangeDate>
+                <recordIdentifier>9195281 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                    <mods:subTitle>Epidoc Edition</mods:subTitle>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Aeschylus" count="38">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Aeschylus</title>
+                <subTitle>with an English translation</subTitle>
+                <partNumber>Vol I</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                <namePart>Aeschylus</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <namePart>Smyth, Herbert Weir</namePart>
+                <namePart type="date">1857- 1937</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="perseus">drama</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>W. Heinemann</publisher>
+                <dateIssued>1922-26</dateIssued>
+                <dateIssued encoding="marc" point="start">1922</dateIssued>
+                <dateIssued encoding="marc" point="end">1926</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>p. cm.</extent>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Aeschylus</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA3612 .A4 1922</classification>
+            <identifier type="oclc">13109528</identifier>
+            <location>
+                <url displayLabel="Worldcat">http://worldcat.org/oclc/13109528</url>
+            </location>
+            <tableOfContents>I. The suppliant maidens. The Persians. Prometheus bound. The seven
+                against Thebes.--II. Agamemnon. The libation-bearers. Eumenides.
+                Fragments.</tableOfContents>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">810217</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010508154443.0 </recordChangeDate>
+                <recordIdentifier>9195281 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                    <mods:subTitle>Epidoc Edition</mods:subTitle>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Aeschylus" count="38">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Aeschylus</title>
+                <subTitle>with an English translation</subTitle>
+                <partNumber>Vol I</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                <namePart>Aeschylus</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <namePart>Smyth, Herbert Weir</namePart>
+                <namePart type="date">1857- 1937</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="perseus">drama</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>W. Heinemann</publisher>
+                <dateIssued>1922-26</dateIssued>
+                <dateIssued encoding="marc" point="start">1922</dateIssued>
+                <dateIssued encoding="marc" point="end">1926</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>p. cm.</extent>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Aeschylus</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA3612 .A4 1922</classification>
+            <identifier type="oclc">13109528</identifier>
+            <location>
+                <url displayLabel="Worldcat">http://worldcat.org/oclc/13109528</url>
+            </location>
+            <tableOfContents>I. The suppliant maidens. The Persians. Prometheus bound. The seven
+                against Thebes.--II. Agamemnon. The libation-bearers. Eumenides.
+                Fragments.</tableOfContents>
+            <location>
+                <url displayLabel="GoogleBooks">http://books.google.com/books?id=lnKEAAAAIAAJ </url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"/>
+            </location>
+            <location>
+                <url displayLabel="Open Library"/>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.32106006136839</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">810217</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010508154443.0 </recordChangeDate>
+                <recordIdentifier>9195281 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                    <mods:subTitle>Epidoc Edition</mods:subTitle>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Aeschylus" count="38">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Aeschylus</title>
+                <subTitle>with an English translation</subTitle>
+                <partNumber>Vol I</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                <namePart>Aeschylus</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <namePart>Smyth, Herbert Weir</namePart>
+                <namePart type="date">1857- 1937</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="perseus">drama</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>W. Heinemann</publisher>
+                <dateIssued>1922-26</dateIssued>
+                <dateIssued encoding="marc" point="start">1922</dateIssued>
+                <dateIssued encoding="marc" point="end">1926</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>p. cm.</extent>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Aeschylus</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA3612 .A4 1922</classification>
+            <identifier type="oclc">13109528</identifier>
+            <location>
+                <url displayLabel="Worldcat">http://worldcat.org/oclc/13109528</url>
+            </location>
+            <tableOfContents>I. The suppliant maidens. The Persians. Prometheus bound. The seven
+                against Thebes.--II. Agamemnon. The libation-bearers. Eumenides.
+                Fragments.</tableOfContents>
+            <location>
+                <url displayLabel="WorldCat">http://worldcat.org/oclc/19220709</url>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks">http://books.google.com/books?id=lnKEAAAAIAAJ </url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"/>
+            </location>
+            <location>
+                <url displayLabel="Open Library"/>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.32106006136839</url>
+            </location>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">810217</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010508154443.0 </recordChangeDate>
+                <recordIdentifier>9195281 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                    <mods:subTitle>Epidoc Edition</mods:subTitle>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Aeschylus" count="38">
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3"
+            type="host">
+            <mods:titleInfo>
+                <mods:title>Aeschylus</mods:title>
+                <mods:subTitle>with an English translation</mods:subTitle>
+                <mods:partNumber>Vol II</mods:partNumber>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                <mods:namePart>Aeschylus</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <mods:namePart>Smyth, Herbert Weir</mods:namePart>
+                <mods:namePart type="date">1857- 1937</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:genre authority="marc">biography</mods:genre>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">mau</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">Cambridge</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Harvard University Press</mods:publisher>
+                <mods:publisher>W. Heinemann</mods:publisher>
+                <mods:dateCreated>1926</mods:dateCreated>
+                <mods:dateIssued>1983</mods:dateIssued>
+                <mods:edition>Reprint</mods:edition>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b" type="code">grc</mods:languageTerm>
+            </mods:language>
+            <mods:tableOfContents>v. 2. Agamemnon. Libation-bearers. Eumenides. Fragments. Appendix
+                [of] fragments published since 1930 / ed. by Hugh
+                Lloyd-Jones.</mods:tableOfContents>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>2 v. ; 17 cm.</mods:extent>
+                <mods:note>This file contains second volume only</mods:note>
+            </mods:physicalDescription>
+            <mods:subject authority="lcsh">
+                <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                    ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                    <mods:namePart>Aeschylus</mods:namePart>
+                </mods:name>
+                <mods:topic>Translations into English</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Mythology, Greek</mods:topic>
+                <mods:topic>Drama</mods:topic>
+            </mods:subject>
+            <mods:classification authority="lcc">PA3612</mods:classification>
+            <mods:classification authority="ddc">882.1</mods:classification>
+            <mods:identifier type="oclc">19220709</mods:identifier>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/19220709</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance"
+                    >http://www.archive.org/details/aeschyluswitheng02aescuoft</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">OCoLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc"/>
+                <mods:recordChangeDate encoding="iso8601"/>
+                <mods:recordIdentifier/>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                    <mods:subTitle>Epidoc Edition</mods:subTitle>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Aeschylus" count="38">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Aeschylus</title>
+                <subTitle>with an English translation</subTitle>
+                <partNumber>Vol II</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                <namePart>Aeschylus</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <namePart>Smyth, Herbert Weir</namePart>
+                <namePart type="date">1857- 1937</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="perseus">drama</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>W. Heinemann</publisher>
+                <dateIssued>1922-26</dateIssued>
+                <dateIssued encoding="marc" point="start">1922</dateIssued>
+                <dateIssued encoding="marc" point="end">1926</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>p. cm.</extent>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Aeschylus</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA3612 .A4 1922</classification>
+            <identifier type="oclc">13109528</identifier>
+            <location>
+                <url displayLabel="Worldcat">http://worldcat.org/oclc/13109528</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance">
+                    http://archive.org/details/aeschyluswitheng02aescuoft </url>
+            </location>
+            <tableOfContents>I. The suppliant maidens. The Persians. Prometheus bound. The seven
+                against Thebes.--II. Agamemnon. The libation-bearers. Eumenides.
+                Fragments.</tableOfContents>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">810217</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010508154443.0 </recordChangeDate>
+                <recordIdentifier>9195281 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                    <mods:subTitle>Epidoc Edition</mods:subTitle>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+    <item title="Aeschylus" count="38">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Aeschylus</title>
+                <subTitle>with an English translation</subTitle>
+                <partNumber>Vol II</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                <namePart>Aeschylus</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <namePart>Smyth, Herbert Weir</namePart>
+                <namePart type="date">1857- 1937</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="perseus">drama</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>W. Heinemann</publisher>
+                <dateIssued>1922-26</dateIssued>
+                <dateIssued encoding="marc" point="start">1922</dateIssued>
+                <dateIssued encoding="marc" point="end">1926</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>p. cm.</extent>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Aeschylus</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA3612 .A4 1922</classification>
+            <identifier type="oclc">13109528</identifier>
+            <location>
+                <url displayLabel="Worldcat">http://worldcat.org/oclc/13109528</url>
+            </location>
+            <tableOfContents>I. The suppliant maidens. The Persians. Prometheus bound. The seven
+                against Thebes.--II. Agamemnon. The libation-bearers. Eumenides.
+                Fragments.</tableOfContents>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">810217</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010508154443.0 </recordChangeDate>
+                <recordIdentifier>9195281 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                    <mods:subTitle>Epidoc Edition</mods:subTitle>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+
+    <item title="Aeschylus" count="38">
+        <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <titleInfo>
+                <title>Aeschylus</title>
+                <subTitle>with an English translation</subTitle>
+                <partNumber>Vol I</partNumber>
+            </titleInfo>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-55702.html">
+                <namePart>Aeschylus</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+                ns2:href="http://errol.oclc.org/laf/nr89-5381.html">
+                <namePart>Smyth, Herbert Weir</namePart>
+                <namePart type="date">1857- 1937</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="perseus">drama</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">enk</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">London</placeTerm>
+                </place>
+                <publisher>W. Heinemann</publisher>
+                <dateIssued>1922-26</dateIssued>
+                <dateModified>2014</dateModified>
+                <issuance>monographic</issuance>
+                <edition>Epidoc Edition</edition>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <digitalOrigin>reformatted digital</digitalOrigin>
+            </physicalDescription>
+            <note>Greek and English on opposite pages.</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Aeschylus</namePart>
+                </name>
+                <topic>Translations into English</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Mythology, Greek</topic>
+                <topic>Drama</topic>
+            </subject>
+            <classification authority="lcc">PA3612 .A4 1922</classification>
+            <identifier type="oclc">13109528</identifier>
+            <location>
+                <url displayLabel="Worldcat">http://worldcat.org/oclc/13109528</url>
+            </location>
+            <location>
+                <url displayLabel="GoogleBooks">http://books.google.com/books?id=lnKEAAAAIAAJ </url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"/>
+            </location>
+            <location>
+                <url displayLabel="Open Library"/>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.32106006136839</url>
+            </location>
+            <tableOfContents>I. The suppliant maidens. The Persians. Prometheus bound. The seven
+                against Thebes.--II. Agamemnon. The libation-bearers. Eumenides.
+                Fragments.</tableOfContents>
+            <recordInfo>
+                <recordContentSource authority="marcorg">DLC</recordContentSource>
+                <recordCreationDate encoding="marc">810217</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20010508154443.0 </recordChangeDate>
+                <recordIdentifier>9195281 </recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+        <constituents>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                    <mods:subTitle>Epidoc Edition</mods:subTitle>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Agamemnon</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg005.opp-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Agamemnon</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Eumenides</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg007.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Eumenides</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg011.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Fragmenta (TGF)</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-eng5">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg006.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Libation Bearers</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Persians</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg002.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Persians</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg003.opp-grc3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Prometheus Bound</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg004.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="eng" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Seven Against Thebes</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-eng1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng4">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-grc2">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.perseus-grc1">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <title xmlns="http://www.loc.gov/mods/v3">Suppliant Maidens</title>
+                </mods:titleInfo>
+            </constituent>
+            <constituent ctsurn="urn:cts:greekLit:tlg0085.tlg001.opp-eng3">
+                <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="en" type="uniform">
+                    <mods:title>Suppliant Maidens</mods:title>
+                </mods:titleInfo>
+            </constituent>
+        </constituents>
+    </item>
+
+</data>
