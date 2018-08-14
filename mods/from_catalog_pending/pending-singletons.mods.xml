@@ -2,7 +2,10 @@
 <modsCollection xmlns="http://www.loc.gov/mods/v3"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
 
-    <mods displayLabel="Ab Urbe Condita, Wardle opp-eng7">
+    <mods displayLabel="Ab Urbe Condita, Wardle opp-eng7"><!-- This format seems different from the multi-volume in the other catalog_data conversion
+    None of the manifestation level URLs have carried over (HathiTrust, OCA, etc. why is there so little data here (e.g. no publication dates)? 
+    Or is the plan to put
+    the missing data back in by hand at each volume constituent-->
         <titleInfo xml:lang="en" type="uniform">
             <title>Ab Urbe Condita</title>
         </titleInfo>
@@ -23,7 +26,7 @@
             <role>
                 <roleTerm authority="marcrelator" type="text">translator</roleTerm>
             </role>
-        </name>
+        </name><!-- Do we want VIAF identifiers for editors too if they are in the original record -->
         <originInfo>
             <publisher>T. Wardle</publisher>
             <place>
@@ -35,13 +38,23 @@
             <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001</identifier>
             <relatedItem type="constituent" otherType="expression">
                 <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001.opp-eng7</identifier>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 1">
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 1"><!-- I think we should not use this extended of a format
+                it seems like way to much metadata since the whole point is to have less data, think I may have referrred to that in a Github
+                comment-->
                     <part>
                         <detail type="volume">
                             <caption>volume</caption>
                             <number>1</number>
                         </detail>
-                    </part>
+                    </part><!-- How about something like this instead? -->
+<!--              <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-Book 27">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-27</number>
+                            </detail>
+                        </part>
+                    </relatedItem>  -->      
                     <relatedItem type="constituent" otherType="structure" displayLabel="Book 1">
                         <part>
                             <detail type="book">
@@ -414,8 +427,8 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
-    <mods displayLabel="Ab Urbe Condita in 14 volumes (Loeb)">
+    <mods displayLabel="Ab Urbe Condita in 14 volumes (Loeb)"><!-- So there are about nine editors for this series,
+    is the plan again to copy that information as well as volume specific URL and data information back in under the individual volume structure?-->
         <titleInfo xml:lang="en" type="uniform">
             <title>Ab Urbe Condita</title>
         </titleInfo>
@@ -466,6 +479,8 @@
         <language>
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
+        <!-- How come in this MODS record the author and editor information haven't been transformed like
+        in the one above? -->
         <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-15690.html">
             <namePart>Livy</namePart>
             <role>
@@ -504,7 +519,7 @@
                             <caption>volume</caption>
                             <number>1</number>
                         </detail>
-                    </part>
+                    </part><!-- Would all the individual volume level metadata go here?  -->
                     <relatedItem type="constituent" otherType="structure" displayLabel="Book 1">
                         <part>
                             <detail type="book">
@@ -881,9 +896,11 @@
                             </detail>
                         </part>
                     </relatedItem>
-                </relatedItem>
+                </relatedItem><!-- Missing Volume 14 -->
             </relatedItem>
-            <relatedItem type="constituent" otherType="expression">
+            <relatedItem type="constituent" otherType="expression"><!-- I would combine these two sections,
+            just list the two expressions and then have the structure metadata outlined once since it is otherwise
+            entirely duplicate information and I found it confusing-->
                 <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001:7.opp.eng17</identifier>
                 <relatedItem type="constituent" otherType="structure" displayLabel="Volume 1">
                     <part>
@@ -1305,6 +1322,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
         </language>
+        <!-- Was that first name identifier changed by hand?  -->
         <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-15690.html">
             <namePart>Livy</namePart>
             <role>
@@ -1314,6 +1332,9 @@
         <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n86-855196.html">
             <namePart>Spillan, D. (Daniel)</namePart>
             <namePart type="date">d. 1854</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
             <role>
                 <roleTerm authority="marcrelator" type="text">translator</roleTerm>
             </role>
@@ -2404,7 +2425,8 @@
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Ab Urbe Condita, Teubner, opp-lat33">
+    <mods displayLabel="Ab Urbe Condita, Teubner, opp-lat33"><!-- 1800 line MODS records-we need to figure
+    out another way for structure-->
         <titleInfo xml:lang="en" type="uniform">
             <title>Ab Urbe Condita</title>
         </titleInfo>
@@ -3572,7 +3594,6 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="Commentarii in librum Aristotelis de interpretatione">
         <titleInfo xml:lang="lat" type="uniform">
             <title>Commentarii in librum Aristotelis de interpretatione</title>
@@ -3611,17 +3632,13 @@
                 <placeTerm type="text">Lipsiae</placeTerm>
             </place>
             <publisher>in aedibus B. G. Teubneri</publisher>
-            <dateIssued>1877</dateIssued>
+            <dateIssued>1877-1880</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-
         <tableOfContents>Versionem Continuam et Primam Editionem Contines</tableOfContents>
-
-
         <language>
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-
         <subject authority="lcsh">
             <name type="personal">
                 <namePart>Aristotle</namePart>
@@ -3684,7 +3701,6 @@
                         <url displayLabel="HathiTrust"
                             >http://hdl.handle.net/2027/uva.x000673217?urlappend=%3Bseq=251</url>
                     </location>
-
                 </relatedItem>
             </relatedItem>
         </relatedItem>
@@ -3789,7 +3805,7 @@
                             <identifier type="ctsurn"
                                 >urn:cts:latinLit:stoa0110.stoa009.opp-lat2</identifier>
                         </relatedItem>
-                    </relatedItem>
+                    </relatedItem><!-- Why does this appear twice? The URN for the expression -->
                 </relatedItem>
                 <relatedItem type="constituent" otherType="structure" displayLabel="Volume 2">
                     <part>
@@ -4332,7 +4348,7 @@
         <identifier type="oclc">9883440</identifier>
 
         <relatedItem type="constituent" otherType="work" displayLabel="De materia medica">
-            <!-- No CTS URN -->
+            <!-- No CTS URN --><!-- WILL I NEED TO CREATE THESE THEN? FOR NEW WORKS ITS EASY.  -->
             <relatedItem type="constituent" otherType="expression" displayLabel="De materia medica">
                 <!-- No CTS URN -->
                 <relatedItem type="constituent" otherType="structure" displayLabel="Volumen I">
@@ -4711,7 +4727,8 @@
             <topic>Latin letters</topic>
             <topic>Translations into English</topic>
         </subject>
-        <location>
+        <location><!-- Why in some cases did the URLs copy into individual structural volume
+        metadata and in other cases did not? In this case all of the volume 2 m-->
             <url displayLabel="LC Permalink">http://lccn.loc.gov/16000654</url>
         </location>
         <location>
@@ -4739,7 +4756,7 @@
                 <title>LCL</title>
             </titleInfo>
         </relatedItem>
-        <relatedItem type="constituent" otherType="work">
+        <relatedItem type="constituent" otherType="work"><!-- Don't think need duplicate structural metadata -->
             <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001</identifier>
 
             <relatedItem type="constituent" otherType="expression">
@@ -4934,7 +4951,7 @@
                 </relatedItem>
             </relatedItem>
             <relatedItem type="constituent" otherType="expression"
-                displayLabel="Epistulae Morales ad Lucilium (lat)">
+                displayLabel="Epistulae Morales ad Lucilium (lat)"><!-- Don't think need duplicate structural metadata -->
                 <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015.opp-lat2</identifier>
                 <relatedItem type="constituent" otherType="structure" displayLabel="Volume I (lat)">
                     <part type="volume">
@@ -5004,7 +5021,6 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="Fabulae">
         <titleInfo>
             <title>Fabulae</title>
@@ -5264,8 +5280,7 @@
                     </location>
                 </relatedItem>
             </relatedItem>
-
-            <relatedItem type="constituent" otherType="expression"
+            <relatedItem type="constituent" otherType="expression" 
                 displayLabel="Institutio oratoria (translation)">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001.opp-eng3</identifier>
                 <language>
@@ -5486,7 +5501,8 @@
         <titleInfo>
             <title>Isidori Hispalensis Episcopi Etymologiarvm sive originvm libri XX</title>
             <partNumber>Tomus I</partNumber>
-            <partNumber>Libros I-X</partNumber>
+            <partNumber>Libros I-X</partNumber><!-- Need to decide on a standard top level manifestation
+            metadata format-->
         </titleInfo>
         <titleInfo type="abbreviated">
             <title>Etymologiarum sive originum libri XX</title>
@@ -5628,7 +5644,6 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="Noctes Atticae (Loeb)">
         <titleInfo xml:lang="en" type="uniform">
             <title>Noctes Atticae</title>
@@ -5698,7 +5713,8 @@
             <topic>Civilization, Greco-Roman</topic>
             <topic>Sources</topic>
         </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Noctes Atticae">
+        <relatedItem type="constituent" otherType="work" displayLabel="Noctes Atticae"><!-- Eliminate duplicate structural metadata? 
+        Didn't do that for multi-volumes in catalog_data-->
             <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="Attic Nights">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001.opp-eng2</identifier>
@@ -6871,8 +6887,11 @@
                 <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
             </titleInfo>
         </relatedItem>
+        <!-- THERE WAS A TLG IN RECORD-CAN WE CREATE A SCRIPT TO CREATE URNS OR PERHAPS BEST TO DO BY HAND AT THIS POINT
+        FOR CATALOG PENDING-I CREATE THIS ONE--> 
         <identifier type="lccn">67097325</identifier>
         <identifier type="oclc">3465925</identifier>
+        <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001.opp-grc2</identifier>
         <location>
             <url displayLabel="Worldcat">http://www.worldcat.org/oclc/3465925</url>
         </location>
@@ -6882,12 +6901,13 @@
 
         <relatedItem type="constituent" otherType="work"
             displayLabel="Ab excessu divi Marci libri octo">
-
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Ab excessu divi Marci libri octo"> </relatedItem>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001.opp-grc2</identifier>
         </relatedItem>
     </mods>
-
+<!-- LEFT OFF HERE -->
     <mods displayLabel="Acts of the Apostles, Apocryphal">
         <titleInfo type="uniform">
             <title>Acts of the Apostles, Apocryphal</title>
