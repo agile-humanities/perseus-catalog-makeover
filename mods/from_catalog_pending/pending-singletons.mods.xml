@@ -5993,7 +5993,7 @@
             <topic>Punic war, 2nd, 218-210 B.C</topic>
             <topic>Poetry</topic>
         </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Punica">
+        <relatedItem type="constituent" otherType="work" displayLabel="Punica"><!-- Dont think need multiple expression structures -->
             <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="Punica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-lat3</identifier>
@@ -6907,9 +6907,10 @@
             <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001.opp-grc2</identifier>
         </relatedItem>
     </mods>
-<!-- LEFT OFF HERE -->
-    <mods displayLabel="Acts of the Apostles, Apocryphal">
-        <titleInfo type="uniform">
+
+    <mods displayLabel="Acts of the Apostles, Apocryphal"><!-- ERROR-This one is very different from the others, it contains page numbers
+    for instance, I believe that this file should be moved to the inverted rather than the singletons, numerous works in here-->
+        <titleInfo type="uniform"> <!-- 3 volumes each with more than one work, may  be too hard to also combine as a series?  -->
             <title>Acts of the Apostles, Apocryphal</title>
         </titleInfo>
         <titleInfo lang="lat">
@@ -7213,7 +7214,7 @@
                 </relatedItem>
             </relatedItem>
         </relatedItem>
-    </mods>
+    </mods><!-- DELETE AND REDO -->
 
     <mods displayLabel="Agathemeri Orthonis Geographiae Hypotyposis">
         <titleInfo>
@@ -7411,8 +7412,12 @@
         </relatedItem>
     </mods>
 
-    <!-- Associated with no work or expression -->
-    <mods displayLabel="Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii">
+    <!-- Associated with no work or expression --><!-- Noticing a pattern here, I think there may have been a problem when 
+    the algorithm/script hit records in the non composite file that had single constituent works, often because I was cataloging
+    an edition for a single work that was in it that we were interested in-how to handle these-move to inverted? ultimately don't want 
+    to lose the page numbers or page level links-->
+    <mods displayLabel="Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii"><!-- ERROR-THERE WAS CONSTITUENT IN THIS RECORD
+    in CATALOG PENDING 0732.017-->
         <titleInfo>
             <title>Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii</title>
         </titleInfo>
@@ -7455,7 +7460,8 @@
         </location>
     </mods>
 
-    <!-- Associated with a tlg id only (0732.015) -->
+    <!-- Associated with a tlg id only (0732.015) --><!-- By this do you mean there is no CTS-URN like in many files,
+    and one will need to be created for it? -->
     <mods displayLabel="Alexandri in Aristotelis analyticorum priorum librum i commentarium">
         <titleInfo>
             <title>Alexandri in Aristotelis analyticorum priorum librum i commentarium</title>
@@ -7498,7 +7504,8 @@
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/nnc1.0064694399</url>
         </location>
-        <relatedItem type="constituent" otherType="structure">
+        <relatedItem type="constituent" otherType="structure"><!-- This should not have a structure component
+        as there is only a single volume-->
             <titleInfo>
                 <title>Fragmenta Alexandri in analytica posteriora commentariorum</title>
             </titleInfo>
@@ -7562,7 +7569,8 @@
         <location>
             <url displayLabel="WorldCat">http://www.worldcat.org/oclc/248555797</url>
         </location>
-        <relatedItem type="constituent" otherType="structure">
+        <relatedItem type="constituent" otherType="structure"><!-- This should not have a structure component
+        as there is only a single volume-->
             <titleInfo>
                 <title>Περὶ δεκάδος καὶ τῶν ἐντὸς αὐτῆς ἀριθμῶν</title>
             </titleInfo>
@@ -7661,7 +7669,8 @@
             <url displayLabel="Internet Archive"
                 >https://archive.org/details/andronicirhodiiq00unse</url>
         </location>
-        <relatedItem type="constituent">
+        <relatedItem type="constituent"><!-- This should not have a structure component
+        as there is only a single volume-->
             <titleInfo>
                 <title>De passionibus (lib. 2)</title>
             </titleInfo>
@@ -7766,7 +7775,8 @@
         <location>
             <url displayLabel="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5463146w</url>
         </location>
-        <relatedItem type="constituent">
+        <relatedItem type="constituent"><!-- This should not have a structure component
+        as there is only a single volume-->
             <titleInfo>
                 <title>De passionibus (lib. 1)</title>
             </titleInfo>
@@ -7815,7 +7825,8 @@
     </mods>
 
     <!-- Associated with tlg ids only -->
-    <mods displayLabel="Apocrypha anecdota II">
+    <mods displayLabel="Apocrypha anecdota II"><!-- ERROR-This record totally confusing, as only one of these
+    works (Act of Thomas) is in the original record in catalog pending, were the others added in by hand? -->
         <titleInfo>
             <title>Apocrypha anecdota</title>
             <subTitle>second series</subTitle>
@@ -7839,7 +7850,7 @@
             <dateIssued>1897</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-        <typeOfResource>text</typeOfResource>
+        <typeOfResource>text</typeOfResource><!-- None of this should be structure anyways as these are all works -->
         <relatedItem type="constituent" otherType="structure" displayLabel="Introductions">
             <part type="section">
                 <detail>
@@ -7969,7 +7980,8 @@
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Apocrypha Ancedota (collection of 13 books and fragments)">
+    <mods displayLabel="Apocrypha Ancedota (collection of 13 books and fragments)"> <!-- ERROR-This record totally confusing, as only one of these
+        works (Act of Thomas) is in the original record in catalog pending, were the others added in by hand? -->
         <titleInfo>
             <title>Apocrypha anecdota</title>
             <subTitle>a collection of thirteen apocryphal books and fragments</subTitle>
@@ -8018,8 +8030,8 @@
         </location>
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101068766680</url>
-        </location>
-        <relatedItem type="constituent" otherType="structure"
+        </location><!-- None of this should be structure anyways as these are all works -->
+        <relatedItem type="constituent" otherType="structure" 
             displayLabel="On the Latin Version of the Viso Pauli">
             <part type="section">
                 <detail>
@@ -8043,7 +8055,7 @@
             </part>
         </relatedItem>
         <relatedItem type="constituent" otherType="structure"
-            displayLabel="Acta Xanthippae et Polyxenae">
+            displayLabel="Acta Xanthippae et Polyxenae"><!-- Only cataloged work in catalog pending -->
             <part type="section">
                 <detail>
                     <title>Acta Xanthippae et Polyxenae</title>
@@ -8153,7 +8165,10 @@
     </mods>
 
 
-    <!-- Associated with tlg ids only -->
+    <!-- Associated with tlg ids only --><!-- ERROR There are four records for individual work/authors in this series in 
+    catalog pending-had not tried to keep the series together-but it seems that all of the TLGs have been excised from this file,
+    so we now have structural metadata but have lost all the work/expressions and editors-should I add those back in and move this to
+    inverted (where it belongs since most volumes are multi-work)-->
     <mods displayLabel="Grammatici Graeci recogniti et apparatu critico instructi">
         <titleInfo>
             <title>Grammatici Graeci</title>
@@ -8341,13 +8356,13 @@
                 (Revision 1.106 2014/12/19)</recordOrigin>
         </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Aristotelis Ars rhetorica">
-
+<!-- NEEDS ID TURNED INTO CTS URN -->
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Aristotelis Ars rhetorica"> </relatedItem>
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Athenagorae philosophi Atheniensis Opera">
+    <mods displayLabel="Athenagorae philosophi Atheniensis Opera"><!-- NEED TO MOVE TO INVERTED-TWO WORKS AND NEED WORK/EXPRESSION SECTIONS -->
         <titleInfo>
             <title>Athenagorae philosophi Atheniensis Opera</title>
         </titleInfo>
@@ -8559,7 +8574,8 @@
             <relatedItem type="constituent" otherType="expression" displayLabel="Belopoeica">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg0559.tlg012.opp-grc1</identifier>
                 <location>
-                    <url displayLabel="Worldcat">http://www.worldcat.org/oclc/234096346</url>
+                    <url displayLabel="Worldcat">http://www.worldcat.org/oclc/234096346</url><!-- WHY DID THESE URLS INFO END 
+                    UP WITHIN THE WORK SECTION RATHER THAN ABOVE-->
                 </location>
                 <location>
                     <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.d0002807964</url>
@@ -8625,6 +8641,7 @@
         </relatedItem>
         <identifier type="oclc">881300239</identifier>
         <relatedItem type="constituent" otherType="work" displayLabel="C. Ateio Capitonis Fragmenta">
+            <!-- NEEDS ID TURNED INTO CTS URN -->
             <identifier type="phi">806.2</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="C. Ateio Capitonis Fragmenta">
@@ -8697,7 +8714,7 @@
         </location>
 
         <relatedItem type="constituent" otherType="work" displayLabel="Choricius Gazaeus Opera">
-
+            <!-- NEEDS ID TURNED INTO CTS URN -->
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Choricius Gazaeus Opera"> </relatedItem>
         </relatedItem>
@@ -8766,13 +8783,13 @@
         </location>
 
         <relatedItem type="constituent" otherType="work" displayLabel="Choricius Gazaeus Opera">
-
+            <!-- NEEDS ID TURNED INTO CTS URN -->
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Choricius Gazaeus Opera"> </relatedItem>
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Cornelii Nepotis Vitae cum fragmentis">
+    <mods displayLabel="Cornelii Nepotis Vitae cum fragmentis"><!-- ERROR-MULTI-WORK VOLUME NEED TO BE MOVED TO INVERTED -->
         <titleInfo>
             <title>Cornelii Nepotis Vitae cum fragmentis</title>
         </titleInfo>
@@ -9925,7 +9942,7 @@
         </location>
 
         <relatedItem type="constituent" otherType="work" displayLabel="De Victu Attenuante">
-
+            <!-- NEEDS ID TURNED INTO CTS URN -->
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="De Victu Attenuante"> </relatedItem>
         </relatedItem>
@@ -9999,7 +10016,7 @@
             <url displayLabel="PHI">http://latin.packhum.org/author/929</url>
         </location>
         <relatedItem type="constituent" otherType="work" displayLabel="De chorographia libri tres">
-
+            <!-- NEEDS ID TURNED INTO CTS URN -->
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="De chorographia libri tres"> </relatedItem>
         </relatedItem>
@@ -10088,13 +10105,13 @@
         </location>
         <relatedItem type="constituent" otherType="work"
             displayLabel="De venenatis animalibus eorumque remediis">
-
+            <!-- NEEDS ID TURNED INTO CTS URN -->
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="De venenatis animalibus eorumque remediis"> </relatedItem>
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Die Briefe des Sextus Julius Africanus an Aristides und Origenes">
+    <mods displayLabel="Die Briefe des Sextus Julius Africanus an Aristides und Origenes"><!-- ERROR-MOVE TO INVERTED -->
         <titleInfo>
             <title>Die Briefe des Sextus Julius Africanus an Aristides und Origenes</title>
         </titleInfo>
@@ -10290,7 +10307,9 @@
             <url displayLabel="Internet Archive"
                 >https://archive.org/details/diegriechischenc25kirc</url>
         </location>
-        <relatedItem type="constituent" otherType="work" displayLabel="Ancoratus">
+        <relatedItem type="constituent" otherType="work" displayLabel="Ancoratus"><!-- ERROR-NEED TO ALTER
+        THIS TO CURRENT FORMAT- AS THIS STILL HAS PAGE INFO AND OTHER INFO --><!-- THIS DUE TO PRESENCE
+            OF CONSTITUENT-->
             <titleInfo>
                 <title>Ancoratus</title>
             </titleInfo>
@@ -10391,7 +10410,8 @@
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015019115057</url>
         </location>
-        <relatedItem type="constituent" otherType="work">
+        <relatedItem type="constituent" otherType="work"><!-- NEEDS ID TURNED INTO CTS URN -->
+            <!-- ALSO NEEDS TO BE UPDATED TO CURRENT STANDARD -->
             <titleInfo>
                 <title>Poliorcetica</title>
             </titleInfo>
@@ -10423,7 +10443,8 @@
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Soranus (Corpus Medicorum Graecorum, Vol 4)">
+    <mods displayLabel="Soranus (Corpus Medicorum Graecorum, Vol 4)"><!-- ERROR MOVE TO INVERTED-ALSO 
+    UPDATE TO CURRENT STANDARD-->
         <titleInfo>
             <title>Soranus</title>
         </titleInfo>
@@ -10647,7 +10668,7 @@
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Hermogenis opera">
+    <mods displayLabel="Hermogenis opera"><!-- ERROR-MULTIPLE WORKS NEED TO MOVE TO INVERTED -->
         <titleInfo>
             <title>Hermogenis opera</title>
         </titleInfo>
@@ -10708,7 +10729,7 @@
             </titleInfo>
         </relatedItem>
 
-        <relatedItem type="constituent" otherType="work" displayLabel="Progymnasmata">
+        <relatedItem type="constituent" otherType="work" displayLabel="Progymnasmata"><!-- NEED TO ALTER TO CURRENT FORMAT -->
             <titleInfo>
                 <title>Progymnasmata</title>
             </titleInfo>
@@ -10974,7 +10995,8 @@
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Herodiani technici">
+    <mods displayLabel="Herodiani technici"><!-- MOVE TO INVERTED CONSOLIDATE INTO GRAMMTICI GRAECI RECORD?
+    MULTI VOLUME AND MULTI WORK-->
         <titleInfo>
             <title>Herodiani technici</title>
             <subTitle>Reliquiae</subTitle>
@@ -11032,7 +11054,8 @@
             <location>
                 <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.b4033091</url>
             </location>
-            <relatedItem type="constituent" otherType="work" displayLabel="De prosodia catholica">
+            <relatedItem type="constituent" otherType="work" displayLabel="De prosodia catholica"><!-- NEED TO CONVERT TO STANDARD
+            FORMAT AND ALSO NEEDS URNS-->
                 <titleInfo>
                     <title>De prosodia catholica</title>
                 </titleInfo>
@@ -11096,7 +11119,8 @@
                 <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101054496086</url>
             </location>
             <relatedItem type="constituent" otherType="work"
-                displayLabel="Περὶ κυρίων καὶ ἐπιθέτων καὶ προσηγορικῶν μονόβιβλον">
+                displayLabel="Περὶ κυρίων καὶ ἐπιθέτων καὶ προσηγορικῶν μονόβιβλον"> <!-- NEED TO CONVERT TO STANDARD
+                FORMAT-->
                 <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg003</identifier>
                 <identifier type="tlg">0087.003</identifier>
                 <relatedItem type="constituent" otherType="expression">
@@ -11681,7 +11705,7 @@
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Heronis Alexandrini Opera quae supersunt omnia">
+    <mods displayLabel="Heronis Alexandrini Opera quae supersunt omnia"><!-- MOVE INTO INVERTED GRAMMATICI GRAECI RECORD AND ALTER FORMAT? -->
         <titleInfo>
             <title>Heronis Alexandrini Opera quae supersunt omnia</title>
         </titleInfo>
@@ -11732,7 +11756,7 @@
             <location>
                 <url displayLabel="HathiTrust">https://hdl.handle.net/2027/mdp.39015024207287</url>
             </location>
-            <relatedItem type="constituent" otherType="work" displayLabel="Definitiones">
+            <relatedItem type="constituent" otherType="work" displayLabel="Definitiones"><!-- NEED URNS AND STANDARD FORMAT -->
                 <identifier type="tlg">0559.008</identifier>
                 <relatedItem type="constituent" otherType="expression">
                     <part>
@@ -11747,7 +11771,7 @@
                     </location>
                 </relatedItem>
             </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Geometrica">
+            <relatedItem type="constituent" otherType="work" displayLabel="Geometrica"><!-- NEED URNS AND STANDARD FORMAT -->
                 <identifier type="tlg">0559.009</identifier>
                 <relatedItem type="constituent" otherType="expression">
                     <part>
@@ -11781,7 +11805,7 @@
             <location>
                 <url displayLabel="HathiTrust">https://hdl.handle.net/2027/mdp.39015017390389</url>
             </location>
-            <relatedItem type="constituent" otherType="work" displayLabel="Geodaesia">
+            <relatedItem type="constituent" otherType="work" displayLabel="Geodaesia"><!-- NEED URNS AND STANDARD FORMAT -->
                 <identifier type="tlg">0559.015</identifier>
                 <relatedItem type="constituent" otherType="expression">
                     <part>
@@ -11799,7 +11823,7 @@
             </relatedItem>
             <relatedItem type="constituent" otherType="work" displayLabel="Stereometrica">
                 <identifier type="tlg">0559.010</identifier>
-                <relatedItem type="constituent" otherType="expression">
+                <relatedItem type="constituent" otherType="expression"><!-- NEED URNS AND STANDARD FORMAT -->
                     <part>
                         <extent unit="pages">
                             <start>2</start>
@@ -11814,7 +11838,7 @@
             </relatedItem>
             <relatedItem type="constituent" otherType="work" displayLabel="De Mensuris">
                 <identifier type="tlg">0559.011</identifier>
-                <relatedItem type="constituent" otherType="expression">
+                <relatedItem type="constituent" otherType="expression"><!-- NEED URNS AND STANDARD FORMAT -->
                     <part>
                         <extent unit="pages">
                             <start>164</start>
@@ -11897,18 +11921,19 @@
                 <partNumber>28</partNumber>
             </titleInfo>
         </relatedItem>
+        <location>
+            <url displayLabel="Worldcat">http://www.worldcat.org/oclc/781927375</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/details/gelasiuskircheng28gelauoft</url>
+        </location>  
         <identifier type="lccn">20023080</identifier>
         <identifier type="oclc">1013775</identifier>
         <relatedItem type="constituent" otherType="work" displayLabel="Historia ecclesiastica">
             <identifier type="tlg">2768.001</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="Historia ecclesiastica">
-                <location>
-                    <url displayLabel="Worldcat">http://www.worldcat.org/oclc/781927375</url>
-                </location>
-                <location>
-                    <url displayLabel="Open Content Alliance"
-                        >https://archive.org/details/gelasiuskircheng28gelauoft</url>
-                </location>                
+                <!-- NEED CTS-URNS -->              
             </relatedItem>
         </relatedItem>
     </mods>
@@ -11983,7 +12008,7 @@
 
         <relatedItem type="constituent" otherType="work"
             displayLabel="Historiae Animalium Epitome subiunctis Aeliani Timothei aliorumque eclogis">
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0644.tlg001</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0644.tlg001</identifier> <!-- NEED TO MOVE URLS -->
             <identifier type="tlg">0644.001</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Historiae Animalium Epitome subiunctis Aeliani Timothei aliorumque eclogis">
@@ -12001,7 +12026,7 @@
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Hyperidis Orationes sex cum ceterarum fragmentis">
+    <mods displayLabel="Hyperidis Orationes sex cum ceterarum fragmentis"><!-- ERROR-MOVE TO INVERTED -->
         <titleInfo>
             <title>Hyperidis Orationes sex cum ceterarum fragmentis</title>
         </titleInfo>
@@ -12057,7 +12082,7 @@
         <location>
             <url displayLabel="SLUB">http://digital.slub-dresden.de/id403673038</url>
         </location>
-        <relatedItem type="constituent" otherType="work" displayLabel="In Demosthenem">
+        <relatedItem type="constituent" otherType="work" displayLabel="In Demosthenem"><!-- NEED URNS AND STANDARD FORMAT -->
             
             <identifier type="tlg">0030.005</identifier>
             <relatedItem type="constituent" otherType="expression">
@@ -12268,7 +12293,7 @@
         </location>
         
         <relatedItem type="constituent" otherType="work" displayLabel="In Platonis Phaedrum scholia">
-            <identifier type="tlg">2317.001</identifier>
+            <identifier type="tlg">2317.001</identifier><!-- NEED CTS URNS -->
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="In Platonis Phaedrum scholia"> </relatedItem>
         </relatedItem>
@@ -12334,6 +12359,7 @@
 
         
         <relatedItem type="constituent" otherType="work" displayLabel="Institutio Logica">
+            <!-- NEED CTS URNS AND TO MOVE URLS-->
             <identifier type="tlg">0057.081</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="Institutio Logica">
                 <location>
@@ -12407,7 +12433,7 @@
             <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003111247</url>
         </location>
       <relatedItem type="constituent" otherType="work" displayLabel="Μαρτύριον τοῦ ἁγίου ἀποστόλου Πέτρου">
-            <identifier type="tlg">0389.001</identifier>
+          <identifier type="tlg">0389.001</identifier><!-- NEED CTS URNS -->
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Les actes de Pierre">
                 <part>
@@ -12423,8 +12449,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
-    <mods displayLabel="M. Cornelii Frontonis Epistulae adnotatione critica instructae">
+    <mods displayLabel="M. Cornelii Frontonis Epistulae adnotatione critica instructae"><!-- MOVE TO INVERTED -->
         <titleInfo>
             <title>M. Cornelii Frontonis Epistulae adnotatione critica instructae</title>
         </titleInfo>
@@ -12498,7 +12523,7 @@
         <location>
             <url displayLabel="PHI">http://latin.packhum.org/author/1248</url>
         </location>
-        <relatedItem type="constituent" otherType="work" displayLabel="Ad M. Caesarem et Inivcem">
+        <relatedItem type="constituent" otherType="work" displayLabel="Ad M. Caesarem et Inivcem"><!-- NEED CTS URNS AND TO REMOVE URLS-->
             <identifier type="phi">1248.1</identifier>
             <relatedItem type="constituent" otherType="expression">
                 <location>
@@ -12722,7 +12747,7 @@
         
         <relatedItem type="constituent" otherType="work"
             displayLabel="Myriobiblion sive Bibliotheca">
-
+<!-- NEEDS CTS URN -->
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Myriobiblion sive Bibliotheca">
                 
@@ -12800,7 +12825,8 @@
                     <url displayLabel="HathiTrust"
                         >https://hdl.handle.net/2027/mdp.39015047668283</url>
                 </location>
-                <relatedItem type="constituent" otherType="work" displayLabel="Apotelesmata">
+                <relatedItem type="constituent" otherType="work" displayLabel="Apotelesmata"><!-- NEEDS CTS URN AND 
+                MOVE TO STANDARD FORMAT-->
                     <identifier type="tlg">0619.001</identifier>
                     <relatedItem type="constituent" otherType="expression">
                         <part>
@@ -12892,6 +12918,7 @@
         
         <relatedItem type="constituent" otherType="work" displayLabel="Peri aneimenou libellus">
             <identifier type="rhg">rhg0001.rhg001</identifier>
+            <!-- NEEDS CTS URN -->
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Peri aneimenou libellus"> </relatedItem>
         </relatedItem>
@@ -12962,127 +12989,33 @@
             </titleInfo>
         </relatedItem>
         <identifier type="oclc">70353359</identifier>
-        
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/70353359</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=7igMAAAAIAAJ</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/details/corpusscriptoru16wiengoog</url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"/>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101018185650</url>
+        </location>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Pseudo-Augustini Quaestiones Veteris et Novi Testamenti CXXVII">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0022a.stoa001</identifier>
             <identifier type="stoa author-text">stoa0022a-stoa001</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Pseudo-Augustini Quaestiones Veteris et Novi Testamenti CXXVII">
-                <identifier type="ctsurn">urn:cts:latinLit:stoa0022a.stoa001.opp-lat1</identifier>
-                <location>
-                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/70353359</url>
-                </location>
-                <location>
-                    <url displayLabel="GoogleBooks">http://books.google.com/books?id=7igMAAAAIAAJ</url>
-                </location>
-                <location>
-                    <url displayLabel="Open Content Alliance"
-                        >https://archive.org/details/corpusscriptoru16wiengoog</url>
-                </location>
-                <location>
-                    <url displayLabel="Open Library"/>
-                </location>
-                <location>
-                    <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101018185650</url>
-                </location>
-                
+                <identifier type="ctsurn">urn:cts:latinLit:stoa0022a.stoa001.opp-lat1</identifier>      
             </relatedItem>
         </relatedItem>
-    </mods>
-
-    <mods displayLabel="Punica">
-        <titleInfo xml:lang="en" type="uniform">
-            <title>Punica</title>
-        </titleInfo>
-        <relatedItem type="constituent" otherType="structure">
-            <part type="volume">
-                <detail>
-                    <number>1</number>
-                </detail>
-            </part>
-            <identifier type="lccn">34017332</identifier>
-            <identifier type="oclc">4156319</identifier>
-            <identifier type="oca">punicasi01siliuoft</identifier>
-            <typeOfResource>text</typeOfResource>
-            <originInfo>
-                <place>
-                    <placeTerm type="code" authority="marccountry">mau</placeTerm>
-                </place>
-                <place>
-                    <placeTerm type="text">Cambridge, Mass</placeTerm>
-                </place>
-                <publisher>Harvard University Press</publisher>
-                <dateIssued>1927</dateIssued>
-                <dateModified>1961</dateModified>
-                <edition>Reprint</edition>
-                <issuance>monographic</issuance>
-            </originInfo>
-            <physicalDescription>
-                <form authority="marcform">print</form>
-                <extent>xviii, 443 pg.</extent>
-                <digitalOrigin>digitized other analog</digitalOrigin>
-            </physicalDescription>
-            <tableOfContents>Book I-VIII</tableOfContents>
-            <note type="statement of responsibility">with an English translation by J. D. Duff
-                ...</note>
-            <note>Latin and English on opposite pages.</note>
-            <classification authority="lcc">PA6156.S6 1934</classification>
-            <classification authority="ddc">873.4</classification>
-            <relatedItem type="series">
-                <titleInfo>
-                    <title>The Loeb classical library. [Latin authors]</title>
-                </titleInfo>
-            </relatedItem>
-            <location>
-                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/4156319</url>
-            </location>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >http://www.archive.org/details/punicasi01siliuoft</url>
-            </location>
-            <location>
-                <url displayLabel="Open Library"
-                    >http://www.openlibrary.org/details/punicasi01siliuoft</url>
-            </location>
-            <location>
-                <url displayLabel="GoogleBooks"/>
-            </location>
-            <location>
-                <url displayLabel="LC Permalink">http://lccn.loc.gov/34017332</url>
-            </location>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-            </language>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/n79-120267.html">
-                <namePart>Silius Italicus, Tiberius Catius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="naf" type="personal"
-                xlink:href="http://errol.oclc.org/laf/n50-26939.html">
-                <namePart>Duff, J. D. (James Duff)</namePart>
-                <namePart type="date">1860-1940</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">translator</roleTerm>
-                </role>
-            </name>
-            <subject authority="lcsh">
-                <topic>Punic war, 2nd, 218-210 B.C</topic>
-                <topic>Poetry</topic>
-            </subject>
-            <relatedItem type="constituent" otherType="work" displayLabel="Punica">
-                <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001</identifier>
-                <identifier type="phi">1345.1</identifier>
-                <identifier type="stoa author-text">stoa0263-stoa001</identifier>
-                <relatedItem type="constituent" otherType="expression" displayLabel="Punica">
-                    <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-eng2</identifier>
-                </relatedItem>
-            </relatedItem>
-        </relatedItem>
-    </mods>
+    </mods> 
+    
 
     <mods displayLabel="Quae Fertur In Aristotelis Analyticorum Priorum Librum I">
         <titleInfo xml:lang="en" type="uniform">
@@ -13291,7 +13224,8 @@
         
         <relatedItem type="constituent" otherType="work"
             displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean">
-            <identifier type="tlg">1158.002</identifier>
+            <identifier type="tlg">1158.002</identifier><!-- NEED URN AND CORRECTED WORK TITLE SINCE THE CORRECT WORK IS THE ONE ABOVE
+            APCOALPYSIS JOANNIS-->
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean"
             > </relatedItem>
@@ -13519,7 +13453,8 @@
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Davidis prolegomena et in Porphyrii isagogen commentarium">
+    <mods displayLabel="Davidis prolegomena et in Porphyrii isagogen commentarium"><!-- ERROR-MULTI VOLUME WORK NEED
+    TO MOVE TO INVERTED-->
         <titleInfo>
             <title>Davidis prolegomena et in Porphyrii isagogen commentarium</title>
         </titleInfo>
@@ -13583,7 +13518,7 @@
         <location>
             <url displayLabel="GoogleBooks">http://books.google.com/books?id=FecUAAAAQAA</url>
         </location>
-        <relatedItem type="constituent">
+        <relatedItem type="constituent"><!-- NEED URNS AND MOVE TO STANDARD FORMS -->
             <titleInfo>
                 <title>Prolegomena philosophiae</title>
             </titleInfo>
@@ -13623,7 +13558,7 @@
                     >https://hdl.handle.net/2027/njp.32101075724144?urlappend=%3Bseq=354</url>
             </location>
         </relatedItem>
-        <relatedItem type="constituent">
+        <relatedItem type="constituent"><!-- NEED URNS AND MOVE TO STANDARD FORMS -->
             <titleInfo>
                 <title>In Porphyrii isagogen commentarium</title>
             </titleInfo>
@@ -13718,7 +13653,7 @@
         </relatedItem>
     </mods>
 
-    <mods displayLabel="Eliae in Porphyrii isagogen et Aristotelis categorias commentaria">
+    <mods displayLabel="Eliae in Porphyrii isagogen et Aristotelis categorias commentaria"><!-- ERROR NEED TO MOVE TO INVERTED-MULI AUTHOR/WORKS -->
         <titleInfo>
             <title>Eliae in Porphyrii isagogen et Aristotelis categorias commentaria</title>
         </titleInfo>
@@ -13817,7 +13752,8 @@
             <classification authority="lcc">PA3902 A25</classification>
         </relatedItem>
         
-        <relatedItem type="constituent" otherType="work" displayLabel="In Porphyrii isagogen">
+        <relatedItem type="constituent" otherType="work" displayLabel="In Porphyrii isagogen"><!-- NEEDS URNS AND STANDARD
+        FORMAT-->
             <identifier type="tlg">4020.001</identifier>
             <relatedItem type="constituent" otherType="expression">
                 <part>
@@ -13857,7 +13793,7 @@
         </relatedItem>
         <relatedItem type="constituent" otherType="work" displayLabel="In Aristotelis categorias commentarium">
             <identifier type="tlg">4021.003</identifier>
-            <relatedItem type="constituent" otherType="expression">
+            <relatedItem type="constituent" otherType="expression"><!-- Second record for David the Armeniana -->
                 <part>
                     <extent unit="pages">
                         <start>107</start>
@@ -13970,7 +13906,7 @@
             <identifier type="tlg">2766a.001</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Eudociae Augustae Violarium"> </relatedItem>
-        </relatedItem>
+        </relatedItem><!-- NEED CTS URN -->
     </mods>
 
     <mods displayLabel="In Aristotelis Categorias Commentarium">
@@ -14291,7 +14227,7 @@
         <relatedItem type="constituent" otherType="work" displayLabel="Astronomica">
             <identifier type="phi">899.1</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="Astronomica"
-            > </relatedItem>
+            > </relatedItem><!-- NEEDS CTS URNS -->
         </relatedItem>
     </mods>
 </modsCollection>
