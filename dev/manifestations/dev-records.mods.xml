@@ -1,0 +1,3894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"  xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+    
+    <mods displayLabel="Ab Urbe Condita, Wardle opp-eng7">
+        <titleInfo xml:lang="en" type="uniform">
+            <title>Ab Urbe Condita</title>
+        </titleInfo>
+        <titleInfo>
+            <nonSort>The</nonSort>
+            <title>history of Rome</title>
+        </titleInfo>
+        <name type="personal">
+            <nameIdentifier type="viaf">99942145</nameIdentifier>
+            <displayForm>Livy</displayForm>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal">
+            <namePart type="family">Baker</namePart>
+            <namePart type="given">George</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <publisher>T. Wardle</publisher>
+            <place>
+                <placeTerm>Philaelphia</placeTerm>
+            </place>
+        </originInfo>
+        <identifier type="oclc">5749307</identifier>
+        <relatedItem type="constituent" otherType="work" displayLabel="ab urbe condita">
+            <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001.opp-eng7</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 1">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 2">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 3">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 4">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 5">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>5</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 6">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>6</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 7">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>7</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 8">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>8</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 9">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>9</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 10">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>10</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 11">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>11</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 12">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>12</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 13">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>13</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 14">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>14</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 15">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>15</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 16">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>16</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 17">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>17</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 18">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>18</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 19">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>19</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 20">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>20</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 21">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>21</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 22">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>22</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 23">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>23</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 24">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>24</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 25">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>25</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 26">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>26</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 27">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>27</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 2">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>2</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 28">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>28</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 29">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>29</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 30">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>30</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 31">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>31</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 32">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>32</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 33">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>33</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 34">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>34</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 35">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>35</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 36">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>36</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 37">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>37</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 38">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>38</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 39">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>39</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 40">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>40</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 41">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>41</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 42">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>42</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 43">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>43</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 44">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>44</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 45">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>45</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+
+    <mods displayLabel="Ab Urbe Condita in 14 volumes (Loeb)">
+        <titleInfo xml:lang="en" type="uniform">
+            <title>Ab Urbe Condita</title>
+        </titleInfo>
+        <titleInfo>
+            <title>Livy in fourteen volumes</title>
+        </titleInfo>
+        <identifier type="isbn">0674991265</identifier>
+        <identifier type="oclc">28348751</identifier>
+        <identifier type="phi">914.1</identifier>
+        <identifier type="stoa author-text">stoa0179-stoa001</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001</identifier>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">mau</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Cambridge, Mass</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">London</placeTerm>
+            </place>
+            <publisher>Harvard University Press</publisher>
+            <publisher>William Heinemann</publisher>
+            <dateIssued>1919</dateIssued>
+            <dateModified>1976</dateModified>
+            <edition>Reprint</edition>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <note type="statementof responsibility">with an English translation by B.O. Foster.</note>
+        <note>Latin and English on opposing pages</note>
+        <note>Includes bibliographical references and index</note>
+        <classification authority="lcc">DG233 .L5813 1976</classification>
+        <classification authority="ddc" edition="20">937</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>The Loeb classical library</title>
+                <partNumber>114</partNumber>
+            </titleInfo>
+            <titleInfo type="abbreviated">
+                <title>LCL</title>
+                <partNumber>114</partNumber>
+            </titleInfo>
+        </relatedItem>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-15690.html">
+            <namePart>Livy</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n88-284968.html">
+            <namePart>Foster, B. O.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <subject>
+            <geographicCode authority="marcgac">e------</geographicCode>
+            <geographicCode authority="marcgac">ff-----</geographicCode>
+            <geographicCode authority="marcgac">aw-----</geographicCode>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Rome</geographic>
+            <topic>History</topic>
+            <temporal>To 510 B.C</temporal>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Rome</geographic>
+            <topic>History</topic>
+            <temporal>Republic, 510-265 B.C</temporal>
+        </subject>
+
+        <relatedItem type="constituent" otherType="work" displayLabel="ab urbe condita">
+            <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001:7.opp.lat28</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 1">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 2">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 2">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>2</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 3">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 4">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 3">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>3</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 5">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>5</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 6">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>6</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 7">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>7</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 4">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>4</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 8">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>8</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 9">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>9</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 10">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>10</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 5">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>5</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 21">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>21</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 22">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>22</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 6">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>6</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 23">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>23</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 24">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>24</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 25">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>25</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 7">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>7</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 26">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>26</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 27">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>27</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 8">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>8</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 28">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>28</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 29">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>29</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 30">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>30</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 9">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>9</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 31">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>31</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 32">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>32</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 33">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>33</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 34">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>34</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 10">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>10</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 35">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>35</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 36">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>36</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 37">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>37</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 11">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>11</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 38">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>38</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 39">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>39</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 12">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>12</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 40">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>40</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 41">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>41</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 42">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>42</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 13">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>13</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 43">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>43</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 44">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>44</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 45">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>45</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001:7.opp.eng17</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 1">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 2">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 2">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>2</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 3">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 4">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 3">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>3</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 5">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>5</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 6">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>6</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 7">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>7</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 4">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>4</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 8">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>8</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 9">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>9</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 10">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>10</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 5">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>5</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 21">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>21</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 22">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>22</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 6">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>6</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 23">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>23</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 24">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>24</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 25">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>25</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 7">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>7</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 26">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>26</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 27">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>27</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 8">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>8</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 28">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>28</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 29">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>29</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 30">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>30</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 9">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>9</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 31">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>31</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 32">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>32</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 33">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>33</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 34">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>34</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 10">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>10</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 35">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>35</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 36">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>36</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 37">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>37</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 11">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>11</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 38">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>38</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 39">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>39</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 12">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>12</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 40">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>40</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 41">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>41</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 42">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>42</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 13">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>13</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 43">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>43</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 44">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>44</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 45">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>45</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+
+    <mods displayLabel="Ab Urbe Condita, Bohn opp-eng11">
+        <titleInfo xml:lang="en" type="uniform">
+            <title>Ab Urbe Condita</title>
+        </titleInfo>
+        <part>
+            <extent unit="words">
+                <total>516947</total>
+            </extent>
+        </part>
+        <titleInfo>
+            <nonSort>The</nonSort>
+            <title>history of Rome</title>
+        </titleInfo>
+        <identifier type="oclc">13840509</identifier>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">London</placeTerm>
+            </place>
+            <publisher>H. G. Bohn</publisher>
+            <dateIssued>1857</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <classification authority="lcc">DG207.L5</classification>
+        <classification authority="ddc">878.4</classification>
+
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-15690.html">
+            <namePart>Livy</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n86-855196.html">
+            <namePart>Spillan, D. (Daniel)</namePart>
+            <namePart type="date">d. 1854</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <subject>
+            <geographicCode authority="marcgac">e-it---</geographicCode>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Rome</geographic>
+            <topic>History</topic>
+        </subject>
+        <tableOfContents> [I] The first eight books / literally translated, with notes and
+            illustrations, by D. Spillan -- [II] Books nine to twenty-six / literally translated,
+            with notes and illustrations, by D. Spillan and Cyrus Edmonds -- [III] Books
+            twenty-seven to thirty-six / literally translated, with notes and illustrations, by
+            Cyrus Edmonds -- [IV] Books thirty-seven to the end, with the epitomes and fragments of
+            the lost books / literally translated by William A. M'Devitte. </tableOfContents>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bohn's classical library</title>
+                <partNumber>v. 44</partNumber>
+            </titleInfo>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="ab urbe condita">
+            <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001.opp-eng11</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 1">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 2">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 3">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 4">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 5">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>5</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 6">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>6</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 7">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>7</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 8">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>8</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 2">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>2</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 9">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>9</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 10">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>10</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 11">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>11</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 12">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>12</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 13">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>13</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 14">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>14</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 15">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>15</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 16">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>16</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 17">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>17</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 18">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>18</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 19">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>19</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 20">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>20</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 21">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>21</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 22">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>22</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 23">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>23</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 24">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>24</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 25">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>25</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 26">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>26</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 3">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>3</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 27">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>27</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 28">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>28</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 29">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>29</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 30">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>30</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 31">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>31</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 32">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>32</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 33">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>33</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 34">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>34</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 35">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>35</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 36">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>36</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 4">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>4</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 37">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>37</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 38">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>38</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 39">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>39</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 40">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>40</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 41">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>41</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 42">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>42</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 43">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>43</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 44">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>44</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 45">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>45</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+
+    <mods displayLabel="Ab Urbe Condita, Weissenborn, opp-lat11">
+        <titleInfo xml:lang="en" type="uniform">
+            <title>Ab Urbe Condita</title>
+        </titleInfo>
+        <titleInfo>
+            <title>Ab urbe condita libri</title>
+        </titleInfo>
+        <identifier type="oclc">221404605</identifier>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="text">Berlin</placeTerm>
+            </place>
+            <publisher>Weidman</publisher>
+            <dateIssued>1871</dateIssued>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-15690.html">
+            <namePart>Livy</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n85-254987.html             ">
+            <namePart>Weissenborn, Wilhelm</namePart>
+            <namePart type="date">1803-1878</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+
+        <relatedItem type="constituent" otherType="work" displayLabel="ab urbe condita">
+            <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001.opp-lat11</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 1">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 2">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 2">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>2</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 3">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 4">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 5">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>5</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 3">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>3</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 6">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>6</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 7">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>7</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 8">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>8</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 9">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>9</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 10">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>10</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 4">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>4</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 20">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>20</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 21">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>21</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 22">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>22</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 5">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>5</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 24">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>24</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 25">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>25</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 26">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>26</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 6">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>6</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 27">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>27</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 28">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>28</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 29">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>29</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 30">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>30</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 7">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>7</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 31">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>31</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 32">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>32</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 33">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>33</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 34">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>34</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 8">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>8</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 35">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>35</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 36">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>36</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 37">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>37</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 38">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>38</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 9">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>9</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 39">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>39</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 40">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>40</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 41">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>41</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 42">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>42</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 10">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>10</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 43">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>43</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 44">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>44</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 45">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>45</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+
+    <mods displayLabel="Ab Urbe Condita, Oxford opp-lat16">
+        <titleInfo xml:lang="en" type="uniform">
+            <title>Ab Urbe Condita</title>
+        </titleInfo>
+        <titleInfo>
+            <title>Titi Livi Ab Urbe condita</title>
+        </titleInfo>
+        <identifier type="lccn">14014418</identifier>
+        <typeOfResource>text</typeOfResource>
+        <genre authority="marc">bibliography</genre>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Oxonii</placeTerm>
+            </place>
+            <publisher>E Typographeo Clarendoniano</publisher>
+            <dateModified>1951</dateModified>
+            <dateIssued>1914</dateIssued>
+            <edition>Reprint</edition>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <classification authority="lcc">PA6105.S8 L5 1914</classification>
+        <classification authority="ddc">937/.007/2</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Scriptorum classicorum bibliotheca Oxoniensis</title>
+            </titleInfo>
+            <titleInfo type="translated" lang="eng">
+                <title>Oxford Classical Texts</title>
+            </titleInfo>
+        </relatedItem>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-15690.html">
+            <namePart>Livy.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n50-32107.html">
+            <namePart>Conway, Robert Seymour</namePart>
+            <namePart type="date">1864-1933</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/no2005-81631.html">
+            <namePart>Walters, C. Flamstead (Charles Flamstead)</namePart>
+            <namePart type="date">d. 1927</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">co-editor </roleTerm>
+            </role>
+        </name>
+        <subject>
+            <geographicCode authority="marcgac">e-it---</geographicCode>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Rome</geographic>
+            <topic>History</topic>
+        </subject>
+
+        <relatedItem type="constituent" otherType="work" displayLabel="ab urbe condita">
+            <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001.opp-lat16</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 1">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 2">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 3">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 4">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 5">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>5</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 2">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>2</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 6">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>6</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 7">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>7</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 8">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>8</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 9">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>9</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 10">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>10</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 3">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>3</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 21">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>21</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 22">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>22</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 23">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>23</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 24">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>24</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 25">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>25</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 4">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>4</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 26">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>26</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 27">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>27</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 28">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>28</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 29">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>29</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 30">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>30</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+
+    <mods displayLabel="Ab Urbe Condita, Teubner, opp-lat33">
+        <titleInfo xml:lang="en" type="uniform">
+            <title>Ab Urbe Condita</title>
+        </titleInfo>
+        <titleInfo>
+            <title>Ab urbe condita libri</title>
+        </titleInfo>
+        <identifier type="oclc">9560029</identifier>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>Teubner</publisher>
+            <dateIssued>1930</dateIssued>
+            <edition>Editio stereotypa</edition>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <classification authority="lcc">PA6104</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+            </titleInfo>
+            <titleInfo type="abbreviated">
+                <title>Teubner</title>
+            </titleInfo>
+        </relatedItem>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/9560029</url>
+        </location>
+
+        <language>
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-15690.html">
+            <namePart>Livy.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n85-254988.html">
+            <namePart>Müller, Moritz</namePart>
+            <namePart type="date">b. 1854</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n85-254987.html">
+            <namePart>Weissenborn, Wilhelm</namePart>
+            <namePart type="date">1803-1878</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">co-editor</roleTerm>
+            </role>
+        </name>
+        <subject>
+            <geographicCode authority="marcgac">e------</geographicCode>
+            <geographicCode authority="marcgac">ff-----</geographicCode>
+            <geographicCode authority="marcgac">aw-----</geographicCode>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Rome</geographic>
+            <topic>History</topic>
+            <temporal>To 510 B.C</temporal>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Rome</geographic>
+            <topic>History</topic>
+            <temporal>Republic, 510-265 B.C</temporal>
+        </subject>
+
+        <relatedItem type="constituent" otherType="work" displayLabel="ab urbe condita">
+            <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001.opp-lat33</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 1">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 2">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 3">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 4">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 5">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>5</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 6">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>6</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 7">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>7</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 8">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>8</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 9">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>9</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 10">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>10</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 2">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>2</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 21">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>21</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 22">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>22</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 23">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>23</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 24">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>24</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 25">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>25</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 26">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>26</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 27">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>27</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 28">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>28</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 29">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>29</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 30">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>30</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 3">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>3</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 31">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>31</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 32">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>32</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 33">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>33</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 34">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>34</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 35">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>35</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 36">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>36</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 37">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>37</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 38">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>38</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 39">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>39</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 40">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>40</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 4">
+                    <part>
+                        <detail type="volume">
+                            <caption>volume</caption>
+                            <number>4</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 41">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>41</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 42">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>42</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 43">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>43</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 44">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>44</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 45">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>45</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 46">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>46</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 47">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>47</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 48">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>48</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 49">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>49</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 50">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>50</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 51">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>51</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 52">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>52</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 53">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>53</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 54">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>54</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 55">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>55</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 56">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>56</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 57">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 58">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>58</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 59">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>59</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 60">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>60</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 61">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>61</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 62">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>62</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 63">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>63</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 64">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>64</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 65">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>65</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 66">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>66</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 67">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>67</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 68">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>68</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 69">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>69</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 70">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>70</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 71">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>71</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 72">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>72</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 73">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>73</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 74">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>74</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 75">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>75</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 76">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>76</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 77">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>77</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 78">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>78</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 79">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>79</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 80">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>80</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 81">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>81</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 82">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>82</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 83">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>83</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 84">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>84</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 85">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>85</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 86">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>86</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 87">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>87</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 88">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>88</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 89">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>89</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 90">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>90</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 91">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>91</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 92">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>92</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 93">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>93</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 94">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>94</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 95">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>95</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 96">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>96</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 97">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>97</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 98">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>98</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 99">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>99</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 100">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>100</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 101">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>101</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 102">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>102</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 103">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>103</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 104">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>104</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 105">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>105</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 106">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>106</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 107">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>107</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 108">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>108</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 109">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>109</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 110">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>110</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 111">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>111</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 112">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>112</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 113">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>113</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 114">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>114</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 115">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>115</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 116">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>116</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 117">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>117</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 118">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>118</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 119">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>119</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 120">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>120</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 121">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>121</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 122">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>122</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 123">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>123</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 124">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>124</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 125">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>125</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 126">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>126</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 127">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>127</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 128">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>128</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 129">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>129</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 130">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>130</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 131">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>131</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 132">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>132</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 133">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>133</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 134">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>134</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 135">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>135</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 136">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>136</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 137">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>137</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 138">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>138</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 139">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>139</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 140">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>140</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 141">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>141</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 142">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>142</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                </relatedItem>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+
+    <mods displayLabel="Anicii Manlii Severini Boetii Commentarii in librum Aristotelis Pars Posterior">
+        <titleInfo>
+            <title>Anicii Manlii Severini Boetii Commentarii in librum Aristotelis</title>
+            <partNumber>Pars Posterior</partNumber>
+        </titleInfo>
+        <titleInfo type="uniform">
+            <title>Commentarii in librum Aristotelis Peri hermeneias</title>
+        </titleInfo>
+        <titleInfo type="abbreviated" authority="ls">
+            <title>Boëth. Aristot. Interpr.</title>
+        </titleInfo>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-29805.html">
+            <namePart>Boethius</namePart>
+            <namePart type="date">d. 524</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n86-55752.html">
+            <namePart>Meiser, Karl</namePart>
+            <namePart type="date">1843-1912</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>in aedibus B. G. Teubneri</publisher>
+            <dateIssued>1880</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>vi, 550 pg.</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <tableOfContents>Secundam Editionem et Indices Continens</tableOfContents>
+        <subject authority="lcsh">
+            <name type="personal">
+                <namePart>Aristotle</namePart>
+            </name>
+        </subject>
+        <classification authority="lcc">PA6104 .B54 1877</classification>
+        <identifier type="lccn">34013837</identifier>
+        <identifier type="oca">commentariiinlib00boetuoft</identifier>
+        <identifier type="oclc">54042337</identifier>
+        <identifier type="stoa author-text">stoa0058-stoa022</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022.opp-lat1</identifier>
+        <!-- 
+  <identifier type="tlg" displayLabel="isCommentaryOn">0086.017</identifier> -->
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/54042337</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://archive.org/stream/commentariiinlib00boetuoft#page/n239/mode/2up</url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/commentariiinlib00boetuoft</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=2MUUAAAAQAAJ&amp;pg=PA229#v=onepage</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uva.x000673217?urlappend=%3Bseq=251</url>
+        </location>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Anicii Manlii Severini Boetii Commentarii in librum Aristotelis Pars Posterior">
+            <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Anicii Manlii Severini Boetii Commentarii in librum Aristotelis Pars Posterior">
+                <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022.opp-lat1</identifier>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+
+    <mods displayLabel="Commentarii in librum Aristotelis de interpretatione">
+        <titleInfo xml:lang="lat" type="uniform">
+            <title>Commentarii in librum Aristotelis de interpretatione</title>
+        </titleInfo>
+        <titleInfo>
+            <title>Anicii Manlii Severini Boetii Commentarii in librum Aristotelis</title>
+            <partNumber>Pars Prior</partNumber>
+        </titleInfo>
+        <titleInfo type="abbreviated" authority="ls">
+            <title>Boëth. Aristot. Interpr.</title>
+        </titleInfo>
+        <identifier type="lccn">34013837</identifier>
+        <identifier type="oca">commentariiinlib00boetuoft</identifier>
+        <identifier type="oclc">54042337</identifier>
+        <identifier type="stoa author-text">stoa0058-stoa022</identifier>
+        <!-- <identifier displayLabel="isCommentaryOn" type="tlg">0086.017</identifier> -->
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022.opp-lat1</identifier>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>in aedibus B. G. Teubneri</publisher>
+            <dateIssued>1877</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>x, 225 pg.</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <tableOfContents>Versionem Continuam et Primam Editionem Contines</tableOfContents>
+        <classification authority="lcc">PA6104 .B54 1877</classification>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/54042337</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/commentariiinlib00boetuoft</url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/commentariiinlib00boetuoft</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=2MUUAAAAQAAJ</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uva.x000673217</url>
+        </location>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">810403</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20050606180053.0</recordChangeDate>
+            <recordIdentifier>8292793</recordIdentifier>
+        </recordInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-29805.html">
+            <namePart>Boethius</namePart>
+            <namePart type="date">d. 524</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n86-55752.html">
+            <namePart>Meiser, Karl</namePart>
+            <namePart type="date">1843-1912</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <subject authority="lcsh">
+            <name type="personal">
+                <namePart>Aristotle</namePart>
+            </name>
+        </subject>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Commentarii in librum Aristotelis de interpretatione">
+            <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Commentarii in librum Aristotelis de interpretatione">
+                <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa022.opp-lat1</identifier>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+
+    <mods displayLabel="Commentum Terenti">
+        <titleInfo xml:lang="en" type="uniform">
+            <title>Commentum Terenti</title>
+        </titleInfo>
+        <titleInfo>
+            <title>Quod fertur Commentum Terenti</title>
+            <subTitle>Accedunt Eugraphi Commentum Et Scholia Bembina</subTitle>
+        </titleInfo>
+        <identifier type="lccn">08036787</identifier>
+        <identifier type="oclc">39820729</identifier>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>B.G. Teubner</publisher>
+            <dateIssued>1902</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>L, 542 p.</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <classification authority="lcc">PA6104 .D7 1902</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana. [S.r.]</title>
+            </titleInfo>
+        </relatedItem>
+
+        <language>
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n82-32152.html">
+            <namePart>Donatus, Aelius.</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/no92-24872.html">
+            <namePart>Wessner, Paul</namePart>
+            <namePart type="date">1870-1933</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <subject authority="lcsh">
+            <name type="personal">
+                <namePart>Terence</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+            <genre>Early works to 1800</genre>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Comedy</topic>
+            <genre>Early works to 1800</genre>
+        </subject>
+        <relatedItem type="constituent" otherType="work" displayLabel="Commentum Terenti">
+            <identifier type="ctsurn">urn:cts:latinLit:stoa0110.stoa009</identifier>
+            <relatedItem type="constituent" otherType="expression" displayLabel="Commentum Terenti">
+                <identifier type="ctsurn">urn:cts:latinLit:stoa0110.stoa009.opp-lat2</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 1">
+                    <part type="volume">
+                        <detail>
+                            <caption>Volume</caption>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <location>
+                        <url displayLabel="WorldCat">http://worldcat.org/oclc/39820729</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Content Alliance">
+                            http://www.archive.org/details/quodferturcommen01donauoft</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Library"
+                            >http://www.archive.org/stream/quodferturcommen01donauoft</url>
+                    </location>
+                    <location>
+                        <url displayLabel="GoogleBooks"
+                            >http://books.google.com/books?id=jMJfAAAAMAAJ</url>
+                    </location>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >http://hdl.handle.net/2027/njp.32101059042620</url>
+                    </location>
+                    <relatedItem type="constituent" otherType="work"
+                        displayLabel="Commentum Terenti">
+                        <identifier type="ctsurn">urn:cts:latinLit:stoa0110.stoa009</identifier>
+                        <relatedItem type="constituent" otherType="expression"
+                            displayLabel="Commentum Terenti">
+                            <identifier type="ctsurn"
+                                >urn:cts:latinLit:stoa0110.stoa009.opp-lat2</identifier>
+                        </relatedItem>
+                    </relatedItem>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 2">
+                    <part>
+                        <detail type="volume">
+                            <caption>Volume</caption>
+                            <number>2</number>
+                        </detail>
+                    </part>
+                    <location>
+                        <url displayLabel="WorldCat">http://worldcat.org/oclc/39820729</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Content Alliance"/>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Library"/>
+                    </location>
+                    <location>
+                        <url displayLabel="GoogleBooks"/>
+                    </location>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >http://hdl.handle.net/2027/njp.32101059042612</url>
+                    </location>
+
+                </relatedItem>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+
+</modsCollection>
