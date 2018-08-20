@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+
+    <mods displayLabel="herodiani technici">
+        <titleInfo>
+            <title>Herodiani technici</title>
+            <subTitle>Reliquiae</subTitle>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/76393969">
+            <namePart>Herodianus</namePart>
+            <namePart type="termsOfAddress">Aelius</namePart>
+            <namePart type="date">active 2nd century</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/27834815">
+            <namePart>Lentz, August</namePart>
+            <namePart type="date">1820-1868</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Leipzig</placeTerm>
+            </place>
+            <publisher>Teubner</publisher>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Grammatici Graeci</title>
+            </titleInfo>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Volume I">
+            <part type="volume">
+                <detail>
+                    <number>1</number>
+                    <title>Praefationem et Heroodiani Prosodiam Catholicam</title>
+                </detail>
+            </part>
+            <identifier type="oclc">313423727</identifier>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/313423727</url>
+            </location>
+            <location>
+                <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003204884</url>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.b4033091</url>
+            </location>
+            <relatedItem type="constituent" otherType="work" displayLabel="De prosodia catholica">
+                <titleInfo>
+                    <title>De prosodia catholica</title>
+                </titleInfo>
+                <language objectPart="text">
+                    <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+                </language>
+                <identifier type="tlg">0087.001</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <part>
+                        <extent unit="pages">
+                            <start>3</start>
+                            <end>547</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/uc1.b4033091?urlappend=%3Bseq=234</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="De enclisi (epitome ap. Arcadium)">
+                <titleInfo>
+                    <title>De enclisi (epitome ap. Arcadium)</title>
+                </titleInfo>
+                <language objectPart="text">
+                    <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+                </language>
+                <identifier type="tlg">0087.002</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <part>
+                        <extent unit="pages">
+                            <start>551</start>
+                            <end>564</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/uc1.b4033091?urlappend=%3Bseq=780</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+        </relatedItem>
+
+
+        <relatedItem type="constituent" otherType="structure" displayLabel="Volume II">
+            <part type="volume">
+                <detail>
+                    <number>2</number>
+                    <title>Reliqua Scripta Prosodiaca Pathologiam Orthographica</title>
+                </detail>
+            </part>
+            <identifier type="oclc">313423735</identifier>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/313423735</url>
+            </location>
+            <location>
+                <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0006427438</url>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101054496086</url>
+            </location>
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="Περὶ κυρίων καὶ ἐπιθέτων καὶ προσηγορικῶν μονόβιβλον">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg003</identifier>
+                <identifier type="tlg">0087.003</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg003.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>1</start>
+                            <end>6</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=16</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ διχρόνων">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg004</identifier>
+                <identifier type="tlg">0087.004</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg004.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>7</start>
+                            <end>20</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=22</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ πνευμάτων">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg005</identifier>
+                <identifier type="tlg">0087.005</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg005.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>20</start>
+                            <end>20</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=36</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ Ἀττικῆς προσῳδίας">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg006</identifier>
+                <identifier type="tlg">0087.006</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg006.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>20</start>
+                            <end>21</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=36</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ Ἰλιακῆς προσῳδίας">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg007</identifier>
+                <identifier type="tlg">0087.007</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg007.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>22</start>
+                            <end>128</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=38</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="Περὶ Ὀδυσσειακῆς προσῳδίας">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg008</identifier>
+                <identifier type="tlg">0087.008</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg008.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>129</start>
+                            <end>165</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=144</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ παθῶν">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg009</identifier>
+                <identifier type="tlg">0087.009</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg009.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>166</start>
+                            <end>389</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=182</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="Περὶ παθῶν (supplementum)">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg034</identifier>
+                <identifier type="tlg">0087.034</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg034.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>386</start>
+                            <end>388</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=402</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="Περὶ συντάξεως τῶν στοιχείων">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg010</identifier>
+                <identifier type="tlg">0087.010</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg010.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>390</start>
+                            <end>406</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=406</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ ὀρθογραφίας">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg011</identifier>
+                <identifier type="tlg">0087.011</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>407</start>
+                            <end>611</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=422</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ ὀνομάτων">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg012</identifier>
+                <identifier type="tlg">0087.012</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg012.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>612</start>
+                            <end>633</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=638</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ κλίσεως ὀνομάτων">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg013</identifier>
+                <identifier type="tlg">0087.013</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg013.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>634</start>
+                            <end>777</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=660</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="Εἰς τὸ περὶ γενῶν Ἀπολλωνίου ὑπόμνημα">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg014</identifier>
+                <identifier type="tlg">0087.014</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg014.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>777</start>
+                            <end>777</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=802</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Μονόβιβλον περὶ τοῦ ὕδωρ">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg015</identifier>
+                <identifier type="tlg">0087.015</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg015.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>777</start>
+                            <end>777</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=802</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ τοῦ ζώς">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg016</identifier>
+                <identifier type="tlg">0087.016</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg016.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>778</start>
+                            <end>778</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=804</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ συζυγιῶν">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg017</identifier>
+                <identifier type="tlg">0087.017</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg017.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>779</start>
+                            <end>779</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=804</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="Μονόβιβλον περὶ τοῦ μὴ πάντα τὰ ῥήματα κλίνεσθαι εἰς πάντας τοὺς χρόνους">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg018</identifier>
+                <identifier type="tlg">0087.018</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg018.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>779</start>
+                            <end>784</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=804</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ μετοχῶν">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg019</identifier>
+                <identifier type="tlg">0087.019</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg019.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>784</start>
+                            <end>785</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=810</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Μονόβιβλον περὶ τοῦ ἦν">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg020</identifier>
+                <identifier type="tlg">0087.020</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg020.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>785</start>
+                            <end>786</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=810</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ ῥημάτων">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg021</identifier>
+                <identifier type="tlg">0087.021</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg021.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>787</start>
+                            <end>824</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=812</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ τῶν εἰς μι">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg022</identifier>
+                <identifier type="tlg">0087.022</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg022.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>825</start>
+                            <end>844</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=850</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ ἀντωνυμιῶν">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg023</identifier>
+                <identifier type="tlg">0087.023</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg023.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>845</start>
+                            <end>846</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=870</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ ἐπιρρημάτων">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg024</identifier>
+                <identifier type="tlg">0087.024</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg024.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>846</start>
+                            <end>846</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=872</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ σχημάτων">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg025</identifier>
+                <identifier type="tlg">0087.025</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg025.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>847</start>
+                            <end>849</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=872</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ παρωνύμων">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg026</identifier>
+                <identifier type="tlg">0087.026</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg026.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>849</start>
+                            <end>897</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=874</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ ῥηματικῶν ὀνομάτων">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg027</identifier>
+                <identifier type="tlg">0087.027</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg027.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>897</start>
+                            <end>903</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=922</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ μονοσυλλάβων">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg028</identifier>
+                <identifier type="tlg">0087.028</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg028.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>903</start>
+                            <end>904</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=928</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="Περὶ γάμου καὶ συμβιώσεως">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg029</identifier>
+                <identifier type="tlg">0087.029</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg029.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>904</start>
+                            <end>904</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=930</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Συμπόσιον">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg030</identifier>
+                <identifier type="tlg">0087.030</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg030.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>904</start>
+                            <end>906</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=930</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Προτάσεις">
+                <identifier type="ctsurn"/>
+                <identifier type="tlg">0087.031</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn"/>
+                    <part>
+                        <extent unit="pages">
+                            <start>907</start>
+                            <end>907</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=932</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="Εἰς τὴν Ἀπολλωνίου εἰσαγωγήν">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg032</identifier>
+                <identifier type="tlg">0087.032</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg032.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>907</start>
+                            <end>907</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=932</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Περὶ μονήρους λέξεως">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg033</identifier>
+                <identifier type="tlg">0087.033</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0087.tlg033.1st1K-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <start>908</start>
+                            <end>952</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=934</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+
+
+
+
+
+</modsCollection>
