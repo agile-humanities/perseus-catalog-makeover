@@ -1,0 +1,3656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+  <mods>
+    <relatedItem type="constituent" otherType="section" displayLabel="Vol II">
+      <relatedItem type="constituent" otherType="section" displayLabel="Demophilus">
+        <titleInfo>
+          <title>Testimonia</title>
+        </titleInfo>
+        <name authority="Smith" type="personal"
+          xlink:href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aentry%3Ddemophius-bio-1">
+          <namePart>Demophilus</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part>
+          <extent unit="pages">
+            <start>86</start>
+            <end>86</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Testimonia">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=UckWAAAAQAAJ&amp;pg=PA86</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori02mueluoft#page/86/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+    </relatedItem>
+    <relatedItem type="constituent" otherType="section" displayLabel="Vol III">
+      <relatedItem type="constituent" otherType="section" displayLabel="Aspasius Byblius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" xlink:href="http://viaf.org/viaf/20068854">
+          <namePart>Aspasius</namePart>
+          <namePart type="termsOfAddress">Byblius</namePart>
+          <namePart type="date">2. Jh. n. Chr. </namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 3: 576</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 792</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>576</start>
+            <end>576</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2529.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=oqcKAAAAYAAJ&amp;pg=PA576</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori03mueluoft#page/576/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Claudius Eusthenius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" xlink:href="http://viaf.org/viaf/42230153">
+          <namePart>Claudius</namePart>
+          <namePart type="termsOfAddress">Eusthenius</namePart>
+          <namePart type="date">4. Jh. n. Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 3: 728</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #218</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>729</start>
+            <end>729</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1971.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=oqcKAAAAYAAJ&amp;pg=PA728</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori03mueluoft#page/728/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Ephorus Iunior">
+        <titleInfo>
+          <title>Testimonium</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" xlink:href="http://viaf.org/viaf/45107807">
+          <namePart>Ephorus</namePart>
+          <namePart type="termsOfAddress">Iunior</namePart>
+          <namePart type="date">fl.3. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+          <displayForm>Euphorus Cumanus</displayForm>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 3: 664</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #212</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>664</start>
+            <end>664</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Testimonium">
+          <identifier type="tlg">1998.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=oqcKAAAAYAAJ&amp;pg=PA664</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori03mueluoft#page/664/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Hermogenes, 2nd cent.">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/27035216/">
+          <namePart>Hermogenes,</namePart>
+          <namePart type="date">2nd cent.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 3: 523-524</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #851</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>523</start>
+            <end>524</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">0592.006</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=oqcKAAAAYAAJ&amp;pg=PA523</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori03mueluoft#page/522/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Lupercus Berytensis">
+        <titleInfo>
+          <title>Testimonium</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" xlink:href="http://viaf.org/viaf/52081308">
+          <namePart>Lupercus</namePart>
+          <namePart type="termsOfAddress">Berytensis</namePart>
+          <namePart type="date">3. Jh. n. Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+          <displayForm>Lupercus Berytius</displayForm>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 3: 662</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>662</start>
+            <end>662</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Testimonium">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=oqcKAAAAYAAJ&amp;pg=PA662</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori03mueluoft#page/662/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Nicagoras Atheniensis">
+        <titleInfo>
+          <title>Testimonium</title>
+        </titleInfo>
+        <name authority="Brill" type="personal"
+          xlink:href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=nicagoras-bio-3">
+          <namePart>Nicagoras</namePart>
+          <namePart type="termsOfAddress">Atheniensis</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 3: 662</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>662</start>
+            <end>662</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Testimonium">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=oqcKAAAAYAAJ&amp;pg=PA662</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori03mueluoft#page/662/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Nicostratus Trapezeius">
+        <titleInfo>
+          <title>Testimonium</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" xlink:href="http://viaf.org/viaf/54537254">
+          <namePart>Nicostratus</namePart>
+          <namePart type="termsOfAddress">Trapezeius</namePart>
+          <namePart type="date">3. Jh. n. Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+          <displayForm>Nicostratus Trapezuntius</displayForm>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 3: 664</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #98</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>664</start>
+            <end>664</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Testimonium">
+          <identifier type="tlg">2144.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=oqcKAAAAYAAJ&amp;pg=PA664</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori03mueluoft#page/664/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Severus Alexander Emperor of Rome">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/50018342/">
+          <namePart>Severus Alexander</namePart>
+          <namePart type="termsOfAddress">Emperor of Rome,</namePart>
+          <namePart type="date">208-235</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 3: 657-658</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>657</start>
+            <end>658</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=oqcKAAAAYAAJ&amp;pg=PA657</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori03mueluoft#page/656/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Zenobia Queen of Palmyra">
+        <titleInfo>
+          <title>Testimonium</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" xlink:href="http://viaf.org/viaf/3270563">
+          <namePart>Zenobia</namePart>
+          <namePart type="termsOfAddress">Queen of Palmyra</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 3: 665</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #626</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>665</start>
+            <end>665</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Testimonium">
+          <identifier type="tlg">2167.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=oqcKAAAAYAAJ&amp;pg=PA665</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori03mueluoft#page/664/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+    </relatedItem>
+    <relatedItem type="constituent" otherType="section" displayLabel="Vol IV">
+      <relatedItem type="constituent" otherType="section" displayLabel="Ctesicles Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/34843526">
+          <namePart>Ctesicles</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">3./4. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 507</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>507</start>
+            <end>507</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2171.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA507</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/506/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="John, of Antioch,">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="naf" type="personal"
+          authorityURI="http://id.loc.gov/authorities/names/"
+          valueURI="http://id.loc.gov/authorities/names/no2006001957">
+          <namePart>John,</namePart>
+          <namePart type="termsOfAddress">of Antioch,</namePart>
+          <namePart type="date">active 7th century</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+          <displayForm>Joannes Antiochenus</displayForm>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 535-622</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>535</start>
+            <end>622</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">4394.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA534</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/534/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Petellidas Creticus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/24990700">
+          <namePart>Petellidas</namePart>
+          <namePart type="termsOfAddress">Creticus</namePart>
+          <namePart type="date">ca. 1.Jh.v.Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+          <displayForm>Petellides Cnossius</displayForm>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 472</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #464</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>472</start>
+            <end>472</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2323.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA472</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/472/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Phaestus Epicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/49614217/">
+          <namePart>Phaestus</namePart>
+          <namePart type="termsOfAddress">Epicus</namePart>
+          <namePart type="date">ca. 4.Jh.v.Chr.‏
+        </namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 472-473</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #593</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>472</start>
+            <end>473</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1580.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA472</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/472/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Phanocritus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="Smith" type="personal"
+          authorityURI="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104"
+          valueURI="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=phanocritus-bio-1">
+          <namePart>Phanocritus</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 473</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>473</start>
+            <end>473</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA473</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/472/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Phanodicus Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/74242373">
+          <namePart>Phanodicus</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">v2. Jh</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 473-474</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #397</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>473</start>
+            <end>474</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2278.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA473</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/472/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Pharnuchus Nisibenus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/42230520">
+          <namePart>Pharnuchus</namePart>
+          <namePart type="termsOfAddress">Nisibenus</namePart>
+          <namePart type="date">
+            v1. Jh. / 1. Jh.‏</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 474</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 694</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>474</start>
+            <end>474</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2471.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA474</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/474/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Phidalius Corinthius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/42230531">
+          <namePart>Phidalius</namePart>
+          <namePart type="termsOfAddress">Corinthius</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+          <displayForm>Philalius Corinthius</displayForm>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 474</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #30</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>474</start>
+            <end>474</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1880.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA474</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/474/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Philemon">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="Smith" type="personal"
+          authorityURI="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104"
+          valueURI="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=philemon-bio-6">
+          <namePart>Philemon</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4:  474</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>474</start>
+            <end>474</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA474</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/474/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Philetas Ephesius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="Smith" type="personal"
+          authorityURI="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104"
+          valueURI="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=philetas-bio-3">
+          <namePart>Philetas</namePart>
+          <namePart type="termsOfAddress">Ephesius</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 474</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>474</start>
+            <end>474</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA474</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/474/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Philippus Theangelius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/71783860">
+          <namePart>Philippus</namePart>
+          <namePart type="termsOfAddress">Theangelius</namePart>
+          <namePart type="date">v3. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 474-476</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 741</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>474</start>
+            <end>476</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1590.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA474</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/474/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Philistides Mallotes">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/37304910">
+          <namePart>Philistides</namePart>
+          <namePart type="termsOfAddress">Mallotes</namePart>
+          <namePart type="date">v5. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 476-477</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH  11</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>476</start>
+            <end>477</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1870.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA476</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/476/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Philistus Naucratites">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/66856348">
+          <namePart>Philistus</namePart>
+          <namePart type="termsOfAddress">Naucratites</namePart>
+          <namePart type="date">ca. v4. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 477</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #615</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>477</start>
+            <end>477</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2422.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA477</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/476/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Phillis Dellius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/47153133">
+          <namePart>Phillis</namePart>
+          <namePart type="termsOfAddress">Dellius</namePart>
+          <namePart type="date">4. Jh. v. Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 476</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>476</start>
+            <end>476</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2594.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA476</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/476/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Philocrates Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/66856353         ">
+          <namePart>Philocrates</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">v 4. Jh</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 477</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #601</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>477</start>
+            <end>477</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2415.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA477</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/476/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Philomnestus Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/7775362">
+          <namePart>Philomnestus</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">ca. 3.Jh.n.Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 477-478</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 527</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>477</start>
+            <end>478</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1598.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA477</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/476/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Philonides Cretensis">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/"
+          valueURI="http://viaf.org/viaf/sourceID/DNB|102403082">
+          <namePart>Philonides</namePart>
+          <namePart type="termsOfAddress">Cretensis</namePart>
+          <namePart type="date">
+            ca. 4.Jh.v.Chr.‏</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 478</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 121</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>478</start>
+            <end>478</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1934.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA478</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/478/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Philteas Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/34844065">
+          <namePart>Philteas</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">ca. 4.Jh.v.Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 478</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 498</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>478</start>
+            <end>478</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2344.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA478</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/478/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Pisistratus Liparaeus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/22528275">
+          <namePart>Pisistratus</namePart>
+          <namePart type="termsOfAddress">Liparaeus</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 478-479</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 574</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>478</start>
+            <end>479</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2395.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA478</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/478/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Polyarchus Cyrenaeus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/64395885">
+          <namePart>Polyarchus</namePart>
+          <namePart type="termsOfAddress">Cyrenaeus</namePart>
+          <namePart type="date">  ca. 2.Jh.n.Chr.‏
+        </namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+          <displayForm>Polyanthus Cyrenaeus</displayForm>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 479</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 37</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>479</start>
+            <end>479</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1886.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA479</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/478/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Polycharmus Naucratites">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/5318220">
+          <namePart>Polycharmus</namePart>
+          <namePart type="termsOfAddress">Naucratites</namePart>
+          <namePart type="date">ca. 4.Jh.v.Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 479-480</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 640</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>479</start>
+            <end>480</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1623.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA478</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/478/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Polycrates Lacon">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/49614238">
+          <namePart>Polycrates</namePart>
+          <namePart type="termsOfAddress">Lacon</namePart>
+          <namePart type="date">ca. v1. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 480-481</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 588</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>480</start>
+            <end>481</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1627.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA480</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/481/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Polyzelus Rhodius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/49614238">
+          <namePart>Polyzelus</namePart>
+          <namePart type="termsOfAddress">Rhodius</namePart>
+          <namePart type="date">v3. Jh. </namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 481-482</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 521</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>481</start>
+            <end>482</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1630.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA481</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/480/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Possis Magnes">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/399120">
+          <namePart>Possis</namePart>
+          <namePart type="termsOfAddress">Magnes</namePart>
+          <namePart type="date">v3./2. Jh. </namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+          <displayForm>Possis Magnesius</displayForm>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 483</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 480</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>483</start>
+            <end>483</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2333.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA483</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/482/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Praxion Megarensis">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/10236663">
+          <namePart>Praxion</namePart>
+          <namePart type="termsOfAddress">Megarensis</namePart>
+          <namePart type="date">v4. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 483</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 484</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>483</start>
+            <end>483</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2335.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA483</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/482/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Procles Carthaginiensis">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="perseus" type="personal">
+          <namePart>Procles</namePart>
+          <namePart type="termsOfAddress">Carthaginiensis</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 484</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>483</start>
+            <end>484</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA483</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/482/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Protagorides Cyzicenus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/49614264">
+          <namePart>Protagorides</namePart>
+          <namePart type="termsOfAddress">Cyzicenus</namePart>
+          <namePart type="date"> ca. v2. Jh</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 484-485</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 853</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>484</start>
+            <end>485</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1636.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA484</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/484/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Protarchus Traillanus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="Perseus" type="personal">
+          <namePart>Protarchus</namePart>
+          <namePart type="termsOfAddress">Traillanus</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 485</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>485</start>
+            <end>485</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA485</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/484/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Ptolemaeus Mendesius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/24990818">
+          <namePart>Ptolemaeus</namePart>
+          <namePart type="termsOfAddress">Mendesius</namePart>
+          <namePart type="date">ca. 1.Jh.n.Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 485</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 611</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>485</start>
+            <end>486</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1647.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA485</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/484/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Pyrander Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/42230583">
+          <namePart>Pyrander</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+          <displayForm>Pyrrhander</displayForm>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 486</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #504</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>486</start>
+            <end>486</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2349.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA486</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/486/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Pyrgion Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/44692860">
+          <namePart>Pyrgion</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">ca. 3.Jh.n.Chr</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 486-487</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 467</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>486</start>
+            <end>487</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1648.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA486</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/486/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Pythaenetus Historicus‏">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/49614272">
+          <namePart>Pythaenetus</namePart>
+          <namePart type="termsOfAddress">Historicus‏</namePart>
+          <namePart type="date">v3./2. Jh.‏
+            </namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 487</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 299</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>487</start>
+            <end>487</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1649.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA487</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/486/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Pythermus Ephesius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/66856395">
+          <namePart>Pythermus</namePart>
+          <namePart type="termsOfAddress">Ephesius</namePart>
+          <namePart type="date"> v3./2. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 487-488</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 80</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>487</start>
+            <end>488</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1651.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA487</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/486/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Pythocles Samius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/59476234">
+          <namePart>Pythocles</namePart>
+          <namePart type="termsOfAddress">Samius</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 488</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 833</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>488</start>
+            <end>489</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2560.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA488</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/488/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Scamon Mytilenensis">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/44692887">
+          <namePart>Scamon</namePart>
+          <namePart type="termsOfAddress">Mytilenensis</namePart>
+          <namePart type="date">v4. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 489</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 476</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>489</start>
+            <end>491</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2330.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA489</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/488/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Scythinus,  Teius,">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="dnb" type="personal" xlink:href="http://viaf.org/processed/DNB|10240559X">
+          <namePart>Scythinus,</namePart>
+          <namePart type="termsOfAddress"> Teius,</namePart>
+          <namePart type="date"> 4 Jh. v Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 490</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #13</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>491</start>
+            <end>491</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">0259.004</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA491</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/490/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Seleucus Emesenus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" xlink:href="http://viaf.org/processed/DNB|102405662">
+          <namePart>Seleucus</namePart>
+          <namePart type="termsOfAddress">Emesenus</namePart>
+          <namePart type="date">3/4 Jh. n. Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 491</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>491</start>
+            <end>491</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2524.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA491</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/490/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Semeronius Babylonius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/44692894">
+          <namePart>Semeronius</namePart>
+          <namePart type="termsOfAddress">Babylonius</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 492</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 686</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>492</start>
+            <end>492</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2464.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA492</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/492/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Semus Delius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/47153198">
+          <namePart>Semus</namePart>
+          <namePart type="termsOfAddress">Delius</namePart>
+          <namePart type="date">ca. v3./2. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 492-496</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 396</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>492</start>
+            <end>496</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1663.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA492</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/492/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Socrates Argivus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/15160151">
+          <namePart>Socrates</namePart>
+          <namePart type="termsOfAddress">Argivus</namePart>
+          <namePart type="date">ca. 1.Jh.v.Chr</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 496-499</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 310</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>496</start>
+            <end>499</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1678.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA496</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/496/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Socrates Cous">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/61941374">
+          <namePart>Socrates</namePart>
+          <namePart type="termsOfAddress">Cous</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 499</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>499</start>
+            <end>500</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA499</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/498/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Sosander Periegeta">
+        <titleInfo>
+          <title>FHG 4: 500</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/74242497">
+          <namePart>Sosander</namePart>
+          <namePart type="termsOfAddress">Periegeta</namePart>
+          <namePart type="date">ca. 1.Jh.v.Chr.‏
+        </namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 714</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>500</start>
+            <end>500</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="FHG 4: 500">
+          <identifier type="tlg">2481.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA500</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/500/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Sosicrates Rhodius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32386786">
+          <namePart>Sosicrates</namePart>
+          <namePart type="termsOfAddress">Rhodius</namePart>
+          <namePart type="date">2. Jh. v. Chr.‏</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 500-503</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH  461</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>500</start>
+            <end>503</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1687.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA500</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/500/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Sosthenes Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/10236685">
+          <namePart>Sosthenes</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 504</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 846</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>504</start>
+            <end>504</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2568.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA504</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/504/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Sostratus Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/27455854">
+          <namePart>Sostratus</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">v1. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 504-505</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #23</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>504</start>
+            <end>505</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1688.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA504</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/504/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Staphylus Naucratites">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/22528397/">
+          <namePart>Staphylus</namePart>
+          <namePart type="termsOfAddress">Naucratites</namePart>
+          <namePart type="date"> v3./2. Jh. </namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 505-507</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 269</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>505</start>
+            <end>507</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2182.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA505</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/504/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Telephanes Historicus">
+        <titleInfo>
+          <title>Fragmentum</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/44692958">
+          <namePart>Telephanes</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">ca. 3.Jh.n.Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 507 </title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 371</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>507</start>
+            <end>507</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmentum">
+          <identifier type="tlg">2264.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA507</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/506/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Telesarchus Historicus">
+        <titleInfo>
+          <title>Fragmentum</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/47153244">
+          <namePart>Telesarchus</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">v3./2. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 508</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 309</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>508</start>
+            <end>508</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmentum">
+          <identifier type="tlg">2211.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA508</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/508/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Teucer Cyzicenus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/44692970">
+          <namePart>Teucer</namePart>
+          <namePart type="termsOfAddress">Cyzicenus</namePart>
+          <namePart type="date">v1. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 508</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH  274</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>508</start>
+            <end>509</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1704.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA508</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/508/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Teupalus Eleus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/54537404">
+          <namePart>Teupalus</namePart>
+          <namePart type="termsOfAddress">Eleus</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 509</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 408</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>509</start>
+            <end>509</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2288.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA509</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/508/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Theagenes Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/29921092">
+          <namePart>Theagenes</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">v3. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 509-511</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 774</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>509</start>
+            <end>511</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1709.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA509</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/508/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Themison Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/47153259">
+          <namePart>Themison</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">ca. 3 Jh. V. Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+          <displayForm>Themiso</displayForm>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 511</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 374</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>511</start>
+            <end>511</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1713.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA511</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/510/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Themistagoras Ephesius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="Smith" type="personal"
+          authorityURI="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104"
+          valueURI="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=themistagoras-bio-1">
+          <namePart>Themistagoras</namePart>
+          <namePart type="termsOfAddress">Ephesius</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 512</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>512</start>
+            <end>512</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA512</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/512/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Theodorus Hierapolita">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="Perseus" type="personal">
+          <namePart>Theodorus</namePart>
+          <namePart type="termsOfAddress">Hierapolita</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 512</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>513</start>
+            <end>513</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA513</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/512/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Theodorus Iliensis">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/59476384">
+          <namePart>Theodorus</namePart>
+          <namePart type="termsOfAddress">Iliensis</namePart>
+          <namePart type="date">ca. 4.Jh.v.Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 513</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 48</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>513</start>
+            <end>514</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1892.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page//mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Theodorus Rhodius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/47153263">
+          <namePart>Theodorus</namePart>
+          <namePart type="termsOfAddress">Rhodius</namePart>
+          <namePart type="date">v3. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 512</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 230</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>512</start>
+            <end>513</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2161.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA512</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/512/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Theodorus Samothracenus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/399183">
+          <namePart>Theodorus</namePart>
+          <namePart type="termsOfAddress">Samothracenus</namePart>
+          <namePart type="date">ca. 2.Jh.n.Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+          <displayForm>Theodorus Samothrax</displayForm>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 513</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 62</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>513</start>
+            <end>513</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1904.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA513</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/512/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Theognis Rhodius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/24990873         ">
+          <namePart>Theognis</namePart>
+          <namePart type="termsOfAddress">Rhodius</namePart>
+          <namePart type="date">3. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 514</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH #526</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>514</start>
+            <end>514</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2367.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA514</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/514/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Theolytus Methymnaeus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/69321576">
+          <namePart>Theolytus</namePart>
+          <namePart type="termsOfAddress">Methymnaeus</namePart>
+          <namePart type="date">ca. 3.Jh.v.Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 515</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 478</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>515</start>
+            <end>515</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1723.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA515</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/514/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Theophilus Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/69321582">
+          <namePart>Theophilus</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 515-517</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>515</start>
+            <end>517</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2203.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA515</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/514/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Theotimus Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/12694086">
+          <namePart>Theotimus</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">v2. Jh. </namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4:  517</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 470</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>517</start>
+            <end>517</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1727.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA517</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/516/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Theseus Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/57002037">
+          <namePart>Theseus</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">1. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 518</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 453</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>518</start>
+            <end>519</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1728.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA518</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/518/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Timagetus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="Brill" type="personal">
+          <namePart>Timagetus</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 519-520</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 42</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>519</start>
+            <end>520</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">4396.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA519</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/518/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Timagoras Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/71784073">
+          <namePart>Timagoras</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 520</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 381</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>520</start>
+            <end>520</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2268.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA520</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/520/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Timolaus Historicus">
+        <titleInfo>
+          <title>Fragmentum</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/5318323">
+          <namePart>Timolaus</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 521</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 798</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>521</start>
+            <end>521</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmentum">
+          <identifier type="tlg">2533.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA521</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/520/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Timomachus Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/76706525">
+          <namePart>Timomachus</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">v4./3. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 521</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 754</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>521</start>
+            <end>522</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2509.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA521</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/520/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Timonax Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/52081639">
+          <namePart>Timonax</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">v4./3. Jh</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 522</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 842</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>522</start>
+            <end>522</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1736.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA522</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/522/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Timotheus Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/27455934">
+          <namePart>Timotheus</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 522-523</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 313</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>522</start>
+            <end>523</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2213.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA522</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/522/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Uranius Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/7775565">
+          <namePart>Uranius</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">  ca. 1.Jh.v.Chr.bzw.6.Jh.n.Chr.‏
+        </namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4:  523-526</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 675</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>523</start>
+            <end>526</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2461.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA523</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/522/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Xenagoras Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/34844264">
+          <namePart>Xenagoras</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">ca. 3.Jh.v.Chr.bzw.1.Jh.n.Chr</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 526-528</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 240</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>526</start>
+            <end>528</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1752.003</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA526</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/526/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Xenion Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/39767185">
+          <namePart>Xenion</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">ca. 3.Jh.v.Chr.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 528-529</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 460</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>528</start>
+            <end>529</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">1753.002</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA528</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/528/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Xenocrates Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/69321595">
+          <namePart>Xenocrates</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 530</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 248</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>530</start>
+            <end>530</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2174.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA530</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/530/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Xenophilus Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/27455999">
+          <namePart>Xenophilus</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">ca. 3.Jh.v.Chr. </namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 530</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 767</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>530</start>
+            <end>530</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2518.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA530</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/530/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Zenis Chius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/24990936">
+          <namePart>Zenis</namePart>
+          <namePart type="termsOfAddress">Chius</namePart>
+          <namePart type="date">v4. Jh</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 530</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 393</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>530</start>
+            <end>531</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2276.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA530</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/530/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Zenodotus Troezenius">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32386900">
+          <namePart>Zenodotus</namePart>
+          <namePart type="termsOfAddress">Troezenius</namePart>
+          <namePart type="date">v2. Jh.</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 531</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 821</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>531</start>
+            <end>531</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">2250.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA531</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/530/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Zopyrion">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="Smith" type="personal"
+          authorityURI="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104"
+          valueURI="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=zopyrion-bio-1">
+          <namePart>Zopyrion</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4:  531</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>531</start>
+            <end>531</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg"/>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA531</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/530/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+      <relatedItem type="constituent" otherType="section" displayLabel="Zopyrus Historicus">
+        <titleInfo>
+          <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal"
+          authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/49614414/">
+          <namePart>Zopyrus</namePart>
+          <namePart type="termsOfAddress">Historicus</namePart>
+          <namePart type="date">Person der Antike</namePart>
+          <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+          </role>
+          <displayForm>Zopyrus Byzantinus</displayForm>
+        </name>
+        <part type="FHG">
+          <detail>
+            <title>FHG 4: 531</title>
+          </detail>
+        </part>
+        <part type="FGrH">
+          <detail>
+            <title>FGrH 336</title>
+          </detail>
+        </part>
+        <part>
+          <extent unit="pages">
+            <start>531</start>
+            <end>531</end>
+          </extent>
+        </part>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+          <identifier type="tlg">0129.001</identifier>
+          <relatedItem type="constituent" otherType="expression">
+            <location>
+              <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=lz0OAAAAYAAJ&amp;pg=PA531</url>
+            </location>
+            <location>
+              <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/fragmentahistori04mueluoft#page/530/mode/2up</url>
+            </location>
+          </relatedItem>
+        </relatedItem>
+      </relatedItem>
+    </relatedItem>
+
+  </mods>
+</modsCollection>
