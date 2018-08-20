@@ -1,8 +1,8 @@
 # Overview
-This directory contains tools and files for converting [Alison's
+This directory contains some tools for converting [Alison's
 Google
 Spreadsheet](https://docs.google.com/spreadsheets/d/1RHN6KBulDGbpKATLU6PtwU4o5xVsaBB6xbQRtKjMyWE/edit#gid=0)
-into MADS and RDF.
+into MADS and RDF. 
 
 # How to use the tools
 This is a quick-and-dirty method that assumes you have Oxygen 18 or better.

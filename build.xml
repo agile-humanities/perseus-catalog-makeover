@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<project basedir="." xmlns:xdb="http://exist-db.org/ant">
+  <description>Perseus Catalog ant tasks</description>
+
+  <property name="eXist_home" value="/opt/local/exist" />
+  
+
+  <path id="classpath.core">
+    <fileset dir="${eXist_home}/lib/core">
+      <include name="*.jar"/>
+    </fileset>
+    <pathelement path="${eXist_home}/exist.jar"/>
+    <pathelement path="${eXist_home}/exist-optional.jar"/>
+  </path>
+  
+  <typedef resource="org/exist/ant/antlib.xml" uri="http://exist-db.org/ant">
+    <classpath refid="classpath.core"/>
+  </typedef>
+
+  <property name="collectionName" value="pcat3-data"/>
+  
+  <property name="xmldb.host" value="localhost" />
+  <property name="xmldb.port" value="8080" />
+  <property name="xmldb.user" value="admin" />
+  <property name="xmldb.passwd" value="admin" />
+  <property name="xmldb.url" value="xmldb:exist://${xmldb.host}:${xmldb.port}/exist/xmlrpc/db" />
+  <property name="xmldb.dataroot" value="${xmldb.url}/${collectionName}" />
+
+  <target name="load-conf" description="load the Perseus Catalog metadata collection.xconf record">
+    <xdb:store uri="${xmldb.url}/system/config/db/${collectionName}"
+	       user="${xmldb.user}"
+	       password="${xmldb.passwd}"
+	       createcollection="true">
+      <fileset dir=".">
+	<include name="collection.xconf" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-authorities" description="load dev authority records">
+    <xdb:store uri="${xmldb.dataroot}"
+	       user="${xmldb.user}"
+	       password="${xmldb.passwd}"
+	       createcollection="true"
+	       createsubcollections="true">
+      <fileset dir="./dev/authorities">
+	<include name="**/*.xml"/>
+      </fileset>
+    </xdb:store>
+  </target>
+
+    <target name="load-manifestations" description="load dev MODS records">
+    <xdb:store uri="${xmldb.dataroot}"
+	       user="${xmldb.user}"
+	       password="${xmldb.passwd}"
+	       createcollection="true"
+	       createsubcollections="true">
+      <fileset dir="./dev/manifestations">
+	<include name="**/*.xml"/>
+      </fileset>
+    </xdb:store>
+  </target>
+
+</project>
+

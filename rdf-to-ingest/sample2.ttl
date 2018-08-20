@@ -1,0 +1,69 @@
+@prefix :	<http://erlangen-crm.org/efrbroo/> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://erlangen-crm.org/efrbroo/> .
+@prefix ns1160:	<http://purl.org/hucit/kb/works/1619/> .
+@prefix ns6740:	<http://purl.org/hucit/kb/types/> .
+
+    <http://purl.org/hucit/kb/works/1619>	rdf:type	ns1:F1_Work .
+    ns1160:abbr	rdf:type	:E41_Appellation .
+    ns1160:title	rdfs:label	"Vespae"@la .
+    ns1160:cts_urn	rdf:type	:E42_Identifier .
+    ns1160:title	rdf:type	ns1:E35_Title .
+    ns1160:creation_event	rdf:type	ns1:F27_Work_Conception .
+    ns1160:title	rdfs:label	"Die Wespen"@de .
+    ns1160:title	rdfs:label	"Las avispas"@es .
+    ns1160:title	rdfs:label	"Le vespe"@it .
+    ns1160:title	rdfs:label	"Les Guêpes"@fr .
+    ns1160:title	rdfs:label	"The Wasps"@en .
+    ns1160:abbr	rdfs:label	"V." .
+    ns1160:title	rdfs:label	"Vespae"@la .
+    ns1160:cts_urn	rdfs:label	"urn:cts:greekLit:tlg0019.tlg004" .
+    ns1160:title	:P139_has_alternative_form	ns1160:abbr .
+    <http://purl.org/hucit/kb/works/1619>	:P1_is_identified_by	ns1160:cts_urn .
+    ns1160:cts_urn	:P2_has_type	ns6740:CTS_URN .
+    ns1160:abbr	:P2_has_type	ns6740:abbreviation .
+    <http://purl.org/hucit/kb/works/1619>	ns1:P102_has_title	ns1160:title .
+    <http://purl.org/hucit/kb/authors/765>	ns1:P14i_performed	ns1160:creation_event .
+    ns1160:creation_event	ns1:R16_initiated	<http://purl.org/hucit/kb/works/1619> .
+
+    @prefix viaf: <http://viaf.org/viaf/> .
+    @prefix work: <http://catalog.perseus.org/works/> .
+    @prefix expression: <http://catalog.perseus.org/expressions/> .
+
+    # Benjamin Bickley Rogers created an edition of the Wasps.
+    viaf:22214304 a :F10_Person;
+		  rdfs:label "Benjamin Bickley Rogers"@en .
+
+    expression:1 a :F22_Self_Contained_Expression ;
+			      rdfs:label "text of Rogers edition of Vespae"@en ;
+			      :R9i_realises <http://purl.org/hucit/kb/works/1619> ;
+			      :P72_has_language <http://id.loc.gov/vocabulary/languages/grc> ;
+			      :R17i_was_created_by [
+						   a :F28_Expression_Creation ;
+						   :P14_carried_out_by viaf:22214304 ;
+						   ] .
+
+    # Rogers also wrote an English translation. It is a separate, derivative work.
+    work:1 a :F1_Work ;
+	   rdfs:label "Rogers translation of Wasps"@en ;
+	   :R2_is_derivative_of <http://purl.org/hucit/kb/works/1619> .
+
+    expression:2 a :F22_Self_Contained_Expression ;
+			      rdfs:label "text of Rogers translation of Wasps"@en ;
+			      :R9i_realises work:1 ;
+			      :P72_has_language <http://id.loc.gov/vocabulary/languages/eng> ;
+			      :R17i_was_created_by [
+						   a :F28_Expression_Creation ;
+						   :P14_carried_out_by viaf:22214304
+						   ] .
+
+    # On the publication side, there is a publication expression of the Rogers edition,
+    # which incorporates both his edition of the Greek and his translation.
+    expression:3 a :F24_Publication_Expression ;
+		    :P165_incorporates expression:1 ,
+				       expression:2 .
+
+
+    <http://www.worldcat.org/oclc/688794> a :F3_Manifestation_Product_Type ;
+					  :CLR6_should_carry expression:3 .

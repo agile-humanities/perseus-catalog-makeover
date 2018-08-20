@@ -1,0 +1,13 @@
+    prefix efrbroo:  <http://erlangen-crm.org/efrbroo/> 
+    select distinct ?book
+    where {
+      { ?e efrbroo:R9i_realises <http://purl.org/hucit/kb/works/1619> . }
+	 union
+	 {
+	    ?w efrbroo:R2_is_derivative_of <http://purl.org/hucit/kb/works/1619> .
+	   ?e efrbroo:R9i_realises ?w .       
+	 }
+  
+      { ?pe   efrbroo:P165_incorporates ?e . }
+      { ?book efrbroo:CLR6_should_carry ?pe . }
+      }

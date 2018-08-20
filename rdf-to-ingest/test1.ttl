@@ -1,0 +1,5 @@
+@prefix :  <http://erlangen-crm.org/efrbroo/> .
+@prefix tlg: <http://catalog.perseus.org/works/tlg/> .
+
+tlg:0019 a :F15_Complex_Work ;
+	 rdfs:label "Text Group: The Works of Aristophanes"@en .

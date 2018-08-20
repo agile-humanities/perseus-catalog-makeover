@@ -1,0 +1,11 @@
+prefix efrbroo: <http://erlangen-crm.org/efrbroo/>
+select distinct ?e
+where {
+  { ?e efrbroo:R9i_realises <http://purl.org/hucit/kb/works/1619> . }
+  union
+  {
+    ?w efrbroo:R2_is_derivative_of <http://purl.org/hucit/kb/works/1619> .
+    ?e efrbroo:R9i_realises ?w .       
+  }
+
+}
