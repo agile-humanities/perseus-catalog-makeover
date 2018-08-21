@@ -2388,7 +2388,9 @@
         <location>
             <url displayLabel="Worldcat">http://www.worldcat.org/oclc/9883440</url>
         </location>
-        
+        <location>
+            <url displayLabel="First1KGreek">https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0656/tlg001/tlg0656.tlg001.1st1K-grc1.xml</url>
+        </location>
         <subject authority="lcsh">
             <topic>Medicine, Greek and Roman</topic>
         </subject>
@@ -2468,6 +2470,12 @@
                                 <number>5</number>
                             </detail>
                         </part>
+                        <part>
+                            <extent unit="pages">
+                                <start>1</start>
+                                <end>108</end>
+                            </extent>
+                        </part>
                     </relatedItem>                        
                     <tableOfContents>Liber V</tableOfContents>
                     <location>
@@ -2478,12 +2486,11 @@
             </relatedItem>
         </relatedItem>
     </mods>
-<!-- LEFT OFF HERE -->
     <mods displayLabel="Digest of Justinian">
-        <titleInfo xml:lang="en" type="uniform">
+        <titleInfo xml:lang="eng" type="uniform">
             <title>Digest of Justinian</title>
         </titleInfo>
-        <titleInfo xml:lang="en">
+        <titleInfo xml:lang="eng">
             <title>Digest of Justinian</title>
         </titleInfo>
         <identifier type="lccn">09025232</identifier>
@@ -2500,8 +2507,7 @@
             <issuance>monographic</issuance>
         </originInfo>
         <classification authority="lcc">KJA116</classification>
-
-        <language>
+        <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
         </language>
         <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-32202.html">
@@ -2517,12 +2523,21 @@
             <namePart>Monro, C. H. (Charles Henry)</namePart>
             <namePart type="date">1835-1908</namePart>
             <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
                 <roleTerm authority="marcrelator" type="text">translator</roleTerm>
             </role>
         </name>
         <subject authority="lcsh">
             <topic>Roman law</topic>
         </subject>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/09025232</url>
+        </location>
+        <location>
+            <url displayLabel="OCLC">http://worldcat.org/oclc/526217</url>
+        </location>
         <relatedItem type="constituent" otherType="work" displayLabel="Digest of Justinian">
             <identifier type="ctsurn">urn:cts:latinLit:phi2806.phi002</identifier>
             <relatedItem type="constituent" otherType="expression"
@@ -2535,13 +2550,15 @@
                             <number>1</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-6">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-6</number>
+                            </detail>
+                        </part>
+                    </relatedItem>                        
                     <tableOfContents>Books I-VI</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/09025232</url>
-                    </location>
-                    <location>
-                        <url displayLabel="OCLC">http://worldcat.org/oclc/526217</url>
-                    </location>
                     <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=5-Q2AAAAIAAJ</url>
@@ -2558,13 +2575,15 @@
                             <number>2</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 7-15">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>7-15</number>
+                            </detail>
+                        </part>
+                    </relatedItem>                        
                     <tableOfContents>Books VII-XV</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/09025232</url>
-                    </location>
-                    <location>
-                        <url displayLabel="OCLC">http://worldcat.org/oclc/526217</url>
-                    </location>
                     <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=130UAAAAYAAJ</url>
@@ -2577,14 +2596,9 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="Augustine's Epistulae (Goldbacher)">
-        <titleInfo type="uniform">
+        <titleInfo type="uniform" lang="lat">
             <title>Epistulae</title>
-        </titleInfo>
-        <titleInfo>
-            <title>Sancti Aurelii Augustini Opera</title>
-            <partNumber>Opera Sectio II</partNumber>
         </titleInfo>
         <name authority="naf" type="personal"
             xlink:href="http://errol.oclc.org/laf/n80-126290.html ">
@@ -2601,7 +2615,7 @@
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
-        <identifier type="oclc">504162003</identifier>
+        <identifier type="oclc">878909915</identifier>
         <typeOfResource>text</typeOfResource>
         <subject authority="lcsh">
             <topic>Fathers of the church</topic>
@@ -2625,9 +2639,19 @@
                 <placeTerm type="text">Vindobonae</placeTerm>
             </place>
             <publisher>Gerold</publisher>
-            <dateIssued>1895</dateIssued>
+            <dateIssued>1895-1923</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
+        <physicalDescription>5 vols</physicalDescription>
+        <tableOfContents>1. Praefatio. Ep. I-XXX. --
+            2. Ep. XXXI-CXXIII. --
+            3. Ep. CXXIV-CLXXXIV A. --
+            4. Ep. CLXXXV-CCLXX. --
+            5. Praefatio editoris et indice</tableOfContents>
+        <location>
+            <url displayLabel="WorldCat"
+                >http://www.worldcat.org/oclc/878909915</url>
+        </location>
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
@@ -2636,26 +2660,48 @@
                 <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
             </titleInfo>
         </relatedItem>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Sancti Aurelii Augustini Opera</title>
+                <partNumber>Opera Sectio II</partNumber>
+                <partNumber>1-5</partNumber>
+            </titleInfo>
+        </relatedItem>
         <relatedItem type="constituent" otherType="work">
+            <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011</identifier>
             <relatedItem type="constituent" otherType="expression">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa011.opp-lat1</identifier>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volume 34">
-                    <part type="volume">
-                        <detail>
-                            <number>34</number>
-                        </detail>
-                    </part>
                     <relatedItem type="constituent" otherType="structure" displayLabel="Part I">
                         <part type="part">
                             <detail>
                                 <number>1</number>
                             </detail>
                         </part>
+                        <relatedItem type="constituent" otherType="structure" displayLabel="Epistulae 1-30">
+                            <part>
+                                <detail type="book">
+                                    <caption>Epistulae</caption>
+                                    <number>1-30</number>
+                                </detail>
+                            </part>
+                        </relatedItem>                            
                         <tableOfContents>Praefatio. Ep. I-XXX</tableOfContents>
-                        <location>
-                            <url displayLabel="WorldCat"
-                                >http://www.worldcat.org/oclc/504162003</url>
-                        </location>
+                        <relatedItem type="series">
+                            <titleInfo>
+                                <title>Sancti Aurelii Augustini Opera</title>
+                                <partNumber>Opera Sectio II</partNumber>
+                                <partNumber>1</partNumber>
+                            </titleInfo>
+                        </relatedItem>
+                        <relatedItem type="series">
+                            <titleInfo>
+                                <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+                                <partNumber>Volume 34, Part I</partNumber>
+                            </titleInfo>
+                        </relatedItem>
+                        <originInfo>
+                            <dateIssued>1895</dateIssued>
+                        </originInfo>
                         <location>
                             <url displayLabel="GoogleBooks"
                                 >http://books.google.com/books?id=DzIRAAAAYAAJ</url>
@@ -2668,7 +2714,6 @@
                             <url displayLabel="HathiTrust"
                                 >http://hdl.handle.net/2027/uc1.31158003005773</url>
                         </location>
-
                     </relatedItem>
                     <relatedItem type="constituent" otherType="structure" displayLabel="Part II">
                         <part type="part">
@@ -2676,11 +2721,31 @@
                                 <number>2</number>
                             </detail>
                         </part>
+                        <relatedItem type="constituent" otherType="structure" displayLabel="Epistulae 31-123">
+                            <part>
+                                <detail type="book">
+                                    <caption>Epistulae</caption>
+                                    <number>31-123</number>
+                                </detail>
+                            </part>
+                        </relatedItem>
                         <tableOfContents>Ep. XXXI-CXXIII</tableOfContents>
-                        <location>
-                            <url displayLabel="WorldCat"
-                                >http://www.worldcat.org/oclc/504162003</url>
-                        </location>
+                        <relatedItem type="series">
+                            <titleInfo>
+                                <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+                                <partNumber>Volume 34, Part II</partNumber>
+                            </titleInfo>
+                        </relatedItem>
+                        <relatedItem type="series">
+                            <titleInfo>
+                                <title>Sancti Aurelii Augustini Opera</title>
+                                <partNumber>Opera Sectio II</partNumber>
+                                <partNumber>2</partNumber>
+                            </titleInfo>
+                        </relatedItem>
+                        <originInfo>
+                            <dateIssued>1898</dateIssued>
+                        </originInfo>
                         <location>
                             <url displayLabel="GoogleBooks"
                                 >http://books.google.com/books?id=NyQQAAAAYAAJ</url>
@@ -2700,19 +2765,33 @@
                                 <number>3</number>
                             </detail>
                         </part>
-                        <tableOfContents>Ep. CXXIV-CLXXXIVA</tableOfContents>
-                        <location>
-                            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/34549005</url>
-                        </location>
-                        <location>
-                            <url displayLabel="GoogleBooks"/>
-                        </location>
-                        <location>
-                            <url displayLabel="Open Content Alliance"/>
-                        </location>
-                        <location>
-                            <url displayLabel="Open Library"/>
-                        </location>
+                        <relatedItem type="constituent" otherType="structure" displayLabel="Epistulae 124-184A">
+                            <part>
+                                <detail type="book">
+                                    <caption>Epistulae</caption>
+                                    <number>124-184A</number>
+                                </detail>
+                            </part>
+                        </relatedItem>
+                        <tableOfContents>Ep. CXXIV-CLXXXIV A</tableOfContents>
+                        <relatedItem type="series">
+                            <titleInfo>
+                                <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+                                <partNumber>Volume 44</partNumber>
+                            </titleInfo>
+                        </relatedItem>
+                        <relatedItem type="series">
+                            <titleInfo>
+                                <title>Sancti Aurelii Augustini Opera</title>
+                                <partNumber>Opera Sectio II</partNumber>
+                                <partNumber>5</partNumber>
+                                <subTitle>Epistulae</subTitle>
+                                <partNumber>3</partNumber>
+                            </titleInfo>
+                        </relatedItem>
+                        <originInfo>
+                            <dateIssued>1904</dateIssued>
+                        </originInfo>
                         <location>
                             <url displayLabel="HathiTrust"
                                 >http://hdl.handle.net/2027/nyp.33433081640892</url>
@@ -2724,10 +2803,32 @@
                                 <number>4</number>
                             </detail>
                         </part>
+                        <relatedItem type="constituent" otherType="structure" displayLabel="Epistulae 185-270">
+                            <part>
+                                <detail type="book">
+                                    <caption>Epistulae</caption>
+                                    <number>185-270</number>
+                                </detail>
+                            </part>
+                        </relatedItem>
                         <tableOfContents>Ep. CLXXXV-CCLXX</tableOfContents>
-                        <location>
-                            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/34548997</url>
-                        </location>
+                        <relatedItem type="series">
+                            <titleInfo>
+                                <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+                                <partNumber>Volume 57</partNumber>
+                            </titleInfo>
+                        </relatedItem>
+                        <relatedItem type="series">
+                            <titleInfo>
+                                <title>Sancti Aurelii Augustini Opera</title>
+                                <partNumber>Opera Sectio II</partNumber>
+                                <subTitle>Epistulae</subTitle>
+                                <partNumber>4</partNumber>
+                            </titleInfo>
+                        </relatedItem>
+                        <originInfo>
+                            <dateIssued>1911</dateIssued>
+                        </originInfo>
                         <location>
                             <url displayLabel="Open Content Alliance"
                                 >http://archive.org/stream/CSEL57</url>
@@ -2740,25 +2841,31 @@
                             </detail>
                         </part>
                         <tableOfContents>Praefatio Editoris et Indices</tableOfContents>
-                        <location>
-                            <url displayLabel="WorldCat"
-                                >http://www.worldcat.org/oclc/499042394</url>
-                        </location>
-                        <location>
-                            <url displayLabel="GoogleBooks"/>
-                        </location>
-                        <location>
+                        <relatedItem type="series">
+                            <titleInfo>
+                                <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+                                <partNumber>Volume 58</partNumber>
+                            </titleInfo>
+                        </relatedItem>
+                        <relatedItem type="series">
+                            <titleInfo>
+                                <title>Sancti Aurelii Augustini Opera</title>
+                                <partNumber>Opera Sectio II</partNumber>
+                                <partNumber>5</partNumber>
+                                <subTitle>Epistulae. Indices</subTitle>
+                            </titleInfo>
+                        </relatedItem>
+                        <originInfo>
+                            <dateIssued>1923</dateIssued>
+                        </originInfo>
                             <url displayLabel="Open Content Alliance"
                                 >https://archive.org/details/corpusscriptorum58auguuoft</url>
-                        </location>
                     </relatedItem>
-                </relatedItem>
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="Pliny the Younger Epistiulae (Melmoth and Hutchinson)">
-        <titleInfo xml:lang="en" type="uniform">
+        <titleInfo xml:lang="lat" type="uniform">
             <title>Epistulae</title>
         </titleInfo>
         <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-75182.html">
@@ -2781,6 +2888,7 @@
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
+
         </name>
         <identifier type="lccn">16000654</identifier>
         <typeOfResource>text</typeOfResource>
@@ -2797,11 +2905,12 @@
             <publisher>Harvard University</publisher>
             <publisher>W. Heinemann</publisher>
             <publisher>Harvard University</publisher>
-            <dateModified>1957</dateModified>
+            <dateModified>1957-1958</dateModified>
             <dateIssued>1915</dateIssued>
             <edition>Reprint</edition>
             <issuance>monographic</issuance>
         </originInfo>
+        <physicalDescription>2 volumes</physicalDescription>
         <subject authority="lcsh">
             <name authority="" type="personal">
                 <namePart type="termsOfAddress">the Younger</namePart>
@@ -2813,26 +2922,11 @@
             <topic>Latin letters</topic>
             <topic>Translations into English</topic>
         </subject>
-        <location><!-- Why in some cases did the URLs copy into individual structural volume
-        metadata and in other cases did not? In this case all of the volume 2 m-->
+        <location>
             <url displayLabel="LC Permalink">http://lccn.loc.gov/16000654</url>
         </location>
         <location>
             <url displayLabel="WorldCat">http://www.worldcat.org/oclc/237118369</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/letterswithengli01plinuoft</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"
-                >http://openlibrary.org/details/letterswithengli01plinuoft</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=yXhfAAAAMAAJ</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015004736669</url>
         </location>
         <relatedItem type="series">
             <titleInfo>
@@ -2842,30 +2936,10 @@
                 <title>LCL</title>
             </titleInfo>
         </relatedItem>
-        <relatedItem type="constituent" otherType="work"><!-- Don't think need duplicate structural metadata -->
+        <relatedItem type="constituent" otherType="work">
             <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001</identifier>
-
             <relatedItem type="constituent" otherType="expression">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-lat4</identifier>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volume I">
-                    <part type="volume">
-                        <detail>
-                            <number>1</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Book I-Book VI</tableOfContents>
-                </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volume II">
-                    <part type="volume">
-                        <detail>
-                            <number>2</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Book VII-X</tableOfContents>
-                </relatedItem>
-
-            </relatedItem>
-            <relatedItem type="constituent" otherType="expression">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1318.phi001.opp-eng2</identifier>
                 <relatedItem type="constituent" otherType="structure" displayLabel="Volume I">
                     <part type="volume">
@@ -2873,8 +2947,29 @@
                             <number>1</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-6">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-6</number>
+                            </detail>
+                        </part>
+                    </relatedItem> 
                     <tableOfContents>Book I-Book VI</tableOfContents>
-
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://www.archive.org/details/letterswithengli01plinuoft</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Library"
+                            >http://openlibrary.org/details/letterswithengli01plinuoft</url>
+                    </location>
+                    <location> 
+                    <url displayLabel="GoogleBooks">http://books.google.com/books?id=yXhfAAAAMAAJ</url>
+                    </location>
+                    <location>
+                        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015004736669</url>
+                    </location>
                 </relatedItem>
                 <relatedItem type="constituent" otherType="structure" displayLabel="Volume II">
                     <part type="volume">
@@ -2882,25 +2977,37 @@
                             <number>2</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 7-10">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>7-10</number>
+                            </detail>
+                        </part>
+                    </relatedItem> 
                     <tableOfContents>Book VII-X</tableOfContents>
                 </relatedItem>
-
-            </relatedItem>
-
+                <location>
+                    <url displayLabel="Open Content Alliance">http://www.archive.org/details/letterswithengli02plinuoft</url>
+                </location>
+                <location>
+                    <url displayLabel="Open Library">http://openlibrary.org/details/letterswithengli02plinuoft</url>
+                </location>
+                <location>
+                    <url displayLabel="GoogleBooks">http://books.google.com/books?id=TTsMAAAAIAAJ</url>
+                </location>
+            </relatedItem>          
         </relatedItem>
     </mods>
-
     <mods displayLabel="Epistulae Morales ad Lucilium">
         <identifier type="oclc">15672424</identifier>
         <identifier type="phi">1017.15</identifier>
         <identifier type="stoa author-text">stoa0255-stoa015</identifier>
-        <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015.opp-eng2</identifier>
-        <titleInfo xml:lang="en" type="uniform">
+        <titleInfo xml:lang="lat" type="uniform">
             <title>Epistulae Morales ad Lucilium</title>
         </titleInfo>
-        <titleInfo>
+        <titleInfo type="alternative">
             <title>Ad Lucilium epistulae morales</title>
-            <partNumber>Volume I</partNumber>
         </titleInfo>
         <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n82-166595.html">
             <namePart>Seneca, Lucius Annaeus</namePart>
@@ -2919,7 +3026,6 @@
                 <roleTerm authority="marcrelator" type="text">translator</roleTerm>
             </role>
         </name>
-
         <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
@@ -2934,19 +3040,20 @@
             <publisher>Harvard</publisher>
             <publisher>Heinemann</publisher>
             <issuance>monographic</issuance>
-            <dateModified>1961</dateModified>
+            <dateModified>1961-1962</dateModified>
             <edition>Reprint</edition>
-            <dateIssued>1917</dateIssued>
+            <dateIssued>1917-1925</dateIssued>
         </originInfo>
         <note type="statement of responsibility">with an English translation by Richard M. Gummere
             ...</note>
         <note>Latin and English on opposite pages</note>
-        <note>Bibliography: v. 1, p. xiv-xv.</note>
         <classification authority="lcc">PA6156</classification>
-
-
-        <language>
+<physicalDescription>3 vols</physicalDescription>
+        <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
 
         <subject authority="lcsh">
@@ -2960,98 +3067,37 @@
         <relatedItem type="series">
             <titleInfo>
                 <title>The Loeb classical library</title>
-                <partNumber>75</partNumber>
-            </titleInfo>
-            <titleInfo type="abbreviated">
-                <title>LCL 75</title>
+                <partNumber>75-77</partNumber>
             </titleInfo>
         </relatedItem>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/17028109</url>
+        </location>
+        <location>
+            <url displayLabel="Worldcat">http://worldcat.org/oclc/15672424</url>
+        </location>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Epistulae Morales ad Lucilium">
             <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015</identifier>
             <relatedItem type="constituent" otherType="expression"
-                displayLabel="Epistulae Morales ad Lucilium  (eng)">
+                displayLabel="Epistulae Morales ad Lucilium">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015.opp-eng2</identifier>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volume I (eng)">
-                    <part type="volume">
-                        <detail>
-                            <number>1</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Books I-LXV</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/17028109</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Worldcat">http://worldcat.org/oclc/15672424</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Open Content Alliance"
-                            >http://www.archive.org/details/adluciliumepistu01sene</url>
-                    </location>
-                    <location>
-                        <url displayLabel="HathiTrust"
-                            >http://hdl.handle.net/2027/osu.32435076587302</url>
-                    </location>
-                </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volume II (eng)">
-                    <part type="volume">
-                        <detail>
-                            <number>2</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Books LXVI-XCII</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/17028109</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Worldcat">http://worldcat.org/oclc/15672424</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Open Content Alliance"
-                            >http://www.archive.org/details/adluciliumepistu02sene</url>
-                    </location>
-                    <location>
-                        <url displayLabel="HathiTrust"
-                            >http://hdl.handle.net/2027/mdp.39015009384754</url>
-                    </location>
-                </relatedItem>
-                <relatedItem type="constituent" otherType="structure"
-                    displayLabel="Volume III (eng)">
-                    <part type="volume">
-                        <detail>
-                            <number>3</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Books XCIII-CXXIV</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/17028109</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Worldcat">http://worldcat.org/oclc/15672424</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Open Content Alliance"
-                            >http://www.archive.org/details/adluciliumepistu03seneuoft</url>
-                    </location>
-                </relatedItem>
-            </relatedItem>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Epistulae Morales ad Lucilium (lat)"><!-- Don't think need duplicate structural metadata -->
                 <identifier type="ctsurn">urn:cts:latinLit:phi1017.phi015.opp-lat2</identifier>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volume I (lat)">
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume I">
                     <part type="volume">
                         <detail>
                             <number>1</number>
                         </detail>
                     </part>
-                    <tableOfContents>Books I-LXV</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/17028109</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Worldcat">http://worldcat.org/oclc/15672424</url>
-                    </location>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-65">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-65</number>
+                            </detail>
+                        </part>
+                    </relatedItem> 
+                    <tableOfContents>Books I-LXV</tableOfContents>  
                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://www.archive.org/details/adluciliumepistu01sene</url>
@@ -3060,21 +3106,22 @@
                         <url displayLabel="HathiTrust"
                             >http://hdl.handle.net/2027/osu.32435076587302</url>
                     </location>
-
                 </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volume II (lat)">
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volume II">
                     <part type="volume">
                         <detail>
                             <number>2</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 66-92">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>66-92</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
                     <tableOfContents>Books LXVI-XCII</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/17028109</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Worldcat">http://worldcat.org/oclc/15672424</url>
-                    </location>
                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://www.archive.org/details/adluciliumepistu02sene</url>
@@ -3085,30 +3132,31 @@
                     </location>
                 </relatedItem>
                 <relatedItem type="constituent" otherType="structure"
-                    displayLabel="Volume III (lat)">
+                    displayLabel="Volume III">
                     <part type="volume">
                         <detail>
                             <number>3</number>
                         </detail>
                     </part>
                     <tableOfContents>Books XCIII-CXXIV</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/17028109</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Worldcat">http://worldcat.org/oclc/15672424</url>
-                    </location>
-                    <location>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 93-124">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>93-124</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://www.archive.org/details/adluciliumepistu03seneuoft</url>
                     </location>
-
                 </relatedItem>
-            </relatedItem>
+            </relatedItem>          
         </relatedItem>
     </mods>
     <mods displayLabel="Fabulae">
-        <titleInfo>
+        <titleInfo lang="lat">
             <title>Fabulae</title>
         </titleInfo>
         <titleInfo type="translated" lang="eng">
@@ -3128,6 +3176,7 @@
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
+        <physicalDescription>2 volumes</physicalDescription>
         <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
@@ -3137,10 +3186,13 @@
                 <placeTerm type="text">Paris</placeTerm>
             </place>
             <publisher>les Belles lettres</publisher>
-            <dateIssued>1926</dateIssued>
+            <dateIssued>1925-1926</dateIssued>
             <edition/>
             <issuance>monographic</issuance>
         </originInfo>
+        <location>
+            <url displayLabel="Worldcat">http://www.worldcat.org/oclc/15385211</url>
+        </location>
         <language objectPart="notes">
             <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
         </language>
@@ -3169,12 +3221,8 @@
                         </detail>
                     </part>
                     <location>
-                        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/15385211</url>
+                        <url displayLabel="SLUB">http://digital.slub-dresden.de/id414991931</url>
                     </location>
-                    <location>
-                        <url displayLabel="SLUB"> http://digital.slub-dresden.de/id414991931 </url>
-                    </location>
-
                 </relatedItem>
                 <relatedItem type="constituent" otherType="structure" displayLabel="Pars Altera">
                     <part type="part">
@@ -3183,23 +3231,18 @@
                         </detail>
                     </part>
                     <location>
-                        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/15385211</url>
-                    </location>
-                    <location>
                         <url displayLabel="SLUB">
-                            http://digital.slub-dresden.de/en/workview/dlf/106434/1/0/ </url>
+                            http://digital.slub-dresden.de/en/workview/dlf/106434/1/0/</url>
                     </location>
-
                 </relatedItem>
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="Institutio oratoria">
-        <titleInfo xml:lang="en" type="uniform">
+        <titleInfo xml:lang="lat" type="uniform">
             <title>Institutio oratoria</title>
         </titleInfo>
-        <titleInfo>
+        <titleInfo lang="eng">
             <nonSort>The</nonSort>
             <title>Institutio oratoria of Quintilian</title>
         </titleInfo>
@@ -3215,11 +3258,24 @@
             <role>
                 <roleTerm authority="marcrelator" type="text">translator</roleTerm>
             </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
         </name>
-
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
         <identifier type="lccn">tmp92021026</identifier>
         <identifier type="oclc">10517921</identifier>
-
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/tmp92021026</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/10517921</url>
+        </location>
         <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
@@ -3231,11 +3287,11 @@
             <place>
                 <placeTerm type="text">New York</placeTerm>
             </place>
-            <dateModified>1969</dateModified>
+            <dateModified>1969-</dateModified>
             <edition>Reprint</edition>
             <publisher>W. Heinemann</publisher>
             <publisher>Harvard University Press</publisher>
-            <dateIssued>1920</dateIssued>
+            <dateIssued>1920-1922</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
         <note>Latin and English on opposite pages</note>
@@ -3249,142 +3305,33 @@
             <topic>Oratory</topic>
             <topic>Early works to 1800</topic>
         </subject>
-
         <relatedItem type="series">
             <titleInfo>
                 <title>The Loeb classical library. [Latin authors]</title>
-                <partNumber>124</partNumber>
-            </titleInfo>
-            <titleInfo type="abbreviated">
-                <title>LCL 124</title>
+                <partNumber>124-127</partNumber>
             </titleInfo>
         </relatedItem>
-
         <relatedItem type="constituent" otherType="work" displayLabel="Institutio oratoria">
             <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001</identifier>
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Institutio oratoria">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001.opp-lat4</identifier>
-                <language>
-                    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-                </language>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Vol I">
-                    <part type="volume">
-                        <detail>
-                            <number>1</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Book I-III</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/tmp92021026</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/10517921</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Open Content Alliance"
-                            >http://www.archive.org/details/institutioorator00quin</url>
-                    </location>
-                    <location>
-                        <url displayLabel="OpenLibrary"
-                            >http://www.openlibrary.org/details/institutioorator00quin</url>
-                    </location>
-                    <location>
-                        <url displayLabel="GoogleBooks"
-                            >http://books.google.com/books?id=EpdfAAAAMAAJ</url>
-                    </location>
-                </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Vol II">
-                    <part type="volume">
-                        <detail>
-                            <number>2</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Book IV-VI</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/tmp92021026</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/10517921</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Open Content Alliance"
-                            >http://www.archive.org/details/institutooratori02quinuoft</url>
-                    </location>
-                    <location>
-                        <url displayLabel="OpenLibrary"
-                            >http://www.openlibrary.org/details/institutooratori02quinuoft</url>
-                    </location>
-                    <location>
-                        <url displayLabel="GoogleBooks"
-                            >http://books.google.com/books?id=aXxiAAAAMAAJ</url>
-                    </location>
-
-                </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Vol III">
-                    <part type="volume">
-                        <detail>
-                            <number>3</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Book VII-IX</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/tmp92021026</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/10517921</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Open Content Alliance"
-                            >http://www.archive.org/details/institutioorator03quinuoft</url>
-                    </location>
-                    <location>
-                        <url displayLabel="GoogleBooks"
-                            >http://books.google.com/books?id=A5hfAAAAMAAJ</url>
-                    </location>
-                </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Vol IV">
-                    <part type="volume">
-                        <detail>
-                            <number>4</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Book X-XII</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/tmp92021026</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/10517921</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Open Content Alliance"
-                            >http://www.archive.org/details/institutioorator04quinuoft</url>
-                    </location>
-                    <location>
-                        <url displayLabel="GoogleBooks"
-                            >http://books.google.com/books?id=gJhfAAAAMAAJ</url>
-                    </location>
-                </relatedItem>
-            </relatedItem>
-            <relatedItem type="constituent" otherType="expression" 
-                displayLabel="Institutio oratoria (translation)">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001.opp-eng3</identifier>
-                <language>
-                    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-                </language>
                 <relatedItem type="constituent" otherType="structure" displayLabel="Vol I">
                     <part type="volume">
                         <detail>
                             <number>1</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-3">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-3</number>
+                            </detail>
+                        </part>
+                    </relatedItem> 
                     <tableOfContents>Book I-III</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/tmp92021026</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/10517921</url>
-                    </location>
                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://www.archive.org/details/institutioorator00quin</url>
@@ -3404,6 +3351,14 @@
                             <number>2</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 4-6">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>4-6</number>
+                            </detail>
+                        </part>
+                    </relatedItem> 
                     <tableOfContents>Book IV-VI</tableOfContents>
                     <location>
                         <url displayLabel="LC Permalink">http://lccn.loc.gov/tmp92021026</url>
@@ -3421,9 +3376,8 @@
                     </location>
                     <location>
                         <url displayLabel="GoogleBooks"
-                            >http://books.google.com/books?id=aXxiAAAAMAAJ</url>
+                            >http://books.google.com/books?id=aXxiAAAAMAAJ</url>                   
                     </location>
-
                 </relatedItem>
                 <relatedItem type="constituent" otherType="structure" displayLabel="Vol III">
                     <part type="volume">
@@ -3431,13 +3385,15 @@
                             <number>3</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 7-9">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>7-9</number>
+                            </detail>
+                        </part>
+                    </relatedItem> 
                     <tableOfContents>Book VII-IX</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/tmp92021026</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/10517921</url>
-                    </location>
                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://www.archive.org/details/institutioorator03quinuoft</url>
@@ -3453,13 +3409,15 @@
                             <number>4</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 10-12">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>10-12</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
                     <tableOfContents>Book X-XII</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/tmp92021026</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/10517921</url>
-                    </location>
                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://www.archive.org/details/institutioorator04quinuoft</url>
@@ -3469,10 +3427,10 @@
                             >http://books.google.com/books?id=gJhfAAAAMAAJ</url>
                     </location>
                 </relatedItem>
+            </relatedItem>           
             </relatedItem>
-        </relatedItem>
     </mods>
-
+<!-- LEFT OFF HERE -->
     <mods displayLabel="Institutio oratoria">
         <titleInfo xml:lang="en" type="uniform">
             <title>Institutio oratoria</title>
