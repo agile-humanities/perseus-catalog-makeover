@@ -1670,8 +1670,7 @@
                 <title>Teubner</title>
             </titleInfo>
         </relatedItem>
-        <tableOfContents>Versionem Continuam et Primam Editionem Contines</tableOfContents>
-        <language>
+        <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <subject authority="lcsh">
@@ -1694,6 +1693,7 @@
                             <caption>Pars Prior</caption>
                         </detail>
                     </part>
+                    <tableOfContents>Versionem Continuam et Primam Editionem Contines</tableOfContents>
                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://www.archive.org/details/commentariiinlib00boetuoft</url>
@@ -2107,7 +2107,7 @@
                 <placeTerm type="text">Vindobonae</placeTerm>
             </place>
             <publisher>Gerold</publisher>
-            <dateIssued>1899-9000</dateIssued>
+            <dateIssued>1899-1900</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
         <language objectPart="text">
@@ -2199,7 +2199,6 @@
             </relatedItem>
         </relatedItem>
     </mods>
-<!-- LEFT OFF HERE -->
     <mods displayLabel="De compendiosa doctrina">
         <titleInfo xml:lang="en" type="uniform">
             <title>De compendiosa doctrina</title>
@@ -2214,7 +2213,7 @@
                 <placeTerm type="text">Lipsiae</placeTerm>
             </place>
             <publisher>in aedibvs B. G. Tevbneri</publisher>
-            <dateIssued>1903-</dateIssued>
+            <dateIssued>1903</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
         <physicalDescription>
@@ -2224,7 +2223,6 @@
                 Lindsay</note>
             <digitalOrigin>digitized other analog</digitalOrigin>
         </physicalDescription>
-        <tableOfContents>Books I-III</tableOfContents>
         <classification authority="lcc">PA6104</classification>
         <relatedItem type="series">
             <titleInfo>
@@ -2234,8 +2232,13 @@
                 <title>Teubner</title>
             </titleInfo>
         </relatedItem>
-
-        <language>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/04031897</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/62066283</url>
+        </location>
+        <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n86-113590.html">
@@ -2252,6 +2255,13 @@
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
+        <name authority="naf" type="personal">
+            <namePart>Onions, John Henry,</namePart>
+            <namePart type="date">1852-1889</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
         <relatedItem type="constituent" otherType="work" displayLabel="De compendiosa doctrina">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0213a.stoa001</identifier>
             <relatedItem type="constituent" otherType="expression"
@@ -2264,13 +2274,16 @@
                             <number>1</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-3">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>    
                     <tableOfContents>Books I-III</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/04031897</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/62066283</url>
-                    </location>
+
                     <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=yevctmDgjOcC</url>
@@ -2284,13 +2297,15 @@
                             <number>2</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 4">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>    
                     <tableOfContents>Lib IV</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/04031897</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/62066284</url>
-                    </location>
                     <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=SHU2J4ckjUsC</url>
@@ -2307,12 +2322,15 @@
                             <number>3</number>
                         </detail>
                     </part>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/04031897</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/62066285 </url>
-                    </location>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 5-20">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>5-20</number>
+                            </detail>
+                        </part>
+                    </relatedItem>    
+                    
                     <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=oG01WsUp1-wC</url>
@@ -2325,14 +2343,12 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="De materia medica">
         <titleInfo type="uniform">
             <title>De materia medica</title>
         </titleInfo>
         <titleInfo>
             <title>De materia medica libri quinque</title>
-            <partNumber>Volumen I</partNumber>
         </titleInfo>
         <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/78822798/">
@@ -2359,10 +2375,10 @@
                 <placeTerm type="text">Berolini</placeTerm>
             </place>
             <publisher>Apud Weidmannos</publisher>
-            <dateIssued>1907</dateIssued>
+            <dateIssued>1906-1914</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-        <tableOfContents>Libri I et Libri II</tableOfContents>
+        <physicalDescription>3 vols</physicalDescription>
         <language objectPart="text">
             <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
         </language>
@@ -2384,11 +2400,10 @@
         <identifier type="tlg">0656.001</identifier>
         <identifier type="lccn">48039751</identifier>
         <identifier type="oclc">9883440</identifier>
-
         <relatedItem type="constituent" otherType="work" displayLabel="De materia medica">
-            <!-- No CTS URN --><!-- WILL I NEED TO CREATE THESE THEN? FOR NEW WORKS ITS EASY.  -->
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0656.tlg001</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="De materia medica">
-                <!-- No CTS URN -->
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0656.tlg001.1st1K-grc1</identifier>
                 <relatedItem type="constituent" otherType="structure" displayLabel="Volumen I">
                     <part>
                         <detail type="volume">
@@ -2396,6 +2411,15 @@
                             <number>1</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-2">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>                        
+                    <tableOfContents>Libri I et Libri II</tableOfContents>
                     <location>
                         <url displayLabel="Google Books"
                             >http://books.google.com/books?id=lRsIAAAAIAAJ</url>
@@ -2412,19 +2436,49 @@
                             <number>2</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 3-4">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>3-4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>                        
+                    <tableOfContents>Libri III et Libri IV</tableOfContents>
                     <location>
                         <url displayLabel="Google Books"
-                            >http://books.google.com/books?id=OqAIAAAAIAAJ </url>
+                            >http://books.google.com/books?id=OqAIAAAAIAAJ</url>
                     </location>
                     <location>
                         <url displayLabel="HathiTrust"
                             >http://hdl.handle.net/2027/iau.31858049928702?urlappend=%3Bseq=270</url>
                     </location>
                 </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volumen III">
+                    <part>
+                        <detail type="volume">
+                            <caption>Volumen</caption>
+                            <number>3</number>
+                        </detail>
+                    </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 5">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>5</number>
+                            </detail>
+                        </part>
+                    </relatedItem>                        
+                    <tableOfContents>Liber V</tableOfContents>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >http://hdl.handle.net/2027/iau.31858049928702?urlappend=%3Bseq=644</url>
+                    </location>
+                </relatedItem>
             </relatedItem>
         </relatedItem>
     </mods>
-
+<!-- LEFT OFF HERE -->
     <mods displayLabel="Digest of Justinian">
         <titleInfo xml:lang="en" type="uniform">
             <title>Digest of Justinian</title>
