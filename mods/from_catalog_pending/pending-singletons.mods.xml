@@ -3430,9 +3430,8 @@
             </relatedItem>           
             </relatedItem>
     </mods>
-<!-- LEFT OFF HERE -->
     <mods displayLabel="Institutio oratoria">
-        <titleInfo xml:lang="en" type="uniform">
+        <titleInfo xml:lang="lat" type="uniform">
             <title>Institutio oratoria</title>
         </titleInfo>
         <titleInfo>
@@ -3448,6 +3447,9 @@
         <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n85-22879.html">
             <namePart>Watson, J. S. (John Selby)</namePart>
             <namePart type="date">1804-1884</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
             <role>
                 <roleTerm authority="marcrelator" type="text">translator</roleTerm>
             </role>
@@ -3466,7 +3468,7 @@
             <dateIssued>1856</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-
+        <physicalDescription>2 vols</physicalDescription>
         <note type="statement of responsibility">In twelve books. Literally tr. with notes, by the
             Rev. John Selby Watson.</note>
         <classification authority="lcc">PA3606</classification>
@@ -3478,16 +3480,19 @@
                 <partNumber>70</partNumber>
             </titleInfo>
         </relatedItem>
-
         <language>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
         </language>
-
         <subject authority="lcsh">
             <topic>Oratory</topic>
             <topic>Early works to 1800</topic>
         </subject>
-
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/11569900</url>
+        </location>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/96845561</url>
+        </location>
         <relatedItem type="constituent" otherType="work" displayLabel="Institutio oratoria">
             <identifier type="ctsurn">urn:cts:latinLit:phi1002.phi001</identifier>
             <relatedItem type="constituent" otherType="expression"
@@ -3498,22 +3503,15 @@
                         <detail>
                             <number>1</number>
                         </detail>
-                    </part>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/11569900</url>
-                    </location>
+                    </part>            
                     <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=YvMIAAAAQAAJ</url>
-                    </location>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/96845561</url>
-                    </location>
+                    </location>       
                     <location>
                         <url displayLabel="HathiTrust"
                             >http://hdl.handle.net/2027/wu.89002877306</url>
                     </location>
-
                 </relatedItem>
                 <relatedItem type="constituent" otherType="structure" displayLabel="Vol II">
                     <part type="volume">
@@ -3522,9 +3520,6 @@
                         </detail>
                     </part>
                     <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/11569900</url>
-                    </location>
-                    <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=hfMIAAAAQAAJ</url>
                     </location>
@@ -3532,21 +3527,13 @@
                         <url displayLabel="HathiTrust"
                             >http://hdl.handle.net/2027/wu.89002381952</url>
                     </location>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/96845561</url>
-                    </location>
-
-                </relatedItem>
+               </relatedItem>
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="Isidori Hispalensis Episcopi Etymologiarvm sive originvm libri XX">
         <titleInfo>
             <title>Isidori Hispalensis Episcopi Etymologiarvm sive originvm libri XX</title>
-            <partNumber>Tomus I</partNumber>
-            <partNumber>Libros I-X</partNumber><!-- Need to decide on a standard top level manifestation
-            metadata format-->
         </titleInfo>
         <titleInfo type="abbreviated">
             <title>Etymologiarum sive originum libri XX</title>
@@ -3587,7 +3574,7 @@
             </place>
             <publisher>E Typographeo Clarendoniano</publisher>
             <publisher>Oxford University Press</publisher>
-            <dateIssued>1911</dateIssued>
+            <dateIssued>1911-</dateIssued>
             <dateModified>1985</dateModified>
             <edition>1st ed., Reprint</edition>
             <issuance>monographic</issuance>
@@ -3595,6 +3582,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
+        <physicalDescription>2 volumes</physicalDescription>
         <note type="statement of responsibility">recognovit brevique adnotatione critica instrvxit
             W.M. Lindsay.</note>
         <subject authority="lcsh">
@@ -3618,10 +3606,14 @@
                 <title>Oxford Classical Texts</title>
             </titleInfo>
         </relatedItem>
-        <identifier type="isbn">0198146191 (v. 1)</identifier>
         <identifier type="lccn">86140152</identifier>
         <identifier type="oclc">13903878</identifier>
-
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/86140152</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/13903878</url>
+        </location>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Isidori Hispalensis Episcopi Etymologiarvm sive originvm libri XX">
             <identifier type="ctsurn">urn:cts:latinLit:stoa0159.stoa004</identifier>
@@ -3629,19 +3621,21 @@
                 displayLabel="Isidori Hispalensis Episcopi Etymologiarvm sive originvm libri XX">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0159.stoa004.opp-lat4</identifier>
                 <relatedItem type="constituent" otherType="structure"
-                    displayLabel="Tomus I Libros I-X">
+                    displayLabel="Tomus I">
                     <part type="volume">
                         <detail>
                             <number>1</number>
                         </detail>
                     </part>
-                    <tableOfContents>t. 1. Libros I-X continens.</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/86140152</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/13903878</url>
-                    </location>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-1-">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-10</number>
+                            </detail>
+                        </part>
+                    </relatedItem> 
+                    <tableOfContents>Libros I-X</tableOfContents>
                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://www.archive.org/details/isidori01isiduoft</url>
@@ -3659,17 +3653,22 @@
                     </location>
                 </relatedItem>
                 <relatedItem type="constituent" otherType="structure"
-                    displayLabel="Tomus II Libros I-X">
+                    displayLabel="Tomus II">
                     <part type="volume">
                         <detail>
                             <number>2</number>
                         </detail>
                     </part>
-                    <tableOfContents> t. 2. Libros XI-XX continens.</tableOfContents>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/23878143</url>
-                    </location>
-                    <location>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 11-20">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>11-20</number>
+                            </detail>
+                        </part>
+                    </relatedItem> 
+                    <tableOfContents>Libros XI-XX</tableOfContents>
+                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://www.archive.org/stream/isidori01isiduoft#page/n429/mode/2up</url>
                     </location>
@@ -3689,10 +3688,10 @@
         </relatedItem>
     </mods>
     <mods displayLabel="Noctes Atticae (Loeb)">
-        <titleInfo xml:lang="en" type="uniform">
+        <titleInfo xml:lang="lat" type="uniform">
             <title>Noctes Atticae</title>
         </titleInfo>
-        <titleInfo>
+        <titleInfo lang="eng">
             <nonSort>The</nonSort>
             <title>Attic nights of Aulus Gellius</title>
         </titleInfo>
@@ -3716,10 +3715,11 @@
             <publisher>Harvard University</publisher>
             <publisher>W. Heinemann</publisher>
             <dateModified>1970</dateModified>
-            <dateIssued>1927</dateIssued>
+            <dateIssued>1927-</dateIssued>
             <edition>Reprint</edition>
             <issuance>monographic</issuance>
         </originInfo>
+        <physicalDescription>3 volumes</physicalDescription>
         <note type="statement of responsibility">with an English translation by John C. Rolfe ... in
             three volumes.</note>
         <note>"Biographical note": v. 1, p. xxii-xxiv.</note>
@@ -3728,13 +3728,12 @@
             <titleInfo>
                 <title>The Loeb classical library</title>
             </titleInfo>
-            <titleInfo type="abbreviated">
-                <title>LCL</title>
-                <partNumber>195</partNumber>
-            </titleInfo>
-        </relatedItem>
-        <language>
+         </relatedItem>
+        <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-142673.html">
             <namePart>Gellius, Aulus</namePart>
@@ -3748,6 +3747,9 @@
             <role>
                 <roleTerm authority="marcrelator" type="text">translator</roleTerm>
             </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
         </name>
         <subject authority="lcsh">
             <topic>Latin essays</topic>
@@ -3757,38 +3759,48 @@
             <topic>Civilization, Greco-Roman</topic>
             <topic>Sources</topic>
         </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Noctes Atticae"><!-- Eliminate duplicate structural metadata? 
-        Didn't do that for multi-volumes in catalog_data-->
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/27022450</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/13479784</url>
+        </location>
+        <relatedItem type="constituent" otherType="work" displayLabel="Noctes Atticae">
             <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="Attic Nights">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001.opp-eng2</identifier>
+                <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001.opp-lat3</identifier>                
                 <relatedItem type="constituent" otherType="structure" displayLabel="Volume I">
                     <part type="volume">
                         <detail>
                             <number>1</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-5">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-5</number>
+                            </detail>
+                        </part>
+                    </relatedItem> 
                     <tableOfContents>Book I-Book V</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/27022450</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/13479784 </url>
-                    </location>
-                </relatedItem>
+                         </relatedItem>
                 <relatedItem type="constituent" otherType="structure" displayLabel="Volume II">
                     <part type="volume">
                         <detail>
                             <number>2</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 6-13">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>6-13</number>
+                            </detail>
+                        </part>
+                    </relatedItem> 
                     <tableOfContents>Book VI-Book XIII</tableOfContents>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/13479784 </url>
-                    </location>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/27022450</url>
-                    </location>
                     <location>
                         <url displayLabel="hathiTrust"
                             >http://hdl.handle.net/2027/mdp.39076007041895</url>
@@ -3800,69 +3812,21 @@
                             <number>3</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 14-20s">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>14-20</number>
+                            </detail>
+                        </part>
+                    </relatedItem> 
                     <tableOfContents>Book XIV-Book XX</tableOfContents>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/13479784 </url>
-                    </location>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/27022450</url>
-                    </location>
                 </relatedItem>
+            </relatedItem>          
             </relatedItem>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Noctes Atticae">
-                <identifier type="ctsurn">urn:cts:latinLit:phi1254.phi001.opp-lat3</identifier>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volume I">
-                    <part type="volume">
-                        <detail>
-                            <number>1</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Book I-Book V</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/27022450</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/13479784 </url>
-                    </location>
-                </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volume II">
-                    <part type="volume">
-                        <detail>
-                            <number>2</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Book VI-Book XIII</tableOfContents>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/13479784 </url>
-                    </location>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/27022450</url>
-                    </location>
-                    <location>
-                        <url displayLabel="hathiTrust"
-                            >http://hdl.handle.net/2027/mdp.39076007041895</url>
-                    </location>
-                </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volume III">
-                    <part type="volume">
-                        <detail>
-                            <number>3</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Book XIV-Book XX</tableOfContents>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/13479784 </url>
-                    </location>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/27022450</url>
-                    </location>
-                </relatedItem>
-            </relatedItem>
-        </relatedItem>
     </mods>
-
     <mods displayLabel="Noctes Atticae (Teubner)">
-        <titleInfo xml:lang="en" type="uniform">
+        <titleInfo xml:lang="lat" type="uniform">
             <title>Noctes Atticae</title>
         </titleInfo>
         <titleInfo>
@@ -3871,7 +3835,7 @@
         <titleInfo type="abbreviated">
             <title>Noctium atticarum</title>
         </titleInfo>
-        <titleInfo type="translated">
+        <titleInfo type="translated" lang="eng">
             <title>The Attic nights of Aulus Gellius</title>
         </titleInfo>
         <identifier type="oclc">34303592</identifier>
@@ -3888,9 +3852,9 @@
             <dateModified>1967</dateModified>
             <edition>Editio stereotypa editionis prioris (1903)</edition>
             <dateIssued>1903</dateIssued>
-            <copyrightDate>1959</copyrightDate>
             <issuance>monographic</issuance>
         </originInfo>
+        <physicalDescription>2 vols</physicalDescription>
         <note type="statement of responsibility">recensuit Carolus Hosius.</note>
         <classification authority="lcc">PA6104</classification>
         <relatedItem type="series">
@@ -3917,6 +3881,12 @@
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/04031911</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/34303592</url>
+        </location>
         <subject authority="lcsh">
             <topic>Latin essays</topic>
         </subject>
@@ -3930,13 +3900,15 @@
                             <number>1</number>
                         </detail>
                     </part>
-                    <tableOfContents>Libri. I-X</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/04031911</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/34303592 </url>
-                    </location>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-10">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-10</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <tableOfContents>Libri I-X</tableOfContents>
                     <location>
                         <url displayLabel="GoogleBooks" note="1903 edition"
                             >http://books.google.com/books?id=dToa9CdxxE8C</url>
@@ -3957,13 +3929,15 @@
                             <number>2</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 21-3-">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>21-30</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
                     <tableOfContents>Libri XI-XX</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/04031911</url>
-                    </location>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/34303592 </url>
-                    </location>
                     <location>
                         <url displayLabel="GoogleBooks" note="1903 edition"
                             >http://books.google.com/books?id=TYofAAAAMAAJ</url>
@@ -3976,17 +3950,15 @@
                         <url displayLabel="HathiTrust"
                             >http://hdl.handle.net/2027/pst.000005622467</url>
                     </location>
-
                 </relatedItem>
             </relatedItem>
         </relatedItem>
     </mods>
-
-    <mods displayLabel="Punica (Loeb)">
-        <titleInfo xml:lang="en" type="uniform">
+   <mods displayLabel="Punica (Loeb)">
+        <titleInfo xml:lang="lat" type="uniform">
             <title>Punica</title>
         </titleInfo>
-        <titleInfo xml:lang="en">
+        <titleInfo xml:lang="lat">
             <title>Punica</title>
         </titleInfo>
         <identifier type="lccn">34017332</identifier>
@@ -4001,13 +3973,11 @@
                 <placeTerm type="text">Cambridge, Mass</placeTerm>
             </place>
             <publisher>Harvard University Press</publisher>
-            <dateIssued>1927</dateIssued>
+            <dateIssued>1927-1934</dateIssued>
             <dateModified>1961</dateModified>
             <edition>Reprint</edition>
             <issuance>monographic</issuance>
         </originInfo>
-
-
         <note type="statement of responsibility">with an English translation by J. D. Duff
             ...</note>
         <note>Latin and English on opposite pages.</note>
@@ -4018,8 +3988,12 @@
                 <title>The Loeb classical library. [Latin authors]</title>
             </titleInfo>
         </relatedItem>
-
-
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
         <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-120267.html">
             <namePart>Silius Italicus, Tiberius Catius</namePart>
             <role>
@@ -4032,28 +4006,40 @@
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
         </name>
         <subject authority="lcsh">
             <topic>Punic war, 2nd, 218-210 B.C</topic>
             <topic>Poetry</topic>
         </subject>
-        <relatedItem type="constituent" otherType="work" displayLabel="Punica"><!-- Dont think need multiple expression structures -->
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/4156319</url>
+        </location>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/34017332</url>
+        </location>
+        <relatedItem type="constituent" otherType="work" displayLabel="Punica">
             <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="Punica">
                 <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-lat3</identifier>
-                <language>
-                    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-                </language>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Vol 1 (Latin)">
+                <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-eng2</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Vol 1">
                     <part type="volume">
                         <detail>
                             <number>1</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-8">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-8</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
                     <tableOfContents>Book I-VIII</tableOfContents>
-                    <location>
-                        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/4156319</url>
-                    </location>
                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://www.archive.org/details/punicasi01siliuoft</url>
@@ -4062,17 +4048,21 @@
                         <url displayLabel="Open Library"
                             >http://www.openlibrary.org/details/punicasi01siliuoft</url>
                     </location>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/34017332</url>
-                    </location>
-
                 </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Vol 2 (Latin)">
+                <relatedItem type="constituent" otherType="structure" displayLabel="Vol 2">
                     <part type="volume">
                         <detail>
                             <number>2</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 9-17">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>9-17</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
                     <tableOfContents>Book IX-Book XVII</tableOfContents>
                     <location>
                         <url displayLabel="Open Content Alliance"
@@ -4082,51 +4072,12 @@
                         <url displayLabel="Open Library"
                             >http://www.openlibrary.org/details/punicasi02siliuoft</url>
                     </location>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/34017332</url>
-                    </location>
-                </relatedItem>
+                 </relatedItem>
             </relatedItem>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Punica (English translation)">
-                <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001.opp-eng2</identifier>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Vol 1 (English)">
-                    <part type="volume">
-                        <detail>
-                            <number>1</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Book I-VIII</tableOfContents>
-                </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Vol 2 (English)">
-                    <part type="volume">
-                        <detail>
-                            <number>2</number>
-                        </detail>
-                    </part>
-                    <tableOfContents>Book IX-Book XVII</tableOfContents>
-                    <location>
-                        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/4156319</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Open Content Alliance"
-                            >http://www.archive.org/details/punicasi02siliuoft</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Open Library"
-                            >http://www.openlibrary.org/details/punicasi02siliuoft</url>
-                    </location>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/34017332</url>
-                    </location>
-
-                </relatedItem>
             </relatedItem>
-        </relatedItem>
     </mods>
-
-    <mods displayLabel="Punica (Teubner) v 1">
-        <titleInfo xml:lang="en" type="uniform">
+    <mods displayLabel="Punica (Teubner)">
+        <titleInfo xml:lang="lat" type="uniform">
             <title>Punica</title>
         </titleInfo>
         <identifier type="lccn">34019055</identifier>
@@ -4140,9 +4091,10 @@
                 <placeTerm type="text">Lipsiae</placeTerm>
             </place>
             <publisher>in aedibus, B. G. Teubneri</publisher>
-            <dateIssued>1890</dateIssued>
+            <dateIssued>1890-1892</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
+        <physicalDescription>2 volumes</physicalDescription>
         <classification authority="lcc">PA6104 .S56 1890</classification>
         <relatedItem type="series">
             <titleInfo>
@@ -4152,7 +4104,7 @@
                 <title>Teubner</title>
             </titleInfo>
         </relatedItem>
-        <language>
+        <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n79-120267.html">
@@ -4173,6 +4125,12 @@
             <topic>Punic War, 2nd, 218-201 B.C</topic>
             <topic>Poetry</topic>
         </subject>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/34019055</url>
+        </location>
+        <location>
+            <url displayLabel="Worldcat">http://worldcat.org/oclc/6614617</url>
+        </location>        
         <relatedItem type="constituent" otherType="work" displayLabel="Punica">
             <identifier type="ctsurn">urn:cts:latinLit:phi1345.phi001</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="Punica">
@@ -4183,13 +4141,15 @@
                             <number>1</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-10">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-10</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
                     <tableOfContents>Libros I-X</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/34019055</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Worldcat">http://worldcat.org/oclc/6614617</url>
-                    </location>
                     <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=BEMBAAAAMAAJ</url>
@@ -4210,14 +4170,16 @@
                             <number>2</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 11-17">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>11-17</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
                     <tableOfContents>Libros XI-XVII</tableOfContents>
-                    <location>
-                        <url displayLabel="LC Permalink">http://lccn.loc.gov/34019055</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Worldcat">http://worldcat.org/oclc/6614617</url>
-                    </location>
-                    <location>
+                            <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=MUMBAAAAMAAJ</url>
                     </location>
@@ -4233,8 +4195,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
-
+<!-- LEFT OFF HERE -->
     <mods displayLabel="Res Rustica (Loeb)">
         <titleInfo xml:lang="en" type="uniform">
             <title>Res Rustica</title>
@@ -4931,8 +4892,6 @@
                 <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
             </titleInfo>
         </relatedItem>
-        <!-- THERE WAS A TLG IN RECORD-CAN WE CREATE A SCRIPT TO CREATE URNS OR PERHAPS BEST TO DO BY HAND AT THIS POINT
-        FOR CATALOG PENDING-I CREATE THIS ONE--> 
         <identifier type="lccn">67097325</identifier>
         <identifier type="oclc">3465925</identifier>
         <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001.opp-grc2</identifier>
@@ -8060,9 +8019,11 @@
             <url displayLabel="PHI">http://latin.packhum.org/author/929</url>
         </location>
         <relatedItem type="constituent" otherType="work" displayLabel="De chorographia libri tres">
-            <!-- NEEDS ID TURNED INTO CTS URN -->
+            <identifier type="ctsurn">urn:cts:latinLit:phi0929.phi001</identifier>
             <relatedItem type="constituent" otherType="expression"
-                displayLabel="De chorographia libri tres"> </relatedItem>
+                displayLabel="De chorographia libri tres"> 
+                <identifier type="ctsurn">urn:cts:latinLit:phi0929.phi001.opp-lat4</identifier>
+            </relatedItem>
         </relatedItem>
     </mods>
 
