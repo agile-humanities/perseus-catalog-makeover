@@ -1903,7 +1903,7 @@
             <identifier type="ctsurn">urn:cts:latinLit:stoa0168.stoa001</identifier>
             <relatedItem type="constituent" otherType="expression">
                 <identifier type="ctsurn">urn:cts:latinLit:stoa0168.stoa001.opp-lat2</identifier>
-                <relatedItem type="constituent" otherType="structural" displayLabel="Volumen Primum">
+                <relatedItem type="constituent" otherType="structure" displayLabel="Volumen Primum">
                     <part type="volume">
                         <detail>
                             <caption>Volume</caption>
@@ -1923,7 +1923,7 @@
                             >http://hdl.handle.net/2027/umn.31951002385195y</url>
                     </location>
                 </relatedItem>
-                <relatedItem type="constituent" otherType="structural"
+                <relatedItem type="constituent" otherType="structure"
                     displayLabel="Volumen Secundum">
                     <part type="volume">
                         <detail>
@@ -4195,12 +4195,11 @@
             </relatedItem>
         </relatedItem>
     </mods>
-<!-- LEFT OFF HERE -->
     <mods displayLabel="Res Rustica (Loeb)">
-        <titleInfo xml:lang="en" type="uniform">
+        <titleInfo xml:lang="lat" type="uniform">
             <title>Res Rustica</title>
         </titleInfo>
-        <titleInfo>
+        <titleInfo type="translated" lang="eng">
             <title>On agriculture</title>
         </titleInfo>
         <titleInfo type="abbreviated" authority="ls">
@@ -4217,10 +4216,11 @@
             </place>
             <publisher>Harvard University Press</publisher>
             <dateModified>1960</dateModified>
-            <dateIssued>1941</dateIssued>
+            <dateIssued>1941-1955</dateIssued>
             <edition>Reprint</edition>
             <issuance>monographic</issuance>
         </originInfo>
+        <physicalDescription>3 vols</physicalDescription>
         <note type="statement of responsibility">with a recension of the text and an English
             translation by Harrison Boyd Ash.</note>
         <note>Latin and English.</note>
@@ -4245,26 +4245,40 @@
                 <roleTerm authority="translator" type="text">editor</roleTerm>
             </role>
         </name>
+        <language objectPart="text"> 
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <language objectPart="text"> 
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
         <subject authority="lcsh">
             <topic>Agriculture</topic>
             <topic>Early works to 1800</topic>
         </subject>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
+        </location>
+        <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
+            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002</identifier>
         <relatedItem type="constituent" otherType="expression"
-            displayLabel="Res Rustica (translation)">
-            <language>
-                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-            </language>
+            displayLabel="Res Rustica">
             <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-eng3</identifier>
-            <relatedItem type="constituent" otherType="structure" displayLabel="Vol 1 (English)">
+            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat11</identifier>
+            <relatedItem type="constituent" otherType="structure" displayLabel="Vol 1">
                 <part type="volume">
                     <detail>
                         <number>1</number>
                     </detail>
                 </part>
-                <tableOfContents>Res Rustica I-IV</tableOfContents>
-                <location>
-                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
-                </location>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-4">
+                    <part>
+                        <detail type="book">
+                            <caption>Book</caption>
+                            <number>1-4</number>
+                        </detail>
+                    </part>
+                </relatedItem>                    
+                <tableOfContents>Book I-IV</tableOfContents>
                 <location>
                     <url displayLabel="GoogleBooks" note="Snippet View"
                         >http://books.google.com/books?vid=OCLC03433687</url>
@@ -4278,77 +4292,21 @@
                         >http://openlibrary.org/details/onagriculturewit01coluuoft</url>
                 </location>
             </relatedItem>
-            <relatedItem type="constituent" otherType="structure" displayLabel="Vol II (English)">
+            <relatedItem type="constituent" otherType="structure" displayLabel="Vol II">
                 <part type="volume">
                     <detail>
                         <number>2</number>
                     </detail>
                 </part>
-                <tableOfContents>Res Rustica V-IX</tableOfContents>
-                <location>
-                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
-                </location>
-                <location>
-                    <url displayLabel="GoogleBooks" note="Snippet View"
-                        >http://books.google.com/books?id=0YRfAAAAMAAJ</url>
-                </location>
-                <location>
-                    <url displayLabel="Open Content Alliance"
-                        >http://www.archive.org/details/onagriculturewit02coluuoft</url>
-                </location>
-                <location>
-                    <url displayLabel="Open Library"
-                        >http://www.openlibrary.org/details/onagriculturewit02coluuoft</url>
-                </location>
-
-            </relatedItem>
-            <relatedItem type="constituent" otherType="structure" displayLabel="Vol III (English)">
-                <part type="volume">
-                    <detail>
-                        <number>3</number>
-                    </detail>
-                </part>
-                <tableOfContents>Res Rustica X-XII</tableOfContents>
-                <location>
-                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
-                </location>
-                <location>
-                    <url displayLabel="HathiTrust" note="Snippet  View"
-                        >http://hdl.handle.net/2027/coo.31924052156233</url>
-                </location>
-            </relatedItem>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="expression" displayLabel="Res Rustica">
-            <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.opp-lat11</identifier>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-            </language>
-            <relatedItem type="constituent" otherType="structure" displayLabel="Vol 1">
-                <part type="volume">
-                    <detail>
-                        <number>1</number>
-                    </detail>
-                </part>
-                <tableOfContents>Res Rustica I-IV</tableOfContents>
-                <location>
-                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
-                </location>
-                <location>
-                    <url displayLabel="Open Content Alliance"
-                        >http://www.archive.org/details/onagriculturewit01coluuoft</url>
-                </location>
-                <location>
-                    <url displayLabel="Open Library"
-                        >http://openlibrary.org/details/onagriculturewit01coluuoft</url>
-                </location>
-            </relatedItem>
-            <relatedItem type="constituent" otherType="structure" displayLabel="Vol II)">
-                <part type="volume">
-                    <detail>
-                        <number>2</number>
-                    </detail>
-                </part>
-                <tableOfContents>Res Rustica V-IX</tableOfContents>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Book 5-9">
+                    <part>
+                        <detail type="book">
+                            <caption>Book</caption>
+                            <number>5-9</number>
+                        </detail>
+                    </part>
+                </relatedItem>                    
+                <tableOfContents>Book V-IX</tableOfContents>
                 <location>
                     <url displayLabel="GoogleBooks" note="Snippet View"
                         >http://books.google.com/books?id=0YRfAAAAMAAJ</url>
@@ -4369,20 +4327,25 @@
                         <number>3</number>
                     </detail>
                 </part>
-                <tableOfContents>Res Rustica X-XII</tableOfContents>
-                <location>
-                    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3433687</url>
-                </location>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Book 10-12">
+                    <part>
+                        <detail type="book">
+                            <caption>Book</caption>
+                            <number>10-12</number>
+                        </detail>
+                    </part>
+                </relatedItem>                    
+                <tableOfContents>Book X-XII</tableOfContents>
             </relatedItem>
         </relatedItem>
+    </relatedItem>
     </mods>
     <mods displayLabel="Res Rustica (Vpsaliensis)">
-        <titleInfo xml:lang="en" type="uniform">
+        <titleInfo xml:lang="lat" type="uniform">
             <title>Res Rustica</title>
         </titleInfo>
         <titleInfo>
             <title>L. Ivni Moderati Colvmellae Opera qvae exstant</title>
-
         </titleInfo>
         <identifier type="oca">livnimoderaticol1v8colu</identifier>
         <typeOfResource>text</typeOfResource>
@@ -4391,17 +4354,19 @@
                 <placeTerm type="text">Upsaliae</placeTerm>
             </place>
             <publisher>In libraria Lundequistiana</publisher>
-            <dateIssued>1897</dateIssued>
+            <dateIssued>1897-1968</dateIssued>
             <dateIssued encoding="marc">1897</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
+        <physicalDescription>7 volumes</physicalDescription>
+        <note>Scanned edition of bound volumes taken from different editions</note>
         <location>
             <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
         </location>
         <classification authority="lcc">PA6375 C6 1897</classification>
         <relatedItem type="series">
             <titleInfo>
-                <title>Collectio scriptorvm vetervm Vpsaliensis</title>
+                <title>Collectio scriptorum veterum Upsaliensis</title>
             </titleInfo>
         </relatedItem>
         <language>
@@ -4411,14 +4376,6 @@
             <namePart>Columella, Lucius Junius Moderatus</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
-            valueURI="http://id.loc.gov/authorities/names/n94075098">
-            <namePart>Lundström, Vilhelm</namePart>
-            <namePart type="date">1869-1940</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
         </name>
         <relatedItem type="constituent" otherType="work" displayLabel="Res Rustica">
@@ -4432,8 +4389,26 @@
                             <number>1</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-2">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>1-2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>    
+                    <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+                        valueURI="http://id.loc.gov/authorities/names/n94075098">
+                        <namePart>Lundström, Vilhelm</namePart>
+                        <namePart type="date">1869-1940</namePart>
+                        <role>
+                            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                        </role>
+                    </name>
+                    <originInfo>
+                        <dateIssued>1897</dateIssued>
+                    </originInfo>
                     <tableOfContents>Libri I-II</tableOfContents>
-
                     <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=PA47#v=onepage</url>
@@ -4454,8 +4429,36 @@
                             <number>3</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 3-4">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>3-4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>    
+                    <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+                        valueURI="http://id.loc.gov/authorities/names/n94075098">
+                        <namePart>Lundström, Vilhelm</namePart>
+                        <namePart type="date">1869-1940</namePart>
+                        <role>
+                            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                        </role>
+                    </name>   
+                    <name
+                        authority="naf"
+                        type="personal"
+                        authorityURI="http://id.loc.gov/authorities/names/"
+                        valueURI="http://id.loc.gov/authorities/names/n88645432">
+                        <namePart>Hedberg, Sten</namePart>
+                        <role>
+                            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                        </role>
+                    </name>
+                    <originInfo>
+                        <dateIssued>1968</dateIssued>
+                    </originInfo>
                     <tableOfContents>Libri III-V</tableOfContents>
-
                     <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA1-PA2</url>
@@ -4473,17 +4476,37 @@
                             <number>4</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 6-7">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>6-7</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+                        valueURI="http://id.loc.gov/authorities/names/n94075098">
+                        <namePart>Lundström, Vilhelm</namePart>
+                        <namePart type="date">1869-1940</namePart>
+                        <role>
+                            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                        </role>
+                    </name> 
+                    <originInfo>
+                        <place>
+                            <placeTerm type="text">Gotoburgi</placeTerm>
+                        </place>
+                        <publisher>Eranos' Forlag</publisher>
+                        <dateIssued>1940</dateIssued>
+                    </originInfo>
                     <tableOfContents>Libri VI-VII</tableOfContents>
 
-                    <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=PA155#</url>
-                    </location>
                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://archive.org/stream/livnimoderaticol1v8colu#page/n331/mode/2up</url>
                     </location>
-
                 </relatedItem>
                 <relatedItem type="constituent" otherType="structure"
                     displayLabel="Fasciculus Quintus">
@@ -4492,11 +4515,32 @@
                             <number>5</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 8-9">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>8-9</number>
+                            </detail>
+                        </part>
+                    </relatedItem>                    
+                    <name
+                        authority="naf"
+                        type="personal"
+                        authorityURI="http://id.loc.gov/authorities/names/"
+                        valueURI="http://id.loc.gov/authorities/names/no2010144140">
+                        <namePart>Josephson, Åke</namePart>
+                        <role>
+                            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                        </role>
+                    </name>
+                    <originInfo>
+                        <place>
+                            <placeTerm type="text">Upsaliaei</placeTerm>
+                        </place>
+                        <publisher>Eranos' Forlag</publisher>
+                        <dateIssued>1955</dateIssued>
+                    </originInfo>
                     <tableOfContents>Libri VIII-IX</tableOfContents>
-
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
-                    </location>
                     <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA1-PA161</url>
@@ -4505,7 +4549,6 @@
                         <url displayLabel="Open Content Alliance"
                             >http://archive.org/stream/livnimoderaticol1v8colu#page/n495/mode/2up</url>
                     </location>
-
                 </relatedItem>
                 <relatedItem type="constituent" otherType="structure"
                     displayLabel="Fasciculus Sextus">
@@ -4514,10 +4557,30 @@
                             <number>6</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 10">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>10</number>
+                            </detail>
+                        </part>
+                    </relatedItem> 
+                    <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+                        valueURI="http://id.loc.gov/authorities/names/n94075098">
+                        <namePart>Lundström, Vilhelm</namePart>
+                        <namePart type="date">1869-1940</namePart>
+                        <role>
+                            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                        </role>
+                    </name> 
+                    <originInfo xmlns="http://www.loc.gov/mods/v3">
+                        <place>
+                            <placeTerm type="text">Upsaliae</placeTerm>
+                        </place>
+                        <publisher>In libraria Lundequistiana</publisher>
+                        <dateIssued>1902</dateIssued>
+                    </originInfo>
                     <tableOfContents>Liber Decimus</tableOfContents>
-                    <location>
-                        <url displayLabel="WorldCat">http://worldcat.org/oclc/812349</url>
-                    </location>
                     <location>
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=JtENAAAAIAAJ&amp;pg=RA2-PA123</url>
@@ -4529,7 +4592,6 @@
                     <location>
                         <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.b3073557</url>
                     </location>
-
                 </relatedItem>
                 <relatedItem type="constituent" otherType="structure"
                     displayLabel="Fasciculus Septimus">
@@ -4538,6 +4600,29 @@
                             <number>7</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 11">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>11</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+                        valueURI="http://id.loc.gov/authorities/names/n94075098">
+                        <namePart>Lundström, Vilhelm</namePart>
+                        <namePart type="date">1869-1940</namePart>
+                        <role>
+                            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                        </role>
+                    </name> 
+                    <originInfo xmlns="http://www.loc.gov/mods/v3">
+                        <place>
+                            <placeTerm type="text">Upsaliae</placeTerm>
+                        </place>
+                        <publisher>In libraria Lundequistiana</publisher>
+                        <dateIssued>1906</dateIssued>
+                    </originInfo>
                     <tableOfContents>Liber Undecimus</tableOfContents>
                     <location>
                         <url displayLabel="GoogleBooks"
@@ -4551,7 +4636,6 @@
                         <url displayLabel="HathiTrust"
                             >http://hdl.handle.net/2027/uc1.b3073557?urlappend=%3Bseq=43</url>
                     </location>
-
                 </relatedItem>
                 <relatedItem type="constituent" otherType="structure"
                     displayLabel="Fasciculus Octavus">
@@ -4560,6 +4644,31 @@
                             <number>8</number>
                         </detail>
                     </part>
+                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 12">
+                        <part>
+                            <detail type="book">
+                                <caption>Book</caption>
+                                <number>12</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <name
+                        authority="naf"
+                        type="personal"
+                        authorityURI="http://id.loc.gov/authorities/names/"
+                        valueURI="http://id.loc.gov/authorities/names/n88645432">
+                        <namePart>Hedberg, Sten</namePart>
+                        <role>
+                            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                        </role>
+                    </name>
+                    <originInfo>
+                        <place>
+                            <placeTerm type="text">Upsaliae</placeTerm>
+                        </place>
+                        <publisher>Eranos' Forlag</publisher>
+                        <dateIssued>1968</dateIssued>
+                    </originInfo>
                     <tableOfContents>Liber XII</tableOfContents>
                     <location>
                         <url displayLabel="Open Content Alliance"
@@ -4606,9 +4715,10 @@
                 <placeTerm type="text">Berlin</placeTerm>
             </place>
             <publisher>typ. et impensis G. Reimeri</publisher>
-            <dateIssued>1882</dateIssued>
+            <dateIssued>1882-1895</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
+        <physicalDescription>2 vols</physicalDescription>
         <language objectPart="preface">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
@@ -4623,8 +4733,7 @@
         <relatedItem type="series">
             <titleInfo>
                 <title>Commentaria in Aristotelem graeca</title>
-                <subTitle>Edita consilio et auctoritate Academiae litterarum regiae
-                    borussicae</subTitle>
+                <partNumber>Volume 9-10</partNumber>
             </titleInfo>
             <name type="corporate">
                 <namePart>Akademie der Wissenschaften, Berlin</namePart>
@@ -4655,7 +4764,13 @@
             </subject>
             <classification authority="lcc">PA3902 A25</classification>
         </relatedItem>
-
+        <location>
+            <url displayLabel="First1K"
+                >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg4013/tlg001/tlg4013.tlg004.opp-grc1.xml</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/7832122</url>
+        </location>
         <relatedItem type="constituent" otherType="work"
             displayLabel="In Aristotelis physicorum libros commentaria">
             <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg004</identifier>
@@ -4668,9 +4783,7 @@
                             <number>1</number>
                         </detail>
                     </part>
-                    <location>
-                        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/7832122</url>
-                    </location>
+                    <tableOfContents>Libros quattuor priores --</tableOfContents>
                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://www.archive.org/details/commentariaina09akaduoft</url>
@@ -4679,10 +4792,6 @@
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=taMNAAAAIAAJ</url>
                     </location>
-                    <location>
-                        <url displayLabel="First1K"
-                            >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg4013/tlg001/tlg4013.tlg004.opp-grc1.xml</url>
-                    </location>
                 </relatedItem>
                 <relatedItem type="constituent" otherType="structure" displayLabel="Volume 2">
                     <part type="volume">
@@ -4690,9 +4799,7 @@
                             <number>2</number>
                         </detail>
                     </part>
-                    <location>
-                        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/7832122</url>
-                    </location>
+                    <tableOfContents>Libros quattuor posteriores.</tableOfContents>
                     <location>
                         <url displayLabel="Open Content Alliance"
                             >http://www.archive.org/details/commentariaina10akaduoft</url>
@@ -4701,18 +4808,12 @@
                         <url displayLabel="GoogleBooks"
                             >http://books.google.com/books?id=hjQNAAAAYAAJ</url>
                     </location>
-                    <location>
-                        <url displayLabel="First1K"
-                            >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg4013/tlg001/tlg4013.tlg004.opp-grc1.xml</url>
-                    </location>
-
-                </relatedItem>
+>                </relatedItem>
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="(Sophoniae) in parva naturalia commentarium">
-        <titleInfo xml:lang="en" type="uniform">
+        <titleInfo xml:lang="lat" type="uniform">
             <title>(Sophoniae) in parva naturalia commentarium</title>
         </titleInfo>
         <part>
@@ -4736,10 +4837,6 @@
             <dateIssued>1903</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-        <classification authority="ddc"/>
-        <location>
-            <url displayLabel="LC Permalink"/>
-        </location>
         <location>
             <url displayLabel="WorldCat">http://www.worldcat.org/oclc/301528012</url>
         </location>
@@ -4833,7 +4930,6 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="Ab excessu divi Marci libri octo">
         <titleInfo>
             <title>Ab excessu divi Marci libri octo</title>
@@ -4871,7 +4967,6 @@
         <language objectPart="preface">
             <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
         </language>
-
         <note type="statement of responsibility" altRepGroup="00">Edidit Curt. Stavenhagen.</note>
         <note>Text in Greek; introductory matter in Latin.</note>
         <subject authority="lcsh">
@@ -4894,23 +4989,21 @@
         </relatedItem>
         <identifier type="lccn">67097325</identifier>
         <identifier type="oclc">3465925</identifier>
-        <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001.opp-grc2</identifier>
         <location>
             <url displayLabel="Worldcat">http://www.worldcat.org/oclc/3465925</url>
         </location>
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/wu.89089983910</url>
         </location>
-
         <relatedItem type="constituent" otherType="work"
             displayLabel="Ab excessu divi Marci libri octo">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001</identifier>
             <relatedItem type="constituent" otherType="expression"
-                displayLabel="Ab excessu divi Marci libri octo"> </relatedItem>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001.opp-grc2</identifier>
+                displayLabel="Ab excessu divi Marci libri octo">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001.opp-grc2</identifier>
+            </relatedItem>
         </relatedItem>
-    </mods>
-
+    </mods><!-- STILL TO DELETE AND REDO -->
     <mods displayLabel="Acts of the Apostles, Apocryphal"><!-- ERROR-This one is very different from the others, it contains page numbers
     for instance, I believe that this file should be moved to the inverted rather than the singletons, numerous works in here-->
         <titleInfo type="uniform"> <!-- 3 volumes each with more than one work, may  be too hard to also combine as a series?  -->
@@ -5217,8 +5310,8 @@
                 </relatedItem>
             </relatedItem>
         </relatedItem>
-    </mods><!-- DELETE AND REDO -->
-
+    </mods><!-- END OF FILE TO DELETE AND REDO -->
+<!-- NOTE-THESE ARE EXPRESSIONS OF AGATHEMERUS MODS -RECORDS ALREADY IN CATALOG DATA MAY WANT TO MOVE AND COMBINE IN FINAL CONSOLIDATION -->
     <mods displayLabel="Agathemeri Orthonis Geographiae Hypotyposis">
         <titleInfo>
             <title>Agathemeri Orthonis Geographiae Hypotyposis</title>
@@ -5314,8 +5407,6 @@
         </language>
         <identifier type="manuscript">8 Cod. Ms. philol. 75 (Niedersächsische Staats- und
             Universitätsbibliothek Göttingen)</identifier>
-        <identifier type="tlg">0090.001</identifier>
-        <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001.opp-lat8</identifier>
         <note type="statement of responsbility">Ex bibl. Jo. Jac. Chifletii depromebat vertebatque
             Godefr. Wendelinus</note>
         <originInfo>
@@ -5386,7 +5477,6 @@
         </subject>
         <identifier type="oclc">11401227</identifier>
         <identifier type="tlg">0090.001</identifier>
-        <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001.opp-grc9</identifier>
         <location>
             <url displayLabel="Worldcat">http://www.worldcat.org/oclc/11401227</url>
         </location>
@@ -5395,16 +5485,6 @@
                 >http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11088603-0
             </url>
         </location>
-        <recordInfo>
-            <descriptionStandard>aacr</descriptionStandard>
-            <descriptionStandard>dcrb</descriptionStandard>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">010904</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20130528092125.0</recordChangeDate>
-            <recordIdentifier>12525073</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-                (Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Agathemeris Orthonis filii compendiariae geographiae expositionum libri duo">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001</identifier>
@@ -5414,13 +5494,8 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
-    <!-- Associated with no work or expression --><!-- Noticing a pattern here, I think there may have been a problem when 
-    the algorithm/script hit records in the non composite file that had single constituent works, often because I was cataloging
-    an edition for a single work that was in it that we were interested in-how to handle these-move to inverted? ultimately don't want 
-    to lose the page numbers or page level links-->
-    <mods displayLabel="Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii"><!-- ERROR-THERE WAS CONSTITUENT IN THIS RECORD
-    in CATALOG PENDING 0732.017-->
+<!-- END OF AGATHEMERUS FILES TO CONSLIDATE -->
+    <mods displayLabel="Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii">
         <titleInfo>
             <title>Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii</title>
         </titleInfo>
@@ -5430,6 +5505,13 @@
             <namePart type="date">1834-1905</namePart>
             <role>
                 <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/95239377">
+            <namePart>Alexander</namePart>
+            <namePart type="termsOfAddress">of Aphrodisias</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
             </role>
         </name>
         <typeOfResource>text</typeOfResource>
@@ -5461,14 +5543,27 @@
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/nnc1.cu55123171</url>
         </location>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Problemata (lib III-IV)">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0732.tlg017</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Problemata (lib III-IV)">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0732.tlg017.opp-grc1</identifier>
+            </relatedItem>
+        </relatedItem>
     </mods>
-
-    <!-- Associated with a tlg id only (0732.015) --><!-- By this do you mean there is no CTS-URN like in many files,
-    and one will need to be created for it? -->
+    <!-- NOTE- PART OF A MULTI WORK VOLUME IN CATALOG DATA-COMBINE WITH SINGLETON MODS RECORD FOR urn:cts:greekLit:tlg0732.tlg005.opp-grc1 -->
     <mods displayLabel="Alexandri in Aristotelis analyticorum priorum librum i commentarium">
         <titleInfo>
             <title>Alexandri in Aristotelis analyticorum priorum librum i commentarium</title>
         </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/95239377">
+            <namePart>Alexander</namePart>
+            <namePart type="termsOfAddress">of Aphrodisias</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/5048928">
             <namePart>Wallies, Maximillian</namePart>
@@ -5507,7 +5602,7 @@
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/nnc1.0064694399</url>
         </location>
-        <relatedItem type="constituent" otherType="structure"><!-- This should not have a structure component
+        <relatedItem type="constituent" otherType="constituent"><!-- This should not have a structure component
         as there is only a single volume-->
             <titleInfo>
                 <title>Fragmenta Alexandri in analytica posteriora commentariorum</title>
@@ -5526,9 +5621,16 @@
                 <url displayLabel="HathiTrust"
                     >https://hdl.handle.net/2027/nnc1.0064694399?urlappend=%3Bseq=22</url>
             </location>
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="In analytica posteriora commentariorum fragmenta ">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0732.tlg015</identifier>
+                <relatedItem type="constituent" otherType="expression"
+                    displayLabel="In analytica posteriora commentariorum fragmenta ">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0732.tlg015.opp-grc1</identifier>
+                </relatedItem>
+            </relatedItem>
         </relatedItem>
     </mods>
-
     <!-- Associated with a tlg id only (2577.001) -->
     <mods displayLabel="Anatolius sur les dix premiers nombres">
         <titleInfo>
@@ -5572,8 +5674,12 @@
         <location>
             <url displayLabel="WorldCat">http://www.worldcat.org/oclc/248555797</url>
         </location>
-        <relatedItem type="constituent" otherType="structure"><!-- This should not have a structure component
-        as there is only a single volume-->
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="Περὶ δεκάδος καὶ τῶν ἐντὸς αὐτῆς ἀριθμῶν">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg2577.tlg001</identifier>
+                <relatedItem type="constituent" otherType="expression"
+                    displayLabel="Περὶ δεκάδος καὶ τῶν ἐντὸς αὐτῆς ἀριθμῶ">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg2577.tlg001.opp-grc1</identifier>
             <titleInfo>
                 <title>Περὶ δεκάδος καὶ τῶν ἐντὸς αὐτῆς ἀριθμῶν</title>
             </titleInfo>
@@ -5586,11 +5692,9 @@
                     <roleTerm type="text">creator</roleTerm>
                 </role>
             </name>
-
             <language objectPart="text">
                 <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
             </language>
-            <identifier type="tlg">2577.001</identifier>
             <part>
                 <extent unit="pages">
                     <start>5</start>
@@ -5599,11 +5703,10 @@
             </part>
             <location>
                 <url displayLabel="DKB">http://www.kb.dk/e-mat/dod/130021585565_color.pdf</url>
-            </location>
-        </relatedItem>
+            </location>    
+                </relatedItem>
+            </relatedItem>
     </mods>
-
-    <!-- Associated with a tlg id only (1124.002) -->
     <mods displayLabel="Andronici Rhodii qui fertur libelli Peri pathōn. Pars altera, De virtutibus et vitiis">
         <titleInfo>
             <title>Andronici Rhodii qui fertur libelli Peri pathōn. Pars altera, De virtutibus et
@@ -5672,8 +5775,12 @@
             <url displayLabel="Internet Archive"
                 >https://archive.org/details/andronicirhodiiq00unse</url>
         </location>
-        <relatedItem type="constituent"><!-- This should not have a structure component
-        as there is only a single volume-->
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="De passionibus (lib. 2)">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg1124.tlg002</identifier>
+                <relatedItem type="constituent" otherType="expression"
+                    displayLabel="De passionibus (lib. 2)">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg1124.tlg002.opp-grc1</identifier>
             <titleInfo>
                 <title>De passionibus (lib. 2)</title>
             </titleInfo>
@@ -5685,18 +5792,6 @@
                     <roleTerm type="text">attributed author</roleTerm>
                 </role>
             </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/53362166">
-                <namePart>Schuchardt, Karl</namePart>
-                <namePart type="date">1859-1943</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">1124.002</identifier>
             <part>
                 <extent unit="pages">
                     <start>19</start>
@@ -5707,23 +5802,9 @@
                 <url displayLabel="Internet Archive"
                     >https://archive.org/stream/andronicirhodiiq00unse#page/n19/mode/2up</url>
             </location>
-        </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Andronici Rhodii qui fertur libelli Peri pathōn. Pars altera, De virtutibus et vitiis">
-
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Andronici Rhodii qui fertur libelli Peri pathōn. Pars altera, De virtutibus et vitiis"
-            > </relatedItem>
-        </relatedItem>
+            </relatedItem>
+            </relatedItem>
     </mods>
-
-    <!-- Associated with a tlg id only (1124.001) -->
     <mods displayLabel="Andronici qui fertur libelli Peri pathōn, pars prior">
         <titleInfo>
             <title>Andronici qui fertur libelli Peri pathōn, pars prior</title>
@@ -5778,8 +5859,11 @@
         <location>
             <url displayLabel="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5463146w</url>
         </location>
-        <relatedItem type="constituent"><!-- This should not have a structure component
-        as there is only a single volume-->
+        <relatedItem type="constituent" otherType="work" displayLabel="De passionibus (lib. 1)">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg1124.tlg001</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="De passionibus (lib. 1)">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg1124.tlg001.opp-grc1</identifier>
             <titleInfo>
                 <title>De passionibus (lib. 1)</title>
             </titleInfo>
@@ -5791,17 +5875,6 @@
                     <roleTerm type="text">attributed author</roleTerm>
                 </role>
             </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/280777448">
-                <namePart>Kreuttner, Xaverus</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">1124.001</identifier>
             <part>
                 <extent unit="pages">
                     <start>11</start>
@@ -5813,23 +5886,9 @@
                     >http://gallica.bnf.fr/ark:/12148/bpt6k5463146w/f15.image</url>
             </location>
         </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg"/>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Andronici qui fertur libelli Peri pathōn, pars prior">
-
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Andronici qui fertur libelli Peri pathōn, pars prior"> </relatedItem>
         </relatedItem>
     </mods>
-
-    <!-- Associated with tlg ids only -->
-    <mods displayLabel="Apocrypha anecdota II"><!-- ERROR-This record totally confusing, as only one of these
-    works (Act of Thomas) is in the original record in catalog pending, were the others added in by hand? -->
+    <mods displayLabel="Apocrypha anecdota II">
         <titleInfo>
             <title>Apocrypha anecdota</title>
             <subTitle>second series</subTitle>
@@ -5853,7 +5912,28 @@
             <dateIssued>1897</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-        <typeOfResource>text</typeOfResource><!-- None of this should be structure anyways as these are all works -->
+        <typeOfResource>text</typeOfResource>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>276 p.</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <subject authority="lcsh">
+            <topic>Bible</topic>
+            <topic>Apocrypha</topic>
+            <genre>Criticism, interpretation, etc.</genre>
+        </subject>
+        <identifier type="oclc">606047080</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/606047080</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101068766748</url>
+        </location><!-- None of this should be structure anyways as these are all works -->
+        <!-- 
         <relatedItem type="constituent" otherType="structure" displayLabel="Introductions">
             <part type="section">
                 <detail>
@@ -5930,20 +6010,7 @@
                     </detail>
                 </part>
             </relatedItem>
-            <relatedItem type="constituent" otherType="structure"
-                displayLabel="Acta Thomae (ex Cod. Brit. Mus. Add. 10,073)">
-                <part type="section">
-                    <detail>
-                        <title>Acta Thomae (ex Cod. Brit. Mus. Add. 10,073)</title>
-                    </detail>
-                </part>
-                <identifier type="tlg">2038.006</identifier>
-                <location>
-                    <url displayLabel="HathiTrust"
-                        >https://hdl.handle.net/2027/njp.32101068766748?urlappend=%3Bseq=148</url>
-                </location>
-            </relatedItem>
-            <relatedItem type="constituent" otherType="structure"
+         <relatedItem type="constituent" otherType="structure"
                 displayLabel="Epistolae Pilati et Herodis">
                 <part type="section">
                     <detail>
@@ -5980,15 +6047,32 @@
                         <title>Additional Notes</title>
                     </detail>
                 </part>
+            </relatedItem>-->        
+            <relatedItem type="constituent" otherType="work"
+                displayLabel="Acta Thomae (ex Cod. Brit. Mus. Add. 10,073)">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg2038.tlg006</identifier>
+                <relatedItem type="constituent" otherType="expression"
+                    displayLabel="Acta Thomae (ex Cod. Brit. Mus. Add. 10,073)">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg2038.tlg006.opp-grc1</identifier>
+                   <titleInfo>
+                       <title>Acta Thomae (ex Cod. Brit. Mus. Add. 10,073)</title>
+                   </titleInfo>
+                    <part>
+                        <extent unit="pages">
+                            <start>28</start>
+                            <end>45</end>
+                        </extent>
+                    </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/njp.32101068766748?urlappend=%3Bseq=148</url>
+                </location>
+            </relatedItem>    
             </relatedItem>
-        </relatedItem>
     </mods>
-    <mods displayLabel="Apocrypha Ancedota (collection of 13 books and fragments)"> <!-- ERROR-This record totally confusing, as only one of these
-        works (Act of Thomas) is in the original record in catalog pending, were the others added in by hand? -->
-        <titleInfo>
+    <mods displayLabel="Apocrypha Ancedota (collection of 13 books and fragments)"> 
             <title>Apocrypha anecdota</title>
             <subTitle>a collection of thirteen apocryphal books and fragments</subTitle>
-        </titleInfo>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/88882890">
             <namePart>James, Montague Rhodes</namePart>
@@ -6034,7 +6118,7 @@
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101068766680</url>
         </location><!-- None of this should be structure anyways as these are all works -->
-        <relatedItem type="constituent" otherType="structure" 
+        <!--  <relatedItem type="constituent" otherType="structure" 
             displayLabel="On the Latin Version of the Viso Pauli">
             <part type="section">
                 <detail>
@@ -6056,17 +6140,8 @@
                     <title>Introduction to the Acts of Xanthippe and Polyxena</title>
                 </detail>
             </part>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="structure"
-            displayLabel="Acta Xanthippae et Polyxenae"><!-- Only cataloged work in catalog pending -->
-            <part type="section">
-                <detail>
-                    <title>Acta Xanthippae et Polyxenae</title>
-                </detail>
-            </part>
-            <identifier type="tlg">2248.001</identifier>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="structure" displayLabel="On the Story of Zosimus">
+        </relatedItem> 
+           <relatedItem type="constituent" otherType="structure" displayLabel="On the Story of Zosimus">
             <part type="section">
                 <detail>
                     <title>On the Story of Zosimus</title>
@@ -6164,10 +6239,33 @@
                     <title>Additional Notes</title>
                 </detail>
             </part>
-        </relatedItem>
+        </relatedItem>-->       
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Βίος καὶ πολιτεία τῶν ὁσίων Γγναικῶν Ξανθίππης Πολγξένης καὶ Ῥεβέκκας"><!-- Only cataloged work in catalog pending -->         
+            <identifier type="ctsurn">urn:cts:greekLit:tlg2248.tlg001</identifier>            
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Βίος καὶ πολιτεία τῶν ὁσίων Γγναικῶν Ξανθίππης Πολγξένης καὶ Ῥεβέκκας">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg2248.tlg001.opp-grc1</identifier>
+                <name type="corporate" authority="tlg">
+                    <namePart>Acta Xanthippae et Polyxenae</namePart>
+                    <role>
+                        <roleTerm type="text">creator</roleTerm>
+                    </role>
+                </name>
+                <part>
+                    <extent unit="pages">
+                        <start>58</start>
+                        <end>85</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust">https://hdl.handle.net/2027/njp.32101068766680?urlappend=%3Bseq=76</url>
+                </location>
+            </relatedItem>
+        </relatedItem>     
     </mods>
 
-
+<!-- LEFT OFF HERE -->
     <!-- Associated with tlg ids only --><!-- ERROR There are four records for individual work/authors in this series in 
     catalog pending-had not tried to keep the series together-but it seems that all of the TLGs have been excised from this file,
     so we now have structural metadata but have lost all the work/expressions and editors-should I add those back in and move this to
