@@ -6629,7 +6629,6 @@
         <location>
             <url displayLabel="WorldCat">http://www.worldcat.org/oclc/889992800</url>
         </location>
-
         <relatedItem type="constituent" otherType="work" displayLabel="Choricius Gazaeus Opera">
             <identifier type="ctsurn">urn:cts:greekLit:tlg4094.tlg001</identifier>
             <relatedItem type="constituent" otherType="expression"
@@ -6638,7 +6637,6 @@
             </relatedItem>
         </relatedItem>
     </mods>
-<!-- LEFT OFF HERE -->
   
     <mods displayLabel="De Victu Attenuante">
         <titleInfo type="uniform">
@@ -6709,14 +6707,16 @@
         <location>
             <url displayLabel="GoogleBooks">https://books.google.com/books?id=-XcyAQAAMAAJ</url>
         </location>
-
+<location>
+    <url displayLabel="First1KGreek">https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0057/tlg019/tlg0057.tlg019.opp-grc1.xml</url>
+</location>
         <relatedItem type="constituent" otherType="work" displayLabel="De Victu Attenuante">
-            <!-- NEEDS ID TURNED INTO CTS URN -->
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0057.tlg019</identifier>
             <relatedItem type="constituent" otherType="expression"
-                displayLabel="De Victu Attenuante"> </relatedItem>
+                displayLabel="De Victu Attenuante"> 
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0057.tlg019.opp-grc1</identifier></relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="De chorographia libri tres">
         <titleInfo>
             <title>De chorographia libri tres</title>
@@ -6771,7 +6771,8 @@
         </relatedItem>
         <relatedItem type="series">
             <titleInfo>
-                <title>Studia Graeca et Latina Gothoburgensia, 28</title>
+                <title>Studia Graeca et Latina Gothoburgensia</title>
+                <partNumber>28</partNumber>
             </titleInfo>
         </relatedItem>
         <identifier type="lccn">78881751</identifier>
@@ -6824,7 +6825,7 @@
             <place>
                 <placeTerm type="text">Lipsiæ et Berolini</placeTerm>
             </place>
-            <publisher>in aedibvs B. G. Tevbneri</publisher>
+            <publisher>in aedibvs B. G. Teubneri</publisher>
             <dateIssued>1908</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
@@ -6874,254 +6875,19 @@
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015015061693</url>
         </location>
+        <location>
+            <url displayLabel="First1KGreek">https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0671/tlg001/tlg0671.tlg001.1st1K-grc1.xml</url>
+        </location>
         <relatedItem type="constituent" otherType="work"
             displayLabel="De venenatis animalibus eorumque remediis">
-            <!-- NEEDS ID TURNED INTO CTS URN -->
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0671.tlg001</identifier>
             <relatedItem type="constituent" otherType="expression"
-                displayLabel="De venenatis animalibus eorumque remediis"> </relatedItem>
-        </relatedItem>
-    </mods>
-
-    <mods displayLabel="Die Briefe des Sextus Julius Africanus an Aristides und Origenes"><!-- ERROR-MOVE TO INVERTED -->
-        <titleInfo>
-            <title>Die Briefe des Sextus Julius Africanus an Aristides und Origenes</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/71901071">
-            <namePart>Reichardt, Walther</namePart>
-            <namePart type="date">1869-</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Leipzig</placeTerm>
-            </place>
-            <publisher>Hinrichs</publisher>
-            <dateIssued>1909</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>84 p.; 23 cm</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <note>The letter to Aristides deals with the genealogies of Christ in Matthew and Luke; the
-            letter to Origen, with the authenticity of the story of Susanna.</note>
-        <subject authority="lcsh">
-            <topic>Jesus Christ</topic>
-            <topic>Family</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Bible</topic>
-            <topic>History of Susanna</topic>
-            <genre>Criticism, interpretation, etc.</genre>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Aristides</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Origen</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Jesus Christ</topic>
-            <topic>Genealogy</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Aristides, Aelius</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Jesus Christ</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Bible</topic>
-            <topic>History of Susanna</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Families</topic>
-        </subject>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Texte und Untersuchungen zur Geschihchte der altchristlichen
-                    Literatur</title>
-                <partNumber>Volume 34.3</partNumber>
-            </titleInfo>
-        </relatedItem>
-        <identifier type="oclc">880439</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/880439</url>
-        </location>
-        <location>
-            <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0002507281</url>
-        </location>
-        <location>
-            <url displayLabel="Internet Archive"
-                >https://archive.org/stream/texteunduntersuc3334akad#page/n1059/mode/2up</url>
-        </location>
-        <relatedItem type="constituent" otherType="work">
-            <identifier type="tlg">2956.004</identifier>
-            <titleInfo type="uniform">
-                <title>Epistula Ad Aristidem</title>
-            </titleInfo>
-            <titleInfo type="translated" lang="ger">
-                <title>Der Brief an Aristides</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/160788177">
-                <namePart>Africanus, Sextus Julius</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-            <relatedItem type="constituent" otherType="expression">
-                <language objectPart="text">
-                    <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-                </language>
-                <part>
-                    <extent unit="pages">
-                        <start>53</start>
-                        <end>62</end>
-                    </extent>
-                </part>
-                <location>
-                    <url displayLabel="Internet Archive"
-                        >https://archive.org/stream/texteunduntersuc3334akad#page/n1115/mode/2up</url>
-                </location>
-            </relatedItem>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="work">
-            <titleInfo>
-                <title>Epistula ad Origenem</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/160788177">
-                <namePart>Africanus, Sextus Julius</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <identifier type="tlg">2956.003</identifier>
-            <relatedItem type="constituent" otherType="expression">
-                <part>
-                    <extent unit="pages">
-                        <start>78</start>
-                        <end>80</end>
-                    </extent>
-                </part>
-                <location>
-                    <url displayLabel="Internet Archive"
-                        >https://archive.org/stream/texteunduntersuc3334akad#page/n1141/mode/2up</url>
-                </location>
+                displayLabel="De venenatis animalibus eorumque remediis"> 
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1</identifier>
             </relatedItem>
         </relatedItem>
     </mods>
-
-    <mods displayLabel="Epiphanius Band I Ancoratus und Panarion: (Ancoratus und Panarion Haer. 1-33)">
-        <titleInfo>
-            <title>Epiphanius</title>
-            <partNumber>Band I</partNumber>
-            <subTitle>Ancoratus und Panarion: (Ancoratus und Panarion Haer. 1-33)</subTitle>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/41830368">
-            <namePart>Holl, Karl</namePart>
-            <namePart type="date">1886-1971</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Leipzig</placeTerm>
-            </place>
-            <publisher>Hinrichs</publisher>
-            <dateIssued>1915</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>464 p.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <note type="statement of responsibility">herausgegeben von Karl Holl</note>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Die griechischen christlichen Schriftsteller</title>
-                <partNumber>25</partNumber>
-            </titleInfo>
-        </relatedItem>
-
-        <identifier type="oclc">912955638</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/912955638</url>
-        </location>
-        <location>
-            <url displayLabel="Internet Archive"
-                >https://archive.org/details/diegriechischenc25kirc</url>
-        </location>
-        <relatedItem type="constituent" otherType="work" displayLabel="Ancoratus"><!-- ERROR-NEED TO ALTER
-        THIS TO CURRENT FORMAT- AS THIS STILL HAS PAGE INFO AND OTHER INFO --><!-- THIS DUE TO PRESENCE
-            OF CONSTITUENT-->
-            <titleInfo>
-                <title>Ancoratus</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/13651211">
-                <namePart>Epiphanius</namePart>
-                <namePart type="termsOfAddress">Saint</namePart>
-                <namePart type="termsOfAddress">Bishop of Constantia in Cyprus</namePart>
-                <namePart type="date">approximately 310-403</namePart>
-                <role>
-                    <roleTerm type="text">creator</roleTerm>
-                </role>
-            </name>
-
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-
-            <identifier type="ctsurn">urn:cts:greekLit:tlg2021.tlg001</identifier>
-
-            <relatedItem type="constituent" otherType="expression" displayLabel="Ancoratus">
-                <identifier type="ctsurn">urn:cts:greekLit:tlg2021.tlg001.opp-grc1</identifier>
-                <part>
-                    <extent unit="pages">
-                        <start>1</start>
-                        <end>149</end>
-                    </extent>
-                </part>
-
-                <location>
-                    <url displayLabel="Internet Archive"
-                        >https://archive.org/stream/diegriechischenc25kirc#page/n15/mode/2up</url>
-                </location>
-                <location>
-                    <url displayLabel="First1KGreek"
-                        >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg2021/tlg001/tlg2021.tlg001.opp-grc1.xml</url>
-                </location>
-            </relatedItem>
-        </relatedItem>
-    </mods>
-
+   <!-- LEFT OFF HERE -->
     <mods displayLabel="Griechische Poliorketiker">
         <titleInfo>
             <title>Griechische Poliorketiker</title>
