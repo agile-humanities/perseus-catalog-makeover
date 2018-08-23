@@ -2584,52 +2584,7 @@
                     displayLabel="De materia medica"/>
             </relatedItem>
         </relatedItem>
-    </mods>
-    <mods displayLabel="De officiis">
-        <titleInfo>
-            <title>De officiis</title>
-        </titleInfo>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/n79-32166.html">
-            <namePart>Cicero, Marcus Tullius.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/n88-622162.html">
-            <namePart>Miller, Walter</namePart>
-            <namePart type="date">1864-1949</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <publisher>Harvard University Press</publisher>
-            <dateIssued>1913</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <classification authority="lcc">PA6156.C6</classification>
-        <subject authority="lcsh">
-            <topic>Ethics</topic>
-            <topic>Early works to 1800</topic>
-        </subject>
-        <relatedItem type="constituent"
-            otherType="work" displayLabel="De officiis: apparatus criticus">
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="De officiis: apparatus criticus"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="De officiis: index"/>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="De officiis: introduction and bibliography"/>
-        </relatedItem>
-    </mods>
+    </mods>    
     <mods displayLabel="De rerum natura libri sex">
         <titleInfo>
             <title>De rerum natura libri sex</title>
@@ -2908,6 +2863,139 @@
                 displayLabel="Commentary on Demosthenes: On the Crown"/>
         </relatedItem>
     </mods>
+    <mods displayLabel="Die Briefe des Sextus Julius Africanus an Aristides und Origenes">
+        <titleInfo>
+            <title>Die Briefe des Sextus Julius Africanus an Aristides und Origenes</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/160788177">
+            <namePart>Africanus, Sextus Julius</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/71901071">
+            <namePart>Reichardt, Walther</namePart>
+            <namePart type="date">1869-</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Leipzig</placeTerm>
+            </place>
+            <publisher>Hinrichs</publisher>
+            <dateIssued>1909</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>84 p.; 23 cm</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <note>The letter to Aristides deals with the genealogies of Christ in Matthew and Luke; the
+            letter to Origen, with the authenticity of the story of Susanna.</note>
+        <subject authority="lcsh">
+            <topic>Jesus Christ</topic>
+            <topic>Family</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Bible</topic>
+            <topic>History of Susanna</topic>
+            <genre>Criticism, interpretation, etc.</genre>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Aristides</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Origen</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Jesus Christ</topic>
+            <topic>Genealogy</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Aristides, Aelius</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Jesus Christ</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Bible</topic>
+            <topic>History of Susanna</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Families</topic>
+        </subject>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Texte und Untersuchungen zur Geschihchte der altchristlichen
+                    Literatur</title>
+                <partNumber>Volume 34.3</partNumber>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="oclc">880439</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/880439</url>
+        </location>
+        <location>
+            <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0002507281</url>
+        </location>
+        <location>
+            <url displayLabel="Internet Archive"
+                >https://archive.org/stream/texteunduntersuc3334akad#page/n1059/mode/2up</url>
+        </location>
+        <relatedItem type="constituent" otherType="work" displayLabel="Epistula Ad Aristidem">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg2956.tlg004</identifier>
+            <relatedItem type="constituent" otherType="expression" displayLabel="Epistula Ad Aristidem">            
+                <identifier type="ctsurn">urn:cts:greekLit:tlg2956.tlg004.opp-grc1</identifier>            
+            <titleInfo type="uniform">
+                <title>Epistula Ad Aristidem</title>
+            </titleInfo>
+            <titleInfo type="translated" lang="ger">
+                <title>Der Brief an Aristides</title>
+            </titleInfo>
+            <part>
+                    <extent unit="pages">
+                        <start>53</start>
+                        <end>62</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="Internet Archive"
+                        >https://archive.org/stream/texteunduntersuc3334akad#page/n1115/mode/2up</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Epistula ad Origenem">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg2956.tlg003</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg2956.tlg003.opp-grc1</identifier>   
+            <titleInfo>
+                <title>Epistula ad Origenem</title>
+            </titleInfo>
+                <part>
+                    <extent unit="pages">
+                        <start>78</start>
+                        <end>80</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="Internet Archive"
+                        >https://archive.org/stream/texteunduntersuc3334akad#page/n1141/mode/2up</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+    </mods>
     <mods displayLabel="Eighth Book of Thucydides">
         <titleInfo>
             <title>Eighth Book of Thucydides</title>
@@ -3067,9 +3155,11 @@
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="Epiphanius">
+    <mods displayLabel="Epiphanius (3 volumes)">
         <titleInfo>
             <title>Epiphanius</title>
+            <subTitle>Ancoratus und Panarion</subTitle>
+            <partNumber>Band I-III</partNumber>
         </titleInfo>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/13651211">
@@ -3089,6 +3179,7 @@
                 <roleTerm type="text">editor</roleTerm>
             </role>
         </name>
+        <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
                 <placeTerm type="code" authority="marccountry">gw</placeTerm>
@@ -3100,27 +3191,113 @@
             <dateIssued>1915-1933</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-        <identifier type="oclc">912955638</identifier>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>3 vols</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <note type="statement of responsibility">herausgegeben von Karl Holl</note>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Die griechischen christlichen Schriftsteller</title>
+                <partNumber>Bd. 25, 31, 37</partNumber>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="oclc">612161435</identifier>
         <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/912955638</url>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/612161435</url>
         </location>
         <location>
             <url displayLabel="Internet Archive" note="Volume 25"
                 >https://archive.org/details/diegriechischenc25kirc</url>
         </location>
-        <relatedItem type="constituent" otherType="structure" displayLabel="Band I-III">
+        <relatedItem type="constituent" otherType="structure" displayLabel="Vol 1">
+            <part>
+                <detail type="volume">
+                    <caption>Band</caption>
+                    <number>1</number>
+                </detail>
+            </part>            
+        <relatedItem type="constituent" otherType="work" displayLabel="Ancoratus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg2021.tlg001</identifier>
+            <relatedItem type="constituent" otherType="expression" displayLabel="Ancoratus">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg2021.tlg001.opp-grc1</identifier>
+                <titleInfo>
+                    <title>Ancoratus</title>
+                </titleInfo>                
+                <part>
+                    <extent unit="pages">
+                        <start>1</start>
+                        <end>149</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="Internet Archive"
+                        >https://archive.org/stream/diegriechischenc25kirc#page/n15/mode/2up</url>
+                </location>
+                <location>
+                    <url displayLabel="First1KGreek"
+                        >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg2021/tlg001/tlg2021.tlg001.opp-grc1.xml</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+            <relatedItem type="constituent"
+                otherType="work" displayLabel="Panarion (Adversus haereses)">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg2021.tlg002</identifier>
+                <relatedItem type="constituent" otherType="expression"
+                    displayLabel="Panarion (Adversus haereses)">                    
+                    <titleInfo>
+                        <title>Panarion (Adversus haereses)</title>
+                    </titleInfo>
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg2021.tlg002.opp-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <list> 153‑161, 169‑233, 238‑464 </list>
+                        </extent>
+                    </part>
+                </relatedItem>
+            </relatedItem>
+        <relatedItem type="constituent"
+            otherType="work" displayLabel="Anacephalaeosis [Sp.]">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg2021.tlg003</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Anacephalaeosis [Sp.]">
+                <identifier type="ctsurn"
+                    >urn:cts:greekLit:tlg2021.tlg003.opp-grc1</identifier>
+                <titleInfo>
+                    <title>Anacephalaeosis [Sp.]</title>
+                </titleInfo>
+                <part>
+                    <extent unit="pages">
+                        <list>162‑168, 234‑237</list>
+                    </extent>
+                </part>
+            </relatedItem>
+        </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Volume 2">
             <part type="volume">
                 <detail type="volume">
-                    <title>Band I-III</title>
+                    <title>Band II</title>
                 </detail>
             </part>
             <relatedItem type="constituent"
-                otherType="work" displayLabel="Panarion">
+                otherType="work" displayLabel="Panarion (Adversus haereses)">
                 <identifier type="ctsurn">urn:cts:greekLit:tlg2021.tlg002</identifier>
                 <relatedItem type="constituent" otherType="expression"
-                    displayLabel="Panarion">
-                    <identifier type="ctsurn"
-                        >urn:cts:greekLit:tlg2021.tlg002.opp-grc1</identifier>
+                    displayLabel="Panarion (Adversus haereses)">                    
+                    <titleInfo>
+                        <title>Panarion (Adversus haereses)</title>
+                    </titleInfo>
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg2021.tlg002.opp-grc1</identifier>
+                    <part>
+                        <extent unit="pages">
+                            <list>5‑210, 215‑523</list>
+                        </extent>
+                    </part>
                 </relatedItem>
             </relatedItem>
             <relatedItem type="constituent"
@@ -3130,63 +3307,58 @@
                     displayLabel="Anacephalaeosis [Sp.]">
                     <identifier type="ctsurn"
                         >urn:cts:greekLit:tlg2021.tlg003.opp-grc1</identifier>
+                    <titleInfo>
+                        <title>Anacephalaeosis [Sp.]</title>
+                    </titleInfo>
+                    <part>
+                        <extent unit="pages">
+                            <list>1‑4, 211‑214</list>
+                        </extent>
+                    </part>
                 </relatedItem>
             </relatedItem>
         </relatedItem>
-    </mods>
-    <mods displayLabel="Epistles of Ovid translated into English prose">
-        <titleInfo>
-            <title>Epistles of Ovid translated into English prose</title>
-            <title>Heroides. Latin and English.</title>
-        </titleInfo>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/n79-41738.html">
-            <namePart>Ovid</namePart>
-            <namePart type="date">43 B.C.-17 or 18 A.D</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">enk</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">London</placeTerm>
-            </place>
-            <publisher>J. Nunn</publisher>
-            <dateIssued>1813</dateIssued>
-            <edition>5th ed.</edition>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <identifier type="lccn">unk83064711</identifier>
-        <identifier type="oclc">31854122</identifier>
-        <classification authority="lcc">PA6519 .H4 1813</classification>
-        <subject authority="lcsh">
-            <topic>Epistolary poetry, Latin</topic>
-            <genre>Translations into English</genre>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Separation (Psychology)</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Mythology, Classical</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Women</topic>
-            <topic>Mythology</topic>
-        </subject>
-        <location>
-            <url displayLabel="LC Permalink">http://lccn.loc.gov/unk83064711</url>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/31854122</url>
-        </location>
+    <relatedItem type="constituent" otherType="structure" displayLabel="Volume 3">
+        <part type="volume">
+            <detail type="volume">
+                <title>Band III</title>
+            </detail>
+        </part>
         <relatedItem type="constituent"
-            otherType="work" displayLabel="Commentary on the Heroides of Ovid">
+            otherType="work" displayLabel="Panarion (Adversus haereses)">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg2021.tlg002</identifier>
             <relatedItem type="constituent" otherType="expression"
-                displayLabel="Commentary on the Heroides of Ovid"/>
-        </relatedItem>
+                displayLabel="Panarion (Adversus haereses)">                    
+                <titleInfo>
+                    <title>Panarion (Adversus haereses)</title>
+                </titleInfo>
+                <identifier type="ctsurn">urn:cts:greekLit:tlg2021.tlg002.opp-grc1</identifier>
+                <part>
+                    <extent unit="pages">
+                        <list>2‑229, 232‑414,416‑526</list>
+                    </extent>
+                </part>
+            </relatedItem>    
+            <relatedItem type="constituent"
+                otherType="work" displayLabel="Anacephalaeosis [Sp.]">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg2021.tlg003</identifier>
+                <relatedItem type="constituent" otherType="expression"
+                    displayLabel="Anacephalaeosis [Sp.]">
+                    <identifier type="ctsurn"
+                        >urn:cts:greekLit:tlg2021.tlg003.opp-grc1</identifier>
+                    <titleInfo>
+                        <title>Anacephalaeosis [Sp.]</title>
+                    </titleInfo>
+                    <part>
+                        <extent unit="pages">
+                            <list>1-2, 230‑232, 415</list>
+                        </extent>
+                    </part>
+                </relatedItem>
+            </relatedItem>
+    </relatedItem>
+       
+    </relatedItem>
     </mods>
     <mods displayLabel="Epistolographoi hellenikoi">
         <titleInfo>
