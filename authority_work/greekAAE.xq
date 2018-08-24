@@ -38,8 +38,8 @@ declare function local:GreekWorks-to-mads()
                     <title>{$workTitle}</title>
                 </titleInfo>
             </authority>
-            <identifier
-                type='ctsurn'>{$ctsurn}</identifier>
+            <identifier type='ctsurn'>{$ctsurn}</identifier>
+            <identifier type='tlg'>{ $i }</identifier>
             <extension>
                 <rdf:RDF
                     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -48,6 +48,8 @@ declare function local:GreekWorks-to-mads()
                     xmlns:efrbroo="http://erlangen-crm.org/efrbroo/">
                     <efrbroo:F1_Work rdf:about="{$ctsurn}">
                         <rdfs:label>{$workTitle}</rdfs:label>
+                        <efrbroo:P1_is_identified_by>{ $ctsurn }</efrbroo:P1_is_identified_by>
+                        <efrbroo:P1_is_identified_by>{ $i }</efrbroo:P1_is_identified_by>
                         <dcterms:isPartOf rdf:resource="{$textgroup-urn}"/>
                         <efrbroo:R10i_is_member_of rdf:resource="{$textgroup-urn}"/>
                     </efrbroo:F1_Work>
@@ -81,7 +83,7 @@ declare function local:GreekWorks-to-rdf()
              xmlns:dcterms="http://purl.org/dc/terms"
              xmlns:efrbroo="http://erlangen-crm.org/efrbroo/">
      {
-    let $GreekAuthors := doc('/db/spreadsheet_dataGreekAuthors.xml')
+    let $GreekAuthors := doc('/db/spreadsheet_data/GreekAuthors.xml')
     for $row in $GreekAuthors//row
     return local:row-to-rdf($row)
      }             

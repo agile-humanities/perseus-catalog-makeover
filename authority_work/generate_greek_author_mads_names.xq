@@ -3,7 +3,7 @@ xquery version "3.0";
  : Extracts author data from Greek Authors spreadsheet.
  :
  : To use: establish an Oxygen transformation scenario
- : that links this xquery with LatinAuthors.xml
+ : that links this xquery with GreekAuthors.xml
  :)
   
 

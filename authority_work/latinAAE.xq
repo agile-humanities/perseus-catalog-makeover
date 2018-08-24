@@ -27,6 +27,20 @@ declare function local:stoa-id($idstring as xs:string) as xs:string
     string-join((tokenize($idstring, '-')), '.')
 };
 
+declare function local:phi-id-of($row) as xs:string?
+{
+    if ($row/PHI_ and not(empty($row/PHI_)) and not($row/PHI_/text() = "none"))
+        then normalize-space($row/PHI_[1])
+        else ()
+};
+
+declare function local:stoa-id-of($row) as xs:string?
+{
+if ($row/STOA_ and not(empty($row/STOA_)) and not($row/STOA_/text() = "none"))
+        then normalize-space($row/STOA_[1])
+        else ()
+};
+
 declare function local:ctsurn-of($row as element())
 as xs:string
 {
@@ -65,6 +79,14 @@ as element()
                 </titleInfo>
             </authority>
             <identifier type='ctsurn'>{$ctsurn}</identifier>
+            { if (local:phi-id-of($row)) then
+                <identifier type='phi'>{ local:phi-id-of($row) }</identifier>
+              else ()
+            }
+            { if (local:stoa-id-of($row)) then
+                <identifier type='stoa'>{ local:stoa-id-of($row) }</identifier>
+              else ()
+            }            
             <extension>
                 <rdf:RDF
                     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -73,6 +95,15 @@ as element()
                     xmlns:efrbroo="http://erlangen-crm.org/efrbroo/">
                     <efrbroo:F1_Work rdf:about="{$ctsurn}">
                         <rdfs:label>{$label}</rdfs:label>
+                        <efrbroo:P1_is_identified_by>{ $ctsurn }</efrbroo:P1_is_identified_by>
+                                    { if (local:phi-id-of($row)) then
+                <efrbroo:P1_is_identified_by>{ local:phi-id-of($row) }</efrbroo:P1_is_identified_by>
+              else ()
+            }
+            { if (local:stoa-id-of($row)) then
+                <efrbroo:P1_is_identified_by>{ local:stoa-id-of($row) }</efrbroo:P1_is_identified_by>
+              else ()
+            }  
                         <dcterms:isPartOf rdf:resource="{ local:textgroup-of($ctsurn) }"/>
                         <efrbroo:R10i_is_member_of rdf:resource="{local:textgroup-of($ctsurn) }"/>
                     </efrbroo:F1_Work>
