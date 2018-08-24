@@ -3686,7 +3686,78 @@
                 </relatedItem>
             </relatedItem>
         </relatedItem>
+    </mods>    
+    <mods displayLabel="Markellinos Pulslehre">
+        <titleInfo>
+            <title>Markellinos Pulslehre</title>
+            <subTitle>ein griechisches Anekdoton</subTitle>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/398999/">
+            <namePart>Marcellinus</namePart>
+            <namePart type="termsOfAddress">Medicus</namePart>
+            <namePart type="date">2. Jh. 2. Jh.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/34566762/">
+            <namePart>Schöne, Hermann,</namePart>
+            <namePart type="termsOfAddress">1870-1941</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">swi</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Basel</placeTerm>
+            </place>
+            <publisher>Buchdruckerei Emil Birkhauser</publisher>
+            <dateIssued>1907</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Festschrift zur 49. Versammlung deutscher Philologen und Schulmänner in Basel im Jahre 1907</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="oclc">255526336</identifier>
+        <location>
+            <url displayLabel="Worldcat">http://www.worldcat.org/oclc/255526336</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">https://books.google.com/books?id=vXOBAAAAIAAJ</url>
+        </location>
+        <relatedItem type="constituent"
+            otherType="work" displayLabel="De Pulsibus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0667.tlg001</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="De Pulsibus">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0667.tlg001.opp-grc1</identifier>
+            <language objectPart="text">
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language> 
+                <part>
+                    <extent unit="pages">
+                        <start>455</start>
+                        <end>471</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="GoogleBooks">https://books.google.com/books?id=vXOBAAAAIAAJ&amp;pg=PA455</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.b4511969?urlappend=%3Bseq=464</url>
+                </location>
+        </relatedItem>
+        </relatedItem>
     </mods>
+    
+    
     <mods displayLabel="Noctes Atticae (Loeb)">
         <titleInfo xml:lang="lat" type="uniform">
             <title>Noctes Atticae</title>
@@ -3951,6 +4022,35 @@
                             >http://hdl.handle.net/2027/pst.000005622467</url>
                     </location>
                 </relatedItem>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+    
+    <mods displayLabel="Omega 1.12">
+        <titleInfo>
+            <title>Omega 1.12</title>
+        </titleInfo>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">us</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Worcester, MA</placeTerm>
+            </place>
+            <publisher>Homer Multitext Project</publisher>
+            <dateIssued>2016</dateIssued>
+        </originInfo>
+        <location>
+            <url displayLabel="Homer Multitext"
+                >http://www.homermultitext.org/manuscripts-papyri/omega-1-12.html</url>
+        </location>
+        <relatedItem type="constituent"
+            otherType="work" displayLabel="Chrestomathy">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg4036.tlg023</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Chrestomathy">
+                <identifier type="ctsurn"
+                    >urn:cts:greekLit:tlg4036.tlg023.cypria-grc1</identifier>
             </relatedItem>
         </relatedItem>
     </mods>
@@ -5494,6 +5594,155 @@
             </relatedItem>
         </relatedItem>
     </mods>
+    <mods displayLabel="Geographiae Veteris Scriptores Graeci Minores">
+        <titleInfo>
+            <title>Geographiae Veteris Scriptores Graeci Minores</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/100222314">
+            <namePart>Hudson, John</namePart>
+            <namePart type="date">1662-1719</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Oxoniæ</placeTerm>
+            </place>
+            <publisher>e Theatro Sheldoniano</publisher>
+            <dateIssued>1703</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <identifier type="lccn">06031909</identifier>
+        <identifier type="oclc">23639036</identifier>
+        <classification authority="lcc">G87.A1 G3</classification>
+        <subject authority="lcsh">
+            <topic>Geography, Ancient</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Geographers</topic>
+            <geographic>Greece</geographic>
+        </subject>
+        <location>
+            <url displayLabel="Worldcat">http://www.worldcat.org/oclc/23639036</url>
+        </location>
+        <location>
+            <url displayLabel="Biblioteca Digital Hispanica"
+                >http://bdh-rd.bne.es/viewer.vm?lang=en&amp;pid=d-3140490</url>
+        </location>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Volumen Secundum">
+            <part type="volume">
+                <detail type="volume">
+                    <title>Volumen Secundum</title>
+                </detail>
+            </part>
+            <relatedItem type="constituent"
+                otherType="work"
+                displayLabel="Agathemeris Orthonis filii Compendiariae Geographiae Expositionum libri duo">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001</identifier>
+                <relatedItem type="constituent" otherType="expression"
+                    displayLabel="Agathemeris Orthonis filii Compendiariae Geographiae Expositionum libri duo">
+                    <identifier type="ctsurn"
+                        >urn:cts:greekLit:tlg0090.tlg001.opp-lat10</identifier>
+                </relatedItem>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+    <mods displayLabel="Geographica antiqua">
+        <titleInfo>
+            <title>Geographica antiqua</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/51743811">
+            <namePart>Gronovius, Jacobus</namePart>
+            <namePart type="date">1645-1716</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54197108">
+            <namePart>Vossius, Isaac</namePart>
+            <namePart type="date">1618-1689</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="ttp://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/32167762">
+            <namePart>Le Paulmier, Jacques</namePart>
+            <namePart type="date">1587-1670</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/102332296">
+            <namePart>Tennulius, Samuel</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <displayForm>Samuel ten Nuyl</displayForm>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">ne</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lugduni Batavorum</placeTerm>
+            </place>
+            <publisher>Apud Jordanum Luchtmans</publisher>
+            <dateIssued>1697</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <identifier type="lccn">2001553125</identifier>
+        <identifier type="oclc">300523349</identifier>
+        <classification authority="lcc">G114 .G73 1697</classification>
+        <subject authority="lcsh">
+            <topic>Geography, Ancient</topic>
+        </subject>
+        <location>
+            <url displayLabel="Worldcat">http://www.worldcat.org/oclc/300523349</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015059549769</url>
+        </location>
+        <relatedItem type="constituent"
+            otherType="work" displayLabel="Geographiae informatio">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Geographiae informatio">
+                <identifier type="ctsurn"
+                    >urn:cts:greekLit:tlg0090.tlg001.opp-grc10</identifier>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+    <mods displayLabel="Greek Roman and Byzantine Studies">
+        <titleInfo>
+            <title>Greek Roman and Byzantine Studies</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Duke University</publisher>
+            <place>
+                <placeTerm type="text">Durham, North Carolina</placeTerm>
+            </place>
+            <dateIssued>1975</dateIssued>
+        </originInfo>
+        <relatedItem type="constituent"
+            otherType="work" displayLabel="Geographiae informatio">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0090.tlg001</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Geographiae informatio">
+                <identifier type="ctsurn"
+                    >urn:cts:greekLit:tlg0090.tlg001.opp-eng1</identifier>
+            </relatedItem>
+        </relatedItem><!-- CONSOLIDATE WITH 
+    urn:cts:greekLit:tlg0090.tlg001.opp-grc6 -->
+    </mods>
 <!-- END OF AGATHEMERUS FILES TO CONSLIDATE -->
     <mods displayLabel="Alexandri Aphrodisiensis quae feruntur problematorum liber iii et iiii">
         <titleInfo>
@@ -6975,8 +7224,80 @@
         </relatedItem>
         </relatedItem>
     </mods>
-
+    <mods displayLabel="Gynaeciorum vetus translatio latina"><!-- MISSED TRANSLATION NEED TO MERGE WITH
+    urn:cts:greekLit:tlg0565.tlg001.opp-grc1-->
+        <titleInfo>
+            <title>Gynaeciorum vetus translatio latina</title>
+        </titleInfo>
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/n83-122548.html">
+            <namePart>Soranus</namePart>
+            <namePart type="termsOfAddress">of Ephesus</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr99-7316.html">
+            <namePart>Dietz, Friedrich Reinhold</namePart>
+            <namePart type="date">1804-1836</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr96-35841.html">
+            <namePart>Rose, Valentin</namePart>
+            <namePart type="date">1829-1916</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>in aedibus B. G. Teubneri</publisher>
+            <dateIssued>1882</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <identifier type="lccn">34017119</identifier>
+        <identifier type="oclc">4969084</identifier>
+        <identifier type="oca">gynaeciorumvetus00sorauoft</identifier>
+        <classification authority="lcc">PA3404 .S74 1882</classification>
+        <subject authority="lcsh">
+            <topic>Medicine, Greek and Roman</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Gynecology. [from old catalog]</topic>
+        </subject>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/4969084</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/gynaeciorumvetus00sorauoft</url>
+        </location>
+        <location>
+            <url displayLabel="OpenLibrary"
+                >http://www.openlibrary.org/details/gynaeciorumvetus00sorauoft</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=l-Rp5hsHdMEC</url>
+        </location>
+        <relatedItem type="constituent"
+            otherType="work" displayLabel="Gynaecia">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg001</identifier>
+            <relatedItem type="constituent" otherType="expression" displayLabel="Gynaecia">
+            </relatedItem>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg001.opp-lat1</identifier>
+        </relatedItem>
+    </mods>
     <!-- LEFT OFF HERE -->
+    
 
     <mods displayLabel="Hermogenis opera"><!-- ERROR-MULTIPLE WORKS NEED TO MOVE TO INVERTED -->
         <titleInfo>
@@ -8522,7 +8843,70 @@
                 displayLabel="Peri aneimenou libellus"> </relatedItem>
         </relatedItem>
     </mods>
-
+    
+    <mods displayLabel="Fragmentele latine ale lui Philumenus si Philagrius">
+        <titleInfo>
+            <title>Fragmentele latine ale lui Philumenus si Philagrius</title>
+        </titleInfo>
+        <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/263448851/">
+            <namePart>Philumenus</namePart>
+            <namePart type="termsOfAddress">Alexandrinus</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/287608647/">
+            <namePart>Mihaileanu, Petre</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <language objectPart="notes">
+            <languageTerm authority="iso639-2b" type="code">rum</languageTerm>
+        </language>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">rm</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Bucharest</placeTerm>
+            </place>
+            <publisher>Inst. de arte grafice "Carol Göbl"</publisher>
+            <dateIssued>1910</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <identifier type="oclc">551560994</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/551560994</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">https://hdl.handle.net/2027/mdp.39015030388287</url>
+        </location>
+        <relatedItem type="constituent"
+            otherType="work" displayLabel="De Medicina">
+            <identifier type="ctsurn">urn:cts:latinLit:phi1380.phi001</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="De Medicina">
+                
+                <identifier type="ctsurn">urn:cts:latinLit:phi1380.phi001.opp-lat1</identifier>
+                <part>
+                    <extent unit="pages">
+                        <start>103</start>
+                        <end>147</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/mdp.39015030388287?urlappend=%3Bseq=116</url>
+                </location>                                                
+            </relatedItem>            
+        </relatedItem>
+    </mods>
     <mods displayLabel="Pseudo-Augustini Quaestiones Veteris et Novi Testamenti CXXVII">
         <titleInfo>
             <title>Pseudo-Augustini Quaestiones Veteris et Novi Testamenti CXXVII</title>
@@ -8661,8 +9045,7 @@
             <form authority="marcform">print</form>
             <digitalOrigin>digitized other analog</digitalOrigin>
         </physicalDescription>
-        <classification authority="lcc">PA3902 A25</classification>
-        
+        <classification authority="lcc">PA3902 A25</classification>        
         
         <location>
             <url displayLabel="WorldCat">http://www.worldcat.org/oclc/301534170</url>
@@ -8713,8 +9096,7 @@
                 <topic>Commentaries</topic>
             </subject>
             <classification authority="lcc">PA3902 A25</classification>
-        </relatedItem>
-        
+        </relatedItem>        
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
         </language>
