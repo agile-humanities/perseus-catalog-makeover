@@ -2976,6 +2976,8 @@
             </relatedItem>
         </relatedItem>
     </mods>    
+    
+    
     <mods displayLabel="Grammatici Graeci recogniti et apparatu critico instructi">
         <titleInfo>
             <title>Grammatici Graeci</title>
@@ -3164,11 +3166,6 @@
                         <title>Reliqua Scripta Prosodiaca Pathologiam Orthographica</title>                        
                     </detail>
                 </part>
-            <part type="volume">
-                <detail>
-                    <number>2</number>
-                </detail>
-            </part>
             <identifier type="oclc">313423735</identifier>
             <location>
                 <url displayLabel="WorldCat">http://www.worldcat.org/oclc/313423735</url>
@@ -3762,10 +3759,11 @@
                             >https://hdl.handle.net/2027/njp.32101054496086?urlappend=%3Bseq=934</url>
                     </location>
                 </relatedItem>
-            </relatedItem>
-        
+            </relatedItem>        
             </relatedItem>
         </relatedItem>
+        
+        
         <relatedItem type="constituent" otherType="structure" displayLabel="Pars IV">
             <part type="part">
                 <detail>
@@ -4127,10 +4125,497 @@
                     displayLabel="Epigramma"/>
             </relatedItem>
         </relatedItem>
+    </mods>   
+    <mods displayLabel="Hermogenis opera">
+        <titleInfo>
+            <title>Hermogenis opera</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/27035216/">
+            <namePart>Hermogenes</namePart>
+            <namePart type="date">2nd cent.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/44690899/">
+            <namePart>Rabe, Hugo</namePart>
+            <namePart type="date">1867-1932</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>in aedibus B. G. Teubneri</publisher>
+            <dateIssued>1913</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="preface">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <note type="statement of responsibility"> edidit Hugo Rabe</note>
+        <note>Adiectae sunt II tabulae</note>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xxviii, 467 p. 4 facsim. on II pl. (1 fold.) 18 cm.</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <classification authority="lcc">PA3403 .R5 1894 vol. 6</classification>
+        <identifier type="lccn">13012078</identifier>
+        <identifier type="oclc">579772866</identifier>
+        <location>
+            <url displayLabel="Worldcat">http://www.worldcat.org/oclc/579772866</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015002968520</url>
+        </location>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Rhetores Graeci</title>
+                <partNumber>Volume 6</partNumber>
+            </titleInfo>
+        </relatedItem>        
+        <relatedItem type="constituent" otherType="work" displayLabel="Progymnasmata">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg001</identifier>
+            <relatedItem type="constituent" otherType="expression" displayLabel="Progymnasmata">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg001.1st1K-grc1</identifier>
+                <titleInfo>
+                    <title>Progymnasmata</title>
+                </titleInfo>
+                <part>
+                    <extent unit="pages">
+                        <start>1</start>
+                        <end>27</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=32</url>
+                </location>
+            </relatedItem>            
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Peri tôn staseôn">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg002</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg002.1st1K-grc1</identifier>
+                <titleInfo>
+                    <title>Περὶ στάσεων</title>
+                </titleInfo>
+                <titleInfo transliteration="rom">
+                    <title>Peri tôn staseôn</title>
+                </titleInfo>
+                <part>
+                    <extent unit="pages">
+                        <start>28</start>
+                        <end>92</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=60</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Peri Heureseôs">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg003</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg003.1st1K-grc1</identifier>                
+                <titleInfo>
+                    <title>Περὶ εὑρέσεως</title>
+                </titleInfo>
+                <titleInfo transliteration="rom">
+                    <title>Peri Heureseôs</title>
+                </titleInfo>
+                <part>
+                    <extent unit="pages">
+                        <start>93</start>
+                        <end>212</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=124</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Peri ideôn">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg004</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg004.1st1K-grc1</identifier>
+                <titleInfo>
+                    <title>Περὶ ἰδεῶν λόγου</title>
+                </titleInfo>
+                <titleInfo>
+                    <title>Peri ideôn</title>
+                </titleInfo>
+                <part>
+                    <extent unit="pages">
+                        <start>213</start>
+                        <end>413</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=244</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Peri Methodou Deinotêtos">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg005</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0592.tlg005.1st1K-grc1</identifier>
+                <titleInfo>
+                    <title>Περὶ μεθόδου δεινότητος</title>
+                </titleInfo>
+                <titleInfo>
+                    <title>Peri Methodou Deinotêtos</title>
+                </titleInfo>
+                <language objectPart="text">
+                    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+                </language>
+                <part>
+                    <extent unit="pages">
+                        <start>414</start>
+                        <end>456</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=446</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
     </mods>
-    <!-- Deleted HISTORY OF ROME-IN SINGLETONS -->
-   
-   
+    <mods displayLabel="Heronis Alexandrini Opera quae supersunt omnia"><!-- COMBINE WITH OPERA OMNIA IN INVERTED.MODS.XML-FIRST 3 VOLUMES THERE -->
+        <titleInfo>
+            <title>Heronis Alexandrini Opera quae supersunt omnia</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n81-55336.html">
+            <namePart>Hero</namePart>
+            <namePart type="termsOfAddress">of Alexandria</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xlink:href="http://errol.oclc.org/laf/n84-802854.html">
+            <namePart>Heiberg, J. L. (Johan Ludvig)</namePart>
+            <namePart type="date">1854-1928</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm type="text" authority="marcrelator">translator</roleTerm>
+            </role>
+        </name>
+        <subject>
+            <geographicCode authority="marcgac">e-gr---</geographicCode>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Mathematics, Greek</topic>
+            <genre>Early works to 1800</genre>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Physics</topic>
+            <genre>Early works to 1800</genre>
+        </subject>
+        <classification authority="lcc">PA3404 .H4 1899</classification>
+        <identifier type="lccn">15013159</identifier>
+        <identifier type="oclc">43057814</identifier>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/15013159</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/43057814</url>
+        </location>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Vol 4">
+            <part type="volume">
+                <detail>
+                    <number>4</number>
+                    <title>Heronis Definitiones cum Variis Collectionibus, Heronis Quae Feruntur Geometrica</title>
+                </detail>
+            </part>
+            <location>
+                <url displayLabel="HathiTrust">https://hdl.handle.net/2027/mdp.39015024207287</url>
+            </location>
+            <relatedItem type="constituent" otherType="work" displayLabel="Definitiones"><!-- NEED URNS AND STANDARD FORMAT -->
+                <identifier type="tlg">0559.008</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <part>
+                        <extent unit="pages">
+                            <start>2</start>
+                            <end>168</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/mdp.39015024207287?urlappend=%3Bseq=36</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Geometrica"><!-- NEED URNS AND STANDARD FORMAT -->
+                <identifier type="tlg">0559.009</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <part>
+                        <extent unit="pages">
+                            <start>172</start>
+                            <end>449</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/mdp.39015024207287?urlappend=%3Bseq=204</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Vol 5">
+            <part type="volume">
+                <detail>
+                    <number>5</number>
+                    <title>Heronis quae feruntur sterometrica et de mensuris</title>
+                </detail>
+            </part>
+            <name authority="naf" type="personal"
+                xlink:href="http://errol.oclc.org/laf/no2005-77533.html">
+                <namePart>Schmidt, Wilhelm</namePart>
+                <namePart type="date">1862-1905</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                </role>
+            </name>
+            <location>
+                <url displayLabel="HathiTrust">https://hdl.handle.net/2027/mdp.39015017390389</url>
+            </location>
+            <relatedItem type="constituent" otherType="work" displayLabel="Geodaesia"><!-- NEED URNS AND STANDARD FORMAT -->
+                <identifier type="tlg">0559.015</identifier>
+                <relatedItem type="constituent" otherType="expression">
+                    <part>
+                        <extent unit="pages">
+                            <start>LXX</start>
+                            <end>XCIII</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/mdp.39015017390389?urlappend=%3Bseq=74</url>
+                    </location>
+                </relatedItem>
+                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Stereometrica">
+                <identifier type="tlg">0559.010</identifier>
+                <relatedItem type="constituent" otherType="expression"><!-- NEED URNS AND STANDARD FORMAT -->
+                    <part>
+                        <extent unit="pages">
+                            <start>2</start>
+                            <end>162</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/mdp.39015017390389?urlappend=%3Bseq=132</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="De Mensuris">
+                <identifier type="tlg">0559.011</identifier>
+                <relatedItem type="constituent" otherType="expression"><!-- NEED URNS AND STANDARD FORMAT -->
+                    <part>
+                        <extent unit="pages">
+                            <start>164</start>
+                            <end>218</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="HathiTrust"
+                            >https://hdl.handle.net/2027/mdp.39015017390389?urlappend=%3Bseq=294</url>
+                    </location>
+                </relatedItem>
+                
+            </relatedItem>
+        </relatedItem>
+    </mods>
+    <mods displayLabel="Hyperidis Orationes sex cum ceterarum fragmentis">
+        <titleInfo>
+            <title>Hyperidis Orationes sex cum ceterarum fragmentis</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Orationes</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/264197546">
+            <namePart>Hyperides</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66554862">
+            <namePart>Jensen, Christian Cornelius</namePart>
+            <namePart type="date">1883-1940</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Stutgardiae</placeTerm>
+            </place>
+            <publisher>in aedibus B. G. Teubneri</publisher>
+            <dateIssued>1963</dateIssued>
+            <edition>Editio stereotypa editionis primae (1917)</edition>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="preface">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <language objectPart="notes">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="oclc">879596635</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/879596635</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/id403673038</url>
+        </location>
+        <relatedItem type="constituent" otherType="work" displayLabel="In Demosthenem">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg005</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg005.opp-grc1</identifier>                
+                <part>
+                    <extent unit="pages">
+                        <start>2</start>
+                        <end>24</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/54/</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Pro Lycophrone">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg001</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg001.opp-grc1</identifier>                    
+                <part>
+                    <extent unit="pages">
+                        <start>25</start>
+                        <end>37</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/77/</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Pro Euxenippo">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg004</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg004.opp-grc1</identifier>                    
+                <part>
+                    <extent unit="pages">
+                        <start>38</start>
+                        <end>56</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/90/</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="In Philippidem">            
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg002</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg002.opp-grc1</identifier>                    
+                <part>
+                    <extent unit="pages">
+                        <start>57</start>
+                        <end>68</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/109/</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="In Athenogenem">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg003</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg003.opp-grc1</identifier>                    
+                <part>
+                    <extent unit="pages">
+                        <start>69</start>
+                        <end>89</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/121/</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Epitaphius">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg006</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg006.opp-grc1</identifier>                    
+                <part>
+                    <extent unit="pages">
+                        <start>90</start>
+                        <end>114</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/142/</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">            
+            <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg007</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg0030.tlg007.opp-grc1</identifier>                    
+                <part>
+                    <extent unit="pages">
+                        <start>115</start>
+                        <end>154</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="SLUB"
+                        >http://digital.slub-dresden.de/werkansicht/dlf/103343/167/</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+    
     <!-- NO TLG-NEEDS ID AND TO BE APPENDED TO FILE IN SINGLETONS.MODS.XML
     urn:cts:greekLit:tlg2062.tlg088.opp-grc1 THEN MOVE TO INVERTED?-->
     <mods displayLabel="Lettres à Olympias">
@@ -4344,6 +4829,220 @@
             otherType="work" displayLabel="Fragmenta">
             <relatedItem type="constituent" otherType="expression" displayLabel="Fragmenta"
             />
+        </relatedItem>
+    </mods>
+    
+    <mods displayLabel="M. Cornelii Frontonis Epistulae adnotatione critica instructae">
+        <titleInfo>
+            <title>M. Cornelii Frontonis Epistulae adnotatione critica instructae</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <genre authority="marcgt">bibliography</genre>
+        <genre authority="marcgt">biography</genre>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">ne</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Leiden</placeTerm>
+            </place>
+            <publisher>Brill</publisher>
+            <dateIssued>1954</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent> 262 pages : illustrations ; 25 cm.</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <note type="statement of responsibility" altRepGroup="00">edited by Michael Petrus Iosephus
+            van den Hout.</note>
+        <note>Originally published as the editor's thesis, Nijmegen.</note>
+        <note>Includes index.</note>
+        <subject>
+            <geographicCode authority="marcgac">e------</geographicCode>
+            <geographicCode authority="marcgac">ff-----</geographicCode>
+            <geographicCode authority="marcgac">aw-----</geographicCode>
+        </subject>
+        <subject authority="lcsh">
+            <name type="personal">
+                <namePart>Fronto, Marcus Cornelius</namePart>
+            </name>
+            <topic>Correspondence</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Authors, Latin</topic>
+            <topic>Correspondence</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Orators</topic>
+            <geographic>Rome</geographic>
+            <topic>Correspondence</topic>
+        </subject>
+        <classification authority="lcc">PA6389.F7 A4 1975</classification>
+        <classification authority="ddc">875/.01 B</classification>
+        <identifier type="oclc">61364696</identifier>
+        <location>
+            <url displayLabel="Worldcat"
+                >http://www.worldcat.org/oclc/61364696</url>
+        </location>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/author/1248</url>
+        </location><!-- NEED FINISH CREATING CTSURNS -->
+        <relatedItem type="constituent" otherType="work" displayLabel="Ad M. Caesarem et Inivcem">
+            <identifier type="ctsurn">urn:cts:latinLit:phi1248.phi001</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:latinLit:phi1248.phi001.opp-lat4</identifier>
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/1/0#0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Ad M. Antoninum Imp. Epist.">
+            <identifier type="ctsurn">urn:cts:latinLit:phi1248.phi001</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:latinLit:phi1248.phi001.opp-lat2</identifier>
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/2/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Ad Verum Imp.Epistulae">
+            <identifier type="phi">1248.3</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/3/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="De Eloquentia">
+            <identifier type="phi">1248.4</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/4/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="De Orationibus">
+            <identifier type="phi">1248.5</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/5/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Ad Antoninum Pium Epistulae">
+            <identifier type="phi">1248.6</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/6/0#0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Ad Amicos Epistulae">
+            <identifier type="phi">1248.7</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/7/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Principiae Historiae">
+            <identifier type="phi">1248.8</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/7/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Laudes Fumi et Pulveris">
+            <identifier type="phi">1248.9</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/9/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Laudes Neglegentiae">
+            <identifier type="phi">1248.10</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/10/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="De Bello Parthico">
+            <identifier type="phi">1248.11</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/11/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="De Feriis Alsiensibus">
+            <identifier type="phi">1248.12</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/12/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="De Nepote Amisso">
+            <identifier type="phi">1248.13</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/13/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Arion">
+            <identifier type="phi">1248.14</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/14/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Additamentum Epist. Aceph.">
+            <identifier type="phi">1248.15</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/15/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Fragmenta">
+            <identifier type="phi">1248.16</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/16/0</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Carmina">
+            <identifier type="phi">1248.17</identifier>
+            <relatedItem type="constituent" otherType="expression">
+                <location>
+                    <url displayLabel="PHI">http://latin.packhum.org/loc/1248/17/0</url>
+                </location>
+            </relatedItem>
         </relatedItem>
     </mods>
 <!-- LEFT OFF HERE FOR FIRST PASS -->
