@@ -2962,11 +2962,11 @@
             <relatedItem type="constituent"
                 otherType="work"
                 displayLabel="Anonymi Mensura totius habitatae terrae summatim data">
-                <identifier type="ctsurn">urn:cts:greekLit.ggm0001.ggm001</identifier>
+                <identifier type="ctsurn">urn:cts:greekLit:ggm0001.ggm001</identifier>
                 <relatedItem type="constituent" otherType="expression"
                     displayLabel="Anonymi Mensura totius habitatae terrae summatim data">
                     <identifier type="ctsurn"
-                        >urn:cts:greekLit.ggm0001.ggm001.first1K-grc1</identifier>
+                        >urn:cts:greekLit:ggm0001.ggm001.first1K-grc1</identifier>
                 </relatedItem>
             </relatedItem>
             <relatedItem type="constituent"
