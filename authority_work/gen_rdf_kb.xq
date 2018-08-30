@@ -344,32 +344,32 @@ declare function local:assembled-data() {
 };
 
 declare function local:author-rdf($author) {
-    <F10_Person
-        xmlns="http://erlangen-crm.org/efrbroo/"
+    <efrbroo:F10_Person
+        xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
                  xmlns:owl="http://www.w3.org/2002/07/owl#"
         rdf:about="http://catalog.perseus.org/people/{$author/@n}">
         <rdfs:label>{normalize-space(xs:string($author/@label))}</rdfs:label>
         <owl:sameAs rdf:resource="http://viaf.org/viaf/{$author/@viaf}"/>
-    </F10_Person>
+    </efrbroo:F10_Person>
 };
 
 declare function local:work-rdf($work) {
-    <F15_Complex_Work
-        xmlns="http://erlangen-crm.org/efrbroo/"
+    <efrbroo:F15_Complex_Work
+        xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
         rdf:about="{xs:string($work/@ctsurn)}">
         <rdfs:label>{normalize-space(xs:string($work/@label))}</rdfs:label>
-        <P149_is_identified_by>{xs:string($work/@ctsurn)}</P149_is_identified_by>
-        <R10i_is_member_of rdf:resource="{$work/@textgroup}"/>
+        <efrbroo:P149_is_identified_by>{xs:string($work/@ctsurn)}</efrbroo:P149_is_identified_by>
+        <efrbroo:R10i_is_member_of rdf:resource="{$work/@textgroup}"/>
         { if ($work/@tlg) then
-            <P149_is_identified_by>{xs:string($work/@tlg)}</P149_is_identified_by>
+            <efrbroo:P149_is_identified_by>{xs:string($work/@tlg)}</efrbroo:P149_is_identified_by>
           else () }
         { if ($work/@phi) then
-            <P149_is_identified_by>{xs:string($work/@phi)}</P149_is_identified_by>
+            <efrbroo:P149_is_identified_by>{xs:string($work/@phi)}</efrbroo:P149_is_identified_by>
           else () }
         { if ($work/@stoa) then
-            <P149_is_identified_by>{xs:string($work/@stoa)}</P149_is_identified_by>
+            <efrbroo:P149_is_identified_by>{xs:string($work/@stoa)}</efrbroo:P149_is_identified_by>
           else () }
-          </F15_Complex_Work>
+          </efrbroo:F15_Complex_Work>
 };
 
 declare function local:expression-rdf($expression) {
@@ -378,49 +378,104 @@ declare function local:expression-rdf($expression) {
         let $workid := string-join((local:textgroup($ctsurn), local:work($ctsurn)), '.')
         let $workurn := string-join(('urn', 'cts', local:namespace($ctsurn), $workid), ':')
         return
-        <F22_Self_Contained_Expression
-            xmlns="http://erlangen-crm.org/efrbroo/"
+        <efrbroo:F22_Self_Contained_Expression
+            xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
             rdf:about="{$expression/@ctsurn}">
             <rdfs:label>{xs:string($expression/@ctsurn)}</rdfs:label>
-            <P149_is_identified_by>{xs:string($expression/@ctsurn)}</P149_is_identified_by>
-            <R9i_realises>
-                <F1_Work>
-                    <R10i_is_member_of
+            <efrbroo:P149_is_identified_by>{xs:string($expression/@ctsurn)}</efrbroo:P149_is_identified_by>
+            <efrbroo:R9i_realises>
+                <efrbroo:F1_Work>
+                    <efrbroo:R10i_is_member_of
                         rdf:resource="{$workurn}"/>
-                </F1_Work>
-            </R9i_realises>
-        </F22_Self_Contained_Expression>
+                </efrbroo:F1_Work>
+            </efrbroo:R9i_realises>
+        </efrbroo:F22_Self_Contained_Expression>
      else ()
 };
 
 declare function local:w-a-collation($work) {
-    <F15_Complex_Work
-        xmlns="http://erlangen-crm.org/efrbroo/"
+    <efrbroo:F15_Complex_Work
+        xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
         rdf:about="{$work/@ctsurn}">
-        <R16i_initiated_by>
-            <F27_Work_Conception>
-                <P14_carried_out_by
+        <efrbroo:R16i_initiated_by>
+            <efrbroo:F27_Work_Conception>
+                <efrbroo:P14_carried_out_by
                     rdf:resource="http://www.viaf.org/viaf/{$work/@author}"/>
-            </F27_Work_Conception>
-        </R16i_initiated_by>
-    </F15_Complex_Work>
+            </efrbroo:F27_Work_Conception>
+        </efrbroo:R16i_initiated_by>
+        </efrbroo:F15_Complex_Work>
 };
 
 declare function local:manifestation-rdf($manifestation) {
-    <F3_Manifestation_Product_Type
-        xmlns="http://erlangen-crm.org/efrbroo/"
+    <efrbroo:F3_Manifestation_Product_Type
+        xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
         rdf:about="http://www.worldcat.org/{$manifestation/@oclc}">
         {
             for $work in $manifestation/work
             for $expr in $work/expression
             return
-              <CLR6_should_carry>
-               <F24_Publication_Expression>
-                 <P165_incorporates rdf:resource="{$expr/@id}"/>
-            </F24_Publication_Expression>
-        </CLR6_should_carry>
+              <efrbroo:CLR6_should_carry>
+               <efrbroo:F24_Publication_Expression>
+                     <efrbroo:P165_incorporates rdf:resource="{$expr/@id}"/>
+               </efrbroo:F24_Publication_Expression>
+              </efrbroo:CLR6_should_carry>
         }
-    </F3_Manifestation_Product_Type>
+    </efrbroo:F3_Manifestation_Product_Type>
+};
+
+declare function local:serialize-works-rdf($dataset, $path) {
+    let $rdf :=
+<rdf:RDF
+         xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+         { for $w in $dataset/works/work return local:work-rdf($w) }
+         { for $w in $dataset/collations/work return local:w-a-collation($w) }        
+</rdf:RDF>
+
+return file:serialize($rdf, $path, ("indent=yes"))
+};
+
+declare function local:serialize-authors-rdf($dataset, $path) {
+    let $rdf :=
+<rdf:RDF
+         xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+         { for $a in $dataset/authors/author return local:author-rdf($a) }         
+</rdf:RDF>
+
+return file:serialize($rdf, $path, ("indent=yes"))
+};
+
+
+declare function local:serialize-expressions-rdf($dataset, $path) {
+    let $rdf :=
+<rdf:RDF
+         xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
+         { for $e in $dataset/expressions/expression return local:expression-rdf($e) }   
+</rdf:RDF>
+return file:serialize($rdf, $path, ("indent=yes"))
+};
+
+
+declare function local:serialize-manifestations-rdf($dataset, $path) {
+    let $rdf :=
+<rdf:RDF
+         xmlns:efrbroo="http://erlangen-crm.org/efrbroo/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
+         { for $m in $dataset/manifestations/manifestation return local:manifestation-rdf($m) }
+</rdf:RDF>
+return file:serialize($rdf, $path, ("indent=yes"))
 };
 
 declare function local:main() {
@@ -439,4 +494,11 @@ return
          </rdf:RDF>
 };
 
-local:main()
+let $dataset := local:assembled-data()
+return (
+    local:serialize-works-rdf($dataset, "/tmp/works.rdf.xml"),
+    local:serialize-authors-rdf($dataset, "/tmp/people.rdf.xml"),
+    local:serialize-expressions-rdf($dataset, "/tmp/expressions.rdf.xml"),
+    local:serialize-manifestations-rdf($dataset, "/tmp/manifestations.rdf.xml")
+
+)
