@@ -1618,6 +1618,378 @@
             </relatedItem>
         </relatedItem>
     </mods>
+    <mods displayLabel="Acronis et Porphyrionis Commentarii in Q. Horatium Flaccum">
+        <titleInfo>
+            <title>Acronis et Porphyrionis Commentarii in Q. Horatium Flaccum</title>
+        </titleInfo>
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr97-44694.html">
+            <namePart>Pseudo-Acro</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal"
+            xlink:href="http://errol.oclc.org/laf/nr97-44688.html">
+            <namePart>Pomponius Porphyrio</namePart>
+            <namePart type="date">3rd cent</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" xlink:href="http://viaf.org/viaf/20033428">
+            <namePart>Hauthal, Ferdinand</namePart>
+            <namePart type="date">1803-1870</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Berolinum</placeTerm>
+            </place>
+            <publisher>Springer</publisher>
+            <dateIssued>1864-1866</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <physicalDescription>2 vols</physicalDescription>
+        <identifier type="oclc">251825742</identifier>
+        <identifier type="lccn"/>
+        <identifier type="oca">acronisetporphyr01pseuuoft</identifier>
+        <subject authority="lcsh">
+            <name type="personal">
+                <namePart>Horace</namePart>
+            </name>
+            <topic>Scholia</topic>
+        </subject>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/251825742</url>
+        </location>                
+        <relatedItem type="constituent" otherType="work" displayLabel="Acronis et Porphyrionis Commentarii in Q. Horatium Flaccum">
+            <identifier type="ctsurn"
+                >urn:cts:latinLit:stoa0004a.stoa001</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Commentum in Horati Carmina">
+                <identifier type="ctsurn">urn:cts:latinLit:stoa0004a.stoa001.opp-lat1</identifier>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Vol 1">
+                    <part type="volume">
+                        <detail>
+                            <number>1</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Carminum Lib I, 1 (pg. 1-6) --Carminum Lib I, 2 (pg. 7-12) --Carminum Lib I,
+                        3 (pg. 14-17) -- Carminum Lib I, 4 (pg. 18-20) -- Carminum Lib I, 5 (pg. 22-23) -- Carminum
+                        Lib I, 6 (pg. 24-26) -- Carminum I, 7 (pg. 27-31) --Carminum I, 8 (pg. 33-34) -- Carminum
+                        I, 9 (pg. 35-37) --Carminum I, 10 (pg. 38-40) -- Carminum I, 11 (pg. 41-42) -- Carminum I,
+                        12 (pg. 42-48) --Carminum I, 13 (pg. 50-52) --Carminum I, 14 (pg. 53-56) --Carminum I, 15
+                        (pg 57-61) -- Carminum I, 16 (pg. 62-65) --Carminum I, 17 (pg. 67-71) -- Carminum I, 18
+                        (pg. 73-76) -- Carminum I, 19 (pg. 77-79) --Carminum I, 20 (pg. 80-82) -- Carminum I, 21
+                        (pg. 84-85) -- Carminum I, 22 (pg. 86-90)-- Carminum I, 23 (pg. 92-94) -- Carminum I, 24
+                        (pg. 94-97) -- Carminum I, 25 (pg. 98-101) -- Carminum I, 26 (pg. 102-103) -- Carminum I,
+                        27 (pg. 104-107) -- Carminum I, 28 (pg. 108-112) -- Carminum I, 29 (pg. 114-116) --Carminum
+                        I, 30 (pg. 117-118) -- Carminum I, 31 (pg. 119-122) -- Carminum I, 32 (pg. 123-124) --
+                        Carminum I, 33 (pg. 125-127) -- Carminum I, 34 (pg. 128-130) -- Carminum I, 35 (pg.
+                        131-135) -- Carminum I, 36 (pg. 138-140) -- Carmen I, 37 (pg. 141-144) -- Carminum I, 38
+                        (pg. 146-147) -- Carminum II, 1 (pg. 149-153) -- Carminum II, 2 (pg. 157-160) -- Carminum
+                        II, 3 (pg. 162-165) -- Carminum II, 4 (pg. 167-170) -- Carminum II, 5 (pg. 171-173) --
+                        Carminum II, 6 (pg. 174-176) -- Carminum II, 7 (pg. 178-180) --Carminum II, 8 (pg. 182-184)
+                        -- Carminum II, 9 (pg. 186-188) -- Carminum II, 10 (pg. 189-191) -- Carminum II, 11 (pg.
+                        192-195) -- Carminum II, 12 (pg. 197-200)-- Carminum II, 13 (pg. 201-205) --Carminum II, 14
+                        (pg. 208-211) --Carminum II, 15 (pg. 212-214) -- Carminum II, 16 (pg. 216-220) -- Carminum
+                        II, 17 (pg. 221-224) --Carminum II, 18 (pg. 226-228) --Carminum II, 19 (pg. 231-234)
+                        --Carminum II, 20 (pg. 237-238) -- Carminum III, 1 (pg. 240-245) -- Carminum III, 2 (pg.
+                        248-252) -- Carminum III, 3 (pg. 253-261) -- Carminum III, 4 (pg. 264-274) -- Carminum III,
+                        5 (pg. 278-283) -- Carminum III, 6 (pg. 286-290) --Carminum III, 7 (pg. 293-296) --Carminum
+                        III, 8 (pg. 298-301) -- Carminum III, 9 (pg. 302-304) --Carminum III, 10 (pg. 305-307) --
+                        Carminum III, 11 (pg. 308-311) --Carminum III, 12 (pg. 313-314) -- Carminum III, 13 (pg.
+                        316) --Carminum III, 14 (pg. 317-321) --Carminum III, 15 (pg. 322-323) -- Carminum III, 16
+                        (pg. 324-328) -- Carminum III, 17 (pg. 330-332) -- Carminum III, 18 (pg. 333-335)
+                        --Carminum III, 19 (pg. 336-338) -- Carminum III, 20 (pg. 340-342) -- Carminum III, 21 (pg.
+                        343-345) -- Carminum III, 22 (pg. 346-347) --Carminum III, 23 (pg. 347-349) -- Carminum
+                        III, 24 (pg. 350-355)-- Carminum III, 25 (pg. 357-358) -- Carminum III, 26 (pg. 359-360)
+                        --Carminum III, 27 (pg. 361-366) --Carminum III, 28 (pg. 368-369) -- Carminum III, 29 (pg.
+                        370-374) -- Carminum III, 30 (pg. 376-378) --Carminum IV, 1 (pg. 380-382) -- Carminum IV, 2
+                        (pg. 384-388) -- Carminum IV, 3 (pg. 390-391) -- Carminum IV, 4 (pg. 392-396)-- Carminum
+                        IV, 5 (pg. 399-401) -- Carminum IV, 6 (pg. 402-405) -- Carminum IV, 7 (pg. 406-408)
+                        --Carminum IV, 8 (pg. 409-411) --Carminum IV, 9 (pg. 412-415) -- Carminum IV, 10 (pg.
+                        416-417) -- Carminum IV, 11 (pg. 417-419) -- Carminum IV, 12 (pg. 420-422) -- Carminum IV,
+                        13 (pg. 423-424) -- Carminum IV, 14 (pg. 425-428) -- Carminum IV, 15 (pg. 430-431) -- </tableOfContents>
+                    <part>
+                        <extent unit="pages">
+                            <start>1</start>
+                            <end>431</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="Open Content Alliance"
+                            >http://www.archive.org/details/acronisetporphyr01pseuuoft</url>
+                    </location>
+                    <location>
+                        <url displayLabel="Open Library"
+                            >http://openlibrary.org/details/acronisetporphyr01pseuuoft</url>
+                    </location>
+                    <location>
+                        <url displayLabel="GoogleBooks">http://books.google.com/books?id=zhQUAAAAQAAJ</url>
+                    </location>
+                </relatedItem>
+                <relatedItem type="constituent" otherType="structure" displayLabel="Vol 2">
+                    <part type="volume">
+                        <detail>
+                            <number>2</number>
+                        </detail>
+                    </part>
+                    <tableOfContents>Satira I, 1 (pg. 1-16) -- Satira I, 2 (pg. 24-40) --Satira I, 3 (pg. 49-65)
+                        -- Satira I, 4 (pg. 73-87) -- Satira I, 5 (pg. 95-105) -- Satira I, 6 (pg. 111-126) --
+                        Satira I, 7 (pg. 135-141) -- Satira I, 8 (pg. 144-149) --Satira I, 9 (pg. 153-161) --
+                        Satira I, 10 (pg. 167-180) -- Satira II, 1 (pg. 187-200) -- Satira II, 2 (pg. 204-224) --
+                        Satira II, 3 (pg. 231-269) -- Satira II, 4 (pg. 280-291) -- Satira II, 5 (pg. 295-307) --
+                        Satira II, 6 (pg. 308-321) --Satira II, 7 (pg. 323-336) -- Satira II, 8 (pg. 338-348) </tableOfContents>
+                    <part>
+                        <extent unit="pages">
+                            <start>1</start>
+                            <end>348</end>
+                        </extent>
+                    </part>
+                    <location>
+                        <url displayLabel="Open Content Alliance">https://archive.org/details/acronisetporphyr02pseuuoft</url>
+                    </location>
+                    <location>
+                        <url displayLabel="GoogleBooks">http://books.google.com/books?id=0TcTAAAAQAAJ</url>
+                    </location>
+                </relatedItem>
+            </relatedItem>
+        </relatedItem>     
+    </mods>
+    <mods displayLabel="Aemilius Asper">
+        <titleInfo>
+            <title>Aemilius Asper</title>
+            <subTitle>ein Beitrag zur römischen Literaturgeschichte</subTitle>
+        </titleInfo>
+        <name authority="viaf" authorityURI=" http://viaf.org/viaf/" type="personal"
+            valueURI=" http://viaf.org/viaf/45077210">
+            <namePart>Weßner, Paul</namePart>
+            <namePart type="date">1870-1933</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Halle</placeTerm>
+            </place>
+            <publisher>Buchdruckerei des Waisenhauses</publisher>
+            <dateIssued>1905</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <identifier type="oclc">24692620</identifier>
+        <identifier type="lccn"/>
+        <classification authority="lcc"/>
+        <subject authority="lcsh">
+            <topic>Asper, Aemilius</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Grammarians</topic>
+            <topic>Rome</topic>
+        </subject>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/24692620</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">https://books.google.com/books?id=xOC6itDPkQoC</url>
+        </location>        
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044085184497</url>
+        </location>
+        <relatedItem type="constituent"
+            otherType="work" displayLabel="Commentarii in Terentium Sallustium Vergilium">
+            <identifier type="ctsurn">urn:cts:latinLit:phi1363.phi001</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Commentarii in Terentium Sallustium Vergilium">
+                <identifier type="ctsurn">urn:cts:latinLit:phi1363.phi001.opp-lat1</identifier>
+                <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+                    valueURI="http://id.loc.gov/authorities/names/no2004105320">
+                    <namePart>Aemilius Asper</namePart>
+                    <role>
+                        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                    </role>
+                </name>
+                <part>
+                    <extent unit="pages">
+                        <start>45</start>
+                        <end>50</end>
+                    </extent>
+                </part>
+                <location displayLabel="HathiTrust">
+                    <url>http://hdl.handle.net/2027/hvd.32044085184497?urlappend=%3Bseq=50</url>
+                </location>
+                <location>
+                    <url displayLabel="GoogleBooks"> https://books.google.com/books?id=xOC6itDPkQoC&amp;pg=PA45
+                    </url>
+                </location>
+        </relatedItem>
+        </relatedItem>
+    </mods>
+    <!-- LEFT OFF HERE NEED TO ALTER TO STANDARD SINGLE WORK  MULTIVOLUME FORMAT NOW IN USE  -->
+    <mods displayLabel="Ammianus Marcellinus">
+        <titleInfo>
+            <title>Ammianus Marcellinus</title>
+            
+        </titleInfo>
+        <name type="personal" authority="naf"
+            xlink:href="http://errol.oclc.org/laf/n80-65875.html">
+            <namePart>Ammianus Marcellinus</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="naf"
+            xlink:href="http://errol.oclc.org/laf/n86-852297.html">
+            <namePart>Rolfe, John Carew</namePart>
+            <namePart type="date">1859-1943</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">mau</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Cambridge, Mass</placeTerm>
+            </place>
+            <publisher>Harvard university press</publisher>
+            <dateIssued>1935</dateIssued>
+            <dateModified>1963</dateModified>
+            <edition>reprint</edition>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <identifier type="lccn">36002106</identifier>
+        <identifier type="oclc">1005221</identifier>
+        <classification authority="lcc">PA6156 .A6 1935</classification>
+        <subject>
+            <geographicCode authority="marcgac">e------</geographicCode>
+            <geographicCode authority="marcgac">ff-----</geographicCode>
+            <geographicCode authority="marcgac">aw-----</geographicCode>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Rome</geographic>
+            <topic>History</topic>
+            <temporal>Empire, 284-476</temporal>
+        </subject>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/36002106</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/1005221</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/ammianusmarcelli01ammiuoft</url>
+        </location>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Volume I">
+            <part type="volume">
+                <detail type="volume">
+                    <title>Volume I</title>
+                </detail>
+            </part>
+            <tableOfContents>The surviving books of the history of Ammianus Marcellinus : Books XIV-XIX</tableOfContents>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XIV">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XV">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XVI">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XVII">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XVIII">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XIX">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+                
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="structure" displayLabel="Volume II">
+            <part type="volume">
+                <detail type="volume">
+                    <title>Volume II</title>
+                </detail>
+            </part>
+            <tableOfContents>The surviving books of the history of Ammianus Marcellinus : Books XX-XXVI</tableOfContents>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XX">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XXI">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XXII">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XVII">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XXIII">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XXVI">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+            </relatedItem>
+        </relatedItem>
+        
+        <relatedItem type="constituent" otherType="structure" displayLabel="Volume III">
+            <part type="volume">
+                <detail type="volume">
+                    <title>Volume III</title>
+                </detail>
+            </part>
+            <tableOfContents>The surviving books of the history of Ammianus Marcellinus : Books XXVII-XXXI ; Exerpta Valensia</tableOfContents>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XXVII">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XXVIII">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XXIX">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Book XXX">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+            </relatedItem>
+            <relatedItem type="constituent" otherType="work" displayLabel="Exerpta Valensia">
+                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
+                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
+            </relatedItem>
+        </relatedItem>
+    </mods>
     <mods displayLabel="Commentarii in librum Aristotelis de interpretatione">
         <titleInfo xml:lang="lat" type="uniform">
             <title>Commentarii in librum Aristotelis de interpretatione</title>
@@ -7372,14 +7744,6 @@
             <url displayLabel="Open Content Alliance"
                 >https://archive.org/details/herodianiabexce00bekkgoog</url>
         </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">790126</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20000412113150.0</recordChangeDate>
-            <recordIdentifier>6419965</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-                (Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Herodiani ab excessu divi Marci libri octo">
             <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001</identifier>
@@ -7906,7 +8270,6 @@
             </relatedItem>
         </relatedItem>
     </mods>
-<!-- LEFT OFF HERE -->
     <mods displayLabel="Patrologia Syriaca">
         <titleInfo>
             <title>Patrologia Syriaca</title>
@@ -7977,10 +8340,17 @@
                     <url displayLabel="HathiTrust"
                         >https://hdl.handle.net/2027/mdp.39015047668283</url>
                 </location>
-                <relatedItem type="constituent" otherType="work" displayLabel="Apotelesmata"><!-- NEEDS CTS URN AND 
-                MOVE TO STANDARD FORMAT-->
-                    <identifier type="tlg">0619.001</identifier>
-                    <relatedItem type="constituent" otherType="expression">
+                <relatedItem type="constituent" otherType="work" displayLabel="Apotelesmata">
+                    <identifier type="ctsurn">urn:cts:greekLit:tlg0619.tlg001</identifier>
+                    <relatedItem type="constituent" otherType="expression">                        
+                        <identifier type="ctsurn">urn:cts:greekLit:tlg0619.tlg001.opp-grc1</identifier>
+                        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/25393339">
+                            <namePart>Apollonius</namePart>
+                            <namePart type="termsOfAddress">of Tyana</namePart>
+                            <role>
+                                <roleTerm type="text">creator</roleTerm>
+                            </role>
+                        </name>
                         <part>
                             <extent unit="pages">
                                 <start>1372</start>
@@ -8069,10 +8439,11 @@
         </location>
         
         <relatedItem type="constituent" otherType="work" displayLabel="Peri aneimenou libellus">
-            <identifier type="rhg">rhg0001.rhg001</identifier>
-            <!-- NEEDS CTS URN -->
+            <identifier type="ctsurn">urn:cts:greekLit:rhg0001.rhg001</identifier>
             <relatedItem type="constituent" otherType="expression"
-                displayLabel="Peri aneimenou libellus"> </relatedItem>
+                displayLabel="Peri aneimenou libellus">
+                <identifier type="ctsurn">urn:cts:greekLit:rhg0001.rhg001.opp-grc1</identifier>
+            </relatedItem>
         </relatedItem>
     </mods>
     
@@ -8123,8 +8494,7 @@
             otherType="work" displayLabel="De Medicina">
             <identifier type="ctsurn">urn:cts:latinLit:phi1380.phi001</identifier>
             <relatedItem type="constituent" otherType="expression"
-                displayLabel="De Medicina">
-                
+                displayLabel="De Medicina">                
                 <identifier type="ctsurn">urn:cts:latinLit:phi1380.phi001.opp-lat1</identifier>
                 <part>
                     <extent unit="pages">
@@ -8231,7 +8601,6 @@
         </relatedItem>
     </mods> 
     
-
     <mods displayLabel="Quae Fertur In Aristotelis Analyticorum Priorum Librum I">
         <titleInfo xml:lang="en" type="uniform">
             <title>Quae Fertur In Aristotelis Analyticorum Priorum Librum I</title>
@@ -8259,8 +8628,7 @@
         <titleInfo type="abbreviated" authority="lsj">
             <title>Them. in APr</title>
         </titleInfo>
-        <identifier type="oclc">301534170</identifier>
-        
+        <identifier type="oclc">301534170</identifier>        
         <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
@@ -8277,8 +8645,7 @@
             <form authority="marcform">print</form>
             <digitalOrigin>digitized other analog</digitalOrigin>
         </physicalDescription>
-        <classification authority="lcc">PA3902 A25</classification>        
-        
+        <classification authority="lcc">PA3902 A25</classification>                
         <location>
             <url displayLabel="WorldCat">http://www.worldcat.org/oclc/301534170</url>
         </location>
@@ -8331,8 +8698,7 @@
         </relatedItem>        
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        
+        </language>        
         <subject authority="lcsh">
             <topic>Aristotle,</topic>
             <temporal>384-322 B.C.</temporal>
@@ -8354,7 +8720,6 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean">
         <titleInfo>
             <title>Une deuxième apocalypse apocryphe grecque de saint Jean</title>
@@ -8400,29 +8765,19 @@
         </location>
         <location>
             <url displayLabel="HathiTrust">https://hdl.handle.net/2027/mdp.39015034791916</url>
-        </location>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Apocalypsis apocrypha Joannis (versio altera)</title>
-            </titleInfo>
+        </location>        
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Apocalypsis apocrypha Joannis (versio altera)">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg1158.tlg002</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg1158.tlg002.opp-grc1</identifier>
             <name type="personal">
                 <namePart>Apocalypsis Joannis</namePart>
                 <role>
                     <roleTerm type="text">creator</roleTerm>
                 </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/22216393">
-                <namePart>Nau, François</namePart>
-                <namePart type="date">1864-1931</namePart>
-                <role>
-                    <roleTerm type="text">editor</roleTerm>
-                </role>
-            </name>
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            
+            </name>            
             <part>
                 <extent unit="pages">
                     <start>215</start>
@@ -8433,15 +8788,7 @@
                 <url displayLabel="HathiTrust"
                     >http://hdl.handle.net/2027/mdp.39015034791916?urlappend=%3Bseq=234</url>
             </location>
-        </relatedItem>
-        
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean">
-            <identifier type="tlg">1158.002</identifier><!-- NEED URN AND CORRECTED WORK TITLE SINCE THE CORRECT WORK IS THE ONE ABOVE
-            APCOALPYSIS JOANNIS-->
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Une deuxième apocalypse apocryphe grecque de saint Jean"
-            > </relatedItem>
+            </relatedItem>
         </relatedItem>
     </mods>
 
@@ -8665,367 +9012,7 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
-    <mods displayLabel="Davidis prolegomena et in Porphyrii isagogen commentarium"><!-- ERROR-MULTI VOLUME WORK NEED
-    TO MOVE TO INVERTED-->
-        <titleInfo>
-            <title>Davidis prolegomena et in Porphyrii isagogen commentarium</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/14779150/">
-            <namePart>David</namePart>
-            <namePart type="termsOfAddress">the Invincible</namePart>
-            <role>
-                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/98427196/">
-            <namePart>Busse, Adolf</namePart>
-            <namePart type="date">1856-1942</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Berlin</placeTerm>
-            </place>
-            <publisher>typ. et impensis G. Reimeri</publisher>
-            <dateIssued>1904</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="preface">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xxiv, 235 pages ; 26 cm.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <subject authority="lcsh">
-            <topic>Porphyry,</topic>
-            <temporal>234-305 A.D.</temporal>
-            <topic>Isagoge</topic>
-        </subject>
-        <identifier type="oclc">222433944</identifier>
-        <location>
-            <url displayLabel="WorldCat"
-                >http://www.worldcat.org/title/davidis-prolegomena-et-in-porphyrii-isagogen-commentarium/oclc/222433944</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/stream/commentariaina18pt13akaduoft#page/n331/mode/2up</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust"
-                >https://hdl.handle.net/2027/njp.32101075724144?urlappend=%3Bseq=332</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=FecUAAAAQAA</url>
-        </location>
-        <relatedItem type="constituent"><!-- NEED URNS AND MOVE TO STANDARD FORMS -->
-            <titleInfo>
-                <title>Prolegomena philosophiae</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/14779150/">
-                <namePart>David</namePart>
-                <namePart type="termsOfAddress">the Invincible</namePart>
-                <role>
-                    <roleTerm type="text" authority="marcrelator">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/98427196/">
-                <namePart>Busse, Adolf</namePart>
-                <namePart type="date">1856-1942</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <identifier type="tlg">4021.001</identifier>
-            <!--   <identifier type="tlg" displayLabel="isCommentaryOn"></identifier> -->
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>1</start>
-                    <end>79</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >http://www.archive.org/stream/commentariaina18pt13akaduoft#page/n353/mode/2up</url>
-            </location>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/njp.32101075724144?urlappend=%3Bseq=354</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="constituent"><!-- NEED URNS AND MOVE TO STANDARD FORMS -->
-            <titleInfo>
-                <title>In Porphyrii isagogen commentarium</title>
-            </titleInfo>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/14779150/">
-                <namePart>David</namePart>
-                <namePart type="termsOfAddress">the Invincible</namePart>
-                <role>
-                    <roleTerm type="text" authority="marcrelator">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/98427196/">
-                <namePart>Busse, Adolf</namePart>
-                <namePart type="date">1856-1942</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
-            <identifier type="tlg">4021.002</identifier>
-            <!--   <identifier type="tlg" displayLabel="isCommentaryOn"></identifier> -->
-            <language objectPart="text">
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <part>
-                <extent unit="pages">
-                    <start>80</start>
-                    <end>219</end>
-                </extent>
-            </part>
-            <location>
-                <url displayLabel="Open Content Alliance"
-                    >http://www.archive.org/stream/commentariaina18pt13akaduoft#page/n435/mode/2up</url>
-            </location>
-            <location>
-                <url displayLabel="HathiTrust"
-                    >https://hdl.handle.net/2027/njp.32101075724144?urlappend=%3Bseq=436</url>
-            </location>
-        </relatedItem>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Commentaria in Aristotelem graeca</title>
-                <subTitle>Edita consilio et auctoritate Academiae litterarum regiae
-                    borussicae</subTitle>
-                <partNumber>Vol 18</partNumber>
-                <partNumber>Pars 2</partNumber>
-            </titleInfo>
-            <name type="corporate">
-                <namePart>Akademie der Wissenschaften, Berlin</namePart>
-            </name>
-            <typeOfResource>text</typeOfResource>
-            <originInfo>
-                <place>
-                    <placeTerm type="text">Berolini</placeTerm>
-                </place>
-                <publisher>Typ. et impensis G. Reimeri</publisher>
-                <dateIssued>1904</dateIssued>
-                <issuance>monographic</issuance>
-            </originInfo>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-            </language>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <physicalDescription>
-                <form authority="marcform">print</form>
-            </physicalDescription>
-            <note type="additional physical form">Digitized and made available by: University of
-                Toronto Libraries</note>
-            <subject authority="lcsh">
-                <name type="personal">
-                    <namePart>Aristotle</namePart>
-                </name>
-                <topic>Commentaries</topic>
-            </subject>
-            <classification authority="lcc">PA3902 A25</classification>
-        </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OTU</recordContentSource>
-            <recordCreationDate encoding="marc">670101</recordCreationDate>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
-        <relatedItem type="constituent" otherType="work"
-            displayLabel="Davidis prolegomena et in Porphyrii isagogen commentarium">
-
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Davidis prolegomena et in Porphyrii isagogen commentarium"
-            > </relatedItem>
-        </relatedItem>
-    </mods>
-
-    <mods displayLabel="Eliae in Porphyrii isagogen et Aristotelis categorias commentaria"><!-- ERROR NEED TO MOVE TO INVERTED-MULI AUTHOR/WORKS -->
-        <titleInfo>
-            <title>Eliae in Porphyrii isagogen et Aristotelis categorias commentaria</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/2147118089326340297/">
-            <namePart>Elias</namePart>
-            <namePart type="termsOfAddress">Neoplatonicus</namePart>
-            <role>
-                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/98427196/">
-            <namePart>Busse, Adolf</namePart>
-            <namePart type="date">1856-1942</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Berlin</placeTerm>
-            </place>
-            <publisher>typ. et impensis G. Reimeri</publisher>
-            <dateIssued>1900</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="preface">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xxii, 288 pages ; 26 cm.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <classification authority="lcc">PA3902 A25</classification>
-        <classification authority="ddc"/>
-        <identifier type="oclc">75481841</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/75481841</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/commentariaina18pt13akaduoft</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=FecUAAAAQAAJ</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.aa0008103608</url>
-        </location>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Commentaria in Aristotelem graeca</title>
-                <subTitle>Edita consilio et auctoritate Academiae litterarum regiae
-                    borussicae</subTitle>
-                <partNumber>Vol 18</partNumber>
-                <partNumber>Pars 1</partNumber>
-            </titleInfo>
-            <name type="corporate">
-                <namePart>Akademie der Wissenschaften, Berlin</namePart>
-            </name>
-            <typeOfResource>text</typeOfResource>
-            <originInfo>
-                <place>
-                    <placeTerm type="text">Berolini</placeTerm>
-                </place>
-                <publisher>Typ. et impensis G. Reimeri</publisher>
-                <dateIssued>1900</dateIssued>
-                <issuance>monographic</issuance>
-            </originInfo>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-            </language>
-            <language>
-                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-            </language>
-            <physicalDescription>
-                <form authority="marcform">print</form>
-            </physicalDescription>
-            <note type="additional physical form">Digitized and made available by: University of
-                Toronto Libraries</note>
-            <subject authority="lcsh">
-                <name type="personal">
-                    <namePart>Aristotle</namePart>
-                </name>
-                <topic>Commentaries</topic>
-            </subject>
-            <classification authority="lcc">PA3902 A25</classification>
-        </relatedItem>
-        
-        <relatedItem type="constituent" otherType="work" displayLabel="In Porphyrii isagogen"><!-- NEEDS URNS AND STANDARD
-        FORMAT-->
-            <identifier type="tlg">4020.001</identifier>
-            <relatedItem type="constituent" otherType="expression">
-                <part>
-                    <extent unit="pages">
-                        <start>1</start>
-                        <end>104</end>
-                    </extent>
-                </part>
-                <location>
-                    <url displayLabel="Open Content Alliance"
-                        >https://archive.org/stream/commentariaina18pt13akaduoft#page/n37/mode/2up</url>
-                </location>
-                <location>
-                    <url displayLabel="HathiTrust"
-                        >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=40</url>
-                </location>
-            </relatedItem>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="work" displayLabel="Eliae (olim Davidis) in Aristotelis categorias commentarium">
-            <identifier type="tlg">4020.002</identifier>
-            <relatedItem type="constituent" otherType="expression">
-                <part>
-                    <extent unit="pages">
-                        <start>107</start>
-                        <end>255</end>
-                    </extent>
-                </part>
-                <location>
-                    <url displayLabel="Open Content Alliance"
-                        >https://archive.org/stream/commentariaina18pt13akaduoft#page/n143/mode/2up</url>
-                </location>
-                <location>
-                    <url displayLabel="HathiTrust"
-                        >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=144</url>
-                </location>
-            </relatedItem>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="work" displayLabel="In Aristotelis categorias commentarium">
-            <identifier type="tlg">4021.003</identifier>
-            <relatedItem type="constituent" otherType="expression"><!-- Second record for David the Armeniana -->
-                <part>
-                    <extent unit="pages">
-                        <start>107</start>
-                        <end>255</end>
-                    </extent>
-                </part>
-                <location>
-                    <url displayLabel="Open Content Alliance"
-                        >https://archive.org/stream/commentariaina18pt13akaduoft#page/n143/mode/2up</url>
-                </location>
-                <location>
-                    <url displayLabel="HathiTrust"
-                        >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=144</url>
-                </location>
-            </relatedItem>
-        </relatedItem>
-        
-    </mods>
-
+    
     <mods displayLabel="Eudociae Augustae Violarium">
         <titleInfo>
             <title>Eudociae Augustae Violarium</title>
@@ -9086,7 +9073,6 @@
                 <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
             </titleInfo>
         </relatedItem>
-
         <identifier type="lccn">34018609</identifier>
         <identifier type="oclc">2551636</identifier>
         <identifier type="oca">eudociaeaugustae00palauoft</identifier>
@@ -9108,20 +9094,13 @@
         <location>
             <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.b4033900</url>
         </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OTV</recordContentSource>
-            <recordCreationDate encoding="marc">880815</recordCreationDate>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
         <relatedItem type="constituent" otherType="work" displayLabel="Eudociae Augustae Violarium">
-            <identifier type="tlg">2766a.001</identifier>
+            <identifier type="ctsurn">urn:cts:greekLit:tlg2766a.tlg001</identifier>
             <relatedItem type="constituent" otherType="expression"
-                displayLabel="Eudociae Augustae Violarium"> </relatedItem>
-        </relatedItem><!-- NEED CTS URN -->
+                displayLabel="Eudociae Augustae Violarium"> 
+                <identifier type="ctsurn">urn:cts:greekLit:tlg2766a.tlg001.opp-grc1</identifier></relatedItem>
+        </relatedItem>
     </mods>
-
     <mods displayLabel="In Aristotelis Categorias Commentarium">
         <titleInfo type="uniform" lang="lat">
             <title>In Aristotelis Categorias Commentarium</title>
@@ -9175,8 +9154,6 @@
         </subject>
         <classification authority="lcc">PA3902 A25</classification>
         <identifier type="oclc">299723573</identifier>
-        
-        <identifier type="ctsurn">urn:cts:greekLit:tlg4013.tlg003.opp-grc1</identifier>
         <!-- 
    <identifier type="tlg" displayLabel="isCommentaryOn">0086.006</identifier> -->
         <location>
@@ -9228,13 +9205,6 @@
             </subject>
             <classification authority="lcc">PA3902 A25</classification>
         </relatedItem>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OTU</recordContentSource>
-            <recordCreationDate encoding="marc">670101</recordCreationDate>
-            <languageOfCataloging>
-                <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-            </languageOfCataloging>
-        </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="In Aristotelis Categorias Commentarium">
             <identifier type="tlg">4013.003</identifier>
@@ -9351,8 +9321,7 @@
                 <topic>Commentaries</topic>
             </subject>
             <classification authority="lcc">PA3902 A25</classification>
-        </relatedItem>
-        
+        </relatedItem>        
         <relatedItem type="constituent" otherType="work"
             displayLabel="In Aristotelis quattuor libros de caelo commentaria">
             <identifier type="tlg">4013.001</identifier>
@@ -9363,7 +9332,6 @@
             </relatedItem>
         </relatedItem>
     </mods>
-
     <mods displayLabel="Astronomica">
         <titleInfo type="uniform">
             <title>Astronomica</title>
@@ -9435,12 +9403,13 @@
         </location>
         <location>
             <url displayLabel="PHI">http://latin.packhum.org/loc/899/1/0</url>
-        </location>
-        
+        </location>        
         <relatedItem type="constituent" otherType="work" displayLabel="Astronomica">
-            <identifier type="phi">899.1</identifier>
+            <identifier type="ctsurn">urn:cts:latinLit:phi0899.phi001</identifier>
             <relatedItem type="constituent" otherType="expression" displayLabel="Astronomica"
-            > </relatedItem><!-- NEEDS CTS URNS -->
+            > 
+                <identifier type="ctsurn">urn:cts:latinLit:phi0899.phi001.opp-lat2</identifier>
+            </relatedItem>
         </relatedItem>
     </mods>
 </modsCollection>

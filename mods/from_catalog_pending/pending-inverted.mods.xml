@@ -1,300 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Generated from pending-embedded.mods.xml with invertedhosts2.xq on 12/07/2018 -->
-<!-- This also pulled in the folder Perseus Reference Works-not sure if should delete or leave in here -->
-<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3">
-        <mods displayLabel="Acronis et Porphyrionis Commentarii in Q. Horatium Flaccum">
-        <titleInfo>
-            <title>Acronis et Porphyrionis Commentarii in Q. Horatium Flaccum</title>
-        </titleInfo>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr97-44694.html">
-            <namePart>Pseudo-Acro</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr97-44688.html">
-            <namePart>Pomponius Porphyrio</namePart>
-            <namePart type="date">3rd cent</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" xlink:href="http://viaf.org/viaf/20033428">
-            <namePart>Hauthal, Ferdinand</namePart>
-            <namePart type="date">1803-1870</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Berolinum</placeTerm>
-            </place>
-            <publisher>Springer</publisher>
-            <dateIssued>1864</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <identifier type="oclc">251825742</identifier>
-        <identifier type="lccn"/>
-        <identifier type="oca">acronisetporphyr01pseuuoft</identifier>
-        <subject authority="lcsh">
-            <name type="personal">
-                <namePart>Horace</namePart>
-            </name>
-            <topic>Scholia</topic>
-        </subject>
-                <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/251825742</url>
-        </location>                
-        <relatedItem type="constituent" otherType="work" displayLabel="Acronis et Porphyrionis Commentarii in Q. Horatium Flaccum">
-            <identifier type="ctsurn"
-                >urn:cts:latinLit:stoa0004a.stoa001</identifier>
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Commentum in Horati Carmina">
-                <identifier type="ctsurn">urn:cts:latinLit:stoa0004a.stoa001.opp-lat1</identifier>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Vol 1">
-                    <part type="volume">
-                        <detail>
-                            <number>1</number>
-                        </detail>
-                    </part>
-                    <location>
-                        <url displayLabel="Open Content Alliance"
-                            >http://www.archive.org/details/acronisetporphyr01pseuuoft</url>
-                    </location>
-                    <location>
-                        <url displayLabel="Open Library"
-                            >http://openlibrary.org/details/acronisetporphyr01pseuuoft</url>
-                    </location>
-                    <location>
-                        <url displayLabel="GoogleBooks">http://books.google.com/books?id=zhQUAAAAQAAJ</url>
-                    </location>
-                </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Vol 2">
-                    <part type="volume">
-                        <detail>
-                            <number>2</number>
-                        </detail>
-                    </part>
-                    <location>
-                        <url displayLabel="Open Content Alliance">https://archive.org/details/acronisetporphyr02pseuuoft</url>
-                    </location>
-                </relatedItem>
-            </relatedItem>
-        </relatedItem>     
-    </mods>
-    
-    <mods displayLabel="Aemilius Asper">
-        <titleInfo>
-            <title>Aemilius Asper</title>
-            <subTitle>ein Beitrag zur römischen Literaturgeschichte</subTitle>
-        </titleInfo>
-        <name authority="viaf" authorityURI=" http://viaf.org/viaf/" type="personal"
-            valueURI=" http://viaf.org/viaf/45077210">
-            <namePart>Weßner, Paul</namePart>
-            <namePart type="date">1870-1933</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Halle</placeTerm>
-            </place>
-            <publisher>Buchdruckerei des Waisenhauses</publisher>
-            <dateIssued>1905</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <identifier type="oclc">24692620</identifier>
-        <identifier type="lccn"/>
-        <classification authority="lcc"/>
-        <subject authority="lcsh">
-            <topic>Asper, Aemilius</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Grammarians</topic>
-            <topic>Rome</topic>
-        </subject>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/24692620</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">https://books.google.com/books?id=xOC6itDPkQoC</url>
-        </location>
-        
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044085184497</url>
-        </location>
-        <relatedItem type="constituent"
-            otherType="work" displayLabel="Commentarii in Terentium Sallustium Vergilium">
-            <relatedItem type="constituent" otherType="expression"
-                displayLabel="Commentarii in Terentium Sallustium Vergilium"/>
-        </relatedItem>
-    </mods>
-
-    <mods displayLabel="Ammianus Marcellinus">
-        <titleInfo>
-            <title>Ammianus Marcellinus</title>
-            
-        </titleInfo>
-        <name type="personal" authority="naf"
-            xlink:href="http://errol.oclc.org/laf/n80-65875.html">
-            <namePart>Ammianus Marcellinus</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name type="personal" authority="naf"
-            xlink:href="http://errol.oclc.org/laf/n86-852297.html">
-            <namePart>Rolfe, John Carew</namePart>
-            <namePart type="date">1859-1943</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge, Mass</placeTerm>
-            </place>
-            <publisher>Harvard university press</publisher>
-            <dateIssued>1935</dateIssued>
-            <dateModified>1963</dateModified>
-            <edition>reprint</edition>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <identifier type="lccn">36002106</identifier>
-        <identifier type="oclc">1005221</identifier>
-        <classification authority="lcc">PA6156 .A6 1935</classification>
-        <subject>
-            <geographicCode authority="marcgac">e------</geographicCode>
-            <geographicCode authority="marcgac">ff-----</geographicCode>
-            <geographicCode authority="marcgac">aw-----</geographicCode>
-        </subject>
-        <subject authority="lcsh">
-            <geographic>Rome</geographic>
-            <topic>History</topic>
-            <temporal>Empire, 284-476</temporal>
-        </subject>
-        <location>
-            <url displayLabel="LC Permalink">http://lccn.loc.gov/36002106</url>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/1005221</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/ammianusmarcelli01ammiuoft</url>
-        </location>
-        <relatedItem type="constituent" otherType="structure" displayLabel="Volume I">
-            <part type="volume">
-                <detail type="volume">
-                    <title>Volume I</title>
-                </detail>
-            </part>
-            <tableOfContents>The surviving books of the history of Ammianus Marcellinus : Books XIV-XIX</tableOfContents>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XIV">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XV">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XVI">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XVII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XVIII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XIX">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-                
-            </relatedItem>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="structure" displayLabel="Volume II">
-            <part type="volume">
-                <detail type="volume">
-                    <title>Volume II</title>
-                </detail>
-            </part>
-            <tableOfContents>The surviving books of the history of Ammianus Marcellinus : Books XX-XXVI</tableOfContents>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XX">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXI">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XVII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXIII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXVI">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-        </relatedItem>
-        
-        <relatedItem type="constituent" otherType="structure" displayLabel="Volume III">
-            <part type="volume">
-                <detail type="volume">
-                    <title>Volume III</title>
-                </detail>
-            </part>
-            <tableOfContents>The surviving books of the history of Ammianus Marcellinus : Books XXVII-XXXI ; Exerpta Valensia</tableOfContents>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXVII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXVIII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXIX">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXX">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Exerpta Valensia">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-        </relatedItem>
-    </mods>
-    
+<!-- Pulled all reference works-->
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3">        
     <!-- This should be appended to existing record -->
     <mods displayLabel="Anthologia lyrica">
         <titleInfo>
@@ -1032,21 +739,6 @@
             <titleInfo>
                 <title>Aristides</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo003</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1066,21 +758,6 @@
             <titleInfo>
                 <title>Pausanias</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo004</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1100,21 +777,6 @@
             <titleInfo>
                 <title>Cimon</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo005</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1134,21 +796,6 @@
             <titleInfo>
                 <title>Lysander</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo006</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1168,21 +815,6 @@
             <titleInfo>
                 <title>Alcibiades</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo007</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1202,21 +834,6 @@
             <titleInfo>
                 <title>Thrasybulus</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo008</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1236,21 +853,6 @@
             <titleInfo>
                 <title>Conon</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo009</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1270,21 +872,6 @@
             <titleInfo>
                 <title>Dion</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo010</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1304,21 +891,6 @@
             <titleInfo>
                 <title>Iphicrates</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">urn:cts:latinLit:phi0588.abo011</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1338,21 +910,6 @@
             <titleInfo>
                 <title>Chabrias</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo012</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1372,21 +929,6 @@
             <titleInfo>
                 <title>Timotheus</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo013</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1406,21 +948,6 @@
             <titleInfo>
                 <title>Datames</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo014</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1440,21 +967,6 @@
             <titleInfo>
                 <title>Epaminondas</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo015</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1474,21 +986,6 @@
             <titleInfo>
                 <title>Pelopidas</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo016</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1508,21 +1005,7 @@
             <titleInfo>
                 <title>Agesilaus</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
+
             <identifier type="Perseus:abo">phi0588.abo017</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1542,21 +1025,6 @@
             <titleInfo>
                 <title>Eumenes</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo018</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1576,21 +1044,6 @@
             <titleInfo>
                 <title>Phocion</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo019</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1610,21 +1063,6 @@
             <titleInfo>
                 <title>Timoleon</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo020</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1644,21 +1082,6 @@
             <titleInfo>
                 <title>Reges</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo021</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1678,21 +1101,6 @@
             <titleInfo>
                 <title>Hamilcar</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo022</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1712,21 +1120,6 @@
             <titleInfo>
                 <title>Hannibal</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo023</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1746,21 +1139,6 @@
             <titleInfo>
                 <title>Cato</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo024</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1780,21 +1158,6 @@
             <titleInfo>
                 <title>Atticus</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="Perseus:abo">phi0588.abo025</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1814,21 +1177,6 @@
             <titleInfo>
                 <title>Chronica</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="stoa author-text">stoa0210-stoa001</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1848,21 +1196,6 @@
             <titleInfo>
                 <title>Exempla</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="stoa author-text">stoa0210-stoa005</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1882,21 +1215,6 @@
             <titleInfo>
                 <title>De Vita M. Tulli Ciceronis</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="stoa author-text">stoa0210-stoa006</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1916,21 +1234,6 @@
             <titleInfo>
                 <title>Epistulae ad Ciceronem</title>
             </titleInfo>
-            <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
-                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
-                <namePart>Nepos, Cornelius</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-                </role>
-            </name>
-            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-                valueURI="http://viaf.org/viaf/9862890">
-                <namePart>Marshall, Peter K.</namePart>
-                <namePart type="date">1934-2001</namePart>
-                <role>
-                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-                </role>
-            </name>
             <identifier type="stoa author-text">stoa0210-stoa004</identifier>
             <language objectPart="text">
                 <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1947,19 +1250,164 @@
             </location>
         </relatedItem>
 
-        <recordInfo>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">790124</recordCreationDate>
-            <recordChangeDate encoding="iso8601">20060615101658.0</recordChangeDate>
-            <recordIdentifier>1804069</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-                (Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
         <relatedItem type="constituent" otherType="work"
             displayLabel="Cornelii Nepotis Vitae cum fragmentis">
 
             <relatedItem type="constituent" otherType="expression"
                 displayLabel="Cornelii Nepotis Vitae cum fragmentis"> </relatedItem>
+        </relatedItem>
+    </mods>
+    <mods displayLabel="Davidis prolegomena et in Porphyrii isagogen commentarium">
+        <titleInfo>
+            <title>Davidis prolegomena et in Porphyrii isagogen commentarium</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/14779150/">
+            <namePart>David</namePart>
+            <namePart type="termsOfAddress">the Invincible</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/98427196/">
+            <namePart>Busse, Adolf</namePart>
+            <namePart type="date">1856-1942</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Berlin</placeTerm>
+            </place>
+            <publisher>typ. et impensis G. Reimeri</publisher>
+            <dateIssued>1904</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="preface">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xxiv, 235 pages ; 26 cm.</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <subject authority="lcsh">
+            <topic>Porphyry,</topic>
+            <temporal>234-305 A.D.</temporal>
+            <topic>Isagoge</topic>
+        </subject>
+        <identifier type="oclc">222433944</identifier>
+        <location>
+            <url displayLabel="WorldCat"
+                >http://www.worldcat.org/title/davidis-prolegomena-et-in-porphyrii-isagogen-commentarium/oclc/222433944</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/commentariaina18pt13akaduoft#page/n331/mode/2up</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/njp.32101075724144?urlappend=%3Bseq=332</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=FecUAAAAQAA</url>
+        </location>
+        <relatedItem type="constituent" otherType="work" displayLabel="Prolegomena Philosophiae">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg4021.tlg001</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Prolegomena Philosophiae">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg4021.tlg001.opp-grc1</identifier>
+            <titleInfo>
+                <title>Prolegomena philosophiae</title>
+            </titleInfo>
+            <part>
+                <extent unit="pages">
+                    <start>1</start>
+                    <end>79</end>
+                </extent>
+            </part>
+            <location>
+                <url displayLabel="Open Content Alliance"
+                    >http://www.archive.org/stream/commentariaina18pt13akaduoft#page/n353/mode/2up</url>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust"
+                    >https://hdl.handle.net/2027/njp.32101075724144?urlappend=%3Bseq=354</url>
+            </location>
+                <location displayLabel="First1KGreek">https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg4021/tlg001/tlg4021.tlg001.opp-grc1.xml</location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="In Porphyrii isagogen commentarium">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg4021.tlg002</identifier>
+            <relatedItem type="constituent" otherType="expression" displayLabel="In Porphyrii isagogen commentarium">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg4021.tlg002.opp-grc1</identifier>
+            <titleInfo>
+                <title>In Porphyrii isagogen commentarium</title>
+            </titleInfo>
+            <part>
+                <extent unit="pages">
+                    <start>80</start>
+                    <end>219</end>
+                </extent>
+            </part>
+            <location>
+                <url displayLabel="Open Content Alliance"
+                    >http://www.archive.org/stream/commentariaina18pt13akaduoft#page/n435/mode/2up</url>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust"
+                    >https://hdl.handle.net/2027/njp.32101075724144?urlappend=%3Bseq=436</url>
+            </location>
+                <location displayLabel="First1KGreek">https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg4021/tlg001/tlg4021.tlg002.opp-grc1.xml</location>
+        </relatedItem>
+        </relatedItem>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Commentaria in Aristotelem graeca</title>
+                <subTitle>Edita consilio et auctoritate Academiae litterarum regiae
+                    borussicae</subTitle>
+                <partNumber>Vol 18</partNumber>
+                <partNumber>Pars 2</partNumber>
+            </titleInfo>
+            <name type="corporate">
+                <namePart>Akademie der Wissenschaften, Berlin</namePart>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="text">Berolini</placeTerm>
+                </place>
+                <publisher>Typ. et impensis G. Reimeri</publisher>
+                <dateIssued>1904</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+            </physicalDescription>
+            <note type="additional physical form">Digitized and made available by: University of
+                Toronto Libraries</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Aristotle</namePart>
+                </name>
+                <topic>Commentaries</topic>
+            </subject>
+            <classification authority="lcc">PA3902 A25</classification>
         </relatedItem>
     </mods>
     <mods displayLabel="De architectura libri decem">
@@ -2393,6 +1841,182 @@
             </relatedItem>
         </relatedItem>
     </mods>
+    <mods displayLabel="Eliae in Porphyrii isagogen et Aristotelis categorias commentaria">
+        <titleInfo>
+            <title>Eliae in Porphyrii isagogen et Aristotelis categorias commentaria</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/2147118089326340297/">
+            <namePart>Elias</namePart>
+            <namePart type="termsOfAddress">Neoplatonicus</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/98427196/">
+            <namePart>Busse, Adolf</namePart>
+            <namePart type="date">1856-1942</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Berlin</placeTerm>
+            </place>
+            <publisher>typ. et impensis G. Reimeri</publisher>
+            <dateIssued>1900</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="preface">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xxii, 288 pages ; 26 cm.</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <classification authority="lcc">PA3902 A25</classification>
+        <classification authority="ddc"/>
+        <identifier type="oclc">75481841</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/75481841</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/commentariaina18pt13akaduoft</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=FecUAAAAQAAJ</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.aa0008103608</url>
+        </location>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Commentaria in Aristotelem graeca</title>
+                <subTitle>Edita consilio et auctoritate Academiae litterarum regiae
+                    borussicae</subTitle>
+                <partNumber>Vol 18</partNumber>
+                <partNumber>Pars 1</partNumber>
+            </titleInfo>
+            <name type="corporate">
+                <namePart>Akademie der Wissenschaften, Berlin</namePart>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="text">Berolini</placeTerm>
+                </place>
+                <publisher>Typ. et impensis G. Reimeri</publisher>
+                <dateIssued>1900</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+            </language>
+            <language>
+                <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+            </physicalDescription>
+            <note type="additional physical form">Digitized and made available by: University of
+                Toronto Libraries</note>
+            <subject authority="lcsh">
+                <name type="personal">
+                    <namePart>Aristotle</namePart>
+                </name>
+                <topic>Commentaries</topic>
+            </subject>
+            <classification authority="lcc">PA3902 A25</classification>
+        </relatedItem>
+        
+        <relatedItem type="constituent" otherType="work" displayLabel="In Porphyrii isagogen">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg4020.tlg001</identifier>    
+            <relatedItem type="constituent" otherType="expression">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg4020.tlg001.opp-grc1</identifier> 
+                <part>
+                    <extent unit="pages">
+                        <start>1</start>
+                        <end>104</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >https://archive.org/stream/commentariaina18pt13akaduoft#page/n37/mode/2up</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=40</url>
+                </location>
+                <location>
+                    <url displayLabel="First1KGreek">https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg4020/tlg001/tlg4020.tlg001.opp-grc1.xml</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="Eliae (olim Davidis) in Aristotelis categorias commentarium">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg4020.tlg002</identifier>   
+            <relatedItem type="constituent" otherType="expression" displayLabel="Eliae (olim Davidis) in Aristotelis categorias commentarium">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg4020.tlg002.opp-grc1</identifier> 
+                <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+                    valueURI="http://viaf.org/viaf/2147118089326340297/">
+                    <namePart>Elias</namePart>
+                    <namePart type="termsOfAddress">Neoplatonicus</namePart>
+                    <role>
+                        <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+                    </role>
+                </name>
+                <part>
+                    <extent unit="pages">
+                        <start>107</start>
+                        <end>255</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >https://archive.org/stream/commentariaina18pt13akaduoft#page/n143/mode/2up</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=144</url>
+                </location>
+                <location>
+                    <url displayLabel="First1KGreek">https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg4020/tlg001/tlg4020.tlg002.opp-grc1.xml</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        <relatedItem type="constituent" otherType="work" displayLabel="In Aristotelis categorias commentarium">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg4021.tlg003</identifier>
+            <relatedItem type="constituent" otherType="expression"><!-- Second record for David the Armenian attribution -->
+                <identifier type="ctsurn">urn:cts:greekLit:tlg4021.tlg003.opp-grc1</identifier>
+                <part>
+                    <extent unit="pages">
+                        <start>107</start>
+                        <end>255</end>
+                    </extent>
+                </part>
+                <location>
+                    <url displayLabel="Open Content Alliance"
+                        >https://archive.org/stream/commentariaina18pt13akaduoft#page/n143/mode/2up</url>
+                </location>
+                <location>
+                    <url displayLabel="HathiTrust"
+                        >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=144</url>
+                </location>
+            </relatedItem>
+        </relatedItem>
+        
+    </mods>
+    
     <!-- APPEND TO EXISTING RECORD -->
     <mods displayLabel="Epicorum graecorum fragmenta">
         <titleInfo>
@@ -6202,6 +5826,7 @@
                 displayLabel="Fragmenta Epicharmi"/>
         </relatedItem>
     </mods>
+    
     <mods displayLabel="Symposion 1990">
         <titleInfo>
             <title>Symposion 1990</title>
