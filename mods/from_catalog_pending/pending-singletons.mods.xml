@@ -1835,161 +1835,7 @@
         </relatedItem>
         </relatedItem>
     </mods>
-    <!-- LEFT OFF HERE NEED TO ALTER TO STANDARD SINGLE WORK  MULTIVOLUME FORMAT NOW IN USE  -->
-    <mods displayLabel="Ammianus Marcellinus">
-        <titleInfo>
-            <title>Ammianus Marcellinus</title>
-            
-        </titleInfo>
-        <name type="personal" authority="naf"
-            xlink:href="http://errol.oclc.org/laf/n80-65875.html">
-            <namePart>Ammianus Marcellinus</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name type="personal" authority="naf"
-            xlink:href="http://errol.oclc.org/laf/n86-852297.html">
-            <namePart>Rolfe, John Carew</namePart>
-            <namePart type="date">1859-1943</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge, Mass</placeTerm>
-            </place>
-            <publisher>Harvard university press</publisher>
-            <dateIssued>1935</dateIssued>
-            <dateModified>1963</dateModified>
-            <edition>reprint</edition>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <identifier type="lccn">36002106</identifier>
-        <identifier type="oclc">1005221</identifier>
-        <classification authority="lcc">PA6156 .A6 1935</classification>
-        <subject>
-            <geographicCode authority="marcgac">e------</geographicCode>
-            <geographicCode authority="marcgac">ff-----</geographicCode>
-            <geographicCode authority="marcgac">aw-----</geographicCode>
-        </subject>
-        <subject authority="lcsh">
-            <geographic>Rome</geographic>
-            <topic>History</topic>
-            <temporal>Empire, 284-476</temporal>
-        </subject>
-        <location>
-            <url displayLabel="LC Permalink">http://lccn.loc.gov/36002106</url>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/1005221</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/ammianusmarcelli01ammiuoft</url>
-        </location>
-        <relatedItem type="constituent" otherType="structure" displayLabel="Volume I">
-            <part type="volume">
-                <detail type="volume">
-                    <title>Volume I</title>
-                </detail>
-            </part>
-            <tableOfContents>The surviving books of the history of Ammianus Marcellinus : Books XIV-XIX</tableOfContents>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XIV">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XV">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XVI">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XVII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XVIII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XIX">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-                
-            </relatedItem>
-        </relatedItem>
-        <relatedItem type="constituent" otherType="structure" displayLabel="Volume II">
-            <part type="volume">
-                <detail type="volume">
-                    <title>Volume II</title>
-                </detail>
-            </part>
-            <tableOfContents>The surviving books of the history of Ammianus Marcellinus : Books XX-XXVI</tableOfContents>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XX">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXI">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XVII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXIII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXVI">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-        </relatedItem>
-        
-        <relatedItem type="constituent" otherType="structure" displayLabel="Volume III">
-            <part type="volume">
-                <detail type="volume">
-                    <title>Volume III</title>
-                </detail>
-            </part>
-            <tableOfContents>The surviving books of the history of Ammianus Marcellinus : Books XXVII-XXXI ; Exerpta Valensia</tableOfContents>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXVII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXVIII">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXIX">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Book XXX">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-            <relatedItem type="constituent" otherType="work" displayLabel="Exerpta Valensia">
-                <relatedItem type="constituent" otherType="expression" displayLabel="Latin" />
-                <relatedItem type="constituent" otherType="expression" displayLabel="English" />                
-            </relatedItem>
-        </relatedItem>
-    </mods>
+
     <mods displayLabel="Commentarii in librum Aristotelis de interpretatione">
         <titleInfo xml:lang="lat" type="uniform">
             <title>Commentarii in librum Aristotelis de interpretatione</title>
@@ -2715,146 +2561,90 @@
             </relatedItem>
         </relatedItem>
     </mods>
-    <mods displayLabel="De materia medica">
-        <titleInfo type="uniform">
-            <title>De materia medica</title>
-        </titleInfo>
+    <mods displayLabel="De immortalitate animae et mundi consummatione">
         <titleInfo>
-            <title>De materia medica libri quinque</title>
+            <title>De immortalitate animae et mundi consummatione</title>
         </titleInfo>
-        <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/78822798/">
-            <namePart>Dioscorides Pedanius</namePart>
-            <namePart type="termsOfAddress">of Anazarbos</namePart>
+        <name authority="dnb" type="personal" xlink:href="http://viaf.org/processed/DNB|118647148">
+            <namePart>Aeneas,</namePart>
+            <namePart type="termsOfAddress">Gazaeus,</namePart>
+            <namePart type="date">430-486</namePart>
             <role>
-                <roleTerm type="text">creator</roleTerm>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <name type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/30574074/">
-            <namePart>Wellmann, Max</namePart>
-            <namePart type="date">1863-1933</namePart>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n79083928">
+            <namePart>Zacharias,</namePart>
+            <namePart type="termsOfAddress">Bishop of Mytilene</namePart>
             <role>
-                <roleTerm type="text">editor</roleTerm>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <typeOfResource>text</typeOfResource>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n87923908">
+            <namePart>Boissonade, Jean François,</namePart>
+            <namePart type="date">1774-1857</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no91014547">
+            <namePart>Du Duc, Fronton,</namePart>
+            <namePart type="date">1559-1624</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">original editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n85143405">
+            <namePart>Tarin, Jean, </namePart>
+            <namePart type="date">1586-1666</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">original editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr97026348">
+            <namePart>Barth, Caspar Von </namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">original editor</roleTerm>
+            </role>
+        </name>
         <originInfo>
             <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+                <placeTerm type="code" authority="marccountry">fr</placeTerm>
             </place>
             <place>
-                <placeTerm type="text">Berolini</placeTerm>
+                <placeTerm type="text">Paris</placeTerm>
             </place>
-            <publisher>Apud Weidmannos</publisher>
-            <dateIssued>1906-1914</dateIssued>
+            <publisher>Mercklein</publisher>
+            <dateIssued>1836</dateIssued>
+            <edition/>
             <issuance>monographic</issuance>
         </originInfo>
-        <physicalDescription>3 vols</physicalDescription>
-        <language objectPart="text">
-            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-        </language>
-        <language objectPart="preface">
-            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-        </language>
+        <identifier type="oclc">165621488</identifier>
+        <classification authority="lcc"/>
+        <classification authority="ddc"/>
+        <subject authority="lcsh">
+            <topic>Immortality</topic>
+        </subject>
         <location>
-            <url displayLabel="Worldcat">http://www.worldcat.org/oclc/9883440</url>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/165621488</url>
         </location>
         <location>
-            <url displayLabel="First1KGreek">https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0656/tlg001/tlg0656.tlg001.1st1K-grc1.xml</url>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=uN4DAAAAQAAJ</url>
         </location>
-        <subject authority="lcsh">
-            <topic>Medicine, Greek and Roman</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Materia medica</topic>
-            <genre>Early works to 1800</genre>
-        </subject>
-        <classification authority="lcc">R126 .D5 1906</classification>
-        <identifier type="tlg">0656.001</identifier>
-        <identifier type="lccn">48039751</identifier>
-        <identifier type="oclc">9883440</identifier>
-        <relatedItem type="constituent" otherType="work" displayLabel="De materia medica">
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0656.tlg001</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="De materia medica">
-                <identifier type="ctsurn">urn:cts:greekLit:tlg0656.tlg001.1st1K-grc1</identifier>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volumen I">
-                    <part>
-                        <detail type="volume">
-                            <caption>Volumen</caption>
-                            <number>1</number>
-                        </detail>
-                    </part>
-                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 1-2">
-                        <part>
-                            <detail type="book">
-                                <caption>Book</caption>
-                                <number>1-2</number>
-                            </detail>
-                        </part>
-                    </relatedItem>                        
-                    <tableOfContents>Libri I et Libri II</tableOfContents>
-                    <location>
-                        <url displayLabel="Google Books"
-                            >http://books.google.com/books?id=lRsIAAAAIAAJ</url>
-                    </location>
-                    <location>
-                        <url displayLabel="HathiTrust"
-                            >http://hdl.handle.net/2027/iau.31858049928702?urlappend=%3Bseq=6</url>
-                    </location>
-                </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volumen II">
-                    <part>
-                        <detail type="volume">
-                            <caption>Volumen</caption>
-                            <number>2</number>
-                        </detail>
-                    </part>
-                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 3-4">
-                        <part>
-                            <detail type="book">
-                                <caption>Book</caption>
-                                <number>3-4</number>
-                            </detail>
-                        </part>
-                    </relatedItem>                        
-                    <tableOfContents>Libri III et Libri IV</tableOfContents>
-                    <location>
-                        <url displayLabel="Google Books"
-                            >http://books.google.com/books?id=OqAIAAAAIAAJ</url>
-                    </location>
-                    <location>
-                        <url displayLabel="HathiTrust"
-                            >http://hdl.handle.net/2027/iau.31858049928702?urlappend=%3Bseq=270</url>
-                    </location>
-                </relatedItem>
-                <relatedItem type="constituent" otherType="structure" displayLabel="Volumen III">
-                    <part>
-                        <detail type="volume">
-                            <caption>Volumen</caption>
-                            <number>3</number>
-                        </detail>
-                    </part>
-                    <relatedItem type="constituent" otherType="structure" displayLabel="Book 5">
-                        <part>
-                            <detail type="book">
-                                <caption>Book</caption>
-                                <number>5</number>
-                            </detail>
-                        </part>
-                        <part>
-                            <extent unit="pages">
-                                <start>1</start>
-                                <end>108</end>
-                            </extent>
-                        </part>
-                    </relatedItem>                        
-                    <tableOfContents>Liber V</tableOfContents>
-                    <location>
-                        <url displayLabel="HathiTrust"
-                            >http://hdl.handle.net/2027/iau.31858049928702?urlappend=%3Bseq=644</url>
-                    </location>
-                </relatedItem>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044055053094</url>
+        </location>
+        <relatedItem type="constituent" otherType="work"
+            displayLabel="Theophrastus sive de animarum immortalitate et corporum resurrectione dialogus">
+            <identifier type="ctsurn">urn:cts:greekLit:tlg4001.tlg002</identifier>
+            <relatedItem type="constituent" otherType="expression"
+                displayLabel="Theophrastus sive de animarum immortalitate et corporum resurrectione dialogus">
+                <identifier type="ctsurn">urn:cts:greekLit:tlg4001.tlg002.opp-grc1</identifier>
             </relatedItem>
         </relatedItem>
     </mods>
@@ -7595,80 +7385,7 @@
                 </location>            
         </relatedItem>
         </relatedItem>
-    </mods>
-    <mods displayLabel="Gynaeciorum vetus translatio latina"><!-- MISSED TRANSLATION NEED TO MERGE WITH
-    urn:cts:greekLit:tlg0565.tlg001.opp-grc1-->
-        <titleInfo>
-            <title>Gynaeciorum vetus translatio latina</title>
-        </titleInfo>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/n83-122548.html">
-            <namePart>Soranus</namePart>
-            <namePart type="termsOfAddress">of Ephesus</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr99-7316.html">
-            <namePart>Dietz, Friedrich Reinhold</namePart>
-            <namePart type="date">1804-1836</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal"
-            xlink:href="http://errol.oclc.org/laf/nr96-35841.html">
-            <namePart>Rose, Valentin</namePart>
-            <namePart type="date">1829-1916</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Lipsiae</placeTerm>
-            </place>
-            <publisher>in aedibus B. G. Teubneri</publisher>
-            <dateIssued>1882</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <identifier type="lccn">34017119</identifier>
-        <identifier type="oclc">4969084</identifier>
-        <identifier type="oca">gynaeciorumvetus00sorauoft</identifier>
-        <classification authority="lcc">PA3404 .S74 1882</classification>
-        <subject authority="lcsh">
-            <topic>Medicine, Greek and Roman</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Gynecology. [from old catalog]</topic>
-        </subject>
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/4969084</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/gynaeciorumvetus00sorauoft</url>
-        </location>
-        <location>
-            <url displayLabel="OpenLibrary"
-                >http://www.openlibrary.org/details/gynaeciorumvetus00sorauoft</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks">http://books.google.com/books?id=l-Rp5hsHdMEC</url>
-        </location>
-        <relatedItem type="constituent"
-            otherType="work" displayLabel="Gynaecia">
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg001</identifier>
-            <relatedItem type="constituent" otherType="expression" displayLabel="Gynaecia">
-            </relatedItem>
-            <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg001.opp-lat1</identifier>
-        </relatedItem>
-    </mods>
-    
+    </mods>    
     <mods displayLabel="Herodiani ab excessu divi Marci libri octo">
         <titleInfo>
             <title>Herodiani ab excessu divi Marci libri octo</title>
